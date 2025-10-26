@@ -28,8 +28,8 @@ wheels/
 *.ipynb_checkpoints/
 
 # Data files (optional - comment out if you want to track small datasets)
-data/raw/*
-data/processed/*
+#data/raw/*
+#data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
