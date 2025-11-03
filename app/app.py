@@ -6,6 +6,7 @@ from components.emissions_chart import render_emissions_chart
 from components.prediction_box import render_prediction_box
 from components.map_view import render_global_map
 from data_utils.loader import load_data_model
+from components.about_tab import render_about_tab
 
 # --- Load data & model ---
 df, model, latest_year, total_loss, total_emissions, unique_countries = load_data_model()
@@ -42,7 +43,7 @@ app.layout = html.Div([
     render_summary_cards(unique_countries, total_loss, total_emissions),
 
     dcc.Tabs(id="tabs", value="tab-map-static", children=[
-        dcc.Tab(label="🗺️ Global Map (Static)", value="tab-map-static"),
+        dcc.Tab(label="ℹ️ About & SDG Context", value="tab-about"),
         dcc.Tab(label="🌀 Animated Map (2001–2024)", value="tab-map-animated"),
         dcc.Tab(label="📉 Loss Trends", value="tab-loss"),
         dcc.Tab(label="🔥 Deforestation Drivers", value="tab-drivers"),
@@ -63,11 +64,9 @@ app.layout = html.Div([
 )
 def update_tabs(tab, country, year_range):
     dff = df[(df["country"] == country) & (df["year"].between(year_range[0], year_range[1]))]
-
-    if tab == "tab-map-static":
-        return render_global_map(df, animated=False)
-
-    if tab == "tab-map-animated":
+    if tab == "tab-about":
+        return render_about_tab()
+    elif tab == "tab-map-animated":
         return render_global_map(df, animated=True)
     elif tab == "tab-loss":
         return render_loss_trend(dff, country)
@@ -76,7 +75,7 @@ def update_tabs(tab, country, year_range):
     elif tab == "tab-carbon":
         return render_emissions_chart(dff, country)
     elif tab == "tab-predict":
-        return render_prediction_box(dff, model)
+        return render_prediction_box()
     else:
         return html.P("Select a tab to view data.")
 

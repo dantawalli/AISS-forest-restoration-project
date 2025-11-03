@@ -1,4 +1,35 @@
 body { font-family: "Inter", sans-serif; background-color: #f7fdf7; }
 .card { background-color: #e8f5e9; border: 1px solid #a5d6a7; border-radius: 10px;
         text-align: center; padding: 10px; margin: 5px; width: 30%; display: inline-block; }
-.kpi-container { display: flex; justify-content: space-around; margin-bottom: 20px; }
+.kpi-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  gap: 20px;
+}
+
+.kpi-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  padding: 20px 25px;
+  text-align: center;
+  min-width: 220px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.kpi-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+}
+
+.kpi-card h2 {
+  margin: 8px 0;
+  color: #2E86AB;
+}
+
+.kpi-card p {
+  color: #666;
+  font-size: 14px;
+  margin: 0;
+}
