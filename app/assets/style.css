@@ -1,0 +1,4 @@
+body { font-family: "Inter", sans-serif; background-color: #f7fdf7; }
+.card { background-color: #e8f5e9; border: 1px solid #a5d6a7; border-radius: 10px;
+        text-align: center; padding: 10px; margin: 5px; width: 30%; display: inline-block; }
+.kpi-container { display: flex; justify-content: space-around; margin-bottom: 20px; }
