@@ -15,43 +15,45 @@ df, model, latest_year, total_loss, total_emissions, unique_countries = load_dat
 app = Dash(__name__, title="AI for Sustainable Forest Restoration", suppress_callback_exceptions=True)
 
 app.layout = html.Div([
-    html.H1("🌲 AI for Sustainable Forest Restoration Dashboard", style={"textAlign": "center"}),
-
     html.Div([
-        html.Div([
-            html.H4("Select Country:"),
-            dcc.Dropdown(
-                id="country-dd",
-                options=[{"label": c, "value": c} for c in sorted(df["country"].dropna().unique())],
-                value="Brazil",
-                style={"width": "300px"}
-            )
-        ], style={"display": "inline-block", "marginRight": "40px"}),
+        html.H1("🌲 AI for Sustainable Forest Restoration Dashboard", className="text-center"),
+
+        render_summary_cards(unique_countries, total_loss, total_emissions),
 
         html.Div([
-            html.H4("Select Year Range:"),
-            dcc.RangeSlider(
-                id="year-slider",
-                min=int(df["year"].min()), max=int(df["year"].max()),
-                step=1, value=[2001, latest_year],
-                marks={y: str(y) for y in range(2001, latest_year + 1, 5)},
-                tooltip={"placement": "bottom"}
-            )
-        ], style={"width": "60%", "display": "inline-block"})
-    ], style={"marginBottom": "30px"}),
+            html.Div([
+                html.H4("Select Country"),
+                dcc.Dropdown(
+                    id="country-dd",
+                    options=[{"label": c, "value": c} for c in sorted(df["country"].dropna().unique())],
+                    value="Brazil",
+                    style={"width": "100%"}
+                )
+            ], className="filter-group"),
 
-    render_summary_cards(unique_countries, total_loss, total_emissions),
+            html.Div([
+                html.H4("Select Year Range"),
+                dcc.RangeSlider(
+                    id="year-slider",
+                    min=int(df["year"].min()), max=int(df["year"].max()),
+                    step=1, value=[2001, latest_year],
+                    marks={y: str(y) for y in range(2001, latest_year + 1, 5)},
+                    tooltip={"placement": "bottom"}
+                )
+            ], className="filter-group", style={"flex": "2", "minWidth": "400px"})
+        ], className="filter-container"),
 
-    dcc.Tabs(id="tabs", value="tab-map-static", children=[
-        dcc.Tab(label="ℹ️ About & SDG Context", value="tab-about"),
-        dcc.Tab(label="🌀 Animated Map (2001–2024)", value="tab-map-animated"),
-        dcc.Tab(label="📉 Loss Trends", value="tab-loss"),
-        dcc.Tab(label="🔥 Deforestation Drivers", value="tab-drivers"),
-        dcc.Tab(label="🌬️ Carbon & Climate Impact", value="tab-carbon"),
-        dcc.Tab(label="🤖 Predictions", value="tab-predict"),
-    ]),
+        dcc.Tabs(id="tabs", value="tab-map-static", children=[
+            dcc.Tab(label="ℹ️ About & SDG Context", value="tab-about"),
+            dcc.Tab(label="🌀 Animated Map (2001–2024)", value="tab-map-animated"),
+            dcc.Tab(label="📉 Loss Trends", value="tab-loss"),
+            dcc.Tab(label="🔥 Deforestation Drivers", value="tab-drivers"),
+            dcc.Tab(label="🌬️ Carbon & Climate Impact", value="tab-carbon"),
+            dcc.Tab(label="🤖 Predictions", value="tab-predict"),
+        ]),
 
-    html.Div(id="tab-content", style={"marginTop": "20px"})
+        html.Div(id="tab-content", className="tab-content-container")
+    ], className="main-container")
 ])
 
 

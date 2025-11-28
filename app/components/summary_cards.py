@@ -1,34 +1,40 @@
 from dash import html
+import pandas as pd
 
 def render_summary_cards(countries, total_loss, total_emissions):
     """Render top-level summary KPI cards for the dashboard."""
-    # Fallbacks to handle None or NaN
-    countries = countries or 0
-    total_loss = total_loss or 0
-    total_emissions = total_emissions or 0
+    # Convert to numeric and handle None/NaN
+    try:
+        countries = int(countries) if countries is not None and not pd.isna(countries) else 0
+    except (ValueError, TypeError):
+        countries = 0
+    
+    try:
+        total_loss = float(total_loss) if total_loss is not None and not pd.isna(total_loss) else 0.0
+    except (ValueError, TypeError):
+        total_loss = 0.0
+    
+    try:
+        total_emissions = float(total_emissions) if total_emissions is not None and not pd.isna(total_emissions) else 0.0
+    except (ValueError, TypeError):
+        total_emissions = 0.0
 
     return html.Div([
         html.Div([
             html.H3("🌍"),
             html.H2(f"{countries:,}"),
             html.P("Countries")
-        ], className="card kpi-card"),
+        ], className="kpi-card"),
 
         html.Div([
             html.H3("🌲"),
             html.H2(f"{total_loss:,.0f} ha"),
-            html.P("Total Tree Cover Loss")
-        ], className="card kpi-card"),
+            html.P("Total Tree Cover Loss (≥30% canopy, 2001-2024)")
+        ], className="kpi-card"),
 
         html.Div([
             html.H3("🌬️"),
             html.H2(f"{total_emissions:,.0f} Mg CO₂e"),
-            html.P("Total Carbon Emissions")
-        ], className="card kpi-card"),
-    ], className="kpi-container", style={
-        "display": "flex",
-        "justifyContent": "space-around",
-        "alignItems": "center",
-        "margin": "20px 0",
-        "gap": "15px"
-    })
+            html.P("Total Carbon Emissions (≥30% canopy, 2001-2024)")
+        ], className="kpi-card"),
+    ], className="kpi-container")
