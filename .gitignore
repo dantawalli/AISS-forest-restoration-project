@@ -65,3 +65,6 @@ frontend/dist/
 # Logs
 *.log
 logs/
+
+#models
+models/*.pkl

@@ -11,7 +11,7 @@ notebook==7.0.6
 
 # Database
 psycopg2-binary==2.9.9
-sqlalchemy==2.0.25
+sqlalchemy>=2.0.29
 
 # Data Processing
 openpyxl==3.1.2
