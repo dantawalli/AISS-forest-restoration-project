@@ -1,12 +1,12 @@
 from dash import Dash, html, dcc, Input, Output
-from components.summary_cards import render_summary_cards
-from components.loss_trend import render_loss_trend
-from components.drivers_chart import render_drivers_chart
-from components.emissions_chart import render_emissions_chart
-from components.prediction_box import render_prediction_box
-from components.map_view import render_global_map
-from data_utils.loader import load_data_model
-from components.about_tab import render_about_tab
+from app.components.summary_cards import render_summary_cards
+from app.components.loss_trend import render_loss_trend
+from app.components.drivers_chart import render_drivers_chart
+from app.components.emissions_chart import render_emissions_chart
+from app.components.prediction_box import render_prediction_box
+from app.components.map_view import render_global_map
+from app.data_utils.loader import load_data_model
+from app.components.about_tab import render_about_tab
 
 # --- Load data & model ---
 df, model, latest_year, total_loss, total_emissions, unique_countries = load_data_model()
