@@ -13,6 +13,7 @@ df, model, latest_year, total_loss, total_emissions, unique_countries = load_dat
 
 # --- Initialize App ---
 app = Dash(__name__, title="AI for Sustainable Forest Restoration", suppress_callback_exceptions=True)
+server = app.server
 
 app.layout = html.Div([
     html.Div([
@@ -83,4 +84,4 @@ def update_tabs(tab, country, year_range):
 
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True)
