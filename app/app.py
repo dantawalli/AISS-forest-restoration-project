@@ -83,4 +83,4 @@ def update_tabs(tab, country, year_range):
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=8050)
+    app.run(debug=False)
