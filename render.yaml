@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: forest-restoration-dashboard
+    runtime: python
+    plan: free
+    # Python version is specified in runtime.txt
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --bind 0.0.0.0:$PORT --workers 2 --threads 2 --timeout 120 app.app:server
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.3
+    healthCheckPath: /
+
