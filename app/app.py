@@ -1,3 +1,12 @@
+import sys
+from pathlib import Path
+
+# Add parent directory to path to allow imports when running from app directory
+# This makes it work both locally (from app/) and on Render.com (from project root)
+parent_dir = Path(__file__).parent.parent
+if str(parent_dir) not in sys.path:
+    sys.path.insert(0, str(parent_dir))
+
 from dash import Dash, html, dcc, Input, Output
 from app.components.summary_cards import render_summary_cards
 from app.components.loss_trend import render_loss_trend
