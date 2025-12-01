@@ -1,0 +1,83 @@
+<svg viewBox="0 0 1400 1000" xmlns="http://www.w3.org/2000/svg"
+     font-family="Arial, sans-serif">
+
+  <style>
+    .title { font-size: 28px; font-weight: bold; fill: #202124; }
+    .subtitle { font-size: 16px; fill: #5f6368; }
+    .section { font-size: 20px; font-weight: bold; fill: #fff; }
+    .label { font-size: 14px; fill: #fff; }
+    .box { rx: 10; stroke-width: 1.5; }
+    .line { stroke: #dadce0; stroke-width: 2; }
+  </style>
+
+  <!-- TITLE -->
+  <text x="700" y="50" class="title" text-anchor="middle">
+    Global Forest Watch Dataset Structure
+  </text>
+  <text x="700" y="80" class="subtitle" text-anchor="middle">
+    global_forest_watch_raw_data.xlsx (Excel File – 9 Sheets)
+  </text>
+
+  <!-- TOP BLOCKS -->
+  <rect x="150" y="130" width="350" height="70" class="box"
+        fill="#34a853" stroke="#188038"/>
+  <text x="325" y="173" class="section" text-anchor="middle">COUNTRY LEVEL</text>
+
+  <rect x="525" y="130" width="350" height="70" class="box"
+        fill="#ea4335" stroke="#b31412"/>
+  <text x="700" y="173" class="section" text-anchor="middle">SUBNATIONAL LEVEL</text>
+
+  <rect x="900" y="130" width="350" height="70" class="box"
+        fill="#5f6368" stroke="#3c4043"/>
+  <text x="1075" y="173" class="section" text-anchor="middle">README</text>
+
+  <!-- MAIN SPLIT LINE -->
+  <line x1="150" y1="210" x2="1250" y2="210" class="line"/>
+
+  <!-- LINES DOWN FROM TOP BLOCKS -->
+  <line x1="325" y1="210" x2="325" y2="250" class="line"/>
+  <line x1="700" y1="210" x2="700" y2="250" class="line"/>
+  <line x1="1075" y1="210" x2="1075" y2="250" class="line"/>
+
+  <!-- COUNTRY SUBBLOCKS -->
+  <rect x="200" y="260" width="250" height="60" class="box"
+        fill="#4285f4" stroke="#1967d2"/>
+  <text x="325" y="298" class="label" text-anchor="middle">Country – Tree Cover Loss</text>
+
+  <rect x="200" y="340" width="250" height="60" class="box"
+        fill="#34a853" stroke="#188038"/>
+  <text x="325" y="378" class="label" text-anchor="middle">Country – Primary Loss</text>
+
+  <rect x="200" y="420" width="250" height="60" class="box"
+        fill="#fbbc04" stroke="#c49000"/>
+  <text x="325" y="458" class="label" text-anchor="middle">Country – Drivers</text>
+
+  <rect x="200" y="500" width="250" height="60" class="box"
+        fill="#ea4335" stroke="#b31412"/>
+  <text x="325" y="538" class="label" text-anchor="middle">Country – Carbon</text>
+
+  <!-- SUBNATIONAL SUBBLOCKS -->
+  <rect x="575" y="260" width="250" height="60" class="box"
+        fill="#4285f4" stroke="#1967d2"/>
+  <text x="700" y="298" class="label" text-anchor="middle">Subnational – Tree Cover Loss</text>
+
+  <rect x="575" y="340" width="250" height="60" class="box"
+        fill="#34a853" stroke="#188038"/>
+  <text x="700" y="378" class="label" text-anchor="middle">Subnational – Primary Loss</text>
+
+  <rect x="575" y="420" width="250" height="60" class="box"
+        fill="#fbbc04" stroke="#c49000"/>
+  <text x="700" y="458" class="label" text-anchor="middle">Subnational – Drivers</text>
+
+  <rect x="575" y="500" width="250" height="60" class="box"
+        fill="#ea4335" stroke="#b31412"/>
+  <text x="700" y="538" class="label" text-anchor="middle">Subnational – Carbon</text>
+
+  <!-- README CHILD -->
+  <rect x="950" y="260" width="250" height="60" class="box"
+        fill="#5f6368" stroke="#3c4043"/>
+  <text x="1075" y="298" class="label" text-anchor="middle">Metadata</text>
+
+  <line x1="1075" y1="250" x2="1075" y2="260" class="line"/>
+
+</svg>
