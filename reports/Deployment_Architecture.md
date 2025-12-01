@@ -196,3 +196,5 @@ services:
 - **Health Endpoint**: `/` path monitored automatically
 - **Error Tracking**: Application logs available for debugging
 
+
+
