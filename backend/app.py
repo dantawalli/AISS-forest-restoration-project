@@ -53,20 +53,20 @@ limiter = Limiter(
     default_limits=["100 per minute"]
 )
 
-# Load data and model on startup
-df, model, latest_year, total_loss, total_emissions, unique_countries = load_data_model()
+# Load data and predictions on startup
+df, predictions_df, latest_year, total_loss, total_emissions, unique_countries = load_data_model()
 
 # Initialize LLM engine if API key is available
-gemini_api_key = os.getenv('GEMINI_API_KEY')
+openai_api_key = os.getenv('OPENAI_API_KEY')
 llm_engine = None
-if gemini_api_key:
+if openai_api_key:
     try:
-        llm_engine = ForestRecommendationEngine(gemini_api_key, df)
+        llm_engine = ForestRecommendationEngine(openai_api_key, df)
         logger.info("LLM engine initialized successfully")
     except Exception as e:
         logger.error(f"Failed to initialize LLM engine: {str(e)}")
 else:
-    logger.warning("GEMINI_API_KEY not found in environment variables")
+    logger.warning("OPENAI_API_KEY not found in environment variables")
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
