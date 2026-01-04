@@ -5,7 +5,7 @@ from pathlib import Path
 import json
 import hashlib
 from typing import Dict, List, Any, Optional
-import google.generativeai as genai
+from google import genai
 from pydantic import BaseModel, Field
 from sklearn.linear_model import LinearRegression
 from scipy import stats
