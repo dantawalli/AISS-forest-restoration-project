@@ -5,7 +5,7 @@ from pathlib import Path
 import json
 import hashlib
 from typing import Dict, List, Any, Optional
-from google import genai
+from openai import OpenAI
 from pydantic import BaseModel, Field
 from sklearn.linear_model import LinearRegression
 from scipy import stats
@@ -30,10 +30,10 @@ class ForestAnalysisResponse(BaseModel):
 
 class ForestRecommendationEngine:
     def __init__(self, api_key: str, df: pd.DataFrame):
-        """Initialize the recommendation engine with Gemini API and data"""
-        genai.configure(api_key=api_key)
-        # Using Gemini 1.5 Flash for speed and reliability with structured outputs
-        self.model = genai.GenerativeModel('gemini-2.5-flash')
+        """Initialize recommendation engine with OpenAI API and data"""
+        self.client = OpenAI(api_key=api_key)
+        # Using GPT-4 for structured outputs and reliability
+        self.model = 'gpt-4-turbo-preview'
         self.df = df
         self.cache = {}
     
@@ -218,19 +218,20 @@ CONSTRAINTS:
         try:
             prompt = self.generate_stakeholder_prompt(context)
             
-            # Use structured output configuration
-            response = self.model.generate_content(
-                prompt,
-                generation_config={
-                    "response_mime_type": "application/json",
-                    "response_schema": ForestAnalysisResponse,
-                    "temperature": 0.0,
-                }
+            # Use OpenAI's structured output with JSON mode
+            response = self.client.chat.completions.create(
+                model=self.model,
+                messages=[
+                    {"role": "system", "content": "You are a forest conservation expert providing structured recommendations. Always respond with valid JSON only."},
+                    {"role": "user", "content": prompt}
+                ],
+                response_format={"type": "json_object"},
+                temperature=0.0,
+                top_p=1.0
             )
             
-            # The SDK automatically parses the JSON into the Pydantic model
-            # if using the correct version, otherwise use json.loads
-            structured_data = json.loads(response.text)
+            # Parse the JSON response
+            structured_data = json.loads(response.choices[0].message.content)
             
             return {
                 'success': True,
