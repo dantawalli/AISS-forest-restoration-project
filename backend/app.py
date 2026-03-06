@@ -54,7 +54,7 @@ limiter = Limiter(
 )
 
 # Load data and predictions on startup
-df, predictions_df, latest_year, total_loss, total_emissions, unique_countries = load_data_model()
+df, landmark_df, predictions_df, latest_year, total_loss, total_emissions, unique_countries = load_data_model()
 
 # Initialize LLM engine if API key is available
 openai_api_key = os.getenv('OPENAI_API_KEY')
@@ -1197,6 +1197,10 @@ def generate_analytical_insights(countries, metrics, timeframe, analysis_type):
         insights["error"] = "Failed to generate complete insights"
     
     return insights
+@app.route('/api/landmark-summary', methods=['GET'])
+def get_landmark_summary():
+    """Return LANDMARK Indigenous territories summary by country"""
+    return jsonify(landmark_df.to_dict(orient='records'))
 
 if __name__ == '__main__':
     app.run(debug=True, port=5001)

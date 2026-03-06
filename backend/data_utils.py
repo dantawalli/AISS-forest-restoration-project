@@ -21,6 +21,7 @@ def clean_multiple_values(value):
 
 def load_data_model():
     df = pd.read_csv(BASE_DIR / "data" / "processed" / "merged_clean_data.csv")
+    landmark_df = pd.read_csv(BASE_DIR / "data" / "processed" / "landmark_country_summary.csv")
     
     # Strip whitespace from column names
     df.columns = df.columns.str.strip()
@@ -56,7 +57,7 @@ def load_data_model():
     total_emissions = float(df_summary["carbon_gross_emissions_MgCO2e"].sum())
     unique_countries = int(df_summary["country"].nunique())
     
-    return df, predictions_df, latest_year, total_loss, total_emissions, unique_countries
+    return df, landmark_df,predictions_df, latest_year, total_loss, total_emissions, unique_countries
 
 def linear_extrapolate(years, values, target_year):
     """Return linear extrapolation of values to target_year."""
