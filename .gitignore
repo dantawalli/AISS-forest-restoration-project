@@ -68,3 +68,5 @@ logs/
 
 #models
 models/*.pkl
+
+data/landmark_raw/
