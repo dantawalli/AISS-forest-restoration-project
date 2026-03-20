@@ -948,6 +948,17 @@ def generate_recommendations():
             }
         }), 500
 
+
+@app.route('/api/landmark', methods=['GET'])
+def get_landmark_data():
+    import pandas as pd
+
+    df = pd.read_csv("../data/processed/landmark_country_summary.csv")
+
+    from flask import jsonify
+
+    return jsonify(df.to_dict(orient="records"))
+
 @app.route('/api/insights', methods=['POST'])
 @limiter.limit("30 per minute")
 def generate_insights():
