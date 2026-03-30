@@ -33,7 +33,7 @@ class ForestRecommendationEngine:
         """Initialize recommendation engine with OpenAI API and data"""
         self.client = OpenAI(api_key=api_key)
         # Using GPT-4 for structured outputs and reliability
-        self.model = 'gpt-4-turbo-preview'
+        self.model = 'gpt-4o'
         self.df = df
         self.cache = {}
     

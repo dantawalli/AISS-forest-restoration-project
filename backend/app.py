@@ -1208,6 +1208,43 @@ def generate_analytical_insights(countries, metrics, timeframe, analysis_type):
         insights["error"] = "Failed to generate complete insights"
     
     return insights
+@app.route('/api/subnational/<country>/<region>', methods=['GET'])
+def get_subnational_data(country, region):
+    import pandas as pd
+    import unicodedata
+
+    # 👉 LOAD DATA (this was missing!)
+    df_sub = pd.read_csv("../data/processed/subnational_timeseries.csv")
+
+    print("Incoming:", country, region)
+    print("Unique regions:", df_sub["region"].unique())
+
+    # 👉 Normalize function
+    def normalize(text):
+        if pd.isna(text):
+            return ""
+        return unicodedata.normalize('NFD', str(text)) \
+            .encode('ascii', 'ignore') \
+            .decode('utf-8') \
+            .lower() \
+            .replace(" ", "") \
+            .strip()
+
+    # 👉 Apply normalization
+    df_sub["country_norm"] = df_sub["country"].apply(normalize)
+    df_sub["region_norm"] = df_sub["region"].apply(normalize)
+
+    country_norm = normalize(country)
+    region_norm = normalize(region)
+
+    # 👉 Filter
+    filtered = df_sub[
+        (df_sub["country_norm"] == country_norm) &
+        (df_sub["region_norm"] == region_norm)
+    ]
+
+    return jsonify(filtered.to_dict(orient="records"))
+
 @app.route('/api/landmark-summary', methods=['GET'])
 def get_landmark_summary():
     """Return LANDMARK Indigenous territories summary by country"""
