@@ -210,6 +210,20 @@ CONSTRAINTS:
   **Required Resources**: [Resources]
   **Expected Measurable Impact**: [Impact]
   **Supporting Evidence from Data**: [Explicitly mention the numbers from the data above]
+RETURN FORMAT (STRICT):
+
+Return ONLY valid JSON. No explanation, no text before or after.
+
+{{
+  "summary": "string",
+  "recommendations": [
+    {{
+      "recommendation_number": 1,
+      "title": "string",
+      "text": "string"
+    }}
+  ]
+}}
 """
         return base_prompt
 
@@ -219,19 +233,24 @@ CONSTRAINTS:
             prompt = self.generate_stakeholder_prompt(context)
             
             # Use OpenAI's structured output with JSON mode
-            response = self.client.chat.completions.create(
+            response = self.client.responses.create(
                 model=self.model,
-                messages=[
-                    {"role": "system", "content": "You are a forest conservation expert providing structured recommendations. Always respond with valid JSON only."},
-                    {"role": "user", "content": prompt}
-                ],
-                response_format={"type": "json_object"},
+                input=prompt,
                 temperature=0.0,
-                top_p=1.0
             )
             
             # Parse the JSON response
-            structured_data = json.loads(response.choices[0].message.content)
+            raw_text = response.output_text
+
+            try:
+                structured_data = json.loads(raw_text)
+            except json.JSONDecodeError:
+                import re
+                match = re.search(r'\{.*\}', raw_text, re.DOTALL)
+                if match:
+                    structured_data = json.loads(match.group())
+                else:
+                    raise ValueError("No valid JSON found in response")
             
             return {
                 'success': True,
@@ -240,7 +259,14 @@ CONSTRAINTS:
                     'stakeholder': context['stakeholder'],
                     'generatedAt': context['generated_at'],
                     'summary': structured_data.get('summary'),
-                    'recommendations': structured_data.get('recommendations')
+                    'recommendations': [
+                        {
+                            'id': r.get('recommendation_number'),
+                            'title': r.get('title'),
+                            'description': r.get('text')
+                        }
+                        for r in structured_data.get('recommendations', [])
+                    ]
                 }
             }
             

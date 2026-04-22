@@ -58,6 +58,7 @@ df, landmark_df, predictions_df, latest_year, total_loss, total_emissions, uniqu
 
 # Initialize LLM engine if API key is available
 openai_api_key = os.getenv('OPENAI_API_KEY')
+print("API KEY:", openai_api_key)
 llm_engine = None
 if openai_api_key:
     try:
