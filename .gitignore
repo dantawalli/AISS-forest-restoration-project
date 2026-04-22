@@ -27,10 +27,9 @@ wheels/
 .ipynb_checkpoints
 *.ipynb_checkpoints/
 
-# Data files (optional - comment out if you want to track small datasets)
-#data/raw/*
-#data/processed/*
-!data/raw/.gitkeep
+# Data files
+# Ignore processed data (large files)
+data/processed/*
 !data/processed/.gitkeep
 
 # Models
@@ -70,3 +69,9 @@ logs/
 models/*.pkl
 
 data/landmark_raw/
+
+# Sensitive keys
+*.pem
+
+package.json
+package-lock.json
