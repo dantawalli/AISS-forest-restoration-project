@@ -11,6 +11,7 @@ from dotenv import load_dotenv
 import logging
 from datetime import datetime, timezone
 import json
+from gee_service import initialize_gee, get_curimana_tile
 
 # Load environment variables
 load_dotenv()
@@ -45,6 +46,13 @@ class NumpyJSONEncoder(json.JSONEncoder):
 app = Flask(__name__)
 app.json_encoder = NumpyJSONEncoder
 CORS(app)  # Enable CORS for React frontend
+
+# Initialize Google Earth Engine
+try:
+    initialize_gee()
+    logger.info("GEE initialized successfully")
+except Exception as e:
+    logger.error(f"GEE initialization failed: {str(e)}")
 
 # Rate limiting
 limiter = Limiter(
@@ -1251,5 +1259,41 @@ def get_landmark_summary():
     """Return LANDMARK Indigenous territories summary by country"""
     return jsonify(landmark_df.to_dict(orient='records'))
 
+@app.route('/api/satellite/curimana', methods=['GET'])
+def get_curimana_satellite():
+    """Return satellite tile for Curimana"""
+    try:
+        result = get_curimana_tile()
+        return jsonify({
+            "success": True,
+            "data": result
+        })
+    except Exception as e:
+        logger.error(f"Error fetching Curimana tile: {str(e)}")
+        return jsonify({
+            "success": False,
+            "error": str(e)
+        }), 500
+
+@app.route('/api/ndvi-point', methods=['POST'])
+def ndvi_point():
+    try:
+        data = request.get_json()
+
+        lat = data.get("lat")
+        lon = data.get("lon")
+
+        if lat is None or lon is None:
+            return jsonify({"error": "Missing lat/lon"}), 400
+
+        from gee_service import get_ndvi_at_point
+
+        result = get_ndvi_at_point(lat, lon)
+
+        return jsonify(result)
+
+    except Exception as e:
+        logger.error(f"NDVI point error: {str(e)}")
+        return jsonify({"error": str(e)}), 500
 if __name__ == '__main__':
     app.run(debug=True, port=5001)
