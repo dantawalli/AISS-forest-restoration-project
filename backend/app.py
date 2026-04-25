@@ -1275,9 +1275,288 @@ def get_curimana_satellite():
             "error": str(e)
         }), 500
 
+
+@app.route('/api/ndvi-area', methods=['POST'])
+def ndvi_area():
+    import ee
+    initialize_gee()
+
+    data = request.get_json()
+
+    # ✅ fallback region (will be overridden later)
+    region = data.get("region", "lowland")
+
+    try:
+        geom = ee.Geometry(data["geometry"])
+
+        collection = ee.ImageCollection("COPERNICUS/S2_SR") \
+            .filterBounds(geom) \
+            .filterDate('2023-01-01', '2023-12-31') \
+            .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 20)) \
+            .select(['B8', 'B4', 'B3'])
+
+        image = collection.median()
+
+        # =========================
+        # 📊 INDICES
+        # =========================
+        ndvi = image.normalizedDifference(['B8', 'B4'])
+        ndwi = image.normalizedDifference(['B3', 'B8'])
+
+        mean_ndvi = ndvi.reduceRegion(
+            reducer=ee.Reducer.mean(),
+            geometry=geom,
+            scale=10
+        )
+
+        mean_ndwi = ndwi.reduceRegion(
+            reducer=ee.Reducer.mean(),
+            geometry=geom,
+            scale=10
+        )
+
+        # =========================
+        # 🏔️ DEM (ELEVATION)
+        # =========================
+        dem = ee.Image("USGS/SRTMGL1_003")
+
+        mean_elevation = dem.reduceRegion(
+            reducer=ee.Reducer.mean(),
+            geometry=geom,
+            scale=30
+        )
+
+        # ✅ SAFE extraction (prevents crash)
+        elevation_dict = mean_elevation.getInfo()
+        elevation_value = list(elevation_dict.values())[0] if elevation_dict else None
+
+        # =========================
+        # 🌍 AUTO REGION DETECTION (FIXED POSITION)
+        # =========================
+        if elevation_value is not None:
+            if elevation_value < 400:
+                region = "lowland"
+            elif elevation_value < 800:
+                region = "central"
+            else:
+                region = "andean"
+
+        # =========================
+        # 📊 EXTRACT VALUES
+        # =========================
+        ndvi_dict = mean_ndvi.getInfo()
+        ndwi_dict = mean_ndwi.getInfo()
+
+        ndvi_value = list(ndvi_dict.values())[0]
+        ndwi_value = list(ndwi_dict.values())[0]
+
+        # =========================
+        # 💧 WATER
+        # =========================
+        water_presence = ndwi_value is not None and ndwi_value > 0.2
+
+        if ndvi_value is None:
+            return jsonify({"error": "NDVI calculation failed"}), 500
+
+        # =========================
+        # 🌍 ECOSYSTEM
+        # =========================
+        if water_presence:
+            ecosystem_type = "bajial"
+        elif ndvi_value < 0.35:
+            ecosystem_type = "pastizales"
+        elif ndvi_value < 0.6:
+            ecosystem_type = "purma"
+        else:
+            ecosystem_type = "bosque_alto"
+
+        # =========================
+        # 🌱 RESTORATION PLAN
+        # =========================
+        restoration_plan = None
+
+        if ecosystem_type == "pastizales":
+            restoration_plan = {
+                "phase_1": {"name": "Soil Recovery", "species": ["Mucuna", "Kudzu", "Guaba"]},
+                "phase_2": {"name": "Transition", "species": ["Papaya", "Plátano"]},
+                "phase_3": {"name": "Stabilization", "species": ["Caoba", "Tornillo"]},
+                "animals": ["Chickens"]
+            }
+
+        elif ecosystem_type == "purma":
+
+            if ndvi_value > 0.5:
+
+                # =========================
+                # 🌴 LOWLAND INTELLIGENCE (FIXED)
+                # =========================
+                if region == "lowland":
+
+                    # 🔥 NEW: distinguish DRY vs FLOODABLE lowland
+                    if ndwi_value is not None and ndwi_value < 0:
+                        # ✅ DRY DEGRADED LOWLAND (Francisco case)
+
+                        restoration_plan = {
+                            "strategy": "Dry Lowland Agroforestry Recovery",
+
+                            "phase_1": {
+                                "name": "Soil recovery & survival crops (0–1 years)",
+                                "species": ["Yuca", "Maíz", "Frijol", "Ají Charapita"]
+                            },
+
+                            "phase_2": {
+                                "name": "Agroforestry transition (2–4 years)",
+                                "species": ["Guaba", "Bolaina", "Capirona"]
+                            },
+
+                            "phase_3": {
+                                "name": "Forest-based system (5+ years)",
+                                "species": ["Castaña", "Shihuahuaco", "Pashaco"]
+                            },
+
+                            "animals": ["Chickens", "Bees"]
+                        }
+
+                    else:
+                        # 💧 FLOOD-PRONE LOWLAND (true bajial systems)
+                        restoration_plan = {
+                            "strategy": "Flood-adapted system",
+
+                            "phase_1": {
+                                "name": "Flood cycle crops",
+                                "species": ["Arroz de bajial", "Chiclayo"]
+                            },
+
+                            "phase_2": {
+                                "name": "Water-tolerant crops",
+                                "species": ["Camu Camu", "Açaí"]
+                            },
+
+                            "phase_3": {
+                                "name": "Wetland forest",
+                                "species": ["Aguaje", "Renaco"]
+                            },
+
+                            "animals": ["Fish"]
+                        }
+
+                elif region == "central":
+                    restoration_plan = {
+                        "phase_1": {"name": "Fast crops", "species": ["Yuca", "Maíz"]},
+                        "phase_2": {"name": "Agroforestry", "species": ["Cacao", "Cítricos"]},
+                        "phase_3": {"name": "Timber", "species": ["Tornillo"]},
+                        "animals": ["Bees"]
+                    }
+
+                else:
+                    restoration_plan = {
+                        "phase_1": {"name": "Andean crops", "species": ["Arracacha"]},
+                        "phase_2": {"name": "Specialty", "species": ["Granadilla"]},
+                        "phase_3": {"name": "Coffee", "species": ["Café"]},
+                        "animals": ["Bees"]
+                    }
+
+            else:
+                if region == "lowland":
+                    restoration_plan = {
+                        "phase_1": {"name": "Soil recovery", "species": ["Mucuna", "Kudzu"]},
+                        "phase_2": {"name": "Transition", "species": ["Yuca", "Maíz"]},
+                        "phase_3": {"name": "Forest", "species": ["Pijuayo", "Aguaje"]},
+                        "animals": ["Chickens"]
+                    }
+
+                else:
+                    restoration_plan = {
+                        "phase_1": {"name": "Enrichment", "species": ["Cacao"]},
+                        "phase_2": {"name": "Timber", "species": ["Bolaina"]},
+                        "phase_3": {"name": "Climax", "species": ["Caoba"]},
+                        "animals": ["Bees"]
+                    }
+
+        elif ecosystem_type == "bajial":
+            restoration_plan = {
+                "phase_1": {"name": "Hydric", "species": ["Aguaje"]},
+                "phase_2": {"name": "Flood crops", "species": ["Camu Camu"]},
+                "phase_3": {"name": "Wetland forest", "species": ["Putumayo"]},
+                "animals": ["Fish"]
+            }
+
+        else:
+            restoration_plan = {
+                "phase_1": {"name": "Gap closure", "species": ["Balsa"]},
+                "phase_2": {"name": "Structure", "species": ["Pijuayo"]},
+                "phase_3": {"name": "Primary forest", "species": ["Shihuahuaco"]},
+                "animals": ["Bees"]
+            }
+
+        # =========================
+        # 📊 STATUS
+        # =========================
+        if ndvi_value < 0.35:
+            status = "Severely degraded"
+            vegetation = "Very low"
+            soil = "Highly degraded"
+            moisture = "Low"
+            risk = "High erosion risk"
+            timeline = 36
+            carbon = 2.5
+            biodiversity = 20
+
+        elif ndvi_value < 0.5:
+            status = "Moderately degraded"
+            vegetation = "Moderate"
+            soil = "Degraded"
+            moisture = "Medium-low"
+            risk = "Moderate erosion"
+            timeline = 24
+            carbon = 5.8
+            biodiversity = 45
+
+        elif ndvi_value < 0.7:
+            status = "Recovering ecosystem"
+            vegetation = "Good"
+            soil = "Stable"
+            moisture = "Medium"
+            risk = "Low risk"
+            timeline = 12
+            carbon = 9.5
+            biodiversity = 70
+
+        else:
+            status = "Healthy ecosystem"
+            vegetation = "Dense"
+            soil = "Healthy"
+            moisture = "Good"
+            risk = "Minimal"
+            timeline = 6
+            carbon = 12.0
+            biodiversity = 90
+
+        return jsonify({
+            "ndvi": ndvi_value,
+            "ndwi": ndwi_value,
+            "water_presence": water_presence,
+            "ecosystem_type": ecosystem_type,
+            "restoration_plan": restoration_plan,
+            "elevation": elevation_value,
+            "region_detected": region,
+            "status": status,
+            "vegetation": vegetation,
+            "soil": soil,
+            "moisture": moisture,
+            "risk": risk,
+            "timeline_months": timeline,
+            "carbon_estimate_tons_per_ha": carbon,
+            "biodiversity_score": biodiversity
+        })
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 @app.route('/api/ndvi-point', methods=['POST'])
 def ndvi_point():
     try:
+        initialize_gee()
         data = request.get_json()
 
         lat = data.get("lat")
