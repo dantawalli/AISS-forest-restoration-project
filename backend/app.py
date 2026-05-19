@@ -1297,7 +1297,7 @@ def get_curimana_satellite():
         }), 500
 
 
-@app.route('/api/ndvi-area', methods=['POST', 'OPTIONS'])
+@app.route('/api/ndvi-area', methods=['GET', 'POST', 'OPTIONS'])
 def ndvi_area():
     import ee
     initialize_gee()
