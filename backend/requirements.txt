@@ -10,3 +10,11 @@ openai>=1.0.0
 redis>=5.0.0
 flask-limiter>=3.5.0
 python-dotenv>=1.0.0
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+jupyter
+geopandas

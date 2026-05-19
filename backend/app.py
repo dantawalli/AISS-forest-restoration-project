@@ -44,8 +44,14 @@ class NumpyJSONEncoder(json.JSONEncoder):
         return super().default(obj)
 
 app = Flask(__name__)
+
+CORS(
+    app,
+    resources={r"/*": {"origins": "*"}},
+    supports_credentials=True
+)
+
 app.json_encoder = NumpyJSONEncoder
-CORS(app)  # Enable CORS for React frontend
 
 # Initialize Google Earth Engine
 try:
@@ -61,8 +67,7 @@ limiter = Limiter(
     default_limits=["100 per minute"]
 )
 
-# Load data and predictions on startup
-df, landmark_df, predictions_df, latest_year, total_loss, total_emissions, unique_countries = load_data_model()
+df, landmark_df, country_intelligence_df, predictions_df, latest_year, total_loss, total_emissions, unique_countries = load_data_model()
 
 # Initialize LLM engine if API key is available
 openai_api_key = os.getenv('OPENAI_API_KEY')
@@ -968,6 +973,20 @@ def get_landmark_data():
 
     return jsonify(df.to_dict(orient="records"))
 
+@app.route('/api/country-intelligence', methods=['GET'])
+def get_country_intelligence():
+    """Return unified socio-environmental intelligence dataset"""
+
+    clean_df = country_intelligence_df.copy()
+
+    # Replace problematic values
+    clean_df = clean_df.replace([np.inf, -np.inf], None)
+    clean_df = clean_df.replace({np.nan: None})
+    clean_df = clean_df.where(pd.notnull(clean_df), None)
+
+    return jsonify(
+        clean_df.to_dict(orient='records')
+    )
 @app.route('/api/insights', methods=['POST'])
 @limiter.limit("30 per minute")
 def generate_insights():
@@ -1276,14 +1295,14 @@ def get_curimana_satellite():
         }), 500
 
 
-@app.route('/api/ndvi-area', methods=['POST'])
+@app.route('/api/ndvi-area', methods=['POST', 'OPTIONS'])
 def ndvi_area():
     import ee
     initialize_gee()
 
     data = request.get_json()
 
-    # ✅ fallback region (will be overridden later)
+    # ✅ fallback region
     region = data.get("region", "lowland")
 
     try:
@@ -1326,12 +1345,42 @@ def ndvi_area():
             scale=30
         )
 
-        # ✅ SAFE extraction (prevents crash)
+        # =========================
+        # 🆕 SLOPE
+        # =========================
+        slope = ee.Terrain.slope(dem)
+
+        mean_slope = slope.reduceRegion(
+            reducer=ee.Reducer.mean(),
+            geometry=geom,
+            scale=30
+        )
+
+        # =========================
+        # 📊 SAFE EXTRACTION
+        # =========================
         elevation_dict = mean_elevation.getInfo()
         elevation_value = list(elevation_dict.values())[0] if elevation_dict else None
 
+        slope_dict = mean_slope.getInfo()
+        slope_value = list(slope_dict.values())[0] if slope_dict else 0
+
         # =========================
-        # 🌍 AUTO REGION DETECTION (FIXED POSITION)
+        # 🏔️ SLOPE CLASSIFICATION (NEW)
+        # =========================
+        if slope_value is None:
+            slope_class = "unknown"
+        elif slope_value < 5:
+            slope_class = "flat"
+        elif slope_value < 15:
+            slope_class = "moderate"
+        elif slope_value < 30:
+            slope_class = "steep"
+        else:
+            slope_class = "very_steep"
+
+        # =========================
+        # 🌍 REGION DETECTION
         # =========================
         if elevation_value is not None:
             if elevation_value < 400:
@@ -1342,7 +1391,7 @@ def ndvi_area():
                 region = "andean"
 
         # =========================
-        # 📊 EXTRACT VALUES
+        # 📊 NDVI / NDWI
         # =========================
         ndvi_dict = mean_ndvi.getInfo()
         ndwi_dict = mean_ndwi.getInfo()
@@ -1371,7 +1420,7 @@ def ndvi_area():
             ecosystem_type = "bosque_alto"
 
         # =========================
-        # 🌱 RESTORATION PLAN
+        # 🌱 RESTORATION PLAN (UNCHANGED)
         # =========================
         restoration_plan = None
 
@@ -1387,56 +1436,22 @@ def ndvi_area():
 
             if ndvi_value > 0.5:
 
-                # =========================
-                # 🌴 LOWLAND INTELLIGENCE (FIXED)
-                # =========================
                 if region == "lowland":
 
-                    # 🔥 NEW: distinguish DRY vs FLOODABLE lowland
                     if ndwi_value is not None and ndwi_value < 0:
-                        # ✅ DRY DEGRADED LOWLAND (Francisco case)
-
                         restoration_plan = {
                             "strategy": "Dry Lowland Agroforestry Recovery",
-
-                            "phase_1": {
-                                "name": "Soil recovery & survival crops (0–1 years)",
-                                "species": ["Yuca", "Maíz", "Frijol", "Ají Charapita"]
-                            },
-
-                            "phase_2": {
-                                "name": "Agroforestry transition (2–4 years)",
-                                "species": ["Guaba", "Bolaina", "Capirona"]
-                            },
-
-                            "phase_3": {
-                                "name": "Forest-based system (5+ years)",
-                                "species": ["Castaña", "Shihuahuaco", "Pashaco"]
-                            },
-
+                            "phase_1": {"name": "Soil recovery & survival crops (0–1 years)", "species": ["Yuca", "Maíz", "Frijol", "Ají Charapita"]},
+                            "phase_2": {"name": "Agroforestry transition (2–4 years)", "species": ["Guaba", "Bolaina", "Capirona"]},
+                            "phase_3": {"name": "Forest-based system (5+ years)", "species": ["Castaña", "Shihuahuaco", "Pashaco"]},
                             "animals": ["Chickens", "Bees"]
                         }
-
                     else:
-                        # 💧 FLOOD-PRONE LOWLAND (true bajial systems)
                         restoration_plan = {
                             "strategy": "Flood-adapted system",
-
-                            "phase_1": {
-                                "name": "Flood cycle crops",
-                                "species": ["Arroz de bajial", "Chiclayo"]
-                            },
-
-                            "phase_2": {
-                                "name": "Water-tolerant crops",
-                                "species": ["Camu Camu", "Açaí"]
-                            },
-
-                            "phase_3": {
-                                "name": "Wetland forest",
-                                "species": ["Aguaje", "Renaco"]
-                            },
-
+                            "phase_1": {"name": "Flood cycle crops", "species": ["Arroz de bajial", "Chiclayo"]},
+                            "phase_2": {"name": "Water-tolerant crops", "species": ["Camu Camu", "Açaí"]},
+                            "phase_3": {"name": "Wetland forest", "species": ["Aguaje", "Renaco"]},
                             "animals": ["Fish"]
                         }
 
@@ -1464,7 +1479,6 @@ def ndvi_area():
                         "phase_3": {"name": "Forest", "species": ["Pijuayo", "Aguaje"]},
                         "animals": ["Chickens"]
                     }
-
                 else:
                     restoration_plan = {
                         "phase_1": {"name": "Enrichment", "species": ["Cacao"]},
@@ -1490,7 +1504,29 @@ def ndvi_area():
             }
 
         # =========================
-        # 📊 STATUS
+        # 🌱 SLOPE ADJUSTMENT (NEW SAFE LAYER)
+        # =========================
+        if restoration_plan and isinstance(restoration_plan, dict):
+
+            restoration_plan["terrain"] = {
+                "slope_degrees": slope_value,
+                "slope_class": slope_class
+            }
+
+            if slope_class == "moderate":
+                restoration_plan["recommendation_note"] = "Use contour planting to reduce runoff."
+
+            elif slope_class == "steep":
+                restoration_plan["recommendation_note"] = "High erosion risk. Prioritize trees and avoid annual crops."
+
+            elif slope_class == "very_steep":
+                restoration_plan["recommendation_note"] = "Avoid agriculture. Focus on forest restoration."
+
+                if "phase_3" in restoration_plan:
+                    restoration_plan["phase_3"]["priority"] = "critical_ecosystem_restoration"
+
+        # =========================
+        # 📊 STATUS (UNCHANGED)
         # =========================
         if ndvi_value < 0.35:
             status = "Severely degraded"
@@ -1539,6 +1575,8 @@ def ndvi_area():
             "ecosystem_type": ecosystem_type,
             "restoration_plan": restoration_plan,
             "elevation": elevation_value,
+            "slope": slope_value,
+            "slope_class": slope_class,  # ✅ NEW
             "region_detected": region,
             "status": status,
             "vegetation": vegetation,
@@ -1552,8 +1590,7 @@ def ndvi_area():
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
-
-@app.route('/api/ndvi-point', methods=['POST'])
+@app.route('/api/ndvi-point', methods=['POST', 'OPTIONS'])
 def ndvi_point():
     try:
         initialize_gee()
@@ -1575,4 +1612,4 @@ def ndvi_point():
         logger.error(f"NDVI point error: {str(e)}")
         return jsonify({"error": str(e)}), 500
 if __name__ == '__main__':
-    app.run(debug=True, port=5001)
+    app.run(debug=True)
