@@ -69,7 +69,7 @@ limiter = Limiter(
     default_limits=["100 per minute"]
 )
 
-df, landmark_df, country_intelligence_df, predictions_df, latest_year, total_loss, total_emissions, unique_countries = load_data_model()
+df, landmark_df, predictions_df, latest_year, total_loss, total_emissions, unique_countries = load_data_model()
 
 # Initialize LLM engine if API key is available
 openai_api_key = os.getenv('OPENAI_API_KEY')
@@ -1296,9 +1296,21 @@ def get_curimana_satellite():
             "error": str(e)
         }), 500
 
+def handle_ndvi_area_options():
+    if request.method == 'OPTIONS':
+        response = jsonify({'status': 'ok'})
+        response.headers.add("Access-Control-Allow-Origin", "*")
+        response.headers.add("Access-Control-Allow-Headers", "Content-Type,Authorization")
+        response.headers.add("Access-Control-Allow-Methods", "GET,POST,OPTIONS")
+        return response
+
 
 @app.route('/api/ndvi-area', methods=['GET', 'POST', 'OPTIONS'])
 def ndvi_area():
+
+    if request.method == 'OPTIONS':
+        return handle_ndvi_area_options()
+
     import ee
     initialize_gee()
 
