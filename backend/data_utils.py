@@ -26,9 +26,9 @@ def load_data_model():
         BASE_DIR / "data" / "processed" / "landmark_country_summary.csv"
     )
 
-    country_intelligence_df = pd.read_csv(
-        BASE_DIR / "data" / "processed" / "country_intelligence_dataset.csv"
-    )
+    #country_intelligence_df = pd.read_csv(
+    #    BASE_DIR / "data" / "processed" / "country_intelligence_dataset.csv"
+    #)
     # Strip whitespace from column names
     df.columns = df.columns.str.strip()
     
@@ -66,7 +66,6 @@ def load_data_model():
     return (
         df,
         landmark_df,
-        country_intelligence_df,
         predictions_df,
         latest_year,
         total_loss,
