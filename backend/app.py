@@ -71,6 +71,10 @@ limiter = Limiter(
 
 df, landmark_df, predictions_df, latest_year, total_loss, total_emissions, unique_countries = load_data_model()
 
+country_intelligence_df = pd.read_csv(
+    "../data/processed/country_intelligence_dataset.csv"
+)
+
 # Initialize LLM engine if API key is available
 openai_api_key = os.getenv('OPENAI_API_KEY')
 print("API KEY:", openai_api_key)
