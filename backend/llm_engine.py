@@ -98,13 +98,27 @@ class ForestRecommendationEngine:
         """Get predictions from pre-calculated data"""
         try:
             # Note: Path adjustment might be needed based on your local env
-            predictions_path = Path("data/predicted_tree_cover_loss_2025_2035.csv")
-            
+            predictions_path = (
+                    Path(__file__).resolve().parent.parent
+                    / "data"
+                    / "predicted_tree_cover_loss_2025_2035.csv"
+            )
+
+            print("Prediction file exists:", predictions_path.exists())
+            print("Prediction path:", predictions_path)
+
             if not predictions_path.exists():
                 return {'projected_loss': 0, 'confidence': 0, 'risk_areas': [], 'yearly_predictions': []}
             
             pred_df = pd.read_csv(predictions_path)
+
+            print("Countries in prediction file:")
+            print(pred_df.iloc[:, 0].unique()[:20])
+
             country_predictions = pred_df[pred_df.iloc[:, 0] == country]
+
+            print("Requested country:", country)
+            print("Rows found:", len(country_predictions))
             
             if country_predictions.empty:
                 return {'projected_loss': 0, 'confidence': 0, 'risk_areas': [], 'yearly_predictions': []}

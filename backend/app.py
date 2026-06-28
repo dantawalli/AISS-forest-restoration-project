@@ -13,6 +13,8 @@ from datetime import datetime, timezone
 import json
 from gee_service import initialize_gee, get_curimana_tile
 
+from scenario_engine import ScenarioEngine
+
 # Load environment variables
 load_dotenv()
 
@@ -85,6 +87,8 @@ if openai_api_key:
         logger.error(f"Failed to initialize LLM engine: {str(e)}")
 else:
     logger.warning("OPENAI_API_KEY not found in environment variables")
+
+scenario_engine = ScenarioEngine()
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
@@ -1627,5 +1631,35 @@ def ndvi_point():
     except Exception as e:
         logger.error(f"NDVI point error: {str(e)}")
         return jsonify({"error": str(e)}), 500
+
+# ============================================================
+# Scenario Simulator
+# ============================================================
+
+@app.route('/api/scenario/simulate', methods=['POST', 'OPTIONS'])
+def simulate_scenario():
+
+    if request.method == "OPTIONS":
+        return ("", 204)
+
+    data = request.get_json()
+
+    country = data.get("country", "Brazil")
+    scenario = data.get("scenario", {})
+
+    baseline = llm_engine.get_predictions(country)
+
+    simulation = scenario_engine.simulate(
+        baseline=baseline,
+        scenario=scenario
+    )
+
+    return jsonify({
+        "success": True,
+        "baseline": baseline,
+        "simulation": simulation,
+        "scenario": data
+    })
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=False)
