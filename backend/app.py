@@ -15,6 +15,11 @@ from gee_service import initialize_gee, get_curimana_tile
 
 from scenario_engine import ScenarioEngine
 
+from knowledge_engine.species_registry import SpeciesRegistry
+from restoration_engine.restoration_engine import RestorationEngine
+from restoration_engine.site_conditions_builder import SiteConditionsBuilder
+
+
 # Load environment variables
 load_dotenv()
 
@@ -25,6 +30,8 @@ if str(parent_dir) not in sys.path:
 
 from data_utils import load_data_model, predict_tree_loss_future
 from llm_engine import ForestRecommendationEngine
+
+print("******** USING APP.PY ********")
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -89,6 +96,16 @@ else:
     logger.warning("OPENAI_API_KEY not found in environment variables")
 
 scenario_engine = ScenarioEngine()
+
+# ============================================================
+# FYNOS AI Restoration Engine
+# ============================================================
+
+registry = SpeciesRegistry("knowledge/species")
+registry.load_species()
+
+restoration_engine = RestorationEngine(registry)
+site_conditions_builder = SiteConditionsBuilder()
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
@@ -1314,6 +1331,7 @@ def handle_ndvi_area_options():
 @app.route('/api/ndvi-area', methods=['GET', 'POST', 'OPTIONS'])
 def ndvi_area():
 
+
     if request.method == 'OPTIONS':
         return handle_ndvi_area_options()
 
@@ -1385,30 +1403,6 @@ def ndvi_area():
         slope_dict = mean_slope.getInfo()
         slope_value = list(slope_dict.values())[0] if slope_dict else 0
 
-        # =========================
-        # 🏔️ SLOPE CLASSIFICATION (NEW)
-        # =========================
-        if slope_value is None:
-            slope_class = "unknown"
-        elif slope_value < 5:
-            slope_class = "flat"
-        elif slope_value < 15:
-            slope_class = "moderate"
-        elif slope_value < 30:
-            slope_class = "steep"
-        else:
-            slope_class = "very_steep"
-
-        # =========================
-        # 🌍 REGION DETECTION
-        # =========================
-        if elevation_value is not None:
-            if elevation_value < 400:
-                region = "lowland"
-            elif elevation_value < 800:
-                region = "central"
-            else:
-                region = "andean"
 
         # =========================
         # 📊 NDVI / NDWI
@@ -1419,25 +1413,25 @@ def ndvi_area():
         ndvi_value = list(ndvi_dict.values())[0]
         ndwi_value = list(ndwi_dict.values())[0]
 
-        # =========================
-        # 💧 WATER
-        # =========================
-        water_presence = ndwi_value is not None and ndwi_value > 0.2
+        site_conditions = site_conditions_builder.build(
+            geometry=data["geometry"],
+            ndvi=ndvi_value,
+            ndwi=ndwi_value,
+            elevation=elevation_value,
+            slope=slope_value,
+        )
+        ai_analysis = restoration_engine.analyze(site_conditions)
+
+        slope_class = site_conditions["slope_class"]
+
+        region = site_conditions["climate_zone"]
+
+        water_presence = site_conditions["water_presence"]
+
+        ecosystem_type = site_conditions["ecosystem"]
 
         if ndvi_value is None:
             return jsonify({"error": "NDVI calculation failed"}), 500
-
-        # =========================
-        # 🌍 ECOSYSTEM
-        # =========================
-        if water_presence:
-            ecosystem_type = "bajial"
-        elif ndvi_value < 0.35:
-            ecosystem_type = "pastizales"
-        elif ndvi_value < 0.6:
-            ecosystem_type = "purma"
-        else:
-            ecosystem_type = "bosque_alto"
 
         # =========================
         # 🌱 RESTORATION PLAN (UNCHANGED)
@@ -1588,7 +1582,14 @@ def ndvi_area():
             carbon = 12.0
             biodiversity = 90
 
+        from pprint import pprint
+
+        print("\n========== NDVI API RESPONSE ==========")
+        pprint(ai_analysis["recommended_species"])
+        print("=======================================\n")
+
         return jsonify({
+            # Existing fields
             "ndvi": ndvi_value,
             "ndwi": ndwi_value,
             "water_presence": water_presence,
@@ -1596,7 +1597,7 @@ def ndvi_area():
             "restoration_plan": restoration_plan,
             "elevation": elevation_value,
             "slope": slope_value,
-            "slope_class": slope_class,  # ✅ NEW
+            "slope_class": slope_class,
             "region_detected": region,
             "status": status,
             "vegetation": vegetation,
@@ -1605,10 +1606,22 @@ def ndvi_area():
             "risk": risk,
             "timeline_months": timeline,
             "carbon_estimate_tons_per_ha": carbon,
-            "biodiversity_score": biodiversity
+            "biodiversity_score": biodiversity,
+
+            # New AI outputs
+            "landscape_diagnosis": ai_analysis["landscape_diagnosis"],
+            "recommended_species": ai_analysis["recommended_species"],
+            "recommendations": ai_analysis["recommendations"],
+            "restoration_brief": ai_analysis["restoration_brief"],
         })
 
+
     except Exception as e:
+
+        import traceback
+
+        traceback.print_exc()
+
         return jsonify({"error": str(e)}), 500
 @app.route('/api/ndvi-point', methods=['POST', 'OPTIONS'])
 def ndvi_point():

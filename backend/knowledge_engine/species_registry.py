@@ -45,13 +45,20 @@ class SpeciesRegistry:
 
                 species_data = {
                     "scientific_name": metadata["species_profile"]["scientific_name"],
+
+                    # Common names
+                    "common_names": metadata["species_profile"].get("common_names", {}),
+
                     "family": metadata["species_profile"]["family"],
                     "life_form": metadata["species_profile"]["life_form"],
                     "growth_form": metadata["species_profile"]["growth_form"],
+
                     "category": metadata["_category"],
                     "duration": metadata["_duration"],
+
                     "folder": metadata["_folder"],
                     "metadata_path": metadata["_metadata_path"],
+
                     "metadata": metadata,
                 }
 

@@ -1,36 +1,12 @@
 class SpeciesRanker:
     """
     Produces the final ranked list of species.
-
-    This class is intentionally separated from the CompatibilityEngine.
-
-    Responsibilities
-    ----------------
-    - Receive compatibility results
-    - Sort species
-    - Return the best candidates
-    - Later apply ecological priorities
-    - Later apply restoration objectives
-    - Later apply AI weighting
     """
 
     def __init__(self):
         pass
 
     def rank(self, compatibility_results, top_n=10):
-        """
-        Returns the best ranked species.
-
-        Parameters
-        ----------
-        compatibility_results : list
-
-        top_n : int
-
-        Returns
-        -------
-        list
-        """
 
         ranked = sorted(
             compatibility_results,
@@ -41,4 +17,35 @@ class SpeciesRanker:
             reverse=True
         )
 
-        return ranked[:top_n]
+        # Remove duplicates by scientific name
+        unique_species = []
+        seen = set()
+
+        for item in ranked:
+
+            scientific_name = item["species"]["scientific_name"]
+
+            if scientific_name in seen:
+                continue
+
+            seen.add(scientific_name)
+
+            species = item["species"]
+
+            # Preferred display name:
+            # Spanish → English → Scientific
+
+            display_name = (
+                (species.get("common_names", {}).get("spanish") or [None])[0]
+                or (species.get("common_names", {}).get("english") or [None])[0]
+                or scientific_name
+            )
+
+            species["display_name"] = display_name
+
+            unique_species.append(item)
+
+            if len(unique_species) >= top_n:
+                break
+        print(unique_species[0]["species"].keys())
+        return unique_species

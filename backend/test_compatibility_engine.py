@@ -1,5 +1,6 @@
 from knowledge_engine.species_registry import SpeciesRegistry
-from knowledge_engine.restoration_engine import RestorationEngine
+from backend.restoration_engine.restoration_engine import RestorationEngine
+
 
 def main():
 
@@ -18,19 +19,18 @@ def main():
         # Google Earth Engine variables
         "ndvi": 0.22,
         "ndwi": -0.08,
-        "slope": 18
+        "slope": 18,
     }
 
-    # Evaluate compatibility
+    # Run restoration analysis
     result = engine.analyze(site)
 
     diagnosis = result["landscape_diagnosis"]
-
     ranked_species = result["recommended_species"]
+    recommendations = result["recommendations"]
+    restoration_brief = result["restoration_brief"]
 
     print(f"\nSpecies evaluated: {len(ranked_species)}\n")
-
-    diagnosis = result["landscape_diagnosis"]
 
     print("Landscape Diagnosis")
     print("--------------------")
@@ -46,6 +46,28 @@ def main():
             f'{species["compatibility"]}% '
             f'({species["score"]} pts)'
         )
+
+    print("\nRecommendation Object")
+    print("----------------------")
+
+    print()
+
+    for key, value in recommendations.items():
+        print(f"{key}: {value}")
+
+        print("\n")
+        print("=" * 70)
+        print("AI RESTORATION BRIEF")
+        print("=" * 70)
+
+        print(f"\nTitle: {restoration_brief['title']}")
+        print(f"Version: {restoration_brief['version']}")
+
+        print("\nEXECUTIVE SUMMARY")
+        print("-" * 70)
+
+        print(f"Headline: {restoration_brief['executive_summary']['headline']}")
+        print(f"Summary : {restoration_brief['executive_summary']['summary']}")
 
 
 if __name__ == "__main__":
