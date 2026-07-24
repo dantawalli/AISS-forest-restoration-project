@@ -8,6 +8,7 @@ class SpeciesProfileBuilder:
             "scientific_name": species["scientific_name"],
             "family": species["family"],
             "life_form": species["life_form"],
+            "common_names": metadata["species_profile"]["common_names"],
 
             "restoration_value":
                 metadata["fynos_classification"]["restoration_value"],

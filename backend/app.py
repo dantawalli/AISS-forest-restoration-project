@@ -18,7 +18,7 @@ from scenario_engine import ScenarioEngine
 from knowledge_engine.species_registry import SpeciesRegistry
 from restoration_engine.restoration_engine import RestorationEngine
 from restoration_engine.site_conditions_builder import SiteConditionsBuilder
-
+from restoration_engine.restoration_engine import RestorationEngine
 
 # Load environment variables
 load_dotenv()
@@ -82,16 +82,23 @@ df, landmark_df, predictions_df, latest_year, total_loss, total_emissions, uniqu
 
 country_intelligence_df = pd.read_csv("Fynos-project/data/country_intelligence_dataset.csv")
 
-# Initialize LLM engine if API key is available
-openai_api_key = os.getenv('OPENAI_API_KEY')
+# Initialize AI engines if API key is available
+openai_api_key = os.getenv("OPENAI_API_KEY")
 print("API KEY:", openai_api_key)
+
 llm_engine = None
+restoration_engine = None
+
 if openai_api_key:
     try:
         llm_engine = ForestRecommendationEngine(openai_api_key, df)
-        logger.info("LLM engine initialized successfully")
+        restoration_engine = RestorationEngine(openai_api_key)
+
+        logger.info("AI engines initialized successfully")
+
     except Exception as e:
-        logger.error(f"Failed to initialize LLM engine: {str(e)}")
+        logger.error(f"Failed to initialize AI engines: {str(e)}")
+
 else:
     logger.warning("OPENAI_API_KEY not found in environment variables")
 
@@ -104,7 +111,11 @@ scenario_engine = ScenarioEngine()
 registry = SpeciesRegistry("knowledge/species")
 registry.load_species()
 
-restoration_engine = RestorationEngine(registry)
+restoration_engine = RestorationEngine(
+    registry=registry,
+    api_key=openai_api_key,
+)
+
 site_conditions_builder = SiteConditionsBuilder()
 
 @app.route('/api/health', methods=['GET'])
@@ -1420,7 +1431,9 @@ def ndvi_area():
             elevation=elevation_value,
             slope=slope_value,
         )
-        ai_analysis = restoration_engine.analyze(site_conditions)
+        ai_analysis = restoration_engine.analyze(
+            site_conditions
+        )
 
         slope_class = site_conditions["slope_class"]
 
@@ -1613,6 +1626,9 @@ def ndvi_area():
             "recommended_species": ai_analysis["recommended_species"],
             "recommendations": ai_analysis["recommendations"],
             "restoration_brief": ai_analysis["restoration_brief"],
+            "impact_summary": ai_analysis["impact_summary"],
+            "executive_summary": ai_analysis["executive_summary"],
+            "farmer_guidance": ai_analysis["farmer_guidance"],
         })
 
 
