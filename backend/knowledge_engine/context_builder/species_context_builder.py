@@ -46,6 +46,8 @@ class SpeciesContextBuilder(BaseContextBuilder):
 
             "propagation": mapper.map_propagation(source_data),
 
+            "silviculture": mapper.map_silviculture(source_data),
+
             "risks": mapper.map_risks(source_data),
 
             "fynos": mapper.map_fynos(source_data),

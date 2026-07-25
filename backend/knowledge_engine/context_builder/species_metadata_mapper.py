@@ -103,6 +103,21 @@ class SpeciesMetadataMapper:
             "vegetative_propagation": propagation.get("vegetative", {}),
         }
 
+    def map_silviculture(self, source_data):
+
+        silviculture = source_data.get("silviculture", {})
+
+        return {
+            "spacing": silviculture.get("spacing", []),
+            "growth_rate": silviculture.get("growth_rate", ""),
+            "rotation_years": silviculture.get("rotation_years"),
+            "harvest_age_years": silviculture.get("harvest_age_years"),
+            "planting_methods": silviculture.get("planting_methods", []),
+            "pruning": silviculture.get("pruning", ""),
+            "fertilization": silviculture.get("fertilization", ""),
+            "maintenance": silviculture.get("maintenance", []),
+        }
+
     def map_risks(self, metadata: dict) -> dict:
         threats = metadata.get("threats", {})
 
