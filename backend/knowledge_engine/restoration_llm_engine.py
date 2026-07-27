@@ -1,3 +1,6 @@
+import json
+import re
+
 from openai import OpenAI
 
 
@@ -15,41 +18,51 @@ class RestorationLLMEngine:
         restoration_brief,
     ):
         prompt = f"""
-        You are FYNOS AI's ecological restoration advisor.
+You are FYNOS AI's ecological restoration advisor.
 
-        Using the information below, generate ONLY valid JSON.
+The ecological analysis has ALREADY been completed by the FYNOS Restoration Intelligence Engine.
 
-        Context:
+Your task is NOT to analyze the landscape again.
 
-        Landscape Diagnosis:
-        {diagnosis}
+Using ONLY the structured Restoration Brief below, generate clear, concise and professional summaries.
 
-        Recommendations:
-        {recommendations}
+Return ONLY valid JSON in the following format:
 
-        Selected Species:
-        {species}
+{{
+    "impact_summary": "",
+    "executive_summary": "",
+    "farmer_guidance": ""
+}}
 
-        Restoration Brief:
-        {restoration_brief}
+Restoration Brief:
 
-        Return exactly:
+{json.dumps(restoration_brief, indent=2, ensure_ascii=False)}
+"""
 
-        {{
-            "impact_summary": "",
-            "executive_summary": "",
-            "farmer_guidance": ""
-        }}
-        """
+        DEBUG = False
+
+        if DEBUG:
+            print("\n" + "=" * 80)
+            print("FYNOS LLM DEBUG")
+            print("=" * 80)
+
+            print("Diagnosis size:", len(json.dumps(diagnosis, default=str)))
+            print("Recommendations size:", len(json.dumps(recommendations, default=str)))
+            print("Species size:", len(json.dumps(species, default=str)))
+            print("Restoration brief size:", len(json.dumps(restoration_brief, default=str)))
+
+            prompt_size = len(prompt)
+
+            print("Prompt characters:", prompt_size)
+            print("Approx prompt tokens:", prompt_size // 4)
+
+            print("=" * 80 + "\n")
 
         response = self.client.responses.create(
             model=self.model,
             input=prompt,
             temperature=0.2,
         )
-
-        import json
-        import re
 
         raw_text = response.output_text
 

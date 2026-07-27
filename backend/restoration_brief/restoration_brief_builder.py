@@ -19,7 +19,8 @@ class RestorationBriefBuilder:
         self.impact = StepImpactBuilder()
 
     def build(self, diagnosis, species, recommendations):
-        return {
+
+        restoration_brief = {
             "executive_summary": self.executive_summary.build(diagnosis, recommendations),
             "landscape_overview": self.land_overview.build(diagnosis),
             "landscape_diagnosis": self.diagnosis.build(diagnosis),
@@ -28,3 +29,5 @@ class RestorationBriefBuilder:
             "recommended_species": self.species.build(species),
             "expected_impact": self.impact.build(diagnosis),
         }
+
+        return restoration_brief

@@ -189,19 +189,39 @@ class LandscapeDiagnosisEngine:
         priorities = []
 
         if site.get("vegetation_condition") in ["Highly Degraded", "Degraded"]:
-            priorities.append("Restore vegetation cover")
+            priorities.append({
+                "title": "Restore vegetation cover",
+                "reason": "FYNOS AI detected that vegetation cover has been significantly reduced, limiting the landscape's ability to recover naturally.",
+                "description": "Reintroduce native vegetation to improve ecosystem resilience, stabilize the landscape, and create suitable conditions for long-term forest recovery.",
+            })
 
         if site.get("erosion_risk") in ["High", "Very High"]:
-            priorities.append("Stabilize soil")
+            priorities.append({
+                "title": "Stabilize soil",
+                "reason": "FYNOS AI detected a high risk of soil erosion, which could reduce restoration success if left unmanaged.",
+                "description": "Protect exposed soil using vegetation, ground cover, or erosion control practices before establishing new plantings.",
+            })
 
         if site.get("water_availability") == "Low":
-            priorities.append("Improve water retention")
+            priorities.append({
+                "title": "Improve water retention",
+                "reason": "FYNOS AI detected limited water availability across your landscape, which could reduce the success of restoration if not addressed early.",
+                "description": "Implement practices that improve soil moisture retention and reduce water stress before planting.",
+            })
 
         if site.get("ecosystem") == "purma":
-            priorities.append("Accelerate secondary forest succession")
+            priorities.append({
+                "title": "Accelerate secondary forest succession",
+                "reason": "FYNOS AI identified your landscape as secondary forest (purma), where supporting natural regeneration is often the fastest and most effective restoration approach.",
+                "description": "Protect existing natural regeneration and enrich the area with native species where needed to accelerate forest recovery.",
+            })
 
         if not priorities:
-            priorities.append("Maintain ecosystem resilience")
+            priorities.append({
+                "title": "Maintain ecosystem resilience",
+                "reason": "FYNOS AI did not identify any immediate ecological constraints that require urgent intervention.",
+                "description": "Continue protecting the existing ecosystem while monitoring changes and strengthening its long-term resilience through sustainable management.",
+            })
 
         return priorities
 

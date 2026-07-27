@@ -1350,6 +1350,11 @@ def ndvi_area():
     initialize_gee()
 
     data = request.get_json()
+    # TODO:
+    # /api/ndvi-area currently accepts multiple request formats
+    # (lat/lon and geometry). This endpoint should be refactored
+    # into a unified request model after the restoration backend
+    # architecture is complete.
 
     # ✅ fallback region
     region = data.get("region", "lowland")
@@ -1595,11 +1600,14 @@ def ndvi_area():
             carbon = 12.0
             biodiversity = 90
 
-        from pprint import pprint
+        DEBUG_SPECIES = False
 
-        print("\n========== NDVI API RESPONSE ==========")
-        pprint(ai_analysis["recommended_species"])
-        print("=======================================\n")
+        if DEBUG_SPECIES:
+            from pprint import pprint
+
+            print("\n========== NDVI API RESPONSE ==========")
+            pprint(ai_analysis["recommended_species"])
+            print("=======================================\n")
 
         return jsonify({
             # Existing fields
