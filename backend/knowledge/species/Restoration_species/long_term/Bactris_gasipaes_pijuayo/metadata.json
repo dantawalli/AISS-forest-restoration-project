@@ -1,0 +1,500 @@
+{
+  "species_profile": {
+    "scientific_name": "Bactris gasipaes",
+    "authority": "Kunth",
+    "family": "Arecaceae",
+    "common_names": {
+      "english": [
+        "Peach palm",
+        "Peach palm heart"
+      ],
+      "spanish": [
+        "Pijuayo"
+      ],
+      "portuguese": [
+        "Pupunheira",
+        "Palmito de pupunha"
+      ],
+      "french": [],
+      "local": []
+    },
+    "life_form": "Clustering perennial palm",
+    "life_cycle": "Perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Monocots",
+    "order": "Arecales",
+    "family": "Arecaceae",
+    "genus": "Bactris",
+    "species": "Bactris gasipaes"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil"
+    ],
+    "ecoregions": [
+      "Amazon"
+    ],
+    "biomes": [
+      "Amazon rainforest",
+      "Agroforestry systems",
+      "Degraded pasture restoration"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native Amazonian palm widely cultivated throughout tropical South America for fruit and heart-of-palm production."
+  },
+  "source_information": {
+    "document_type": "technical publications",
+    "title": "Cultivation and Agroforestry Management of Peach Palm",
+    "authors": [
+      "Edinelson José Maciel Neves",
+      "Álvaro Figueredo dos Santos",
+      "Antonio Aparecido Carpanezzi",
+      "Marília Locatelli",
+      "Clodeildes Lima Nunes",
+      "Abadio Hermes Vieira",
+      "Silas Garcia",
+      "Elisa Wandelli",
+      "Rogerio Perin",
+      "João Matos",
+      "Acácia Neves",
+      "Erick Fernandes"
+    ],
+    "institution": "Embrapa",
+    "year": "1996–2011",
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazilian Amazon"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Heart-of-palm production",
+      "Agroforestry",
+      "Restoration",
+      "Silviculture"
+    ],
+    "evidence_level": "Technical manuals and research bulletins"
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "High",
+    "food_security_value": "High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 21,
+        "max": 22.7
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 2000,
+        "max": 2000
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": 80,
+        "max": 90
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 15,
+        "max": 15
+      }
+    },
+    "light": {
+      "shade_tolerance": "Moderate",
+      "sun_requirement": "Partial shade to full sun depending on production system"
+    },
+    "soil": {
+      "preferred_types": [
+        "Cambissolos Flúvicos Tb Distróficos",
+        "Deep soils",
+        "Well-drained soils",
+        "Very clayey Oxisols",
+        "Degraded pasture soils"
+      ],
+      "texture": [
+        "Medium",
+        "Clay",
+        "Sandy-clay",
+        "Very clayey"
+      ],
+      "drainage": "Well-drained",
+      "fertility": "Tolerates low fertility soils although fertilization improves productivity.",
+      "ph": {
+        "min": 4.3,
+        "max": 4.42
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Moderate with irrigation"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "Sensitive under constant exposure.",
+      "cold": "Does not tolerate frost.",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early to mid-successional cultivated palm",
+    "forest_layer": "Sub-canopy",
+    "canopy_position": "Sub-canopy palm",
+    "carbon_storage": "Moderate perennial biomass accumulation.",
+    "soil_improvement": "Contributes organic matter although litter production is relatively low.",
+    "erosion_control": "Provides permanent vegetation cover.",
+    "water_regulation": "",
+    "microclimate_regulation": "Creates shade for associated agroforestry crops.",
+    "pollinator_support": "",
+    "wildlife_support": "Produces fruits consumed by wildlife."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Heart of palm",
+      "Fruit production",
+      "Animal feed"
+    ],
+    "regulating": [
+      "Perennial soil cover",
+      "Organic matter production"
+    ],
+    "supporting": [
+      "Agroforestry diversification",
+      "Pasture restoration"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Recovery of degraded pastures",
+      "Agroforestry component",
+      "Shade for cupuaçu",
+      "Heart-of-palm production",
+      "Fruit production",
+      "Perennial crop"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Productive restoration"
+    ],
+    "recommended_land_types": [
+      "Degraded pastures",
+      "Agroforestry systems",
+      "Family farms"
+    ],
+    "degradation_types": [
+      "Degraded pasture",
+      "Low fertility soils"
+    ],
+    "restoration_objectives": [
+      "Income generation",
+      "Food production",
+      "Agroforestry diversification"
+    ],
+    "recommended_species_mixtures": [
+      "Theobroma grandiflorum",
+      "Euterpe edulis",
+      "Columbrina sp.",
+      "Açaí"
+    ],
+    "restoration_notes": "Excellent Amazonian productive restoration species combining rapid heart-of-palm production with perennial agroforestry systems. Particularly suitable for restoring degraded pastures while generating continuous income."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Amazon agroforestry",
+      "Cupuaçu agroforestry",
+      "Mixed perennial plantations",
+      "Family farming systems"
+    ],
+    "compatible_crops": [
+      "Cupuaçu",
+      "Rice",
+      "Açaí"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Widely recommended for diversified Amazon agroforestry systems where repeated harvesting is desired."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "minimum": 2,
+      "maximum": 3
+    },
+    "spacing": [
+      "2 × 1 m",
+      "6 × 2 m",
+      "6 × 6 m"
+    ],
+    "planting_methods": [
+      "Plant between late October and late February.",
+      "Open furrows in heavy soils.",
+      "Plow and harrow medium-textured soils."
+    ],
+    "pruning": "Maintain at most two vigorous suckers after harvest.",
+    "fertilization": "Adequate nitrogen and potassium fertilization significantly improves productivity.",
+    "maintenance": [
+      "Avoid manual hoeing.",
+      "Control weeds.",
+      "Use treated cardboard mulch.",
+      "Harvest only vigorous plants.",
+      "Avoid harvesting during dry periods.",
+      "Use clean and sharp tools.",
+      "Retain 4–6 vigorous suckers.",
+      "Maintain crop residues between rows.",
+      "Prune neighboring trees to improve light.",
+      "Use legumes as soil cover."
+    ],
+    "management_notes": "Continuous sucker management is essential for sustainable heart-of-palm production."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": "",
+      "germination_rate_percent": null,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "",
+    "fruiting": "Fruit production begins approximately 3.5 years after planting.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Theobroma grandiflorum",
+      "Euterpe edulis",
+      "Columbrina sp."
+    ],
+    "facilitates": [
+      "Shade production",
+      "Agroforestry diversification"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Rice",
+      "Cupuaçu",
+      "Açaí"
+    ],
+    "wildlife_interactions": [
+      "Endomycorrhizae may improve nutrient uptake."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Wood"
+    ],
+    "food": [
+      "Fresh fruits",
+      "Heart of palm",
+      "Heart-of-palm cream"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "Animal feed"
+    ],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Processed heart of palm"
+    ],
+    "other": [
+      "Fresh heart of palm"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Stem borer"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Waterlogging",
+      "Water deficit",
+      "Constant wind",
+      "Dry season",
+      "Low litter production"
+    ],
+    "human": [
+      "Poor management",
+      "Improper harvesting",
+      "Mechanical transport damage",
+      "Inadequate fertilization"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {},
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {
+      "fruiting_age_years": 3.5
+    },
+    "productivity": {
+      "first_harvest_months": {
+        "minimum": 18,
+        "maximum": 36
+      },
+      "average_palmito_weight_g": 205,
+      "best_heart_of_palm_yield_kg_ha": 2349.75,
+      "yield_increase_percent": 76
+    },
+    "additional_measurements": {
+      "annual_rainfall_mm": 2000,
+      "ideal_temperature_c": {
+        "minimum": 21,
+        "maximum": 22.7
+      },
+      "relative_humidity_percent": {
+        "minimum": 80,
+        "maximum": 90
+      },
+      "average_first_harvest_height_m": {
+        "minimum": 1.7,
+        "maximum": 1.8
+      },
+      "heart_of_palm_water_content_percent": 90,
+      "cut_height_above_ground_cm": {
+        "minimum": 30,
+        "maximum": 40
+      },
+      "remaining_suckers": {
+        "minimum": 4,
+        "maximum": 6
+      },
+      "agroforestry_area_m2": 9000,
+      "pupunha_plants": 248,
+      "cupuacu_plants": 90,
+      "acai_plants": 162,
+      "columbrina_plants": 63,
+      "additional_jars_300g": 3367
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Medium",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Amazon agroforestry",
+      "Degraded pasture restoration",
+      "Productive restoration",
+      "Family farming systems"
+    ],
+    "recommended_restoration_goals": [
+      "Income generation",
+      "Food production",
+      "Perennial restoration",
+      "Agroforestry diversification"
+    ],
+    "ideal_companion_species": [
+      "Cupuaçu",
+      "Açaí",
+      "Euterpe edulis"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Peach palm is one of the flagship productive restoration species for the Amazon. Its multiple harvests, compatibility with agroforestry systems and high economic value make it a cornerstone species for community-based restoration while maintaining long-term forest cover."
+  },
+  "research": {
+    "gaps": [
+      "Minimum fertilization for degraded soils.",
+      "Selection of germplasm for heart-of-palm production.",
+      "Selection of germplasm for fruit production.",
+      "Fruit processing technology.",
+      "Industrialization of fresh heart of palm.",
+      "Market studies."
+    ],
+    "scientific_uncertainties": [
+      "Mechanisms responsible for productivity increases.",
+      "Local adaptation under different climate and soil conditions."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_publications",
+      "title": "Embrapa Publications on Bactris gasipaes",
+      "institution": "Embrapa",
+      "authors": [
+        "Multiple authors"
+      ],
+      "year": "1996–2011"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

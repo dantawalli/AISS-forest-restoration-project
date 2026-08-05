@@ -1,0 +1,431 @@
+{
+  "species_profile": {
+    "scientific_name": "Plinia clausa",
+    "authority": "McVaugh",
+    "family": "Myrtaceae",
+    "common_names": {
+      "english": [
+        "Anihuayo"
+      ],
+      "spanish": [
+        "Anihuayo",
+        "Anahuayo"
+      ],
+      "portuguese": [],
+      "local": [
+        "Anihuayo",
+        "Anahuayo"
+      ]
+    },
+    "life_form": "Small tree or shrub",
+    "life_cycle": "Perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Myrtales",
+    "family": "Myrtaceae",
+    "genus": "Plinia",
+    "species": "Plinia clausa"
+  },
+  "distribution": {
+    "countries": [
+      "Peru"
+    ],
+    "ecoregions": [
+      "Loreto",
+      "Madre de Dios",
+      "Ucayali"
+    ],
+    "biomes": [
+      "Amazon Rainforest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native to the Peruvian Amazon."
+  },
+  "source_information": {
+    "document_type": "technical_monograph",
+    "title": "Anihuayo (Plinia clausa McVaugh): Potencial frutícola de la Amazonía Peruana",
+    "authors": [],
+    "institution": "IIAP & INIA",
+    "year": null,
+    "language": "",
+    "geographic_scope": [
+      "Peru"
+    ],
+    "study_period": "",
+    "study_focus": [],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 0,
+        "max": 500
+      }
+    },
+    "light": {
+      "shade_tolerance": "Partial shade",
+      "sun_requirement": "Full sun to partial shade."
+    },
+    "soil": {
+      "preferred_types": [
+        "Floodplain soils",
+        "Alluvial soils",
+        "Moist Amazonian soils"
+      ],
+      "texture": [],
+      "drainage": "Moist to seasonally flooded",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "High",
+      "waterlogging_tolerance": "High",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late secondary to mature floodplain forest.",
+    "forest_layer": "Understory to subcanopy",
+    "canopy_position": "",
+    "carbon_storage": "Carbon storage",
+    "soil_improvement": "",
+    "erosion_control": "Riparian stabilization",
+    "water_regulation": "",
+    "microclimate_regulation": "",
+    "pollinator_support": "Likely supports Myrtaceae insect pollinators",
+    "wildlife_support": "Wildlife food source"
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production"
+    ],
+    "regulating": [
+      "Carbon storage",
+      "Riparian stabilization"
+    ],
+    "supporting": [
+      "Biodiversity conservation",
+      "Genetic diversity conservation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Amazon floodplain restoration",
+      "Riparian restoration",
+      "Native fruit agroforestry",
+      "Community forestry",
+      "Biodiversity restoration",
+      "Forest enrichment"
+    ],
+    "restoration_phase": [],
+    "recommended_land_types": [
+      "Floodplain forests",
+      "Riparian forests",
+      "Seasonally flooded forests"
+    ],
+    "degradation_types": [
+      "Floodplain conversion",
+      "Habitat degradation"
+    ],
+    "restoration_objectives": [
+      "Biodiversity conservation",
+      "Food security",
+      "Riparian stabilization"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Excellent flagship species for Amazonian floodplain restoration. Highly suitable for biodiversity-based agroforestry systems. Large nutritious fruits create opportunities for sustainable livelihoods. High genetic variability makes it an excellent candidate for future breeding. Should be prioritized for restoration in Loreto, Ucayali and Madre de Dios floodplain landscapes. FYNOS AI should classify Anihuayo as a Priority I Amazon Native Fruit Species for restoration, food security and biodiversity conservation."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Native fruit agroforestry",
+      "Amazonian home gardens"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Highly suitable for biodiversity-based agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Maintain adequate soil moisture.",
+      "Suitable for restoration of floodplain ecosystems.",
+      "Monitor stem-borer infestations.",
+      "Protect young seedlings from severe pest attacks."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Fresh seeds recommended; germination begins after approximately 18–34 days.",
+      "germination_days": "18–34",
+      "germination_rate_percent": "High",
+      "storage": "Fresh seeds recommended."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "101 cm after 13 months (best accessions)",
+      "special_care": [
+        "High germination percentage.",
+        "Low germination energy.",
+        "Seedlings show high vigor after emergence."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Not clearly specified.",
+    "fruiting": "September to April depending on watershed.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits during regional fruiting season.",
+    "seed_dispersal": "Likely mammals and birds.",
+    "pollination": "Likely insects typical of Myrtaceae."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Unknown (likely insects typical of Myrtaceae)"
+    ],
+    "seed_dispersers": [
+      "Likely mammals",
+      "Likely birds"
+    ],
+    "companion_species": [],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": [
+      "Wildlife food source"
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh consumption",
+      "Juices",
+      "Processed fruit products"
+    ],
+    "medicine": [
+      "Potential antioxidant applications"
+    ],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Nutraceutical products",
+      "Functional foods"
+    ],
+    "other": [
+      "Germplasm conservation",
+      "Native fruit domestication",
+      "Forest restoration"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Chrysomelidae beetles",
+        "Acrididae grasshoppers",
+        "Eumastax vittata",
+        "Dismicoccus spp.",
+        "Timocratica albella"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Habitat degradation",
+      "Floodplain conversion"
+    ],
+    "human": [
+      "Deforestation",
+      "Habitat fragmentation",
+      "Loss of floodplain forests"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": null,
+      "seedling_height_cm": 101,
+      "basal_diameter_cm": 2.58
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seeds_per_fruit": "2–3",
+      "germination_latency_days": "18–34"
+    },
+    "fruit_data": {
+      "average_fruit_weight_g": 155,
+      "fruit_length_cm": 8.8,
+      "fruit_diameter_cm": 7.6,
+      "pulp_yield_percent": "48.35–69.50"
+    },
+    "productivity": {},
+    "additional_measurements": {
+      "elevation_range_m": "0–500",
+      "georeferenced_occurrences": 127,
+      "botanical_collections": 72,
+      "germplasm_accessions": 12,
+      "moisture_percent": "88.74–91.76",
+      "protein_percent": "2.19–4.05",
+      "lipids_percent": "0.17–0.82",
+      "carbohydrates_percent": "4.61–8.49",
+      "antioxidant_activity_percent": "80–91",
+      "stamens_per_flower": "200–250",
+      "leaf_length_cm": "7–10",
+      "leaf_width_cm": "3–4"
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Floodplain forests",
+      "Riparian forests",
+      "Amazon floodplains"
+    ],
+    "recommended_restoration_goals": [
+      "Floodplain restoration",
+      "Riparian stabilization",
+      "Food security",
+      "Biodiversity conservation"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "Priority I Amazon native fruit species for floodplain restoration, biodiversity conservation and sustainable livelihoods."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Seed dispersal ecology.",
+      "Genetic diversity using molecular markers.",
+      "Climate resilience.",
+      "Carbon sequestration potential.",
+      "Large-scale restoration performance.",
+      "Commercial orchard management.",
+      "Long-term conservation status."
+    ],
+    "scientific_uncertainties": [
+      "Unknown conservation status.",
+      "Poorly understood pollination ecology.",
+      "Unknown seed dispersers.",
+      "No molecular genetic studies.",
+      "No carbon sequestration studies.",
+      "Limited restoration experiments."
+    ],
+    "potential_contradictions": [
+      "Species once considered extremely rare but extensive recent surveys documented numerous populations.",
+      "High germination percentage despite low germination energy.",
+      "Large phenotypic variation may represent ecotypes rather than different taxa.",
+      "Excellent commercial potential despite limited cultivation."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_monograph",
+      "title": "Anihuayo (Plinia clausa McVaugh): Potencial frutícola de la Amazonía Peruana",
+      "institution": "IIAP & INIA",
+      "country": "Peru"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

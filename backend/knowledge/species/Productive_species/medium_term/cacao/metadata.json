@@ -1,0 +1,477 @@
+{
+  "species_profile": {
+    "scientific_name": "Theobroma cacao",
+    "authority": "L.",
+    "family": "Malvaceae",
+    "common_names": {
+      "english": [
+        "Cocoa",
+        "Cacao"
+      ],
+      "spanish": [
+        "Cacao"
+      ],
+      "portuguese": [
+        "Cacau"
+      ],
+      "french": [
+        "Cacao"
+      ],
+      "local": [
+        "Cacau"
+      ]
+    },
+    "life_form": "Evergreen tropical tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Malvales",
+    "family": "Malvaceae",
+    "genus": "Theobroma",
+    "species": "Theobroma cacao"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Ghana",
+      "Côte d'Ivoire",
+      "Nigeria",
+      "Cameroon",
+      "Ecuador"
+    ],
+    "ecoregions": [
+      "Northwestern Amazon",
+      "Amazon Basin",
+      "Pará",
+      "São Félix do Xingu"
+    ],
+    "biomes": [
+      "Humid tropical rainforest"
+    ],
+    "watersheds": [
+      "Amazon Basin"
+    ],
+    "native": true,
+    "introduced_regions": [
+      "Africa",
+      "Asia",
+      "Central America",
+      "Tropical regions worldwide"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to the northwestern Amazon and widely cultivated throughout tropical regions."
+  },
+  "source_information": {
+    "document_type": "journal_article",
+    "title": "Análise do Cacau Orgânico de São Félix do Xingu (PA) através da Cadeia Global de Valor",
+    "authors": [],
+    "institution": "",
+    "year": 2019,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Organic cacao",
+      "Value chain",
+      "Agroforestry"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "Very High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 26,
+        "max": 26
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 1800,
+        "max": 2200
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Shade tolerant.",
+      "sun_requirement": "Performs best beneath native shade trees."
+    },
+    "soil": {
+      "preferred_types": [
+        "High fertility tropical soils",
+        "Well-drained soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "High",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Shade-tolerant understory tree.",
+    "forest_layer": "Understory",
+    "canopy_position": "",
+    "carbon_storage": "Carbon storage",
+    "soil_improvement": "Soil fertility maintenance",
+    "erosion_control": "",
+    "water_regulation": "Water cycle regulation",
+    "microclimate_regulation": "Native shade trees improve microclimate.",
+    "pollinator_support": "Pollinator resource",
+    "wildlife_support": "Supports biodiversity in agroforestry systems."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Chocolate production",
+      "Income generation"
+    ],
+    "regulating": [
+      "Carbon storage",
+      "Water cycle regulation",
+      "Natural pest regulation"
+    ],
+    "supporting": [
+      "Forest restoration",
+      "Biodiversity conservation",
+      "Habitat for pollinators",
+      "Soil fertility maintenance"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Amazon restoration",
+      "Productive restoration",
+      "Agroforestry systems",
+      "Forest restoration",
+      "Landscape restoration",
+      "Family farming",
+      "Climate-smart agriculture"
+    ],
+    "restoration_phase": [
+      "Productive restoration",
+      "Forest enrichment"
+    ],
+    "recommended_land_types": [
+      "Humid tropical forests",
+      "Agroforestry systems",
+      "Forest restoration areas",
+      "Degraded cattle pastures"
+    ],
+    "degradation_types": [
+      "Deforestation",
+      "Degraded pastures"
+    ],
+    "restoration_objectives": [
+      "Carbon sequestration",
+      "Food security",
+      "Income generation",
+      "Biodiversity restoration"
+    ],
+    "recommended_species_mixtures": [
+      "Native shade trees",
+      "Agroforestry species"
+    ],
+    "restoration_notes": "One of the flagship species for productive forest restoration in the Amazon. Organic cacao agroforestry simultaneously restores biodiversity while generating sustainable income. Native shade trees improve soil fertility, microclimate, pollination, and natural pest regulation. Highly suitable for restoring degraded cattle pastures. Organic certification substantially increases value addition and producer resilience. Strong cooperative governance (CAMPPAX) demonstrates an effective restoration business model. FYNOS AI should prioritize cacao as a cornerstone species for integrated restoration landscapes combining ecological recovery, carbon sequestration, biodiversity conservation, and sustainable livelihoods."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Amazon agroforestry",
+      "Shade-grown cacao",
+      "Multi-strata agroforestry",
+      "Forest restoration systems"
+    ],
+    "compatible_crops": [
+      "Native shade trees",
+      "Agroforestry species"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "One of the world's flagship agroforestry crops."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "Rock dust and limestone for soil correction.",
+    "maintenance": [
+      "Natural pest control only.",
+      "No synthetic agrochemicals.",
+      "Fermentation in wooden boxes.",
+      "Sun drying on suspended drying platforms.",
+      "Organic certification standards.",
+      "Continuous technical assistance."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Hybrid seeds resistant to witches' broom supplied by CEPLAC.",
+      "germination_days": "",
+      "germination_rate_percent": null,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Organic-certified production.",
+        "Disease-resistant hybrid cultivars recommended."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Not described.",
+    "fruiting": "Harvest only mature pods.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Seeds are fermented immediately after harvest.",
+    "seed_dispersal": "",
+    "pollination": "Native insect pollinators."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Native insect pollinators"
+    ],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Native shade trees",
+      "Agroforestry species"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Native shade trees",
+      "Agroforestry species"
+    ],
+    "wildlife_interactions": [
+      "Supports pollinator habitat and forest biodiversity."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Chocolate",
+      "Cocoa liquor",
+      "Cocoa butter",
+      "Cocoa powder"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [
+      "Cocoa butter"
+    ],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Organic certified cocoa",
+      "Fine-flavor cocoa"
+    ],
+    "other": [
+      "Cocoa beans",
+      "Agroforestry crop"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Moniliophthora perniciosa (Witches' broom disease)"
+      ],
+      "diseases": [
+        "Witches' broom"
+      ]
+    },
+    "abiotic": [
+      "Climate change"
+    ],
+    "human": [
+      "Commodity price instability",
+      "Deforestation",
+      "Limited access to finance",
+      "Weak rural infrastructure"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "annual_temperature_c": 26
+    },
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {
+      "fermentation_days": 5,
+      "fermentation_temperature_c": 70,
+      "fermentation_turnings": 2,
+      "turning_schedule_hours": [
+        48,
+        72
+      ]
+    },
+    "productivity": {
+      "brazil_production_2017_tonnes": 56495,
+      "para_share_percent": 36.5,
+      "sao_felix_do_xingu_production_2017_tonnes": 4033,
+      "farms": 1365,
+      "average_farm_area_ha": 5.7,
+      "organic_certified_area_ha": 164.5,
+      "organic_producers": 30,
+      "organic_production_2017_tonnes": 90
+    },
+    "additional_measurements": {
+      "annual_rainfall_mm": {
+        "minimum": 1800,
+        "maximum": 2200
+      },
+      "organic_production_cost_increase_percent": 10,
+      "organic_price_2016_brl_per_kg": 13.0,
+      "organic_price_2017_brl_per_kg": 11.5,
+      "conventional_price_2016_brl_per_kg": 10.5,
+      "conventional_price_2017_brl_per_kg": 6.0
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Amazon rainforest",
+      "Agroforestry systems",
+      "Forest restoration areas",
+      "Degraded cattle pastures"
+    ],
+    "recommended_restoration_goals": [
+      "Carbon sequestration",
+      "Biodiversity restoration",
+      "Food security",
+      "Income generation",
+      "Climate-smart agriculture"
+    ],
+    "ideal_companion_species": [
+      "Native shade trees",
+      "Agroforestry species"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Flagship Amazon agroforestry species combining ecological restoration, biodiversity conservation, climate resilience and sustainable rural livelihoods."
+  },
+  "research": {
+    "gaps": [
+      "Long-term ecosystem service valuation.",
+      "Carbon sequestration benefits.",
+      "Economic resilience of organic cacao.",
+      "Landscape-scale biodiversity impacts.",
+      "Climate adaptation strategies."
+    ],
+    "scientific_uncertainties": [
+      "Long-term market stability.",
+      "Climate change impacts.",
+      "Future disease resistance.",
+      "Economic scalability of organic production."
+    ],
+    "potential_contradictions": [
+      "Organic production has higher production costs but provides greater price stability and value addition.",
+      "Although conventional cocoa may occasionally have higher short-term profitability during price booms, organic cocoa reduces market volatility and increases producer resilience."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "journal_article",
+      "title": "Análise do Cacau Orgânico de São Félix do Xingu (PA) através da Cadeia Global de Valor",
+      "journal": "Agroecossistemas",
+      "volume": 11,
+      "issue": 1,
+      "pages": "20–42",
+      "year": 2019,
+      "country": "Brazil"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

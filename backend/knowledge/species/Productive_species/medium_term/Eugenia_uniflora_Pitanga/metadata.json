@@ -1,0 +1,447 @@
+{
+  "species_profile": {
+    "scientific_name": "Eugenia uniflora",
+    "authority": "L.",
+    "family": "Myrtaceae",
+    "common_names": {
+      "english": [
+        "Surinam cherry",
+        "Brazilian cherry",
+        "Pitanga"
+      ],
+      "spanish": [
+        "Pitanga",
+        "Cereza de Surinam"
+      ],
+      "portuguese": [
+        "Pitanga"
+      ],
+      "french": [
+        "Cerisier de Cayenne"
+      ],
+      "local": [
+        "Pitanga"
+      ]
+    },
+    "life_form": "Shrub or small evergreen tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Myrtales",
+    "family": "Myrtaceae",
+    "genus": "Eugenia",
+    "species": "Eugenia uniflora"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Costa Rica",
+      "Panama"
+    ],
+    "ecoregions": [
+      "Atlantic Forest",
+      "Bocas del Toro",
+      "Talamanca"
+    ],
+    "biomes": [
+      "Humid tropical forest",
+      "Subtropical forest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Central America",
+      "Tropical America",
+      "Caribbean",
+      "Subtropical regions worldwide"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to Brazil and the Atlantic Forest and widely cultivated throughout tropical and subtropical regions."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "14 Árboles Frutales para Nuestras Fincas",
+    "authors": [
+      "Roberto Mack"
+    ],
+    "institution": "CATIE",
+    "year": null,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Central America"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Pitanga (Eugenia uniflora)"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Medium-High",
+    "restoration_value": "High",
+    "agroforestry_value": "High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "High",
+    "food_security_value": "High",
+    "income_generation_value": "Medium",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Partial shade",
+      "sun_requirement": "Full sun to partial shade."
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained soils",
+        "Moderately fertile soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "Moderate",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical",
+      "Subtropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early- to mid-successional shrub or small tree.",
+    "forest_layer": "Understory",
+    "canopy_position": "",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "",
+    "pollinator_support": "Pollinator support",
+    "wildlife_support": "Provides food for birds and wildlife."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production"
+    ],
+    "regulating": [],
+    "supporting": [
+      "Pollinator support",
+      "Farm diversification",
+      "Living fences"
+    ],
+    "cultural": [
+      "Urban greening",
+      "Ornamental landscaping"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Community agroforestry",
+      "Living fences",
+      "Home gardens",
+      "Urban restoration",
+      "Mixed fruit systems",
+      "Farm boundaries"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Community restoration"
+    ],
+    "recommended_land_types": [
+      "Forest edges",
+      "Farm boundaries",
+      "Roadsides",
+      "Home gardens",
+      "Mixed agroforestry systems"
+    ],
+    "degradation_types": [
+      "Habitat conversion"
+    ],
+    "restoration_objectives": [
+      "Food security",
+      "Biodiversity",
+      "Farm diversification"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Excellent small native fruit species for diversified agroforestry systems. Produces fruit throughout the year, providing continuous food for households and wildlife. Its adaptability allows use in home gardens, living fences, and restoration of degraded farm boundaries. The compact size makes it ideal for community restoration projects where space is limited. Requires minimal management beyond pruning and adapts to a wide range of growing conditions. Within FYNOS AI, pitanga is recommended as a complementary fruit species for diversified, multi-strata restoration landscapes emphasizing food security and biodiversity."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Community agroforestry",
+      "Mixed fruit systems",
+      "Home gardens",
+      "Living fences"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Highly adaptable species for smallholder agroforestry and home garden systems."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "minimum": 2,
+      "maximum": 4
+    },
+    "spacing": [
+      "2 m"
+    ],
+    "planting_methods": [
+      "Seeds",
+      "Wild seedlings"
+    ],
+    "pruning": "Frequently pruned to maintain shrub form or living fences.",
+    "fertilization": "",
+    "maintenance": [
+      "Plant in full sun or partial shade.",
+      "Suitable for boundaries and around homes.",
+      "Spacing depends on pruning intensity.",
+      "Mark young plants in the field with stakes."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Seeds should not be allowed to dry before sowing. Sow approximately 1 cm deep under shade.",
+      "germination_days": "14–28",
+      "germination_rate_percent": null,
+      "storage": "Seeds rapidly lose viability after drying."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "25–30 cm",
+      "special_care": [
+        "Maintain partial shade during nursery establishment.",
+        "Wild seedlings may be transplanted."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Not specified.",
+    "fruiting": "Produces fruit throughout the year under suitable conditions.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits and sow immediately before seeds dry.",
+    "seed_dispersal": "Birds and humans.",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Birds",
+      "Humans"
+    ],
+    "companion_species": [],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": [
+      "Fruit is highly attractive to birds."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruit",
+      "Jelly",
+      "Juices",
+      "Soft drinks"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [
+      "Ornamental landscaping"
+    ],
+    "industrial": [],
+    "other": [
+      "Living fences",
+      "Urban agroforestry",
+      "Fresh fruits"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Birds"
+      ],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": [
+      "Habitat conversion"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": {
+        "minimum": 6,
+        "maximum": 7
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seed_sowing_depth_cm": 1,
+      "germination_weeks": {
+        "minimum": 2,
+        "maximum": 4
+      }
+    },
+    "fruit_data": {
+      "fruit_diameter_cm": {
+        "minimum": 1.5,
+        "maximum": 4
+      },
+      "production_period": "Year-round"
+    },
+    "productivity": {
+      "productive_age_years": {
+        "minimum": 2,
+        "maximum": 4
+      }
+    },
+    "additional_measurements": {
+      "transplant_height_cm": {
+        "minimum": 25,
+        "maximum": 30
+      },
+      "recommended_spacing_m": 2
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Medium-High",
+    "recommended_landscape_types": [
+      "Community agroforestry",
+      "Home gardens",
+      "Farm boundaries",
+      "Urban restoration",
+      "Mixed fruit systems"
+    ],
+    "recommended_restoration_goals": [
+      "Food security",
+      "Biodiversity",
+      "Community restoration",
+      "Urban greening"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "Compact native fruit species ideal for diversified multi-strata agroforestry, living fences and community restoration projects where year-round fruit production and biodiversity are priorities."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Carbon sequestration.",
+      "Climate resilience.",
+      "Long-term agroforestry performance.",
+      "Wildlife seed dispersal ecology."
+    ],
+    "scientific_uncertainties": [
+      "Pollination ecology.",
+      "Carbon storage potential.",
+      "Climate adaptation.",
+      "Long-term productivity in restoration systems."
+    ],
+    "potential_contradictions": [
+      "No direct scientific contradictions identified.",
+      "Although pitanga tolerates partial shade, fruit production is generally better under full sunlight."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "14 Árboles Frutales para Nuestras Fincas",
+      "institution": "CATIE",
+      "author": "Roberto Mack",
+      "species_chapter": "Pitanga (Eugenia uniflora)"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

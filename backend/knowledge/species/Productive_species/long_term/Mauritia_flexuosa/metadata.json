@@ -1,0 +1,489 @@
+{
+  "species_profile": {
+    "scientific_name": "Mauritia flexuosa",
+    "authority": "L.f.",
+    "family": "Arecaceae",
+    "common_names": {
+      "english": [
+        "Buriti"
+      ],
+      "spanish": [
+        "Moriche",
+        "Canangucho",
+        "Aguaje"
+      ],
+      "portuguese": [
+        "Buriti",
+        "Miriti",
+        "Muriti",
+        "Buri",
+        "Carandaí-guaçu"
+      ],
+      "local": [
+        "Bororo",
+        "Bachê"
+      ]
+    },
+    "life_form": "Solitary palm",
+    "life_cycle": "",
+    "growth_form": "Palm",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "",
+    "class": "",
+    "order": "",
+    "family": "Arecaceae",
+    "genus": "Mauritia",
+    "species": "Mauritia flexuosa"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Peru",
+      "Colombia",
+      "Venezuela",
+      "Ecuador",
+      "Bolivia",
+      "Guyana",
+      "Suriname",
+      "French Guiana",
+      "Trinidad"
+    ],
+    "ecoregions": [],
+    "biomes": [
+      "Amazon",
+      "Cerrado",
+      "Caatinga"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native to Northern South America."
+  },
+  "source_information": {
+    "document_type": "technical_book",
+    "title": "Espécies Nativas da Flora Brasileira de Valor Econômico Atual ou Potencial – Plantas para o Futuro – Região Norte",
+    "authors": [],
+    "institution": "Ministério do Meio Ambiente (MMA)",
+    "year": 2022,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Oleaginosas"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "Very High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 22,
+        "max": 27
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 1141,
+        "max": 6315
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 0,
+        "max": 1000
+      }
+    },
+    "light": {
+      "shade_tolerance": "",
+      "sun_requirement": ""
+    },
+    "soil": {
+      "preferred_types": [
+        "Hydromorphic soils",
+        "Flooded soils",
+        "Anaerobic wetland soils"
+      ],
+      "texture": [],
+      "drainage": "Poorly drained to flooded",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Very High",
+      "waterlogging_tolerance": "Very High",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "",
+    "forest_layer": "Canopy",
+    "canopy_position": "Upper canopy",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "Reduces erosion",
+    "water_regulation": "Maintains groundwater and protects wetlands",
+    "microclimate_regulation": "",
+    "pollinator_support": "Supports beetle pollinators",
+    "wildlife_support": "Provides wildlife habitat"
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food",
+      "Oil",
+      "Fiber",
+      "Construction materials"
+    ],
+    "regulating": [
+      "Maintains groundwater",
+      "Protects wetlands",
+      "Reduces erosion"
+    ],
+    "supporting": [
+      "Supports biodiversity",
+      "Provides wildlife habitat"
+    ],
+    "cultural": [
+      "Traditional medicinal applications",
+      "Traditional fermented beverages"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Wetland restoration",
+      "Hydrological restoration",
+      "Riparian restoration",
+      "Biodiversity restoration"
+    ],
+    "restoration_phase": [],
+    "recommended_land_types": [
+      "Wetlands",
+      "Flooded forests",
+      "Riparian ecosystems",
+      "Springs"
+    ],
+    "degradation_types": [
+      "Wetland degradation",
+      "Hydrological alteration"
+    ],
+    "restoration_objectives": [
+      "Groundwater conservation",
+      "Wetland protection",
+      "Biodiversity restoration"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Excellent flagship species for wetland restoration, hydrological recovery and biodiversity conservation in Amazonian flooded ecosystems."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Agroforestry systems",
+      "Family farming"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": null,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Suitable for fruit production, oil production and wetland agroforestry."
+  },
+  "silviculture": {
+    "growth_rate": "",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [
+      "8×8 m",
+      "10×10 m"
+    ],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Use deep nursery containers.",
+      "Maintain 50% nursery shade.",
+      "Plant in permanently moist soils."
+    ],
+    "management_notes": "Maintain approximately 3% male palms in plantations."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Soak fruits for 24 hours before processing. Improved protocol includes 12-day soaking followed by one day of sun drying.",
+      "germination_days": "30–60",
+      "germination_rate_percent": "60–95",
+      "storage": "Seeds are recalcitrant."
+    },
+    "nursery": {
+      "transplant_age": "4–5 months",
+      "transplant_height": "",
+      "special_care": [
+        "Maintain 50% shade.",
+        "Use 4 L containers.",
+        "Production time of 6–8 months."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": [
+        "Embryo culture"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Annual",
+    "fruiting": "",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "",
+    "seed_dispersal": "Water, birds, rodents and humans.",
+    "pollination": "Entomophily by beetles (Coleoptera)."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Beetles (Coleoptera)"
+    ],
+    "seed_dispersers": [
+      "Water",
+      "Birds",
+      "Rodents",
+      "Humans"
+    ],
+    "companion_species": [
+      "Vanilla sp."
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Vanilla sp."
+    ],
+    "wildlife_interactions": [
+      "Orthopsittaca manilata",
+      "Reinarda squamata",
+      "Icterus chrysocephalus",
+      "Paracheirodon axelrodi",
+      "Paracheirodon simulans",
+      "Rodents"
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruits",
+      "Juices",
+      "Ice cream",
+      "Sweets",
+      "Flour",
+      "Wine",
+      "Jams",
+      "Cakes",
+      "Palm flour"
+    ],
+    "medicine": [
+      "Traditional medicinal applications"
+    ],
+    "fiber": [
+      "Ropes",
+      "Hammocks",
+      "Baskets",
+      "Brooms",
+      "Hats",
+      "Handicrafts",
+      "Roofing"
+    ],
+    "oil": [
+      "Food",
+      "Cosmetics",
+      "Pharmaceuticals",
+      "Biofuel",
+      "Lubricants",
+      "Soap",
+      "Glycerin"
+    ],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [
+      "Ornamental"
+    ],
+    "industrial": [
+      "Construction",
+      "Furniture",
+      "Floating structures"
+    ],
+    "other": []
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Rhynchophorus palmarum",
+        "Rhodnius spp."
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Fire",
+      "Hydrological alteration",
+      "Wetland degradation"
+    ],
+    "human": [
+      "Agricultural expansion"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 25,
+      "trunk_diameter_cm": 60,
+      "functional_leaves": {
+        "minimum": 8,
+        "maximum": 20
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seed_length_cm": 2.4,
+      "seed_weight_g": 4.86,
+      "embryo_length_mm": 6,
+      "germination_standard_days": "30–60",
+      "germination_standard_percent": 60,
+      "germination_improved_days": 42,
+      "germination_improved_percent": 95
+    },
+    "fruit_data": {
+      "fruit_length_cm": 5,
+      "fruit_width_cm": 4
+    },
+    "productivity": {
+      "flowering_age_years": {
+        "typical": 8,
+        "range": [
+          5,
+          11
+        ]
+      },
+      "inflorescences_per_year": {
+        "minimum": 3,
+        "maximum": 8
+      }
+    },
+    "additional_measurements": {
+      "leaf_length_m": 3.5,
+      "petiole_length_m": {
+        "minimum": 1.6,
+        "maximum": 4
+      },
+      "leaf_segments": {
+        "minimum": 45,
+        "maximum": 236
+      },
+      "nursery_shade_percent": 50
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Wetlands",
+      "Flooded forests",
+      "Riparian ecosystems",
+      "Springs"
+    ],
+    "recommended_restoration_goals": [
+      "Wetland restoration",
+      "Hydrological restoration",
+      "Food security",
+      "Biodiversity restoration"
+    ],
+    "ideal_companion_species": [
+      "Vanilla sp."
+    ],
+    "avoid_species": [],
+    "decision_notes": "Flagship Amazon wetland palm with exceptional ecological, economic and restoration value. Recommended as a priority species for hydrological restoration and sustainable agroforestry."
+  },
+  "research": {
+    "gaps": [
+      "Improve germination techniques",
+      "Optimize nursery production",
+      "Scale commercial plantations",
+      "Improve biotechnology protocols",
+      "Expand sustainable production systems"
+    ],
+    "scientific_uncertainties": [],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_book",
+      "title": "Espécies Nativas da Flora Brasileira de Valor Econômico Atual ou Potencial – Plantas para o Futuro – Região Norte",
+      "institution": "Ministério do Meio Ambiente (MMA)",
+      "year": 2022
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

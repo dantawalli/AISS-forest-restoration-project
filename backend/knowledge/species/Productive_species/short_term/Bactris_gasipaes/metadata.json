@@ -1,0 +1,524 @@
+{
+  "species_profile": {
+    "scientific_name": "Bactris gasipaes",
+    "authority": "Kunth",
+    "family": "Arecaceae",
+    "common_names": {
+      "english": [
+        "Peach palm",
+        "Peach palm heart"
+      ],
+      "spanish": [
+        "Pijuayo"
+      ],
+      "portuguese": [
+        "Pupunheira",
+        "Palmito de pupunha"
+      ],
+      "french": [],
+      "local": []
+    },
+    "life_form": "Multi-stemmed perennial palm",
+    "life_cycle": "Perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Liliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae",
+    "genus": "Bactris",
+    "species": "Bactris gasipaes"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil"
+    ],
+    "ecoregions": [
+      "Amazon"
+    ],
+    "biomes": [
+      "Amazon rainforest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native Amazonian palm widely cultivated for heart-of-palm and fruit production."
+  },
+  "source_information": {
+    "document_type": "technical_manuals",
+    "title": "Embrapa Technical Publications on Pupunheira",
+    "authors": [
+      "Edinelson José Maciel Neves",
+      "Álvaro Figueredo dos Santos",
+      "Antonio Aparecido Carpanezzi",
+      "Marília Locatelli",
+      "Clodeildes Lima Nunes",
+      "Abadio Hermes Vieira",
+      "Silas Garcia",
+      "Elisa Wandelli",
+      "Rogerio Perin",
+      "João Matos",
+      "Acácia Neves",
+      "Erick Fernandes"
+    ],
+    "institution": "Embrapa",
+    "year": "1996–2011",
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazilian Amazon"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Heart-of-palm production",
+      "Agroforestry",
+      "Silviculture",
+      "Soil management",
+      "Pasture restoration"
+    ],
+    "evidence_level": "Technical manuals"
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "High",
+    "food_security_value": "Very High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 21,
+        "max": 22.7
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 2000,
+        "max": 2000
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": 80,
+        "max": 90
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 15,
+        "max": 15
+      }
+    },
+    "light": {
+      "shade_tolerance": "Moderate",
+      "sun_requirement": ""
+    },
+    "soil": {
+      "preferred_types": [
+        "Cambissolos Flúvicos Tb Distróficos",
+        "Deep soils",
+        "Well-drained soils",
+        "Very clayey Oxisols",
+        "Degraded pasture soils"
+      ],
+      "texture": [
+        "Medium",
+        "Clay",
+        "Sandy-clay",
+        "Very clayey"
+      ],
+      "drainage": "Well-drained",
+      "fertility": "Tolerates low fertility soils. Acid soils require correction.",
+      "ph": {
+        "min": 4.3,
+        "max": 4.42
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low",
+      "waterlogging_tolerance": "Does not tolerate waterlogged soils.",
+      "drought_tolerance": "Moderate with irrigation"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "Sensitive to constant wind.",
+      "cold": "Does not tolerate frost.",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "",
+    "forest_layer": "",
+    "canopy_position": "",
+    "carbon_storage": "Contributes organic matter in agroforestry systems.",
+    "soil_improvement": "Useful for restoring degraded pastures.",
+    "erosion_control": "Crop residues help protect soil.",
+    "water_regulation": "",
+    "microclimate_regulation": "Provides shade in multistrata agroforestry systems.",
+    "pollinator_support": "",
+    "wildlife_support": "Endomycorrhizae may improve nutrient cycling."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Heart of palm",
+      "Fruit production",
+      "Animal feed"
+    ],
+    "regulating": [
+      "Organic matter production"
+    ],
+    "supporting": [
+      "Pasture restoration",
+      "Agroforestry diversification"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Recovery of degraded pastures",
+      "Agroforestry component",
+      "Shade for cupuaçu",
+      "Heart-of-palm production",
+      "Fruit production",
+      "Perennial crop with repeated harvests"
+    ],
+    "restoration_phase": [
+      "Productive restoration",
+      "Agroforestry establishment"
+    ],
+    "recommended_land_types": [
+      "Degraded pastures",
+      "Amazon agroforestry systems"
+    ],
+    "degradation_types": [
+      "Pasture degradation",
+      "Agricultural landscapes"
+    ],
+    "restoration_objectives": [
+      "Income generation",
+      "Food production",
+      "Soil recovery"
+    ],
+    "recommended_species_mixtures": [
+      "Theobroma grandiflorum",
+      "Euterpe edulis",
+      "Columbrina sp."
+    ],
+    "restoration_notes": "Excellent productive restoration palm with repeated harvesting potential. Particularly effective for recovering degraded pastures while generating early income from heart-of-palm and fruits."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Agroforestry systems",
+      "Commercial plantations",
+      "Family farming",
+      "Recovery of degraded pastures"
+    ],
+    "compatible_crops": [
+      "Rice",
+      "Cupuaçu",
+      "Açaí"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Widely recommended as a productive palm for Amazonian agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "High productivity; early heart-of-palm production.",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "minimum": 2,
+      "maximum": 3
+    },
+    "spacing": [
+      "2 × 1 m",
+      "6 × 2 m",
+      "6 × 6 m"
+    ],
+    "planting_methods": [
+      "Plant between late October and late February.",
+      "Open furrows in heavy soils.",
+      "Plow and harrow medium-textured soils."
+    ],
+    "pruning": "Maintain at most two vigorous suckers after harvest.",
+    "fertilization": "Maintain adequate fertilization. Nitrogen and potassium deficiencies corrected with 20 kg N and 25 kg KCl in agroforestry trials.",
+    "maintenance": [
+      "Avoid manual hoeing.",
+      "Control weeds.",
+      "Use treated cardboard mulch.",
+      "Harvest only vigorous plants.",
+      "Avoid harvesting during dry periods.",
+      "Use clean and sharp tools.",
+      "Retain 4–6 vigorous suckers after harvest.",
+      "Maintain crop residues between rows.",
+      "Prune neighboring species to increase light.",
+      "Use legumes for soil cover and organic matter.",
+      "Transport during cooler hours."
+    ],
+    "management_notes": "Repeated harvesting is possible through sucker management."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": "",
+      "germination_rate_percent": null,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "",
+    "fruiting": "Fruit production begins approximately 3.5 years after planting.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Theobroma grandiflorum",
+      "Euterpe edulis",
+      "Columbrina sp."
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Rice",
+      "Cupuaçu",
+      "Açaí"
+    ],
+    "wildlife_interactions": [
+      "Endomycorrhizae may contribute to greater nutrient uptake."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruits"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "Animal feed"
+    ],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Heart of palm",
+      "Fresh heart of palm",
+      "Processed heart of palm",
+      "Heart-of-palm cream",
+      "Wood"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Stem borer"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Weed competition",
+      "Waterlogging",
+      "Water deficit",
+      "Constant wind",
+      "Dry season reduces heart-of-palm yield",
+      "Low litter production may increase erosion"
+    ],
+    "human": [
+      "Poor management",
+      "Improper harvesting",
+      "Mechanical damage during transport",
+      "Inadequate fertilization"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {},
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {
+      "fruiting_age_years": 3.5,
+      "average_palmito_weight_g": 205,
+      "best_heart_of_palm_yield_kg_ha": 2349.75
+    },
+    "productivity": {
+      "first_harvest_months": {
+        "minimum": 18,
+        "maximum": 36
+      },
+      "yield_increase_percent": 76,
+      "additional_jars_300g": 3367
+    },
+    "additional_measurements": {
+      "annual_rainfall_mm": 2000,
+      "ideal_temperature_c": {
+        "minimum": 21,
+        "maximum": 22.7
+      },
+      "relative_humidity_percent": {
+        "minimum": 80,
+        "maximum": 90
+      },
+      "average_first_harvest_height_m": {
+        "minimum": 1.7,
+        "maximum": 1.8
+      },
+      "heart_of_palm_water_content_percent": 90,
+      "cut_height_above_ground_cm": {
+        "minimum": 30,
+        "maximum": 40
+      },
+      "remaining_suckers": {
+        "minimum": 4,
+        "maximum": 6
+      },
+      "agroforestry_area_m2": 9000,
+      "pupunha_plants": 248,
+      "cupuacu_plants": 90,
+      "acai_plants": 162,
+      "columbrina_plants": 63
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Medium",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Amazon agroforestry",
+      "Degraded pastures",
+      "Family farming systems"
+    ],
+    "recommended_restoration_goals": [
+      "Pasture recovery",
+      "Income generation",
+      "Food production"
+    ],
+    "ideal_companion_species": [
+      "Theobroma grandiflorum",
+      "Euterpe edulis",
+      "Columbrina sp."
+    ],
+    "avoid_species": [],
+    "decision_notes": "Highly productive Amazonian palm recommended for productive restoration and degraded pasture recovery. Particularly valuable because repeated harvesting provides continuous income while maintaining perennial vegetation cover."
+  },
+  "research": {
+    "gaps": [
+      "Minimum fertilization for degraded soils.",
+      "Selection of germplasm adapted for heart-of-palm production.",
+      "Selection of germplasm adapted for fruit production.",
+      "Fruit processing technology.",
+      "Industrialization of fresh heart of palm.",
+      "Market studies for fresh heart of palm."
+    ],
+    "scientific_uncertainties": [
+      "Mechanisms responsible for productivity increases.",
+      "Local adaptation under different climate and soil conditions."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "Cultivo da pupunheira para palmito com o uso de papelão tratado como cobertura de solo",
+      "institution": "Embrapa Florestas",
+      "authors": [
+        "Edinelson José Maciel Neves",
+        "Álvaro Figueredo dos Santos",
+        "Antonio Aparecido Carpanezzi"
+      ],
+      "year": 2011
+    },
+    {
+      "type": "technical_manual",
+      "title": "Palmito de Pupunha",
+      "institution": "Embrapa Florestas",
+      "year": 2010
+    },
+    {
+      "type": "technical_manual",
+      "title": "Recomendações para corte de pupunheira visando a produção de palmito",
+      "institution": "Embrapa Rondônia",
+      "authors": [
+        "Marília Locatelli",
+        "Clodeildes Lima Nunes",
+        "Abadio Hermes Vieira"
+      ],
+      "year": 2001
+    },
+    {
+      "type": "technical_manual",
+      "title": "A Pupunheira em Sistemas Agroflorestais",
+      "institution": "Embrapa Amazônia Ocidental",
+      "authors": [
+        "Silas Garcia",
+        "Elisa Wandelli",
+        "Rogerio Perin",
+        "João Matos",
+        "Acácia Neves",
+        "Erick Fernandes"
+      ],
+      "year": 1996
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Medium",
+    "distribution": "Medium",
+    "ecology": "High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

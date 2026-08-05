@@ -18,7 +18,13 @@ class RestorationBriefBuilder:
         self.species = StepSpeciesBuilder()
         self.impact = StepImpactBuilder()
 
-    def build(self, diagnosis, species, recommendations):
+    def build(
+            self,
+            diagnosis,
+            productive_species,
+            restoration_species,
+            recommendations,
+    ):
 
         restoration_brief = {
             "executive_summary": self.executive_summary.build(diagnosis, recommendations),
@@ -26,7 +32,14 @@ class RestorationBriefBuilder:
             "landscape_diagnosis": self.diagnosis.build(diagnosis),
             "restoration_priorities": self.priorities.build(diagnosis),
             "restoration_strategy": self.strategy.build(recommendations),
-            "recommended_species": self.species.build(species),
+            "productive_species": {
+                "title": "Recommended Productive Species",
+                "species": productive_species,
+            },
+
+            "recommended_species": self.species.build(
+                restoration_species
+            ),
             "expected_impact": self.impact.build(diagnosis),
         }
 

@@ -1,0 +1,468 @@
+{
+  "species_profile": {
+    "scientific_name": "Cajanus cajan",
+    "authority": "(L.) Millsp.",
+    "family": "Fabaceae",
+    "common_names": {
+      "english": [
+        "Pigeon pea"
+      ],
+      "spanish": [
+        "Gandul",
+        "Frijol de palo",
+        "Guandú"
+      ],
+      "portuguese": [
+        "Guandu",
+        "Feijão-guandu",
+        "Feijão-andu",
+        "Andu"
+      ],
+      "french": [],
+      "local": [
+        "Guandu",
+        "Andu"
+      ]
+    },
+    "life_form": "Shrubby nitrogen-fixing legume",
+    "life_cycle": "Annual to biennial perennial",
+    "growth_form": "Erect shrubby legume",
+    "native": false
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Cajanus",
+    "species": "Cajanus cajan"
+  },
+  "distribution": {
+    "countries": [
+      "India",
+      "Brazil"
+    ],
+    "ecoregions": [
+      "Tropical agricultural landscapes",
+      "Humid tropics",
+      "Subtropical farming systems"
+    ],
+    "biomes": [
+      "Tropical agroforestry systems",
+      "Silvopastoral systems",
+      "Degraded pastures",
+      "Crop rotation systems",
+      "Conservation agriculture",
+      "Tropical farming landscapes"
+    ],
+    "watersheds": [],
+    "native": false,
+    "introduced_regions": [
+      "Brazil",
+      "Tropical America",
+      "Africa",
+      "Asia"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to South Asia and widely cultivated throughout tropical and subtropical regions as a forage, food and restoration legume."
+  },
+  "source_information": {
+    "document_type": "technical_communication",
+    "title": "BRS Guatã - nova cultivar de Cajanus cajan",
+    "authors": [
+      "Frederico de Pina Matta",
+      "Patrícia Perondi Anchão Oliveira",
+      "Jaqueline Rosemeire Verzignassi",
+      "Lívia Mendes de Castro",
+      "André Luiz Monteiro Novo",
+      "Rodolfo Godoy"
+    ],
+    "institution": "Embrapa Pecuária Sudeste",
+    "year": 2026,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazil",
+      "Southeast Brazil",
+      "Central-West Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Forage production",
+      "Green manure",
+      "Pasture restoration",
+      "Nitrogen fixation",
+      "Crop rotation",
+      "Carbon sequestration",
+      "Nematode suppression",
+      "Cultivar improvement"
+    ],
+    "evidence_level": "Embrapa technical publication"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "High",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": true,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Moderate",
+      "sun_requirement": "Full sun"
+    },
+    "soil": {
+      "preferred_types": [
+        "Low fertility soils",
+        "Degraded agricultural soils",
+        "Pasture soils"
+      ],
+      "texture": [],
+      "drainage": "",
+      "fertility": "Adapted to low fertility soils",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "High"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Tropical",
+      "Subtropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early successional",
+    "forest_layer": "Shrub layer",
+    "canopy_position": "Understory shrub",
+    "carbon_storage": "High carbon accumulation through rapid biomass production.",
+    "soil_improvement": "Excellent biological nitrogen fixation, soil decompaction and organic matter accumulation.",
+    "erosion_control": "Provides permanent soil cover and root stabilization.",
+    "water_regulation": "Improves infiltration and soil structure.",
+    "microclimate_regulation": "Acts as living mulch and shade for young crops.",
+    "pollinator_support": "Provides flowers for beneficial insects.",
+    "wildlife_support": "Supports beneficial insects and improves agroecosystem biodiversity."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Human food",
+      "Livestock forage",
+      "Protein production"
+    ],
+    "regulating": [
+      "Nitrogen fixation",
+      "Carbon sequestration",
+      "Methane mitigation",
+      "Nematode suppression",
+      "Weed suppression"
+    ],
+    "supporting": [
+      "Soil organic matter accumulation",
+      "Soil decompaction",
+      "Water infiltration",
+      "Pasture restoration"
+    ],
+    "cultural": [
+      "Regenerative agriculture"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Pasture restoration",
+      "Green manure",
+      "Cover crop",
+      "Living mulch",
+      "Nitrogen enrichment",
+      "Degraded land rehabilitation"
+    ],
+    "restoration_phase": [
+      "Early restoration"
+    ],
+    "recommended_land_types": [
+      "Degraded pastures",
+      "Agricultural soils",
+      "Silvopastoral systems",
+      "Agroforestry systems"
+    ],
+    "degradation_types": [
+      "Compacted soils",
+      "Low fertility soils",
+      "Pasture degradation"
+    ],
+    "restoration_objectives": [
+      "Nitrogen enrichment",
+      "Organic matter accumulation",
+      "Pasture recovery",
+      "Carbon sequestration",
+      "Soil rehabilitation"
+    ],
+    "recommended_species_mixtures": [
+      "Brachiaria spp.",
+      "Zea mays",
+      "Glycine max",
+      "Sorghum bicolor",
+      "Triticum aestivum"
+    ],
+    "restoration_notes": "One of the most important multifunctional legumes for regenerative agriculture, degraded pasture recovery and tropical restoration through biological nitrogen fixation."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Agroforestry",
+      "Silvopastoral systems",
+      "Crop rotation",
+      "Protein banks",
+      "Living mulch systems",
+      "Green manure systems"
+    ],
+    "compatible_crops": [
+      "Brachiaria spp.",
+      "Zea mays",
+      "Glycine max",
+      "Sorghum bicolor",
+      "Triticum aestivum"
+    ],
+    "livestock_compatible": true,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Excellent multifunctional legume for integrated crop-livestock-forest systems and regenerative agriculture."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [],
+    "management_notes": "Generally managed as a forage shrub, green manure or rotational cover crop."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": {
+        "minimum": null,
+        "maximum": null
+      },
+      "germination_rate_percent": {},
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": null,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "",
+    "fruiting": "",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Brachiaria spp.",
+      "Zea mays",
+      "Glycine max",
+      "Sorghum bicolor",
+      "Triticum aestivum"
+    ],
+    "facilitates": [
+      "Nitrogen enrichment",
+      "Soil decompaction",
+      "Pasture productivity",
+      "Crop productivity"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Silvopastoral systems",
+      "Crop rotation",
+      "Green manure",
+      "Protein banks"
+    ],
+    "wildlife_interactions": []
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Edible grain"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "Livestock forage",
+      "Protein bank"
+    ],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Green manure",
+      "Cover crop",
+      "Living mulch"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 2.5,
+      "maximum_dbh_cm": null,
+      "wood_density_g_cm3": null
+    },
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {},
+    "productivity": {},
+    "additional_measurements": {}
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Moderate",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Regenerative agriculture",
+      "Silvopastoral systems",
+      "Pasture restoration",
+      "Agroforestry",
+      "Crop-livestock integration"
+    ],
+    "recommended_restoration_goals": [
+      "Nitrogen fixation",
+      "Organic matter accumulation",
+      "Pasture recovery",
+      "Carbon sequestration",
+      "Biological soil improvement"
+    ],
+    "ideal_companion_species": [
+      "Brachiaria spp.",
+      "Zea mays",
+      "Glycine max",
+      "Sorghum bicolor",
+      "Triticum aestivum"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Cajanus cajan is one of the highest-value multifunctional legumes for tropical restoration and regenerative agriculture because it combines nitrogen fixation, forage production, food security, soil rehabilitation and ecosystem service delivery within a single species."
+  },
+  "research": {
+    "gaps": [
+      "Long-term carbon sequestration monitoring",
+      "Remote sensing applications",
+      "Landscape-scale restoration performance",
+      "Climate adaptation across tropical regions",
+      "Microbiome interactions",
+      "Optimization of mixed agroforestry systems",
+      "Digital monitoring using AI",
+      "Large-scale ecosystem service valuation"
+    ],
+    "scientific_uncertainties": [],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_communication",
+      "title": "BRS Guatã - nova cultivar de Cajanus cajan",
+      "institution": "Embrapa Pecuária Sudeste",
+      "authors": [
+        "Frederico de Pina Matta",
+        "Patrícia Perondi Anchão Oliveira",
+        "Jaqueline Rosemeire Verzignassi",
+        "Lívia Mendes de Castro",
+        "André Luiz Monteiro Novo",
+        "Rodolfo Godoy"
+      ],
+      "year": 2026,
+      "pages": ""
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

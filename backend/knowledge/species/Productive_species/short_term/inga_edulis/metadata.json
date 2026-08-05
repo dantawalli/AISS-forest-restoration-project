@@ -1,0 +1,556 @@
+{
+  "species_profile": {
+    "scientific_name": "Inga edulis",
+    "authority": "Mart.",
+    "family": "Fabaceae",
+    "common_names": {
+      "english": [
+        "Ice cream bean"
+      ],
+      "spanish": [
+        "Guaba",
+        "Guabo",
+        "Guava"
+      ],
+      "portuguese": [
+        "Ingá-cipó",
+        "Ingá",
+        "Ingá-doce",
+        "Ingá-de-metro",
+        "Ingá-verdadeiro",
+        "Ingá-timbó",
+        "Ingá-banana",
+        "Ingá-rabo-de-mico"
+      ],
+      "french": [],
+      "local": [
+        "Guaba (Peru)"
+      ]
+    },
+    "life_form": "Fast-growing perennial tree",
+    "life_cycle": "Perennial (<20 years)",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiospermae",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Inga",
+    "species": "Inga edulis"
+  },
+  "distribution": {
+    "countries": [
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Venezuela"
+    ],
+    "ecoregions": [
+      "Amazon Rainforest",
+      "Atlantic Forest"
+    ],
+    "biomes": [
+      "Amazon terra firme forest",
+      "Amazon várzea forest",
+      "Riparian forest",
+      "Secondary forest",
+      "Atlantic Forest",
+      "Restinga",
+      "Floodplain forest",
+      "Gallery forest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Widely distributed throughout tropical South America, especially the Amazon Basin and Atlantic Forest."
+  },
+  "source_information": {
+    "document_type": "technical_reference",
+    "title": "Espécies Arbóreas Brasileiras – Volume 5",
+    "authors": [
+      "Paulo Ernani Ramalho Carvalho"
+    ],
+    "institution": "Embrapa Florestas",
+    "year": 2017,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Silviculture",
+      "Ecology",
+      "Restoration",
+      "Propagation",
+      "Agroforestry"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": true,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 17.5,
+        "max": 27.2
+      },
+      "absolute_minimum_c": -2.8,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 770,
+        "max": 3000
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 10,
+        "max": 1200
+      }
+    },
+    "light": {
+      "shade_tolerance": "Moderately shade tolerant during establishment",
+      "sun_requirement": "Full sun after establishment"
+    },
+    "soil": {
+      "preferred_types": [
+        "Clay soils",
+        "Wet soils",
+        "Floodplain soils",
+        "Riparian soils"
+      ],
+      "texture": [
+        "Clay"
+      ],
+      "drainage": "Moist to seasonally flooded",
+      "fertility": "Low to moderate fertility",
+      "ph": {
+        "min": 4.7,
+        "max": 5.8
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "High",
+      "waterlogging_tolerance": "High",
+      "drought_tolerance": ""
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical",
+      "Subtropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "Moderately tolerant to occasional frost",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Pioneer to early secondary",
+    "forest_layer": "Sub-canopy",
+    "canopy_position": "Sub-canopy to canopy tree",
+    "carbon_storage": "Fast-growing nitrogen-fixing tree contributing to rapid biomass accumulation.",
+    "soil_improvement": "Improves soil fertility through biological nitrogen fixation and litter production.",
+    "erosion_control": "Excellent for stabilizing riparian areas.",
+    "water_regulation": "Highly adapted to riparian zones and seasonally flooded environments.",
+    "microclimate_regulation": "Provides abundant shade for agroforestry crops.",
+    "pollinator_support": "Excellent nectar source for bees.",
+    "wildlife_support": "Produces abundant edible fruits consumed by birds, mammals and fish."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Fresh edible fruit",
+      "Fuelwood",
+      "Light timber",
+      "Traditional medicine"
+    ],
+    "regulating": [
+      "Nitrogen fixation",
+      "Carbon sequestration",
+      "Riparian stabilization"
+    ],
+    "supporting": [
+      "Forest restoration",
+      "Soil fertility improvement",
+      "Wildlife habitat"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Riparian restoration",
+      "Forest restoration",
+      "Agroforestry",
+      "Nitrogen enrichment",
+      "Shade tree",
+      "Recovery of degraded land"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Secondary succession"
+    ],
+    "recommended_land_types": [
+      "Riparian forests",
+      "Floodplains",
+      "Degraded agricultural land",
+      "Secondary forests"
+    ],
+    "degradation_types": [
+      "Riparian degradation",
+      "Deforested land",
+      "Low fertility soils"
+    ],
+    "restoration_objectives": [
+      "Rapid canopy formation",
+      "Soil fertility recovery",
+      "Nitrogen enrichment",
+      "Shade creation"
+    ],
+    "recommended_species_mixtures": [
+      "Coffee",
+      "Cacao",
+      "Native forest species"
+    ],
+    "restoration_notes": "One of the flagship Amazonian restoration species. Fast growth, nitrogen fixation, rapid litter production and excellent compatibility with agroforestry systems make it one of the highest-priority pioneer trees for ecological restoration."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Coffee agroforestry",
+      "Cacao agroforestry",
+      "Mixed native forest plantations"
+    ],
+    "compatible_crops": [
+      "Coffee (Coffea spp.)",
+      "Cacao (Theobroma cacao)"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "One of the world's most widely used nitrogen-fixing shade trees for coffee and cacao."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "maximum": 2
+    },
+    "spacing": [],
+    "planting_methods": [
+      "Nursery seedlings"
+    ],
+    "pruning": "",
+    "fertilization": "Organic fertilization or NPK recommended during nursery production.",
+    "maintenance": [
+      "Plant in full sun.",
+      "Excellent for initial secondary vegetation.",
+      "Benefits neighboring crops through shade and nitrogen fixation."
+    ],
+    "management_notes": "Excellent pioneer tree with rapid establishment."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "No pre-treatment required.",
+      "germination_days": "4–30",
+      "germination_rate_percent": "71–100",
+      "storage": "Recalcitrant seeds remain viable for about 60 days; storage is not recommended."
+    },
+    "nursery": {
+      "transplant_age": "3–4 months",
+      "transplant_height": "",
+      "special_care": [
+        "Sow immediately after extraction.",
+        "Use polyethylene bags or 120 cm³ tubes.",
+        "Organic fertilization recommended.",
+        "Supplement fertilization after 90 days."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "September to May depending on region.",
+    "fruiting": "Nearly year-round because fruiting is asynchronous among populations.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect pods directly from the tree when natural fruit fall begins.",
+    "seed_dispersal": "Zoochory and hydrochory.",
+    "pollination": "Primarily bees and wasps."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Bees",
+      "Wasps"
+    ],
+    "seed_dispersers": [
+      "Birds",
+      "Mammals",
+      "Fish",
+      "Water"
+    ],
+    "companion_species": [
+      "Coffee (Coffea spp.)",
+      "Cacao (Theobroma cacao)"
+    ],
+    "facilitates": [
+      "Nitrogen fixation",
+      "Shade production"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Coffee agroforestry",
+      "Cacao agroforestry",
+      "Mixed native plantations"
+    ],
+    "wildlife_interactions": [
+      "Edible fruits consumed by birds.",
+      "Edible fruits consumed by mammals.",
+      "Riparian fruits consumed by fish.",
+      "Excellent nectar source for bees."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Pulp",
+      "Fuelwood",
+      "Charcoal",
+      "Light internal construction",
+      "Boxes",
+      "Pack saddles"
+    ],
+    "food": [
+      "Fresh edible pulp"
+    ],
+    "medicine": [
+      "Fruit syrup for bronchitis",
+      "Bark for wound healing",
+      "Traditional treatment for diarrhea"
+    ],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [
+      "Fuelwood",
+      "Charcoal"
+    ],
+    "ornamental": [
+      "Urban landscaping"
+    ],
+    "industrial": [
+      "Tannin extraction"
+    ],
+    "other": [
+      "Bee forage",
+      "Shade tree"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Atta spp.",
+        "Anastrepha sp.",
+        "Morpho laertes",
+        "Oncideres saga"
+      ],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 28,
+      "maximum_dbh_cm": 90,
+      "wood_density_g_cm3": {
+        "minimum": 0.71,
+        "maximum": 0.75
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seeds_per_kg": {
+        "minimum": 565,
+        "maximum": 1250
+      },
+      "germination_days": {
+        "minimum": 4,
+        "maximum": 30
+      },
+      "germination_percent": {
+        "minimum": 71,
+        "maximum": 100
+      },
+      "storage_viability_days": 60
+    },
+    "fruit_data": {
+      "fruit_length_cm": {
+        "minimum": 30,
+        "maximum": 200
+      },
+      "fruit_width_cm": {
+        "minimum": 2,
+        "maximum": 5
+      },
+      "seed_length_cm": {
+        "minimum": 2,
+        "maximum": 3
+      },
+      "seed_width_cm": {
+        "minimum": 1,
+        "maximum": 1.5
+      }
+    },
+    "productivity": {
+      "fruiting_age_years": "<2"
+    },
+    "additional_measurements": {
+      "typical_height_m": {
+        "minimum": 5,
+        "maximum": 10
+      },
+      "leaf_length_cm": {
+        "minimum": 22,
+        "maximum": 29
+      },
+      "leaf_width_cm": {
+        "minimum": 16,
+        "maximum": 25
+      },
+      "leaflet_pairs": {
+        "minimum": 4,
+        "maximum": 6
+      },
+      "annual_rainfall_mm": {
+        "minimum": 770,
+        "maximum": 3000
+      },
+      "mean_temperature_c": {
+        "minimum": 17.5,
+        "maximum": 27.2
+      },
+      "minimum_temperature_c": -2.8,
+      "altitude_m": {
+        "minimum": 10,
+        "maximum": 1200
+      },
+      "soil_ph": {
+        "minimum": 4.7,
+        "maximum": 5.8
+      },
+      "germination_temperature_c": 30,
+      "nursery_period_months": {
+        "minimum": 3,
+        "maximum": 4
+      },
+      "annual_litterfall_t_ha": 9.63
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "High",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Riparian forests",
+      "Floodplains",
+      "Amazon restoration",
+      "Coffee agroforestry",
+      "Cacao agroforestry"
+    ],
+    "recommended_restoration_goals": [
+      "Nitrogen enrichment",
+      "Rapid biomass accumulation",
+      "Riparian restoration",
+      "Shade establishment",
+      "Soil fertility recovery"
+    ],
+    "ideal_companion_species": [
+      "Coffee",
+      "Cacao",
+      "Native pioneer trees"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Inga edulis is one of the most important restoration species for tropical agroforestry. Its rapid growth, nitrogen fixation, abundant litter production and compatibility with coffee and cacao systems make it a flagship species for FYNOS AI restoration strategies."
+  },
+  "research": {
+    "gaps": [
+      "Quantitative plantation productivity.",
+      "Long-term silvicultural management.",
+      "Growth performance across restoration systems."
+    ],
+    "scientific_uncertainties": [
+      "Pollination confirmation.",
+      "Long-term plantation productivity.",
+      "Clinical validation of medicinal uses."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_reference",
+      "title": "Espécies Arbóreas Brasileiras – Volume 5",
+      "institution": "Embrapa Florestas",
+      "authors": [
+        "Paulo Ernani Ramalho Carvalho"
+      ],
+      "year": 2017,
+      "pages": "299–305"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

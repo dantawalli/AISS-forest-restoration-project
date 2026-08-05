@@ -1,0 +1,614 @@
+{
+  "species_profile": {
+    "scientific_name": "Mauritia flexuosa",
+    "authority": "L.f.",
+    "family": "Arecaceae",
+    "common_names": {
+      "english": [
+        "Buriti Palm",
+        "Moriche Palm"
+      ],
+      "spanish": [
+        "Aguaje",
+        "Canangucho",
+        "Moriche"
+      ],
+      "portuguese": [
+        "Buriti",
+        "Miriti",
+        "Muriti",
+        "Buri",
+        "Carandaí-guaçu"
+      ],
+      "french": [],
+      "local": [
+        "Aguaje",
+        "Moriche",
+        "Bororo",
+        "Bachê"
+      ]
+    },
+    "life_form": "Emergent palm",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Liliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae",
+    "genus": "Mauritia",
+    "species": "Mauritia flexuosa"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Peru",
+      "Bolivia",
+      "Colombia",
+      "Ecuador",
+      "Venezuela",
+      "Guyana",
+      "French Guiana",
+      "Suriname",
+      "Trinidad"
+    ],
+    "ecoregions": [
+      "Amazon Rainforest",
+      "Cerrado",
+      "Caatinga",
+      "Gallery Forests",
+      "Wetlands",
+      "Palm Swamps",
+      "Flooded Forests"
+    ],
+    "biomes": [
+      "Buritizais",
+      "Aguajales",
+      "Morichales",
+      "Igapó Forest",
+      "Gallery Forest",
+      "Riparian Forest",
+      "Wetlands",
+      "Swamps",
+      "Springs",
+      "Veredas",
+      "Floodplains"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "One of the dominant palm species of Amazonian wetlands and seasonally flooded ecosystems, widely distributed throughout northern South America."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "Buriti (Folder Técnico); Plantas para o Futuro – Região Nordeste",
+    "authors": [
+      "Maria das Graças Rodrigues Ferreira",
+      "Ferreira et al."
+    ],
+    "institution": "Embrapa",
+    "year": 2017,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazil",
+      "Amazon Basin"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Wetland restoration",
+      "Silviculture",
+      "Propagation",
+      "Non-timber forest products"
+    ],
+    "evidence_level": "Technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "Very High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": true,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 22,
+        "max": 27
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 1141,
+        "max": 6315
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 0,
+        "max": 900
+      }
+    },
+    "light": {
+      "shade_tolerance": "Prefers open wetland environments.",
+      "sun_requirement": "Full sun"
+    },
+    "soil": {
+      "preferred_types": [
+        "Hydromorphic soils",
+        "Flooded soils",
+        "Organic-rich soils",
+        "Acidic wetlands",
+        "Swamp soils"
+      ],
+      "texture": [
+        "Organic",
+        "Clay"
+      ],
+      "drainage": "Poorly drained to permanently flooded.",
+      "fertility": "High organic matter.",
+      "ph": {
+        "min": 3.5,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Very High",
+      "waterlogging_tolerance": "Very High",
+      "drought_tolerance": "Moderate only when groundwater remains available."
+    },
+    "topography": {
+      "slope_preference": "Floodplains, wetlands and springs",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "Low",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late-successional wetland species",
+    "forest_layer": "Upper canopy",
+    "canopy_position": "Emergent palm",
+    "carbon_storage": "Major long-term carbon sink in tropical wetlands.",
+    "soil_improvement": "Stabilizes hydromorphic soils and reduces erosion.",
+    "erosion_control": "Protects springs, wetlands and riparian soils.",
+    "water_regulation": "Maintains groundwater recharge, streamflow and wetland hydrology.",
+    "microclimate_regulation": "Creates permanent humid microclimates in palm swamps.",
+    "pollinator_support": "Supports specialized beetle pollinators.",
+    "wildlife_support": "Provides food, shelter and breeding habitat for numerous vertebrates and insects."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Fruit",
+      "Oil",
+      "Fiber",
+      "Construction materials",
+      "Traditional medicine",
+      "Honey",
+      "Animal protein"
+    ],
+    "regulating": [
+      "Hydrological regulation",
+      "Carbon sequestration",
+      "Soil stabilization"
+    ],
+    "supporting": [
+      "Wetland biodiversity",
+      "Wildlife habitat",
+      "Pollination",
+      "Flood regulation"
+    ],
+    "cultural": [
+      "Traditional Amazonian livelihoods",
+      "Indigenous cultural importance"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Wetland restoration",
+      "Riparian restoration",
+      "Spring protection",
+      "Hydrological restoration",
+      "Carbon sequestration",
+      "Biodiversity restoration"
+    ],
+    "restoration_phase": [
+      "Long-term restoration"
+    ],
+    "recommended_land_types": [
+      "Wetlands",
+      "Riparian forests",
+      "Floodplains",
+      "Palm swamps",
+      "Spring protection areas"
+    ],
+    "degradation_types": [
+      "Wetland degradation",
+      "Riparian degradation",
+      "Spring degradation"
+    ],
+    "restoration_objectives": [
+      "Hydrological recovery",
+      "Carbon storage",
+      "Wildlife restoration",
+      "Community livelihoods"
+    ],
+    "recommended_species_mixtures": [
+      "Euterpe oleracea",
+      "Oenocarpus spp."
+    ],
+    "restoration_notes": "Flagship wetland restoration species indispensable for restoring Amazonian hydrological ecosystems."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Agroforestry",
+      "Sustainable extractivism",
+      "Community forest management"
+    ],
+    "compatible_crops": [
+      "Banana",
+      "Maize",
+      "Cassava",
+      "Pituca",
+      "Sachapapa",
+      "Mango",
+      "Guaba",
+      "Chonta"
+    ],
+    "livestock_compatible": false,
+    "shade_crop": true,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Highly suitable for diversified Amazonian agroforestry systems based on sustainable fruit production."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [
+      "8 × 8 m",
+      "10 × 10 m"
+    ],
+    "planting_methods": [
+      "Seedlings",
+      "Agroforestry systems",
+      "Wetland restoration planting"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Maintain permanent soil moisture.",
+      "Avoid destruction of wetlands.",
+      "Retain approximately 3% male plants.",
+      "Protect springs.",
+      "Avoid fire."
+    ],
+    "management_notes": "Management should prioritize wetland conservation and sustainable fruit harvesting."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Fresh seeds with soaking treatments (12–30 days). Seeds are recalcitrant and should never be dried.",
+      "germination_days": {
+        "minimum": 24,
+        "maximum": 260
+      },
+      "germination_rate_percent": {
+        "minimum": 70,
+        "maximum": 100
+      },
+      "storage": "Recalcitrant; viability lost below 13% moisture."
+    },
+    "nursery": {
+      "transplant_age": "6–8 months",
+      "transplant_height": "",
+      "special_care": [
+        "50% shade",
+        "Frequent irrigation",
+        "Well-drained nursery substrate",
+        "Avoid prolonged waterlogging"
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Flowering begins between 5 and 11 years of age with annual flowering producing 3–8 inflorescences.",
+    "fruiting": "Fruit matures 9–12 months after flowering, with fruit fall during the rainy season.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits after natural fall or directly from bunches.",
+    "seed_dispersal": "Floodwater (hydrochory) and natural fruit fall.",
+    "pollination": "Primarily beetles (Coleoptera)."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Coleopteran beetles"
+    ],
+    "seed_dispersers": [
+      "Floodwaters"
+    ],
+    "companion_species": [
+      "Euterpe oleracea",
+      "Oenocarpus spp."
+    ],
+    "facilitates": [
+      "Wetland biodiversity",
+      "Wildlife breeding habitats"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Banana",
+      "Maize",
+      "Cassava",
+      "Pituca",
+      "Sachapapa",
+      "Mango",
+      "Guaba",
+      "Chonta"
+    ],
+    "wildlife_interactions": [
+      "Provides breeding habitat for birds.",
+      "Provides food for wildlife.",
+      "Associated with Vanilla species.",
+      "Supports ornamental fish habitats.",
+      "Associated with Rhodnius insects.",
+      "Supports Rhynchophorus palmarum larvae.",
+      "Functions as an important biodiversity hotspot."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Bridges",
+      "Stilt houses",
+      "Furniture",
+      "Roofing",
+      "Water channels",
+      "Construction timber"
+    ],
+    "food": [
+      "Fresh fruit",
+      "Juices",
+      "Wine",
+      "Ice cream",
+      "Popsicles",
+      "Jams",
+      "Sweets",
+      "Flour",
+      "Bread"
+    ],
+    "medicine": [
+      "Traditional medicine",
+      "Vitamin A source",
+      "Vitamin E source"
+    ],
+    "fiber": [
+      "Ropes",
+      "Hammocks",
+      "Baskets",
+      "Bags",
+      "Sandals",
+      "Mats",
+      "Hats",
+      "Handicrafts"
+    ],
+    "oil": [
+      "Food oil",
+      "Cosmetics",
+      "Massage oil",
+      "Biofuel",
+      "Lubricants",
+      "Soap",
+      "Sunscreen"
+    ],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [
+      "Landscape planting"
+    ],
+    "industrial": [
+      "Soap",
+      "Biofuel",
+      "Lubricants"
+    ],
+    "other": [
+      "Palm wine",
+      "Honey",
+      "Rhynchophorus larvae production"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Seed insects"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Wetland degradation",
+      "Spring destruction",
+      "Fire",
+      "Groundwater loss",
+      "Climate change"
+    ],
+    "human": [
+      "Agricultural expansion",
+      "Burning",
+      "Drainage",
+      "Unsustainable fruit harvesting"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 20,
+      "maximum_dbh_cm": null
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germination_days": {
+        "minimum": 24,
+        "maximum": 260
+      },
+      "germination_percent": {
+        "minimum": 70,
+        "maximum": 100
+      }
+    },
+    "fruit_data": {
+      "fruit_length_cm": 5,
+      "fruit_width_cm": 4,
+      "bunch_length_m": {
+        "minimum": 1.58,
+        "maximum": 2.25
+      },
+      "bunch_weight_kg": {
+        "minimum": 18.5,
+        "maximum": 43.6
+      },
+      "fruits_per_bunch": {
+        "minimum": 243,
+        "maximum": 628
+      }
+    },
+    "productivity": {
+      "flowering_age_years": {
+        "minimum": 5,
+        "maximum": 11
+      },
+      "fruit_maturation_months": {
+        "minimum": 9,
+        "maximum": 12
+      }
+    },
+    "additional_measurements": {
+      "annual_rainfall_mm": {
+        "minimum": 1141,
+        "maximum": 6315
+      },
+      "annual_temperature_c": {
+        "minimum": 22,
+        "maximum": 27
+      },
+      "altitude_m": {
+        "minimum": 0,
+        "maximum": 900
+      },
+      "soil_ph": 3.5,
+      "inflorescences_per_year": {
+        "minimum": 3,
+        "maximum": 8
+      },
+      "recommended_male_plants_percent": 3
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "High",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Wetlands",
+      "Palm swamps",
+      "Riparian forests",
+      "Floodplains",
+      "Hydrological restoration projects"
+    ],
+    "recommended_restoration_goals": [
+      "Hydrological recovery",
+      "Carbon sequestration",
+      "Community livelihoods",
+      "Biodiversity conservation"
+    ],
+    "ideal_companion_species": [
+      "Euterpe oleracea",
+      "Oenocarpus spp."
+    ],
+    "avoid_species": [],
+    "decision_notes": "Mauritia flexuosa is one of the most important ecosystem-engineering palms in the Amazon. It maintains wetland hydrology, supports exceptional biodiversity and provides outstanding socioeconomic value, making it a flagship species for nature-based restoration."
+  },
+  "research": {
+    "gaps": [
+      "Cultivation techniques.",
+      "Sustainable management systems.",
+      "Carbon sequestration potential.",
+      "Ecological monitoring indicators."
+    ],
+    "scientific_uncertainties": [
+      "Cultivation practices remain insufficiently studied.",
+      "Threat status has not been officially assessed in Brazil."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "Buriti (Folder Técnico)",
+      "institution": "Embrapa Rondônia",
+      "authors": [
+        "Maria das Graças Rodrigues Ferreira"
+      ],
+      "year": 2005
+    },
+    {
+      "type": "book_chapter",
+      "title": "Plantas para o Futuro – Região Nordeste",
+      "institution": "Embrapa",
+      "authors": [
+        "Ferreira et al."
+      ],
+      "year": 2017,
+      "pages": "193–204"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

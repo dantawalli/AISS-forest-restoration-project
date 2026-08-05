@@ -1,0 +1,595 @@
+{
+  "species_profile": {
+    "scientific_name": "Schizolobium amazonicum",
+    "authority": "Huber ex Ducke",
+    "family": "Fabaceae",
+    "common_names": {
+      "english": [
+        "Amazon paricá",
+        "Amazon guapuruvu"
+      ],
+      "spanish": [
+        "Pashaco",
+        "Palo de judío",
+        "Palo de picho"
+      ],
+      "portuguese": [
+        "Paricá",
+        "Paricá-da-amazônia",
+        "Paricá-da-terra-firme",
+        "Paricá-grande",
+        "Faveira",
+        "Bandarra",
+        "Canafista",
+        "Canafístula",
+        "Guapuruvu-da-amazônia",
+        "Pinho-cuiabano"
+      ],
+      "french": [],
+      "local": [
+        "Pashaco (Peru)"
+      ]
+    },
+    "life_form": "Large emergent pioneer hardwood tree",
+    "life_cycle": "Medium-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Schizolobium",
+    "species": "Schizolobium amazonicum"
+  },
+  "distribution": {
+    "countries": [
+      "Mexico",
+      "Costa Rica",
+      "Honduras",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Bolivia",
+      "Brazil"
+    ],
+    "ecoregions": [
+      "Amazon Rainforest",
+      "Amazon floodplain",
+      "Amazon terra firme",
+      "Humid montane forests"
+    ],
+    "biomes": [
+      "Terra firme forest",
+      "High várzea forest",
+      "Primary forest",
+      "Secondary forest",
+      "Dense Ombrophilous Forest",
+      "Semi-deciduous Seasonal Forest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native to the Amazon Basin and surrounding humid tropical forests, especially terra firme and well-drained secondary forests."
+  },
+  "source_information": {
+    "document_type": "book_chapter",
+    "title": "Espécies Arbóreas Brasileiras – Volume 2",
+    "authors": [
+      "Paulo Ernani Ramalho Carvalho"
+    ],
+    "institution": "Embrapa Florestas",
+    "year": 2007,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Amazon Basin",
+      "Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Silviculture",
+      "Commercial forestry",
+      "Restoration",
+      "Seed technology",
+      "Vegetative propagation"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "High",
+    "food_security_value": "Low",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 24.8,
+        "max": 26.6
+      },
+      "absolute_minimum_c": 6,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 1600,
+        "max": 5850
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 20,
+        "max": 200
+      }
+    },
+    "light": {
+      "shade_tolerance": "Intolerant.",
+      "sun_requirement": "Full sun."
+    },
+    "soil": {
+      "preferred_types": [
+        "Fertile clay soils",
+        "Alluvial soils",
+        "Deep tropical soils"
+      ],
+      "texture": [
+        "Clay",
+        "Alluvial"
+      ],
+      "drainage": "Well-drained.",
+      "fertility": "Low to high depending on locality.",
+      "ph": {
+        "min": 3.7,
+        "max": 5.5
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Suitable only for riparian sites without permanent flooding.",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "Moderate"
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "Sensitive to strong winds.",
+      "cold": "Poor tolerance; survives only short frosts.",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Pioneer",
+    "forest_layer": "Emergent",
+    "canopy_position": "Emergent canopy tree",
+    "carbon_storage": "Very rapid biomass accumulation suitable for commercial carbon sequestration.",
+    "soil_improvement": "Rapid site occupation and canopy development accelerate succession.",
+    "erosion_control": "Provides rapid soil cover in restoration projects.",
+    "water_regulation": "Suitable for riparian restoration where flooding is absent.",
+    "microclimate_regulation": "Rapid canopy closure moderates temperature and light.",
+    "pollinator_support": "Flowers provide nectar resources for bees and insects.",
+    "wildlife_support": "Supports early successional biodiversity."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Timber",
+      "Cellulose",
+      "Paper pulp"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Rapid forest recovery",
+      "Soil stabilization"
+    ],
+    "supporting": [
+      "Secondary succession",
+      "Pollinator resources",
+      "Habitat formation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Forest restoration",
+      "Riparian restoration",
+      "Secondary forest recovery",
+      "Agroforestry",
+      "Commercial reforestation",
+      "Windbreak enrichment"
+    ],
+    "restoration_phase": [
+      "Early restoration"
+    ],
+    "recommended_land_types": [
+      "Terra firme",
+      "Secondary forests",
+      "Degraded agricultural land",
+      "Well-drained riparian zones"
+    ],
+    "degradation_types": [
+      "Deforested land",
+      "Secondary forests",
+      "Agricultural degradation"
+    ],
+    "restoration_objectives": [
+      "Rapid canopy formation",
+      "Commercial timber production",
+      "Carbon sequestration",
+      "Secondary succession"
+    ],
+    "recommended_species_mixtures": [
+      "Coffee",
+      "Cacao",
+      "Maize"
+    ],
+    "restoration_notes": "One of the fastest-growing commercial Amazonian timber trees and highly valuable for large-scale restoration where rapid biomass production is desired."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Coffee agroforestry",
+      "Cacao agroforestry",
+      "Windbreaks",
+      "Mixed plantations"
+    ],
+    "compatible_crops": [
+      "Coffee",
+      "Cacao",
+      "Maize"
+    ],
+    "livestock_compatible": false,
+    "shade_crop": true,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Useful as a temporary shade tree and commercial timber component in tropical agroforestry."
+  },
+  "silviculture": {
+    "growth_rate": "Very fast",
+    "rotation_years": 15,
+    "harvest_age_years": 15,
+    "spacing": [
+      "4 × 3 m",
+      "4 × 4 m",
+      "20 × 5 m (coffee systems)",
+      "4–5 m between trees (windbreaks)"
+    ],
+    "planting_methods": [
+      "Seedlings",
+      "Vegetative propagation"
+    ],
+    "pruning": "Natural self-pruning.",
+    "fertilization": "Balanced boron nutrition is recommended.",
+    "maintenance": [
+      "Plant under full sunlight.",
+      "Protect against strong winds.",
+      "Mixed plantations improve stand stability."
+    ],
+    "management_notes": "Excellent commercial timber species requiring open conditions and protection from strong winds."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Mechanical scarification preferred; sulfuric acid (60 minutes) or hot water (80°C) are also effective.",
+      "germination_days": {
+        "min": 6,
+        "max": 45
+      },
+      "germination_rate_percent": {
+        "treated": {
+          "min": 85,
+          "max": 100
+        },
+        "untreated": {
+          "max": 16
+        }
+      },
+      "storage": "Orthodox seeds remain viable for up to two years."
+    },
+    "nursery": {
+      "transplant_age": "Approximately 60 days",
+      "transplant_height": "20–35 cm",
+      "special_care": [
+        "Direct sowing in polyethylene bags or large tubes.",
+        "Avoid shade.",
+        "Mechanical scarification recommended."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Juvenile cuttings",
+        "IBA-treated cuttings",
+        "Micropropagation with BAP"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "May–June (Mato Grosso); June–July (Pará).",
+    "fruiting": "August–September (Rondônia); August–October (Pará).",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect fruits when light brown and beginning natural dehiscence.",
+    "seed_dispersal": "Barochory and anemochory.",
+    "pollination": "Bees and small insects."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Bees",
+      "Small insects"
+    ],
+    "seed_dispersers": [
+      "Wind",
+      "Gravity"
+    ],
+    "companion_species": [
+      "Coffee",
+      "Cacao",
+      "Maize"
+    ],
+    "facilitates": [
+      "Rapid canopy establishment",
+      "Secondary succession",
+      "Commercial agroforestry"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Coffee agroforestry",
+      "Cacao agroforestry",
+      "Maize intercropping",
+      "Windbreaks"
+    ],
+    "wildlife_interactions": [
+      "Provides nectar resources for insects."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Plywood",
+      "Core veneer",
+      "Doors",
+      "Parquet",
+      "Light boxes",
+      "Toys",
+      "Fuelwood"
+    ],
+    "food": [],
+    "medicine": [
+      "Traditional treatment for dysentery",
+      "Traditional treatment for uterine hemorrhage",
+      "Traditional treatment for diarrhea"
+    ],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [
+      "Fuelwood"
+    ],
+    "ornamental": [],
+    "industrial": [
+      "Cellulose",
+      "Paper pulp"
+    ],
+    "other": [
+      "Riparian restoration"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Terminal shoot borer",
+        "Apical bud insect"
+      ],
+      "diseases": [
+        "Fusarium spp.",
+        "Botryodiplodia spp.",
+        "Rosellinia spp."
+      ]
+    },
+    "abiotic": [
+      "Strong winds",
+      "Low temperatures"
+    ],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 40,
+      "maximum_dbh_cm": 100,
+      "wood_density_g_cm3": {
+        "min": 0.3,
+        "max": 0.62
+      }
+    },
+    "wood_properties": {
+      "lignin_percent": 34.7
+    },
+    "seed_data": {
+      "seeds_per_kg": {
+        "min": 980,
+        "max": 1400
+      },
+      "germination_days": {
+        "min": 6,
+        "max": 45
+      }
+    },
+    "fruit_data": {
+      "fruit_length_cm": {
+        "min": 6,
+        "max": 10
+      },
+      "fruit_width_cm": {
+        "min": 1.5,
+        "max": 3
+      },
+      "seeds_per_fruit": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "productivity": {
+      "annual_increment_m3_ha_year": {
+        "maximum": 38
+      },
+      "rotation_years": 15
+    },
+    "additional_measurements": {
+      "bole_length_m": 25,
+      "bark_thickness_mm": 15,
+      "leaf_length_cm": {
+        "min": 60,
+        "max": 150
+      },
+      "leaflet_pairs": {
+        "min": 15,
+        "max": 20
+      },
+      "inflorescence_length_cm": {
+        "min": 15,
+        "max": 30
+      },
+      "flower_length_cm": {
+        "min": 2,
+        "max": 2.2
+      },
+      "seed_length_mm": {
+        "min": 16,
+        "max": 21
+      },
+      "seed_width_mm": {
+        "min": 11,
+        "max": 14
+      },
+      "seed_protein_percent": 21.19,
+      "palmitic_acid_percent": 6.46,
+      "lipids_percent": 3.86,
+      "annual_rainfall_mm": {
+        "min": 1600,
+        "max": 5850
+      },
+      "mean_temperature_c": {
+        "min": 24.8,
+        "max": 26.6
+      },
+      "absolute_minimum_temperature_c": 6,
+      "frost_tolerance_c": -2,
+      "soil_ph": {
+        "min": 3.7,
+        "max": 5.5
+      },
+      "optimal_boron_mg_dm3": 0.15,
+      "seed_storage_years": 2,
+      "scarification_h2so4_minutes": 60,
+      "nursery_period_days": 60,
+      "seedling_height_cm": {
+        "min": 20,
+        "max": 35
+      },
+      "iba_ppm": {
+        "min": 2000,
+        "max": 4000
+      },
+      "maximum_rooting_percent": 83.07,
+      "bap_mg_l": 3,
+      "height_18_months_m": 4,
+      "dbh_18_months_cm": 10
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Moderate",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Terra firme forests",
+      "Secondary forests",
+      "Commercial restoration",
+      "Agroforestry systems",
+      "Well-drained riparian corridors"
+    ],
+    "recommended_restoration_goals": [
+      "Rapid timber production",
+      "Carbon sequestration",
+      "Fast canopy establishment",
+      "Secondary succession"
+    ],
+    "ideal_companion_species": [
+      "Coffee",
+      "Cacao",
+      "Maize"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Schizolobium amazonicum is one of the flagship Amazonian commercial restoration trees, combining exceptional growth rates with high-quality timber and strong performance in restoration and agroforestry systems."
+  },
+  "research": {
+    "gaps": [
+      "Improvement of plantation uniformity.",
+      "Long-term silvicultural management.",
+      "Optimization of mixed-species systems.",
+      "Breeding for disease resistance."
+    ],
+    "scientific_uncertainties": [
+      "Cold tolerance varies depending on plantation conditions.",
+      "Species shows high ecological plasticity across soil fertility gradients.",
+      "Commercial plantations remain heterogeneous.",
+      "Flood tolerance limits remain poorly quantified."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "book_chapter",
+      "title": "Espécies Arbóreas Brasileiras – Volume 2",
+      "institution": "Embrapa Florestas",
+      "authors": [
+        "Paulo Ernani Ramalho Carvalho"
+      ],
+      "year": 2007,
+      "pages": "399–407"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "species_profile": {
+    "scientific_name": "Rollinia mucosa",
+    "authority": "(Jacq.) Baill.",
+    "family": "Annonaceae",
+    "common_names": {
+      "english": [
+        "Biriba",
+        "Wild sweetsop"
+      ],
+      "spanish": [
+        "Biribá"
+      ],
+      "portuguese": [
+        "Biribá"
+      ],
+      "local": [
+        "Biribá"
+      ]
+    },
+    "life_form": "Medium-sized evergreen tree",
+    "life_cycle": "Medium-lived",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Magnoliids",
+    "order": "Magnoliales",
+    "family": "Annonaceae",
+    "genus": "Rollinia",
+    "species": "Rollinia mucosa"
+  },
+  "distribution": {
+    "countries": [
+      "Costa Rica",
+      "Panama"
+    ],
+    "ecoregions": [
+      "Amazon Basin",
+      "Western Amazon",
+      "Bocas del Toro",
+      "Talamanca"
+    ],
+    "biomes": [
+      "Humid tropical rainforest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Central America",
+      "Tropical America"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to the Amazon Basin and widely cultivated throughout Tropical America."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "14 Árboles Frutales para Nuestras Fincas",
+    "authors": [
+      "Roberto Mack"
+    ],
+    "institution": "CATIE",
+    "year": null,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Central America"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Biribá (Rollinia mucosa)"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "High",
+    "food_security_value": "Very High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Low",
+      "sun_requirement": "Full sun."
+    },
+    "soil": {
+      "preferred_types": [
+        "Deep fertile soils",
+        "Well-drained soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "High",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "Elevated sites",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early- to mid-successional fruit tree.",
+    "forest_layer": "Subcanopy",
+    "canopy_position": "",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "",
+    "pollinator_support": "",
+    "wildlife_support": "Wildlife food source"
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Income generation"
+    ],
+    "regulating": [],
+    "supporting": [
+      "Forest restoration",
+      "Farm diversification"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Productive restoration",
+      "Amazon agroforestry",
+      "Mixed fruit systems",
+      "Community forestry",
+      "Farm boundaries",
+      "Cacao agroforestry"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Productive restoration"
+    ],
+    "recommended_land_types": [
+      "Agroforestry systems",
+      "Forest edges",
+      "Mixed tropical farms"
+    ],
+    "degradation_types": [
+      "Habitat conversion"
+    ],
+    "restoration_objectives": [
+      "Food security",
+      "Income generation",
+      "Forest restoration"
+    ],
+    "recommended_species_mixtures": [
+      "Cacao"
+    ],
+    "restoration_notes": "Fast-growing native fruit tree suitable for productive restoration. Integrates well into cacao-based agroforestry systems. Provides early economic returns through fruit production. Best planted on well-drained upland soils. Requires regular pruning to maintain productivity and facilitate harvesting. Recommended by FYNOS AI as a complementary native fruit species for diversified Amazon restoration landscapes."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Amazon agroforestry",
+      "Mixed fruit systems",
+      "Cacao agroforestry"
+    ],
+    "compatible_crops": [
+      "Cacao"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": false,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Excellent complementary fruit tree for diversified cacao agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": null,
+    "harvest_age_years": 3,
+    "spacing": [
+      "7 m"
+    ],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "Prune lower branches to facilitate harvesting. Tip-prune after harvest to stimulate new productive branches.",
+    "fertilization": "Apply organic matter and manure at planting.",
+    "maintenance": [
+      "Plant in full sun.",
+      "Avoid waterlogged areas.",
+      "Prefer elevated, well-drained sites.",
+      "Maintain regular pruning for tree health and fruit size."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Wash seeds and dry them in the shade for one day before sowing.",
+      "germination_days": "Approximately 30",
+      "germination_rate_percent": null,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "30 cm",
+      "special_care": [
+        "Seeds are sown approximately 1 cm deep.",
+        "Transplant seedlings once they exceed 30 cm.",
+        "Prefer transplanting during the rainy season."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Fruit matures approximately four months after flowering.",
+    "fruiting": "Production begins in the third year and peaks after seven years.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect seeds from high-quality rounded fruits.",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Cacao"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Cacao"
+    ],
+    "wildlife_interactions": [
+      "Wildlife food source"
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruit"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Agroforestry",
+      "Mixed farming systems"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Fruit borer"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Poor drainage",
+      "Waterlogging"
+    ],
+    "human": [
+      "Habitat conversion"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": {
+        "minimum": 6,
+        "maximum": 10
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seed_sowing_depth_cm": 1,
+      "germination_time_months": 1
+    },
+    "fruit_data": {
+      "fruit_maturation_months": 4,
+      "fruit_length_cm": {
+        "minimum": 10,
+        "maximum": 16
+      },
+      "fruit_width_cm": {
+        "minimum": 6,
+        "maximum": 15
+      },
+      "annual_fruit_production": {
+        "minimum": 40,
+        "maximum": 100,
+        "unit": "fruits/tree/year"
+      }
+    },
+    "productivity": {
+      "productive_age_years": 3,
+      "maximum_production_age_years": 7
+    },
+    "additional_measurements": {
+      "transplant_height_cm": 30,
+      "spacing_m": 7
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Amazon agroforestry",
+      "Forest edges",
+      "Mixed tropical farms",
+      "Well-drained upland sites"
+    ],
+    "recommended_restoration_goals": [
+      "Food security",
+      "Income generation",
+      "Productive restoration",
+      "Diversified agroforestry"
+    ],
+    "ideal_companion_species": [
+      "Cacao"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Fast-growing native fruit tree providing early economic returns and well suited for productive restoration and diversified cacao agroforestry."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Carbon sequestration.",
+      "Climate resilience.",
+      "Wildlife interactions.",
+      "Long-term agroforestry performance."
+    ],
+    "scientific_uncertainties": [
+      "Pollination ecology.",
+      "Seed dispersal mechanisms.",
+      "Carbon storage potential.",
+      "Climate resilience.",
+      "Genetic variability."
+    ],
+    "potential_contradictions": [
+      "No significant scientific contradictions identified.",
+      "Although fruits are best consumed fully ripe, they should be harvested before ripening for transport because ripe fruits are highly perishable."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "14 Árboles Frutales para Nuestras Fincas",
+      "institution": "CATIE",
+      "author": "Roberto Mack",
+      "species_chapter": "Biribá (Rollinia mucosa)"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

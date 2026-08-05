@@ -1,0 +1,460 @@
+{
+  "species_profile": {
+    "scientific_name": "Pueraria phaseoloides",
+    "authority": "(Roxb.) Benth.",
+    "family": "Fabaceae",
+    "common_names": {
+      "english": [
+        "Tropical kudzu",
+        "Pueraria",
+        "Phasey bean"
+      ],
+      "spanish": [
+        "Pueraria",
+        "Kudzú tropical"
+      ],
+      "portuguese": [
+        "Puerária"
+      ],
+      "french": [],
+      "local": [
+        "Puerária"
+      ]
+    },
+    "life_form": "Perennial nitrogen-fixing climbing legume",
+    "life_cycle": "Perennial",
+    "growth_form": "Perennial creeping and climbing vine",
+    "native": false
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Pueraria",
+    "species": "Pueraria phaseoloides"
+  },
+  "distribution": {
+    "countries": [
+      "Malaysia",
+      "Indonesia",
+      "Brazil"
+    ],
+    "ecoregions": [
+      "Southeast Asia",
+      "Brazilian Amazon",
+      "Amazon Basin"
+    ],
+    "biomes": [
+      "Amazonian pastures",
+      "Tropical agroforestry systems",
+      "Silvopastoral systems",
+      "Degraded pasturelands",
+      "Humid tropical ecosystems"
+    ],
+    "watersheds": [],
+    "native": false,
+    "introduced_regions": [
+      "South America",
+      "Central America",
+      "Africa",
+      "Pacific Islands"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to Southeast Asia and widely introduced throughout the humid tropics, particularly in the Amazon, as a forage legume, cover crop and pasture improvement species."
+  },
+  "source_information": {
+    "document_type": "scientific_technical_monograph",
+    "title": "Puerária (Pueraria phaseoloides): uma Leguminosa Forrageira para a Região Amazônica",
+    "authors": [
+      "Ari Pinheiro Camarão",
+      "Antônio Pedro da Silva Souza Filho",
+      "Guilherme Pantoja Calandrini de Azevedo"
+    ],
+    "institution": "Embrapa Amazônia Oriental",
+    "year": 2005,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazilian Amazon",
+      "Amazon Basin",
+      "Tropical South America"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Forage production",
+      "Nitrogen fixation",
+      "Agronomy",
+      "Pasture improvement",
+      "Animal nutrition",
+      "Silvopastoral systems",
+      "Agroforestry"
+    ],
+    "evidence_level": "Scientific technical monograph"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "High",
+    "food_security_value": "Medium",
+    "income_generation_value": "High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": true,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Moderate",
+      "sun_requirement": "Full sun to partial shade"
+    },
+    "soil": {
+      "preferred_types": [
+        "Acid soils",
+        "Low fertility soils",
+        "Humid tropical soils",
+        "Pasture soils"
+      ],
+      "texture": [],
+      "drainage": "",
+      "fertility": "Adapted to low fertility soils",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early to mid-successional",
+    "forest_layer": "Ground layer",
+    "canopy_position": "Ground cover",
+    "carbon_storage": "Produces abundant biomass contributing to soil carbon accumulation.",
+    "soil_improvement": "Excellent biological nitrogen fixation, organic matter production and soil fertility enhancement.",
+    "erosion_control": "Dense vegetative cover protects soil against erosion.",
+    "water_regulation": "Improves infiltration and conserves soil moisture.",
+    "microclimate_regulation": "Acts as a living mulch reducing soil temperature and evaporation.",
+    "pollinator_support": "Provides flowers for pollinating insects.",
+    "wildlife_support": "Improves soil biological activity and supports pasture biodiversity."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Livestock forage",
+      "Green manure"
+    ],
+    "regulating": [
+      "Nitrogen fixation",
+      "Carbon accumulation",
+      "Weed suppression",
+      "Erosion control"
+    ],
+    "supporting": [
+      "Pasture restoration",
+      "Organic matter accumulation",
+      "Soil fertility improvement",
+      "Soil biological activity",
+      "Moisture conservation"
+    ],
+    "cultural": [
+      "Sustainable livestock production"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Pasture restoration",
+      "Cover crop",
+      "Green manure",
+      "Living mulch",
+      "Soil restoration",
+      "Silvopastoral restoration"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Intermediate restoration"
+    ],
+    "recommended_land_types": [
+      "Degraded pastures",
+      "Low fertility soils",
+      "Silvopastoral systems",
+      "Agroforestry systems"
+    ],
+    "degradation_types": [
+      "Pasture degradation",
+      "Nutrient depletion",
+      "Soil erosion"
+    ],
+    "restoration_objectives": [
+      "Nitrogen enrichment",
+      "Pasture productivity",
+      "Soil rehabilitation",
+      "Livestock integration"
+    ],
+    "recommended_species_mixtures": [
+      "Brachiaria humidicola",
+      "Brachiaria brizantha",
+      "Panicum maximum",
+      "Andropogon gayanus",
+      "Centrosema spp.",
+      "Stylosanthes spp."
+    ],
+    "restoration_notes": "One of the most effective perennial forage legumes for restoring degraded Amazonian pastures while improving livestock productivity and soil fertility."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Silvopastoral systems",
+      "Agroforestry",
+      "Pasture improvement",
+      "Cover cropping",
+      "Integrated crop-livestock systems"
+    ],
+    "compatible_crops": [
+      "Brachiaria humidicola",
+      "Brachiaria brizantha",
+      "Panicum maximum",
+      "Andropogon gayanus",
+      "Centrosema spp.",
+      "Stylosanthes spp."
+    ],
+    "livestock_compatible": true,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": false,
+    "agroforestry_notes": "Highly valuable perennial legume for sustainable livestock systems, forage production and soil rehabilitation."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Direct seeding"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Periodic grazing or cutting maintains vigorous growth."
+    ],
+    "management_notes": "Widely managed as a perennial forage and cover crop in humid tropical pastures."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": {
+        "min": null,
+        "max": null
+      },
+      "germination_rate_percent": {},
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "",
+    "fruiting": "",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Brachiaria humidicola",
+      "Brachiaria brizantha",
+      "Panicum maximum",
+      "Andropogon gayanus",
+      "Centrosema spp.",
+      "Stylosanthes spp."
+    ],
+    "facilitates": [
+      "Nitrogen enrichment",
+      "Pasture productivity",
+      "Livestock production",
+      "Soil restoration"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Silvopastoral systems",
+      "Amazon agroforestry"
+    ],
+    "wildlife_interactions": [
+      "Improves habitat quality in managed pastures."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "High-quality livestock forage"
+    ],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Green manure",
+      "Cover crop",
+      "Living mulch"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": null,
+      "maximum_dbh_cm": null,
+      "wood_density_g_cm3": null
+    },
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {},
+    "productivity": {},
+    "additional_measurements": {}
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Dense ground cover",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Amazonian pastures",
+      "Silvopastoral systems",
+      "Agroforestry systems",
+      "Degraded tropical landscapes"
+    ],
+    "recommended_restoration_goals": [
+      "Pasture restoration",
+      "Nitrogen fixation",
+      "Livestock productivity",
+      "Soil fertility improvement",
+      "Carbon accumulation"
+    ],
+    "ideal_companion_species": [
+      "Brachiaria humidicola",
+      "Brachiaria brizantha",
+      "Panicum maximum",
+      "Andropogon gayanus",
+      "Centrosema spp.",
+      "Stylosanthes spp."
+    ],
+    "avoid_species": [],
+    "decision_notes": "Pueraria phaseoloides is one of the most valuable perennial forage legumes for the Amazon because it simultaneously improves livestock productivity, restores degraded pastures, fixes atmospheric nitrogen and enhances long-term soil health in humid tropical production systems."
+  },
+  "research": {
+    "gaps": [
+      "Long-term carbon sequestration",
+      "Climate resilience under future scenarios",
+      "Remote sensing monitoring",
+      "AI-assisted pasture management",
+      "Genetic improvement",
+      "Performance in restoration projects",
+      "Methane reduction through improved forage",
+      "Landscape-scale ecosystem services"
+    ],
+    "scientific_uncertainties": [],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "scientific_technical_monograph",
+      "title": "Puerária (Pueraria phaseoloides): uma Leguminosa Forrageira para a Região Amazônica",
+      "institution": "Embrapa Amazônia Oriental",
+      "authors": [
+        "Ari Pinheiro Camarão",
+        "Antônio Pedro da Silva Souza Filho",
+        "Guilherme Pantoja Calandrini de Azevedo"
+      ],
+      "year": 2005,
+      "pages": ""
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "Very High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

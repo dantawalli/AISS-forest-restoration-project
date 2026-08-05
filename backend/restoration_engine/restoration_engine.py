@@ -7,92 +7,157 @@ from knowledge_engine.environmental_data_provider import EnvironmentalDataProvid
 from restoration_brief.restoration_brief_builder import RestorationBriefBuilder
 from knowledge_engine.restoration_llm_engine import RestorationLLMEngine
 
+
 class RestorationEngine:
 
-    def __init__(self, registry, api_key):
 
-        self.environment = EnvironmentalDataProvider()
-        self.landscape = LandscapeDiagnosisEngine()
+   def __init__(self, registry, api_key):
 
-        self.compatibility = CompatibilityEngine(registry)
-        self.ranker = SpeciesRanker()
-        self.recommendation = RecommendationEngine()
 
-        self.knowledge = KnowledgeEngine(registry)
-        self.brief = RestorationBriefBuilder()
-        self.llm = RestorationLLMEngine(api_key)
+       self.environment = EnvironmentalDataProvider()
+       self.landscape = LandscapeDiagnosisEngine()
 
-    def analyze(self, site_conditions):
 
-        # Enrich environmental variables
-        site_conditions = self.environment.enrich(site_conditions)
+       self.compatibility = CompatibilityEngine(registry)
+       self.ranker = SpeciesRanker()
+       self.recommendation = RecommendationEngine()
 
-        # Diagnose the landscape
-        diagnosis = self.landscape.diagnose(site_conditions)
 
-        # Evaluate species compatibility
-        compatibility = self.compatibility.score_species(
-            diagnosis
-        )
+       self.knowledge = KnowledgeEngine(registry)
+       self.brief = RestorationBriefBuilder()
+       self.llm = RestorationLLMEngine(api_key)
 
-        # Rank candidate species
-        ranked_species = self.ranker.rank(
-            compatibility
-        )
 
-        # Build restoration strategy
-        recommendations = self.recommendation.generate(
-            site_conditions=diagnosis,
-            landscape_diagnosis=diagnosis,
-            ranked_species=ranked_species
-        )
+   def analyze(self, site_conditions):
 
-        selected_species = []
 
-        for species in recommendations["recommended_species"]:
+       # Enrich environmental variables
+       site_conditions = self.environment.enrich(site_conditions)
 
-            details = self.knowledge.species.get_species(
-                species["metadata_path"]
-            )
 
-            profile = self.knowledge.species_profile.build(
-                details
-            )
+       # Diagnose the landscape
+       diagnosis = self.landscape.diagnose(site_conditions)
 
-            knowledge = self.knowledge.species_knowledge.build(
-                profile=profile,
-                landscape=diagnosis,
-                strategy=recommendations["strategy"]
-            )
 
-            selected_species.append({
-                "profile": profile,
-                "knowledge": knowledge
-            })
+       # Evaluate species compatibility
+       compatibility = self.compatibility.score_species(
+           diagnosis
+       )
 
-        recommendations["selected_species"] = selected_species
 
-        restoration_brief = self.brief.build(
-            diagnosis=diagnosis,
-            species=selected_species,
-            recommendations=recommendations
-        )
+       # Rank candidate species
+       ranked_species = self.ranker.rank(
+           compatibility
+       )
 
-        llm_output = self.llm.generate(
-            diagnosis=diagnosis,
-            recommendations=recommendations,
-            species=selected_species,
-            restoration_brief=restoration_brief,
-        )
 
-        return {
-            "landscape_diagnosis": diagnosis,
-            "recommended_species": recommendations["recommended_species"],
-            "selected_species": selected_species,
-            "recommendations": recommendations,
-            "restoration_brief": restoration_brief,
+       # Build restoration strategy
+       recommendations = self.recommendation.generate(
+           site_conditions=diagnosis,
+           landscape_diagnosis=diagnosis,
+           ranked_species=ranked_species
+       )
 
-            "impact_summary": llm_output.get("impact_summary", ""),
-            "executive_summary": llm_output.get("executive_summary", ""),
-            "farmer_guidance": llm_output.get("farmer_guidance", ""),
-        }
+
+       selected_species = []
+       selected_productive_species = []
+       selected_restoration_species = []
+
+
+       def build_species(species):
+
+
+           details = self.knowledge.species.get_species(
+               species["metadata_path"]
+           )
+           print("DETAILS KEYS:", details.keys())
+           print("METADATA TYPE:", type(details.get("metadata")))
+           print("METADATA KEYS:", details.get("metadata", {}).keys())
+
+
+           profile = self.knowledge.species_profile.build(
+               details
+           )
+
+
+           knowledge = self.knowledge.species_knowledge.build(
+               profile=profile,
+               landscape=diagnosis,
+               strategy=recommendations["strategy"]
+           )
+
+
+           return {
+               "profile": profile,
+               "distribution": details.get("distribution", {}),
+               "products": details.get("products", {}),
+               "propagation": details.get("propagation", {}),
+               "silviculture": details.get("silviculture", {}),
+               "ecosystem_services": details.get("ecosystem_services", {}),
+               "restoration_functions": details.get("restoration_functions", {}),
+               "fynos_classification": details.get("fynos_classification", {}),
+               "sources": details.get("sources", []),
+               "knowledge": knowledge,
+           }
+
+
+       for species in recommendations["recommended_species"]:
+           selected_species.append(
+               build_species(species)
+           )
+
+
+       for species in recommendations["productive_species"]:
+           selected_productive_species.append(
+               build_species(species)
+           )
+
+
+       for species in recommendations["restoration_species"]:
+           selected_restoration_species.append(
+               build_species(species)
+           )
+
+
+       recommendations["selected_productive_species"] = selected_productive_species
+
+
+       recommendations["selected_restoration_species"] = selected_restoration_species
+
+
+       recommendations["selected_species"] = selected_species
+
+
+       print(len(selected_productive_species))
+       print(len(selected_restoration_species))
+
+
+       restoration_brief = self.brief.build(
+           diagnosis=diagnosis,
+           productive_species=selected_productive_species,
+           restoration_species=selected_restoration_species,
+           recommendations=recommendations,
+       )
+
+
+       llm_output = self.llm.generate(
+           diagnosis=diagnosis,
+           recommendations=recommendations,
+           species=selected_species,
+           restoration_brief=restoration_brief,
+       )
+
+
+       return {
+           "landscape_diagnosis": diagnosis,
+           "recommended_species": recommendations["recommended_species"],
+           "selected_species": selected_species,
+           "recommendations": recommendations,
+           "restoration_brief": restoration_brief,
+
+
+           "impact_summary": llm_output.get("impact_summary", ""),
+           "executive_summary": llm_output.get("executive_summary", ""),
+           "farmer_guidance": llm_output.get("farmer_guidance", ""),
+       }
+

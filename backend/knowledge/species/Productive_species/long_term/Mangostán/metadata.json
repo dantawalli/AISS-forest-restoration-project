@@ -1,0 +1,440 @@
+{
+  "species_profile": {
+    "scientific_name": "Garcinia mangostana",
+    "authority": "L.",
+    "family": "Clusiaceae",
+    "common_names": {
+      "english": [
+        "Mangosteen"
+      ],
+      "spanish": [
+        "Mangostán"
+      ],
+      "portuguese": [
+        "Mangostão"
+      ],
+      "local": [
+        "Mangostán"
+      ]
+    },
+    "life_form": "Large evergreen tree",
+    "life_cycle": "Long-lived",
+    "growth_form": "",
+    "native": false
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Malpighiales",
+    "family": "Clusiaceae",
+    "genus": "Garcinia",
+    "species": "Garcinia mangostana"
+  },
+  "distribution": {
+    "countries": [
+      "Costa Rica",
+      "Panama",
+      "Malaysia",
+      "Indonesia",
+      "Thailand"
+    ],
+    "ecoregions": [
+      "Bocas del Toro",
+      "Talamanca"
+    ],
+    "biomes": [
+      "Humid tropical rainforest"
+    ],
+    "watersheds": [],
+    "native": false,
+    "introduced_regions": [
+      "Central America",
+      "South America",
+      "Tropical regions worldwide"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to Southeast Asia."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "14 Árboles Frutales para Nuestras Fincas",
+    "authors": [
+      "Roberto Mack"
+    ],
+    "institution": "CATIE",
+    "year": null,
+    "language": "",
+    "geographic_scope": [],
+    "study_period": "",
+    "study_focus": [],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Medium",
+    "restoration_value": "Medium",
+    "agroforestry_value": "High",
+    "carbon_value": "",
+    "biodiversity_value": "",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": false
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Partial shade during the first 2–3 years",
+      "sun_requirement": "Full sun after establishment."
+    },
+    "soil": {
+      "preferred_types": [
+        "Deep fertile soils",
+        "Well-drained soils",
+        "Organic-rich soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "Deep fertile soils",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Moderate (occasional flooding tolerated)",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late-successional evergreen fruit tree.",
+    "forest_layer": "",
+    "canopy_position": "",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "Riparian stabilization",
+    "microclimate_regulation": "Shade for cacao",
+    "pollinator_support": "",
+    "wildlife_support": "Food source"
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Income generation"
+    ],
+    "regulating": [
+      "Shade for cacao",
+      "Riparian stabilization"
+    ],
+    "supporting": [
+      "Agroforestry diversification"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Productive agroforestry",
+      "Cacao agroforestry",
+      "Mixed tropical orchards",
+      "Riparian agroforestry",
+      "Community forestry"
+    ],
+    "restoration_phase": [],
+    "recommended_land_types": [],
+    "degradation_types": [],
+    "restoration_objectives": [],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Premium tropical fruit tree with exceptional commercial value. Integrates well into cacao agroforestry systems after the establishment phase. Requires shade during early growth but develops into a large canopy tree. Suitable for riparian landscapes because mature trees tolerate occasional flooding. Because of its long juvenile period, grafted material is recommended whenever available. Within FYNOS AI, mangosteen is recommended as a complementary high-value productive species rather than a core native Amazon restoration species."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Cacao agroforestry systems",
+      "Mixed tropical orchards",
+      "Agroforestry systems"
+    ],
+    "compatible_crops": [
+      "Cacao",
+      "Pigeon pea",
+      "Yucca",
+      "Matarratón (Gliricidia sepium)"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": null,
+    "agroforestry_notes": "Suitable for cacao agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Slow during juvenile stage",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [
+      "12 × 12 m"
+    ],
+    "planting_methods": [
+      "Seeds",
+      "Grafting"
+    ],
+    "pruning": "",
+    "fertilization": "Apply abundant decomposed organic matter in clay soils.",
+    "maintenance": [
+      "Provide light shade during early growth.",
+      "Plant in deep, well-drained soils.",
+      "Suitable for cacao agroforestry systems.",
+      "Protect the taproot during transplanting.",
+      "Avoid planting other long-lived trees close to mature mangosteen."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Soak seeds in water for 24 hours before sowing. Place seeds horizontally beneath a thin layer of sawdust under shade.",
+      "germination_days": "20–40",
+      "germination_rate_percent": "",
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Seeds germinate in 20–40 days.",
+        "Protect the long taproot.",
+        "Use deep nursery bags.",
+        "Seedlings should remain under shade.",
+        "Field grafting can accelerate fruit production."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Grafting"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Not described in the guide.",
+    "fruiting": "Trees begin producing between 6 and 12 years; grafting accelerates production.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Select the largest seeds from ripe fruits and sow immediately after harvest.",
+    "seed_dispersal": "Humans",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Humans"
+    ],
+    "companion_species": [
+      "Cacao",
+      "Pigeon pea",
+      "Yucca",
+      "Matarratón (Gliricidia sepium)"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Cacao"
+    ],
+    "wildlife_interactions": []
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruit",
+      "Juices"
+    ],
+    "medicine": [
+      "Fruit rind used in nutritional and medicinal products"
+    ],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Functional food products",
+      "Medicinal extracts from fruit peel"
+    ],
+    "other": [
+      "Fruit rind"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Black stingless bee (Trigona spp., 'zañago')",
+        "Birds"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Poor drainage",
+      "Root damage during transplant"
+    ],
+    "human": [
+      "Habitat conversion"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 25,
+      "first_year_height_growth_cm": 10,
+      "first_year_leaf_number": {
+        "minimum": 6,
+        "maximum": 8
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germination_days": {
+        "minimum": 20,
+        "maximum": 40
+      }
+    },
+    "fruit_data": {
+      "initial_production_fruits_per_tree": {
+        "minimum": 200,
+        "maximum": 300
+      },
+      "average_adult_production_fruits_per_tree": 500,
+      "maximum_production_fruits_per_tree": 2000
+    },
+    "productivity": {
+      "productive_age_years": {
+        "minimum": 6,
+        "maximum": 12
+      }
+    },
+    "additional_measurements": {
+      "juvenile_shade_years": {
+        "minimum": 2,
+        "maximum": 3
+      },
+      "recommended_spacing_m": 12
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": null,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Medium",
+    "recommended_landscape_types": [
+      "Productive agroforestry",
+      "Cacao agroforestry",
+      "Mixed tropical orchards",
+      "Riparian agroforestry",
+      "Community forestry"
+    ],
+    "recommended_restoration_goals": [
+      "Productive restoration",
+      "Agroforestry diversification",
+      "Income generation"
+    ],
+    "ideal_companion_species": [
+      "Cacao",
+      "Pigeon pea",
+      "Yucca",
+      "Matarratón (Gliricidia sepium)"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Recommended as a complementary high-value productive species rather than a core native Amazon restoration species."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Carbon sequestration.",
+      "Climate resilience.",
+      "Long-term agroforestry performance.",
+      "Genetic improvement."
+    ],
+    "scientific_uncertainties": [
+      "Pollination ecology.",
+      "Carbon storage potential.",
+      "Climate adaptation.",
+      "Long-term productivity under agroforestry.",
+      "Genetic diversity outside Southeast Asia."
+    ],
+    "potential_contradictions": [
+      "No direct scientific contradictions identified.",
+      "Although mangosteen tolerates occasional flooding once established, young seedlings require well-drained soils and careful root management."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "14 Árboles Frutales para Nuestras Fincas",
+      "institution": "CATIE",
+      "author": "Roberto Mack",
+      "species_chapter": "Mangostán (Garcinia mangostana)"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Medium",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

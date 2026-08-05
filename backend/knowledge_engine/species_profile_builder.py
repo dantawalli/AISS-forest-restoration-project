@@ -1,42 +1,48 @@
 class SpeciesProfileBuilder:
 
     def build(self, species):
-
-        metadata = species["metadata"]
+        metadata = species.get("metadata", {})
+        species_profile = metadata.get("species_profile", {})
 
         return {
-            "scientific_name": species["scientific_name"],
-            "family": species["family"],
-            "life_form": species["life_form"],
-            "common_names": metadata["species_profile"]["common_names"],
+            # ================= BASIC INFORMATION =================
+            "scientific_name": species.get("scientific_name"),
+            "family": species.get("family"),
+            "life_form": species.get("life_form"),
+            "life_cycle": species_profile.get("life_cycle"),
+            "native": species_profile.get("native"),
+            "common_names": species_profile.get("common_names", {}),
 
-            "restoration_value":
-                metadata["fynos_classification"]["restoration_value"],
+            # ================= ECOLOGY =================
+            "ecological_requirements": metadata.get(
+                "ecological_requirements", {}
+            ),
+            "ecological_functions": metadata.get(
+                "ecological_functions", {}
+            ),
 
-            "agroforestry_value":
-                metadata["fynos_classification"]["agroforestry_value"],
+            # ================= SILVICULTURE =================
+            "silviculture": metadata.get("silviculture", {}),
 
-            "carbon_value":
-                metadata["fynos_classification"]["carbon_value"],
+            # ================= PROPAGATION =================
+            "propagation": metadata.get("propagation", {}),
 
-            "nitrogen_fixer":
-                metadata["fynos_classification"]["nitrogen_fixer"],
+            # ================= PRODUCTS =================
+            "products": metadata.get("products", {}),
 
-            "ecosystem_engineer":
-                metadata["fynos_classification"]["ecosystem_engineer"],
+            # ================= FYNOS INTELLIGENCE =================
+            "fynos_classification": metadata.get(
+                "fynos_classification", {}
+            ),
 
-            "recommended_for":
-                metadata["fynos_classification"],
+            # ================= ECOSYSTEM =================
+            "ecosystem_services": metadata.get(
+                "ecosystem_services", {}
+            ),
+            "restoration_functions": metadata.get(
+                "restoration_functions", {}
+            ),
 
-            "ecological_requirements":
-                metadata["ecological_requirements"],
-
-            "ecosystem_services":
-                metadata["ecosystem_services"],
-
-            "restoration_functions":
-                metadata.get("restoration_functions"),
-
-            "propagation":
-                metadata["propagation"]
+            # ================= REFERENCES =================
+            "sources": metadata.get("sources", []),
         }

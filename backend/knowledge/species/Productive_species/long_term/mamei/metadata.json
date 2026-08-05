@@ -1,0 +1,436 @@
+{
+  "species_profile": {
+    "scientific_name": "Mammea americana",
+    "authority": "L.",
+    "family": "Calophyllaceae",
+    "common_names": {
+      "english": [
+        "Mammee apple",
+        "Mamey"
+      ],
+      "spanish": [
+        "Mamey"
+      ],
+      "portuguese": [
+        "Mamey"
+      ],
+      "local": [
+        "Mamey"
+      ]
+    },
+    "life_form": "Large evergreen tree",
+    "life_cycle": "Long-lived",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Malpighiales",
+    "family": "Calophyllaceae",
+    "genus": "Mammea",
+    "species": "Mammea americana"
+  },
+  "distribution": {
+    "countries": [
+      "Costa Rica",
+      "Panama"
+    ],
+    "ecoregions": [
+      "Bocas del Toro",
+      "Talamanca"
+    ],
+    "biomes": [
+      "Humid tropical forest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Central America",
+      "Tropical America"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to the Caribbean Islands and Northern South America."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "14 Árboles Frutales para Nuestras Fincas",
+    "authors": [
+      "Roberto Mack"
+    ],
+    "institution": "CATIE",
+    "year": null,
+    "language": "",
+    "geographic_scope": [],
+    "study_period": "",
+    "study_focus": [],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Medium-High",
+    "restoration_value": "Medium-High",
+    "agroforestry_value": "High",
+    "carbon_value": "",
+    "biodiversity_value": "",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": false
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "",
+      "sun_requirement": "Full sun."
+    },
+    "soil": {
+      "preferred_types": [
+        "Deep fertile soils",
+        "Well-drained soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "Deep fertile soils",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late-successional perennial fruit tree.",
+    "forest_layer": "",
+    "canopy_position": "",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "Shade",
+    "pollinator_support": "",
+    "wildlife_support": ""
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Timber production"
+    ],
+    "regulating": [
+      "Shade"
+    ],
+    "supporting": [
+      "Farm diversification"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Productive agroforestry",
+      "Cacao agroforestry",
+      "Mixed tropical orchards",
+      "Farm diversification",
+      "Community forestry"
+    ],
+    "restoration_phase": [],
+    "recommended_land_types": [],
+    "degradation_types": [],
+    "restoration_objectives": [],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Large multipurpose fruit tree providing edible fruit, timber, and natural insecticidal compounds. Well suited for diversified cacao agroforestry systems. Long-lived canopy species that contributes structural diversity to restoration landscapes. Grafted planting material is strongly recommended to reduce the long juvenile period and avoid non-productive male trees. Requires deep, fertile, well-drained soils and performs poorly in compacted or waterlogged sites. Within FYNOS AI, it is recommended as a complementary productive canopy species rather than a primary native Amazon restoration tree."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Agroforestry systems",
+      "Cacao plantations",
+      "Mixed tropical farms",
+      "Cacao agroforestry"
+    ],
+    "compatible_crops": [
+      "Cacao"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": null,
+    "agroforestry_notes": "Suitable for cacao agroforestry and farm boundaries."
+  },
+  "silviculture": {
+    "growth_rate": "Slow to moderate",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [
+      "8–10 m"
+    ],
+    "planting_methods": [
+      "Seeds",
+      "Grafting"
+    ],
+    "pruning": "",
+    "fertilization": "Prefers deep fertile soils with good drainage.",
+    "maintenance": [
+      "Plant in full sun.",
+      "Suitable for cacao agroforestry and field borders.",
+      "Avoid heavy or poorly drained soils.",
+      "Remove nursery bags carefully to avoid root damage.",
+      "Harvest only mature fruits."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Sow seeds 5–6 cm deep in large nursery bags under shade while maintaining constant moisture.",
+      "germination_days": "1–7 months",
+      "germination_rate_percent": "",
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "30 cm",
+      "special_care": [
+        "Seeds germinate between 1 and 7 months.",
+        "Transplant seedlings when approximately 30 cm tall.",
+        "Grafting significantly reduces the juvenile period.",
+        "Handle roots carefully during transplant."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Grafting"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Not described in the guide.",
+    "fruiting": "Seed-grown trees produce after 8–9 years; grafted trees after about 4 years.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits and sow seeds immediately.",
+    "seed_dispersal": "Humans",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Humans"
+    ],
+    "companion_species": [
+      "Cacao"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Cacao"
+    ],
+    "wildlife_interactions": []
+  },
+  "products": {
+    "timber": [
+      "Construction timber"
+    ],
+    "food": [
+      "Fresh fruit",
+      "Juices",
+      "Jams"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Natural insecticide from seeds and leaves"
+    ],
+    "other": [
+      "Seeds",
+      "Leaves"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Black stingless bee (Trigona sp., 'zañago')"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Poor drainage",
+      "Heavy soils"
+    ],
+    "human": [
+      "Habitat conversion"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_tree_height_m": 25
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seed_sowing_depth_cm": {
+        "minimum": 5,
+        "maximum": 6
+      },
+      "germination_months": {
+        "minimum": 1,
+        "maximum": 7
+      }
+    },
+    "fruit_data": {
+      "fruit_diameter_cm": {
+        "minimum": 9,
+        "maximum": 20
+      },
+      "fruit_weight_g": {
+        "minimum": 600,
+        "maximum": 700
+      },
+      "annual_fruit_production": {
+        "maximum": 400,
+        "unit": "fruits/tree/year"
+      },
+      "fruit_storage_tree_days": 20,
+      "fruit_storage_ground_days": 8
+    },
+    "productivity": {
+      "productive_age_seed_years": {
+        "minimum": 8,
+        "maximum": 9
+      },
+      "productive_age_grafted_years": 4
+    },
+    "additional_measurements": {
+      "leaf_length_cm": 20,
+      "transplant_height_cm": 30,
+      "recommended_spacing_m": {
+        "minimum": 8,
+        "maximum": 10
+      }
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": null,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Medium-High",
+    "recommended_landscape_types": [
+      "Productive agroforestry",
+      "Cacao agroforestry",
+      "Mixed tropical orchards",
+      "Farm diversification",
+      "Community forestry"
+    ],
+    "recommended_restoration_goals": [
+      "Farm diversification",
+      "Agroforestry",
+      "Productive restoration"
+    ],
+    "ideal_companion_species": [
+      "Cacao"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Recommended as a complementary productive canopy species rather than a primary native Amazon restoration tree."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Carbon sequestration potential.",
+      "Climate resilience.",
+      "Long-term agroforestry performance.",
+      "Genetic improvement.",
+      "Pest ecology."
+    ],
+    "scientific_uncertainties": [
+      "Pollination ecology.",
+      "Natural seed dispersers.",
+      "Carbon storage potential.",
+      "Climate adaptation.",
+      "Long-term productivity under agroforestry."
+    ],
+    "potential_contradictions": [
+      "No direct scientific contradictions identified.",
+      "Seed propagation produces approximately 50% male trees, whereas grafting ensures earlier and more reliable fruit production."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "14 Árboles Frutales para Nuestras Fincas",
+      "institution": "CATIE",
+      "author": "Roberto Mack",
+      "species_chapter": "Mamey (Mammea americana)"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Medium-High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

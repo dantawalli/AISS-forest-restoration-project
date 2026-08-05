@@ -1,0 +1,530 @@
+{
+  "species_profile": {
+    "scientific_name": "Ochroma pyramidale",
+    "authority": "(Cav. ex Lamb.) Urban",
+    "family": "Malvaceae",
+    "common_names": {
+      "english": [
+        "Balsa",
+        "Balsa tree"
+      ],
+      "spanish": [
+        "Balsa",
+        "Palo de balsa"
+      ],
+      "portuguese": [
+        "Pau-de-balsa",
+        "Pau-de-jangada",
+        "Pata-de-lebre",
+        "Balsa"
+      ],
+      "french": [],
+      "local": []
+    },
+    "life_form": "Large pioneer hardwood tree",
+    "life_cycle": "Short-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae",
+    "genus": "Ochroma",
+    "species": "Ochroma pyramidale"
+  },
+  "distribution": {
+    "countries": [
+      "Mexico",
+      "Belize",
+      "Guatemala",
+      "Honduras",
+      "Nicaragua",
+      "Costa Rica",
+      "Panama",
+      "Colombia",
+      "Venezuela",
+      "Ecuador",
+      "Peru",
+      "Bolivia",
+      "Brazil",
+      "Antilles"
+    ],
+    "ecoregions": [
+      "Amazon Rainforest",
+      "Neotropical lowland forests",
+      "Floodplain forests",
+      "Secondary forests"
+    ],
+    "biomes": [
+      "Amazon rainforest",
+      "Secondary forest",
+      "Floodplain forest",
+      "Igapó",
+      "River margins",
+      "Forest gaps",
+      "Recently deposited alluvial soils"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Widely distributed throughout tropical America, especially in disturbed forests, floodplains and recently deposited alluvial environments."
+  },
+  "source_information": {
+    "document_type": "technical_bulletin",
+    "title": "Informativo Técnico Nº 19 - Pau-de-balsa (Ochroma pyramidale)",
+    "authors": [
+      "Noemi Vianna Martins Leão",
+      "Alessandra Doce Dias de Freitas",
+      "Ruth Helena Andrade Carrera"
+    ],
+    "institution": "Rede de Sementes da Amazônia",
+    "year": 2008,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Amazon Basin"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Seed biology",
+      "Nursery production",
+      "Silviculture",
+      "Forest restoration"
+    ],
+    "evidence_level": "Technical bulletin"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "High",
+    "carbon_value": "High",
+    "biodiversity_value": "High",
+    "food_security_value": "Low",
+    "income_generation_value": "High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": 2000
+      }
+    },
+    "light": {
+      "shade_tolerance": "Very low; requires direct sunlight.",
+      "sun_requirement": "Full sun."
+    },
+    "soil": {
+      "preferred_types": [
+        "Fertile soils",
+        "Moist soils",
+        "Well-drained clay soils",
+        "Sandy soils with thin organic layer",
+        "Floodplain soils"
+      ],
+      "texture": [
+        "Clay",
+        "Sand"
+      ],
+      "drainage": "Well-drained.",
+      "fertility": "High.",
+      "ph": {
+        "min": 7.0,
+        "max": 8.5
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Naturally occurs in floodplains and river margins.",
+      "waterlogging_tolerance": "Moderate",
+      "drought_tolerance": ""
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": "Poor tolerance."
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Pioneer to early secondary",
+    "forest_layer": "Canopy",
+    "canopy_position": "Emergent canopy tree",
+    "carbon_storage": "Extremely rapid biomass accumulation during early succession.",
+    "soil_improvement": "Accelerates ecological succession and improves degraded soils through litter production.",
+    "erosion_control": "Excellent for stabilizing recently disturbed soils and riparian areas.",
+    "water_regulation": "Naturally associated with floodplains and river margins.",
+    "microclimate_regulation": "Rapid canopy development shades degraded landscapes.",
+    "pollinator_support": "Large nocturnal flowers support insect pollinators.",
+    "wildlife_support": "Provides habitat and facilitates regeneration of secondary forests."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Lightweight timber",
+      "Fiber",
+      "Fuelwood substitute"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Soil stabilization",
+      "Successional facilitation"
+    ],
+    "supporting": [
+      "Secondary succession",
+      "Habitat creation",
+      "Riparian recovery"
+    ],
+    "cultural": [
+      "Ornamental tree"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Forest restoration",
+      "Degraded land recovery",
+      "Soil improvement",
+      "Riparian restoration",
+      "Facilitation of secondary succession",
+      "Shade in silvopastoral systems"
+    ],
+    "restoration_phase": [
+      "Early restoration"
+    ],
+    "recommended_land_types": [
+      "Recently disturbed land",
+      "Floodplains",
+      "River margins",
+      "Secondary forests",
+      "Degraded agricultural land"
+    ],
+    "degradation_types": [
+      "Deforested land",
+      "Mining",
+      "Floodplain degradation",
+      "Abandoned agricultural land"
+    ],
+    "restoration_objectives": [
+      "Rapid canopy establishment",
+      "Soil improvement",
+      "Facilitation of native succession",
+      "Riparian stabilization"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "One of the fastest-growing native Neotropical pioneer trees, ideal for initiating ecological succession on highly degraded landscapes."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Silvopastoral systems",
+      "Mixed restoration plantings"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": true,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Useful as a temporary shade tree, although livestock protection is required when timber production is the objective."
+  },
+  "silviculture": {
+    "growth_rate": "Very fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Nursery seedlings"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Requires full sunlight.",
+      "Avoid saline soils.",
+      "Protect stems from livestock."
+    ],
+    "management_notes": "Extremely rapid juvenile growth makes the species ideal for short-term restoration plantings."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Manual scarification or immersion in hot water for approximately 20 minutes.",
+      "germination_days": {
+        "min": 5,
+        "max": 8
+      },
+      "germination_rate_percent": {
+        "treated": {
+          "min": 60,
+          "max": 89
+        },
+        "untreated": {
+          "min": 11,
+          "max": 20
+        }
+      },
+      "storage": "Orthodox seeds remain viable for approximately 400 days under dry, cool storage."
+    },
+    "nursery": {
+      "transplant_age": "Less than 4 months",
+      "transplant_height": "5–6 cm",
+      "special_care": [
+        "Use semi-shaded seedbeds.",
+        "Organic sandy substrate.",
+        "Apply only a light substrate cover.",
+        "Water twice daily."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Generally April–July.",
+    "fruiting": "Generally July–October.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect fruits directly from the crown when natural capsule opening begins and kapok becomes visible.",
+    "seed_dispersal": "Anemochory via silky kapok.",
+    "pollination": "Primarily nocturnal insects."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Nocturnal insects"
+    ],
+    "seed_dispersers": [
+      "Wind"
+    ],
+    "companion_species": [],
+    "facilitates": [
+      "Secondary succession",
+      "Rapid canopy formation",
+      "Riparian restoration"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Silvopastoral systems"
+    ],
+    "wildlife_interactions": [
+      "Provides shade for livestock.",
+      "Livestock may damage stems if not protected."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Boats",
+      "Rafts",
+      "Life buoys",
+      "Thermal insulation",
+      "Ceiling panels",
+      "Lightweight boxes",
+      "Pulp",
+      "Toys"
+    ],
+    "food": [],
+    "medicine": [],
+    "fiber": [
+      "Kapok for mattresses",
+      "Kapok for pillows"
+    ],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [
+      "Ornamental tree"
+    ],
+    "industrial": [
+      "Cork substitute",
+      "Thermal insulation"
+    ],
+    "other": [
+      "Livestock shade"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": [
+        "Damping-off (nursery)"
+      ]
+    },
+    "abiotic": [
+      "High soil salinity"
+    ],
+    "human": [
+      "Stem damage by livestock."
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 25,
+      "maximum_dbh_cm": 120,
+      "wood_density_g_cm3": null
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seeds_per_kg": {
+        "min": 70000,
+        "max": 100000
+      },
+      "germination_days": {
+        "min": 5,
+        "max": 8
+      }
+    },
+    "fruit_data": {
+      "fruit_length_cm": {
+        "min": 10,
+        "max": 25
+      },
+      "fruit_diameter_cm": {
+        "min": 2,
+        "max": 5
+      }
+    },
+    "productivity": {},
+    "additional_measurements": {
+      "crown_diameter_m": 18,
+      "bark_thickness_cm": 1,
+      "leaf_main_veins": {
+        "min": 5,
+        "max": 7
+      },
+      "flower_width_cm": {
+        "min": 10,
+        "max": 15
+      },
+      "flower_diameter_cm": {
+        "min": 7,
+        "max": 9
+      },
+      "seed_length_mm": {
+        "min": 2,
+        "max": 5
+      },
+      "seed_diameter_mm": 1.5,
+      "maximum_altitude_m": 2000,
+      "seed_moisture_percent": {
+        "min": 9,
+        "max": 12
+      },
+      "storage_days": 400,
+      "germination_after_storage_paper_percent": 76.5,
+      "germination_after_storage_plastic_dry_percent": 65.5,
+      "germination_after_storage_plastic_lab_percent": 63.5,
+      "hot_water_minutes": 20,
+      "seedling_transplant_height_cm": {
+        "min": 5,
+        "max": 6
+      },
+      "nursery_period_months": {
+        "max": 4
+      },
+      "height_after_one_year_m": 5,
+      "stem_diameter_after_one_year_cm": 15
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Moderate",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Highly degraded lands",
+      "Floodplains",
+      "Riparian corridors",
+      "Secondary forests",
+      "Silvopastoral systems"
+    ],
+    "recommended_restoration_goals": [
+      "Rapid biomass production",
+      "Early canopy establishment",
+      "Soil improvement",
+      "Successional facilitation"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "Ochroma pyramidale is one of the fastest-growing pioneer trees in the Neotropics and is exceptionally valuable for initiating forest succession, rapidly stabilizing degraded soils and creating favorable conditions for later successional species."
+  },
+  "research": {
+    "gaps": [
+      "Long-term silvicultural management.",
+      "Wood production under restoration systems.",
+      "Ecological role during secondary succession."
+    ],
+    "scientific_uncertainties": [
+      "Successional status is interpreted differently among authors.",
+      "Maximum seed longevity in natural seed banks remains unknown.",
+      "Nursery pathogens responsible for damping-off have not been identified."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_bulletin",
+      "title": "Informativo Técnico Nº 19 - Pau-de-balsa (Ochroma pyramidale)",
+      "institution": "Rede de Sementes da Amazônia",
+      "authors": [
+        "Noemi Vianna Martins Leão",
+        "Alessandra Doce Dias de Freitas",
+        "Ruth Helena Andrade Carrera"
+      ],
+      "year": 2008,
+      "pages": "1–2"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

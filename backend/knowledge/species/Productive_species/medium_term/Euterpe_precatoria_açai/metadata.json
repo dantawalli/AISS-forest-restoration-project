@@ -1,0 +1,404 @@
+{
+  "species_profile": {
+    "scientific_name": "Euterpe precatoria",
+    "authority": "Mart.",
+    "family": "Arecaceae",
+    "common_names": {
+      "english": [
+        "Amazon açaí",
+        "Solitary açaí palm"
+      ],
+      "spanish": [
+        "Asaí amazónico",
+        "Palmera de asaí"
+      ],
+      "portuguese": [
+        "Açaí-do-Amazonas",
+        "Açaí-solteiro",
+        "Açaí-da-mata"
+      ],
+      "local": []
+    },
+    "life_form": "Solitary evergreen palm",
+    "life_cycle": "Perennial",
+    "growth_form": "Solitary palm",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Liliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae",
+    "genus": "Euterpe",
+    "species": "Euterpe precatoria"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Peru",
+      "Bolivia",
+      "Colombia",
+      "Ecuador",
+      "Venezuela"
+    ],
+    "ecoregions": [
+      "Amazon Basin",
+      "Humid Amazon rainforest",
+      "Terra firme forests"
+    ],
+    "biomes": [
+      "Amazon Rainforest"
+    ],
+    "watersheds": [
+      "Amazon Basin"
+    ],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native throughout the Amazon Basin, especially in humid terra firme forests."
+  },
+  "source_information": {
+    "document_type": "peer_reviewed_journal_article",
+    "title": "Seasonality of fruit production of Euterpe oleracea and E. precatoria açaí palm trees cultivated in the metropolitan region of Manaus (AM)",
+    "authors": [],
+    "institution": "",
+    "journal": "Acta Amazonica",
+    "year": 2024,
+    "language": "English",
+    "geographic_scope": [
+      "Manaus Metropolitan Region",
+      "Amazonas",
+      "Brazil"
+    ],
+    "study_period": "24 months",
+    "study_focus": [
+      "Phenology",
+      "Fruit production",
+      "Seasonality",
+      "Commercial cultivation",
+      "Agroclimatology"
+    ],
+    "evidence_level": "Peer-reviewed experimental field study"
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "High",
+    "food_security_value": "Very High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Shade tolerant during establishment.",
+      "sun_requirement": "Moderate to high light for fruit production."
+    },
+    "soil": {
+      "preferred_types": [
+        "Humid terra firme soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": ""
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late secondary to mature forest species",
+    "forest_layer": "Canopy palm",
+    "canopy_position": "Upper canopy",
+    "carbon_storage": "High biomass accumulation.",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "",
+    "pollinator_support": "",
+    "wildlife_support": "Provides abundant fruits for Amazonian wildlife."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Fruit production",
+      "Non-timber forest products",
+      "Food security",
+      "Income generation"
+    ],
+    "regulating": [
+      "Carbon storage"
+    ],
+    "supporting": [
+      "Forest restoration",
+      "Biodiversity conservation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Forest restoration",
+      "Amazon agroforestry",
+      "Food systems",
+      "Income generation"
+    ],
+    "restoration_phase": [
+      "Late restoration",
+      "Forest enrichment"
+    ],
+    "recommended_land_types": [
+      "Terra firme rainforest",
+      "Humid tropical forests",
+      "Agroforestry systems"
+    ],
+    "degradation_types": [
+      "Deforested Amazon landscapes"
+    ],
+    "restoration_objectives": [
+      "Food security",
+      "Income generation",
+      "Carbon sequestration",
+      "Biodiversity conservation"
+    ],
+    "recommended_species_mixtures": [
+      "Euterpe oleracea"
+    ],
+    "restoration_notes": "High-priority Amazon palm for productive restoration and diversified agroforestry systems emphasizing non-timber forest products."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Amazon agroforestry",
+      "Multi-strata agroforestry",
+      "Forest enrichment systems"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Semi-domesticated species with increasing commercial cultivation."
+  },
+  "silviculture": {
+    "growth_rate": "",
+    "rotation_years": null,
+    "harvest_age_years": "6–7",
+    "spacing": [],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [],
+    "management_notes": "Commercial cultivation is expanding but improved cultivars are not yet available."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": null,
+      "germination_rate_percent": null,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "July–November",
+    "fruiting": "Year-round with seasonal peak.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Euterpe oleracea"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Euterpe oleracea"
+    ],
+    "wildlife_interactions": [
+      "Provides fruits for Amazonian fauna."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Açaí fruits"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Functional foods"
+    ],
+    "other": [
+      "Non-timber forest products"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [
+      "Climate change",
+      "Drought"
+    ],
+    "human": [
+      "Unsustainable harvesting",
+      "Habitat loss"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {},
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {
+      "fruit_production_start_years": "6–7",
+      "average_bunches_per_year": 4.7,
+      "maximum_fruit_yield_kg_per_tree": 50,
+      "production_peak_month": "June"
+    },
+    "productivity": {
+      "harvest_peak": "March–July"
+    },
+    "additional_measurements": {}
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Amazon terra firme forests",
+      "Humid rainforest",
+      "Agroforestry systems"
+    ],
+    "recommended_restoration_goals": [
+      "Forest restoration",
+      "Food security",
+      "Income generation",
+      "Carbon sequestration",
+      "Biodiversity conservation"
+    ],
+    "ideal_companion_species": [
+      "Euterpe oleracea"
+    ],
+    "avoid_species": [],
+    "decision_notes": "One of the most valuable Amazonian palms for combining restoration, food security, biodiversity conservation and sustainable forest economies."
+  },
+  "research": {
+    "gaps": [
+      "Genetic improvement",
+      "Commercial cultivar development",
+      "Climate change response",
+      "Drought physiology",
+      "Pollination biology",
+      "Seed dispersal ecology",
+      "Carbon sequestration quantification",
+      "Restoration performance monitoring",
+      "Harvest prediction models",
+      "Large-scale management optimization"
+    ],
+    "scientific_uncertainties": [],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "peer_reviewed_journal_article",
+      "title": "Seasonality of fruit production of Euterpe oleracea and E. precatoria açaí palm trees cultivated in the metropolitan region of Manaus (AM)",
+      "journal": "Acta Amazonica",
+      "year": 2024
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "species_profile": {
+    "scientific_name": "Handroanthus spp.",
+    "authority": "",
+    "family": "Bignoniaceae",
+    "common_names": {
+      "english": [
+        "Trumpet tree"
+      ],
+      "spanish": [
+        "Ipé",
+        "Palo de arco"
+      ],
+      "portuguese": [
+        "Ipê",
+        "Pau-d'arco"
+      ],
+      "french": [],
+      "local": []
+    },
+    "life_form": "Medium to large deciduous tree",
+    "life_cycle": "Perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Bignoniaceae",
+    "genus": "Handroanthus",
+    "species": "Handroanthus spp."
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Colombia",
+      "Bolivia",
+      "Mexico",
+      "Argentina",
+      "El Salvador"
+    ],
+    "ecoregions": [
+      "Amazon",
+      "Cerrado",
+      "Caatinga",
+      "Atlantic Forest",
+      "Pantanal"
+    ],
+    "biomes": [
+      "Amazon",
+      "Cerrado",
+      "Atlantic Forest",
+      "Caatinga",
+      "Pantanal",
+      "Seasonal Forests",
+      "Rocky Outcrops"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "The genus Handroanthus comprises numerous native Neotropical species widely distributed across tropical and subtropical South America with highest diversity in Brazil."
+  },
+  "source_information": {
+    "document_type": "technical_reference",
+    "title": "Particularidades biológicas de espécies de ipês de ocorrência no Cerrado Brasileiro",
+    "authors": [
+      "Sebastião Pires de Moraes Neto"
+    ],
+    "institution": "Embrapa Cerrados",
+    "year": 2021,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazilian Cerrado"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Silviculture",
+      "Restoration",
+      "Taxonomy",
+      "Mycorrhizae"
+    ],
+    "evidence_level": "Technical monograph"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "High",
+    "food_security_value": "Low",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Species dependent; generally light-demanding.",
+      "sun_requirement": "Full sun"
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained soils",
+        "Loam soils",
+        "Clay soils"
+      ],
+      "texture": [
+        "Loam",
+        "Clay"
+      ],
+      "drainage": "Well-drained.",
+      "fertility": "Some species are limited by nutrient-poor soils.",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Moderate; several species naturally occur in seasonally dry forests."
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical",
+      "Seasonally dry tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "Wind-dispersed seeds.",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Intermediate to late successional (species dependent)",
+    "forest_layer": "Canopy to emergent",
+    "canopy_position": "Canopy tree",
+    "carbon_storage": "Dense hardwoods with high long-term carbon storage potential.",
+    "soil_improvement": "Arbuscular mycorrhizal associations improve nutrient uptake.",
+    "erosion_control": "Suitable for long-term stabilization of restored landscapes.",
+    "water_regulation": "Contributes to mature forest hydrological function.",
+    "microclimate_regulation": "Provides seasonal canopy cover.",
+    "pollinator_support": "Flowers support diverse pollinating insects.",
+    "wildlife_support": "Provides nesting sites and seasonal floral resources."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "High-value hardwood",
+      "Traditional medicine",
+      "Urban landscaping"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Long-term forest stabilization"
+    ],
+    "supporting": [
+      "Mycorrhizal networks",
+      "Pollinator resources",
+      "Forest succession"
+    ],
+    "cultural": [
+      "Highly valued ornamental flowering trees"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Restoration of degraded areas",
+      "Permanent Preservation Area restoration",
+      "Landscape restoration",
+      "Native timber production"
+    ],
+    "restoration_phase": [
+      "Intermediate restoration",
+      "Late restoration"
+    ],
+    "recommended_land_types": [
+      "Degraded forests",
+      "Permanent Preservation Areas",
+      "Native forest restoration"
+    ],
+    "degradation_types": [
+      "Deforested land",
+      "Degraded native forest"
+    ],
+    "restoration_objectives": [
+      "Native timber production",
+      "Long-term carbon storage",
+      "Landscape recovery",
+      "Biodiversity restoration"
+    ],
+    "recommended_species_mixtures": [
+      "Mixed native hardwood species"
+    ],
+    "restoration_notes": "One of the flagship native hardwood groups for ecological restoration and long-term reforestation throughout Brazil."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Native agroforestry",
+      "Mixed forest plantations",
+      "Landscape agroforestry"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": false,
+    "shade_crop": true,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Can function as a long-term upper-canopy timber component."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [],
+    "pruning": "",
+    "fertilization": "Low fertilization combined with arbuscular mycorrhizal fungi can improve establishment.",
+    "maintenance": [],
+    "management_notes": "Management recommendations vary considerably among species within the genus."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": "",
+      "germination_rate_percent": null,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Generally from May to November depending on species.",
+    "fruiting": "Generally from July to January depending on species.",
+    "leaf_flush": "",
+    "leaf_fall": "Many species flower during the deciduous period.",
+    "seed_collection": "",
+    "seed_dispersal": "Wind (anemochory).",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Wind"
+    ],
+    "companion_species": [],
+    "facilitates": [
+      "Arbuscular mycorrhizal fungi",
+      "Forest succession"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": [
+      "Forms beneficial associations with arbuscular mycorrhizal fungi."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Heavy construction",
+      "Bridges",
+      "Shipbuilding",
+      "Flooring",
+      "Posts",
+      "Railway sleepers",
+      "Furniture",
+      "Musical instruments",
+      "Tool handles"
+    ],
+    "food": [],
+    "medicine": [
+      "Traditional medicinal bark",
+      "Lapachol-containing wood"
+    ],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [
+      "Landscape planting",
+      "Urban trees"
+    ],
+    "industrial": [],
+    "other": []
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [
+      "Low soil fertility (species dependent)"
+    ],
+    "human": [
+      "Harvest pressure for high-value timber",
+      "Habitat loss"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 50,
+      "maximum_dbh_cm": 40,
+      "wood_density_g_cm3": {
+        "minimum": 0.9,
+        "maximum": 1.08
+      },
+      "annual_diameter_increment_mm": {
+        "minimum": 4.8,
+        "maximum": 11.6
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {},
+    "productivity": {
+      "years_to_40cm_dbh": 55,
+      "commercial_volume_at_21_years_m3": 0.3634
+    },
+    "additional_measurements": {
+      "nickel_tolerance_mg_L": 60
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Medium to High",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Native forest restoration",
+      "Permanent Preservation Areas",
+      "Landscape restoration",
+      "Mixed native plantations"
+    ],
+    "recommended_restoration_goals": [
+      "Long-term carbon storage",
+      "High-value native timber",
+      "Biodiversity restoration",
+      "Landscape recovery"
+    ],
+    "ideal_companion_species": [
+      "Late-successional native hardwoods"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Handroanthus species are among the most valuable native hardwoods in South America. Their dense wood, ecological importance and spectacular flowering make them flagship species for long-term restoration, urban forestry and biodiversity conservation."
+  },
+  "research": {
+    "gaps": [
+      "Further dendroecological studies.",
+      "Mycorrhizal associations.",
+      "Continued taxonomic revision of Handroanthus."
+    ],
+    "scientific_uncertainties": [
+      "Species boundaries continue to be revised following separation from Tabebuia."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_reference",
+      "title": "Particularidades biológicas de espécies de ipês de ocorrência no Cerrado Brasileiro",
+      "institution": "Embrapa Cerrados",
+      "authors": [
+        "Sebastião Pires de Moraes Neto"
+      ],
+      "year": 2021,
+      "pages": "9–72"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "Very High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

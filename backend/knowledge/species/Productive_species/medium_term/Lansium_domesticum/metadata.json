@@ -1,0 +1,458 @@
+{
+  "species_profile": {
+    "scientific_name": "Lansium domesticum",
+    "authority": "Corrêa",
+    "family": "Meliaceae",
+    "common_names": {
+      "english": [
+        "Langsat",
+        "Lanzones",
+        "Duku"
+      ],
+      "spanish": [
+        "Lansium"
+      ],
+      "portuguese": [
+        "Lansium"
+      ],
+      "french": [
+        "Lansium"
+      ],
+      "local": [
+        "Langsat",
+        "Lanzones",
+        "Duku"
+      ]
+    },
+    "life_form": "Medium-sized evergreen tree",
+    "life_cycle": "Long-lived",
+    "growth_form": "",
+    "native": false
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Sapindales",
+    "family": "Meliaceae",
+    "genus": "Lansium",
+    "species": "Lansium domesticum"
+  },
+  "distribution": {
+    "countries": [
+      "Malaysia",
+      "Thailand",
+      "Vietnam",
+      "Philippines",
+      "Costa Rica",
+      "Panama"
+    ],
+    "ecoregions": [
+      "Bocas del Toro",
+      "Talamanca"
+    ],
+    "biomes": [
+      "Humid tropical forest"
+    ],
+    "watersheds": [],
+    "native": false,
+    "introduced_regions": [
+      "Central America",
+      "Tropical America"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to Southeast Asia and cultivated throughout tropical America."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "14 Árboles Frutales para Nuestras Fincas",
+    "authors": [
+      "Roberto Mack"
+    ],
+    "institution": "CATIE",
+    "year": null,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Central America"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Lansium (Lansium domesticum)"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Medium",
+    "restoration_value": "Medium",
+    "agroforestry_value": "High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "Medium",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": false
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Partial shade during establishment.",
+      "sun_requirement": "Light shade when young."
+    },
+    "soil": {
+      "preferred_types": [
+        "Deep fertile soils",
+        "Organic-rich soils",
+        "Well-drained soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "High",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Very Low",
+      "waterlogging_tolerance": "Very Low",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late-successional perennial fruit tree.",
+    "forest_layer": "Subcanopy",
+    "canopy_position": "",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "Provides shade in agroforestry systems.",
+    "pollinator_support": "",
+    "wildlife_support": "Provides edible fruits."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Income generation"
+    ],
+    "regulating": [
+      "Shade"
+    ],
+    "supporting": [
+      "Farm diversification"
+    ],
+    "cultural": [
+      "Mosquito repellent from fruit peel smoke"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Productive agroforestry",
+      "Home gardens",
+      "Mixed tropical orchards",
+      "Farm diversification"
+    ],
+    "restoration_phase": [
+      "Productive restoration"
+    ],
+    "recommended_land_types": [
+      "Agroforestry systems",
+      "Mixed tropical farms",
+      "Farm boundaries"
+    ],
+    "degradation_types": [
+      "Agricultural landscapes"
+    ],
+    "restoration_objectives": [
+      "Food security",
+      "Income generation",
+      "Farm diversification"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "High-value exotic fruit tree suitable for diversified tropical agroforestry. Produces attractive fruit clusters with strong local market potential. Can diversify farmer income but is not native to the Amazon. Very slow juvenile development makes grafted material preferable for restoration projects. Requires fertile, well-drained soils and good organic matter management. Best considered by FYNOS AI as a complementary productive species rather than a core restoration species."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Productive agroforestry",
+      "Mixed tropical orchards",
+      "Home gardens"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Suitable for diversified tropical agroforestry on fertile, well-drained soils."
+  },
+  "silviculture": {
+    "growth_rate": "Slow",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "minimum": 10,
+      "maximum": 15
+    },
+    "spacing": [
+      "5–6 m"
+    ],
+    "planting_methods": [
+      "Seeds",
+      "Air layering",
+      "Grafting"
+    ],
+    "pruning": "",
+    "fertilization": "Organic matter is recommended during establishment.",
+    "maintenance": [
+      "Plant during the rainy season.",
+      "Avoid flooded soils.",
+      "Grow under partial shade while young.",
+      "Harvest entire fruit clusters with pruning shears.",
+      "Allow fruits to ripen fully on the tree."
+    ],
+    "management_notes": "Vegetative propagation is recommended to shorten the juvenile period."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Seeds must never be allowed to dry and should be stored temporarily in moist sawdust or damp newspaper.",
+      "germination_days": "14–21",
+      "germination_rate_percent": null,
+      "storage": "Maintain seeds moist; viability declines rapidly after drying."
+    },
+    "nursery": {
+      "transplant_age": ">1 year",
+      "transplant_height": "",
+      "special_care": [
+        "Place seeds sideways with only a light soil cover.",
+        "Maintain seedlings under light shade.",
+        "Maintain only one seedling per nursery bag."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Air layering",
+        "Grafting"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Not reported.",
+    "fruiting": "Produces one or two harvests per year depending on climate and management.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Select the largest seeds from mature fruits and sow immediately.",
+    "seed_dispersal": "Humans.",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Humans"
+    ],
+    "companion_species": [],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": []
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruit",
+      "Fruit preserved in syrup"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Mosquito repellent from burned fruit peel",
+      "Home gardens",
+      "Agroforestry"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Numerous unidentified insect pests reported in Asia"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Poor drainage",
+      "Waterlogging"
+    ],
+    "human": [
+      "Habitat conversion"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {},
+    "wood_properties": {},
+    "seed_data": {
+      "germination_weeks": {
+        "minimum": 2,
+        "maximum": 3
+      }
+    },
+    "fruit_data": {
+      "fruits_per_cluster": {
+        "minimum": 3,
+        "maximum": 30
+      },
+      "fruit_length_cm": {
+        "minimum": 2,
+        "maximum": 5
+      },
+      "segments_per_fruit": {
+        "minimum": 5,
+        "maximum": 6
+      },
+      "annual_fruit_number": 1000,
+      "annual_production_kg": {
+        "minimum": 20,
+        "maximum": 60
+      },
+      "harvests_per_year": {
+        "minimum": 1,
+        "maximum": 2
+      }
+    },
+    "productivity": {
+      "productive_age_years": {
+        "minimum": 10,
+        "maximum": 15
+      }
+    },
+    "additional_measurements": {
+      "nursery_period_years": ">1",
+      "recommended_spacing_m": {
+        "minimum": 5,
+        "maximum": 6
+      },
+      "fresh_storage_days": 4,
+      "cold_storage_weeks": 2,
+      "cold_storage_temperature_c": {
+        "minimum": 11,
+        "maximum": 12
+      }
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Medium",
+    "recommended_landscape_types": [
+      "Productive agroforestry systems",
+      "Mixed tropical orchards",
+      "Home gardens"
+    ],
+    "recommended_restoration_goals": [
+      "Food security",
+      "Income generation",
+      "Farm diversification"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "High-value exotic fruit tree suitable as a complementary agroforestry species. Grafted or air-layered planting material is preferred because seed-grown trees have a very long juvenile phase. Not recommended as a core native restoration species."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Carbon sequestration potential.",
+      "Climate resilience.",
+      "Pest complexes in tropical America.",
+      "Long-term agroforestry performance.",
+      "Genetic improvement."
+    ],
+    "scientific_uncertainties": [
+      "Pollination ecology.",
+      "Natural seed dispersers.",
+      "Carbon storage.",
+      "Pest species in tropical America.",
+      "Climate adaptation."
+    ],
+    "potential_contradictions": [
+      "No direct scientific contradictions identified.",
+      "Although seedlings reproduce true-to-type through apomixis, grafting and air-layering are still recommended to reduce the long juvenile period."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "14 Árboles Frutales para Nuestras Fincas",
+      "institution": "CATIE",
+      "author": "Roberto Mack",
+      "species_chapter": "Lansium (Lansium domesticum)"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Medium",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

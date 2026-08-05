@@ -1,0 +1,454 @@
+{
+  "species_profile": {
+    "scientific_name": "Mucuna pruriens",
+    "authority": "(L.) DC.",
+    "family": "Fabaceae",
+    "common_names": {
+      "english": [
+        "Velvet bean",
+        "Cowhage"
+      ],
+      "spanish": [
+        "Mucuna",
+        "Frijol abono",
+        "Frijol terciopelo",
+        "Picapica mansa",
+        "Picapica lisa"
+      ],
+      "portuguese": [
+        "Mucuna-preta",
+        "Feijão-de-porco"
+      ],
+      "french": [],
+      "local": [
+        "Frijol abono",
+        "Frijol terciopelo"
+      ]
+    },
+    "life_form": "Annual climbing nitrogen-fixing legume",
+    "life_cycle": "Annual",
+    "growth_form": "Fast-growing climbing vine",
+    "native": false
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Mucuna",
+    "species": "Mucuna pruriens"
+  },
+  "distribution": {
+    "countries": [
+      "India",
+      "Brazil",
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "Nicaragua",
+      "Costa Rica",
+      "Panama"
+    ],
+    "ecoregions": [
+      "Tropical Asia",
+      "Central America",
+      "Humid tropical agricultural landscapes"
+    ],
+    "biomes": [
+      "Tropical agricultural systems",
+      "Agroforestry systems",
+      "Secondary vegetation",
+      "Degraded agricultural lands",
+      "Fallow lands"
+    ],
+    "watersheds": [],
+    "native": false,
+    "introduced_regions": [
+      "Central America",
+      "South America",
+      "Africa",
+      "Southeast Asia"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to tropical Asia and widely cultivated throughout tropical regions as one of the world's most important cover crops and green manure species."
+  },
+  "source_information": {
+    "document_type": "agricultural_extension_manual",
+    "title": "Usos y beneficios de la mucuna",
+    "authors": [
+      "Arnoldo Merayo Miller",
+      "José Francisco Fonseca Ramírez"
+    ],
+    "institution": "CATIE / Natural Resources Institute (NRI)",
+    "year": 1998,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Central America",
+      "Tropical agriculture"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Cover crops",
+      "Green manure",
+      "Weed suppression",
+      "Nitrogen fixation",
+      "Soil restoration",
+      "Maize production",
+      "Regenerative agriculture"
+    ],
+    "evidence_level": "Technical extension manual"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "High",
+    "food_security_value": "Medium",
+    "income_generation_value": "High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": true,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Low",
+      "sun_requirement": "Full sun"
+    },
+    "soil": {
+      "preferred_types": [
+        "Degraded agricultural soils",
+        "Tropical soils",
+        "Fallow soils"
+      ],
+      "texture": [],
+      "drainage": "",
+      "fertility": "Adapted to low fertility soils",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early successional pioneer",
+    "forest_layer": "Ground layer",
+    "canopy_position": "Ground cover",
+    "carbon_storage": "Produces abundant biomass that contributes to carbon accumulation in soils.",
+    "soil_improvement": "Excellent biological nitrogen fixation, organic matter accumulation and soil fertility enhancement.",
+    "erosion_control": "Dense vegetative cover protects soil against rainfall impact and erosion.",
+    "water_regulation": "Conserves soil moisture and improves infiltration.",
+    "microclimate_regulation": "Acts as a living mulch reducing soil temperature and evaporation.",
+    "pollinator_support": "Provides flowers for pollinating insects.",
+    "wildlife_support": "Supports beneficial soil microorganisms and earthworm populations."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Green manure",
+      "Cover crop"
+    ],
+    "regulating": [
+      "Nitrogen fixation",
+      "Weed suppression",
+      "Carbon sequestration",
+      "Erosion control"
+    ],
+    "supporting": [
+      "Organic matter accumulation",
+      "Soil fertility improvement",
+      "Soil moisture conservation",
+      "Beneficial soil microorganisms",
+      "Earthworm support"
+    ],
+    "cultural": [
+      "Regenerative agriculture"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Cover crop",
+      "Green manure",
+      "Living mulch",
+      "Soil restoration",
+      "Agricultural restoration",
+      "Erosion control"
+    ],
+    "restoration_phase": [
+      "Early restoration"
+    ],
+    "recommended_land_types": [
+      "Degraded agricultural land",
+      "Fallow fields",
+      "Agroforestry systems"
+    ],
+    "degradation_types": [
+      "Soil degradation",
+      "Nutrient depletion",
+      "Weed infestation",
+      "Erosion"
+    ],
+    "restoration_objectives": [
+      "Nitrogen enrichment",
+      "Organic matter production",
+      "Weed suppression",
+      "Soil rehabilitation"
+    ],
+    "recommended_species_mixtures": [
+      "Zea mays",
+      "Theobroma cacao"
+    ],
+    "restoration_notes": "One of the world's most effective tropical cover crops for restoring degraded agricultural soils while reducing herbicide and fertilizer dependence."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Agroforestry",
+      "Alley cropping",
+      "Cover cropping",
+      "Regenerative agriculture",
+      "Maize-based systems"
+    ],
+    "compatible_crops": [
+      "Zea mays",
+      "Theobroma cacao"
+    ],
+    "livestock_compatible": false,
+    "shade_crop": false,
+    "silvopastoral": false,
+    "multistrata": false,
+    "agroforestry_notes": "Excellent living mulch and green manure species for perennial and annual tropical production systems."
+  },
+  "silviculture": {
+    "growth_rate": "Very fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Direct seeding"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Manage vigorous vine growth to avoid smothering young trees."
+    ],
+    "management_notes": "Primarily cultivated as an annual cover crop and green manure."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": {
+        "min": null,
+        "max": null
+      },
+      "germination_rate_percent": {},
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "",
+    "fruiting": "",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Zea mays",
+      "Theobroma cacao"
+    ],
+    "facilitates": [
+      "Nitrogen enrichment",
+      "Soil fertility",
+      "Weed suppression",
+      "Crop productivity"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Maize systems",
+      "Cacao agroforestry",
+      "Regenerative agriculture"
+    ],
+    "wildlife_interactions": [
+      "Supports beneficial soil microorganisms.",
+      "Supports earthworm populations."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Green manure",
+      "Cover crop",
+      "Living mulch"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": null,
+      "maximum_dbh_cm": null,
+      "wood_density_g_cm3": null,
+      "maximum_vine_length_m": 14
+    },
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {},
+    "productivity": {},
+    "additional_measurements": {
+      "life_cycle_days": {
+        "minimum": 100,
+        "maximum": 290
+      }
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Dense ground cover",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Regenerative agriculture",
+      "Agroforestry systems",
+      "Degraded croplands",
+      "Tropical restoration landscapes"
+    ],
+    "recommended_restoration_goals": [
+      "Nitrogen fixation",
+      "Weed suppression",
+      "Organic matter production",
+      "Soil moisture conservation",
+      "Soil restoration"
+    ],
+    "ideal_companion_species": [
+      "Zea mays",
+      "Theobroma cacao"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Mucuna pruriens is one of the most effective tropical regenerative agriculture species, combining exceptional biomass production, biological nitrogen fixation, weed suppression and soil rehabilitation, making it a flagship cover crop for restoration-oriented farming systems."
+  },
+  "research": {
+    "gaps": [
+      "Long-term carbon sequestration",
+      "Climate resilience",
+      "Optimal seeding densities",
+      "Performance under different tropical ecosystems",
+      "Biodiversity impacts",
+      "Large-scale restoration applications",
+      "Remote sensing monitoring",
+      "AI-based management optimization"
+    ],
+    "scientific_uncertainties": [],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "agricultural_extension_manual",
+      "title": "Usos y beneficios de la mucuna",
+      "institution": "CATIE / Natural Resources Institute (NRI)",
+      "authors": [
+        "Arnoldo Merayo Miller",
+        "José Francisco Fonseca Ramírez"
+      ],
+      "year": 1998,
+      "pages": ""
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "Moderate",
+    "restoration": "Very High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

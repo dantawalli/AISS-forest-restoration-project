@@ -1,0 +1,558 @@
+{
+  "species_profile": {
+    "scientific_name": "Simarouba amara",
+    "authority": "Aublet",
+    "family": "Simaroubaceae",
+    "common_names": {
+      "english": [
+        "Paradise tree"
+      ],
+      "spanish": [
+        "Marupa",
+        "Amargo"
+      ],
+      "portuguese": [
+        "Marupá",
+        "Marupá-preto",
+        "Marupaúba",
+        "Caixeta",
+        "Praíba",
+        "Paraíba",
+        "Pau-paraíba",
+        "Caraíba",
+        "Craíba",
+        "Jangadeiro",
+        "Tamanqueira",
+        "Pau-de-perdiz",
+        "Pipariúba",
+        "Paparaúba"
+      ],
+      "french": [],
+      "local": [
+        "Canuco",
+        "Aceituno",
+        "Soemaroeba",
+        "Walkara"
+      ]
+    },
+    "life_form": "Large emergent hardwood tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Simaroubaceae",
+    "genus": "Simarouba",
+    "species": "Simarouba amara"
+  },
+  "distribution": {
+    "countries": [
+      "Antigua",
+      "Belize",
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Costa Rica",
+      "Ecuador",
+      "French Guiana",
+      "Guyana",
+      "Guatemala",
+      "Honduras",
+      "Panama",
+      "Peru",
+      "Suriname",
+      "Trinidad and Tobago",
+      "Venezuela"
+    ],
+    "ecoregions": [
+      "Amazon Rainforest",
+      "Atlantic Forest",
+      "Cerrado"
+    ],
+    "biomes": [
+      "Terra firme rainforest",
+      "Floodplain forest (Várzea)",
+      "Dense ombrophilous forest",
+      "Open ombrophilous forest",
+      "Atlantic rainforest",
+      "Secondary forest",
+      "Cerrado",
+      "Cerradão",
+      "Rocky outcrops"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Widely distributed throughout tropical Central and South America, occurring across Amazonian, Atlantic Forest and Cerrado ecosystems."
+  },
+  "source_information": {
+    "document_type": "book_chapter",
+    "title": "Espécies Arbóreas Brasileiras – Volume 3",
+    "authors": [
+      "Paulo Ernani Ramalho Carvalho"
+    ],
+    "institution": "Embrapa Florestas",
+    "year": 2008,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazil",
+      "Central America",
+      "South America"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Silviculture",
+      "Forest restoration",
+      "Medicinal uses",
+      "Wood properties"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "High",
+    "carbon_value": "High",
+    "biodiversity_value": "High",
+    "food_security_value": "Low",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 20.5,
+        "max": 26.7
+      },
+      "absolute_minimum_c": 1.6,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 760,
+        "max": 4000
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 20,
+        "max": 1200
+      }
+    },
+    "light": {
+      "shade_tolerance": "Requires selective shade during establishment.",
+      "sun_requirement": "High light after establishment."
+    },
+    "soil": {
+      "preferred_types": [
+        "Terra firme soils",
+        "Floodplain soils",
+        "Various tropical soils"
+      ],
+      "texture": [],
+      "drainage": "",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Naturally occurs in floodplain forests.",
+      "waterlogging_tolerance": "Moderate",
+      "drought_tolerance": ""
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical",
+      "Humid subtropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "Low tolerance.",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early secondary to light-demanding climax",
+    "forest_layer": "Upper canopy",
+    "canopy_position": "Emergent canopy tree",
+    "carbon_storage": "Fast-growing canopy tree contributing substantially to long-term carbon storage.",
+    "soil_improvement": "Suitable across diverse tropical soils and restoration settings.",
+    "erosion_control": "Helps stabilize recovering forest soils.",
+    "water_regulation": "Naturally occurs in both terra firme and seasonally flooded forests.",
+    "microclimate_regulation": "Provides rapid canopy development during forest recovery.",
+    "pollinator_support": "Supports a diverse insect pollinator community.",
+    "wildlife_support": "Seeds dispersed by wildlife and contributes to forest food webs."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Timber",
+      "Paper pulp",
+      "Fuelwood",
+      "Medicinal products"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Forest recovery"
+    ],
+    "supporting": [
+      "Wildlife habitat",
+      "Pollinator support",
+      "Forest succession"
+    ],
+    "cultural": [
+      "Traditional medicinal species",
+      "Landscape tree"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Forest restoration",
+      "Environmental planting",
+      "Agroforestry",
+      "Secondary forest recovery",
+      "Timber production"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Intermediate restoration"
+    ],
+    "recommended_land_types": [
+      "Secondary forests",
+      "Terra firme forests",
+      "Floodplain forests",
+      "Restoration plantations"
+    ],
+    "degradation_types": [
+      "Deforested landscapes",
+      "Secondary forests",
+      "Agricultural degradation"
+    ],
+    "restoration_objectives": [
+      "Rapid canopy establishment",
+      "Timber production",
+      "Carbon sequestration",
+      "Native forest recovery"
+    ],
+    "recommended_species_mixtures": [
+      "Dalbergia nigra"
+    ],
+    "restoration_notes": "Fast-growing native canopy tree widely recommended for mixed restoration projects throughout tropical America."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Mixed plantations",
+      "Forest restoration",
+      "Agroforestry systems"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": false,
+    "shade_crop": true,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Suitable as a productive canopy tree in diversified tropical agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": 40,
+    "harvest_age_years": 40,
+    "spacing": [
+      "2 × 2 m"
+    ],
+    "planting_methods": [
+      "Seed propagation"
+    ],
+    "pruning": "Recommended after formation of two pairs of branch whorls.",
+    "fertilization": "",
+    "maintenance": [
+      "Plant under selective shade.",
+      "Protect terminal shoots from insect attack.",
+      "Species regenerates naturally in abundance."
+    ],
+    "management_notes": "Selective shade during establishment significantly reduces shoot borer damage."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "No treatment required. Soaking seeds in water at approximately 30°C for 24 hours accelerates germination.",
+      "germination_days": {
+        "minimum": 8,
+        "maximum": 40
+      },
+      "germination_rate_percent": {
+        "minimum": 10,
+        "maximum": 92
+      },
+      "storage": "Seeds remain viable for approximately 165 days under favorable conditions."
+    },
+    "nursery": {
+      "transplant_age": "4–5 months",
+      "transplant_height": "4–6 cm",
+      "special_care": [
+        "Sow in seedbeds.",
+        "Transplant seedlings at 4–6 cm height.",
+        "Maintain selective shade to reduce terminal shoot insect damage."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "July–December with regional variation.",
+    "fruiting": "July–March with regional variation.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect fruits directly from trees when natural fruit fall begins.",
+    "seed_dispersal": "Barochory and zoochory.",
+    "pollination": "Primarily Syrphidae flies, Apis mellifera, Chrysomelidae beetles and moths; wind pollination has also been suggested."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Syrphidae flies",
+      "Apis mellifera",
+      "Chrysomelidae beetles",
+      "Moths"
+    ],
+    "seed_dispersers": [
+      "Wild animals"
+    ],
+    "companion_species": [
+      "Dalbergia nigra"
+    ],
+    "facilitates": [
+      "Forest regeneration",
+      "Pollinator diversity"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Agroforestry systems in Cametá, Pará"
+    ],
+    "wildlife_interactions": [
+      "Seeds dispersed by animals.",
+      "Terminal shoots are susceptible to insect attack in open plantations."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Furniture",
+      "Construction",
+      "Plywood",
+      "Boxes",
+      "Packaging",
+      "Musical instruments",
+      "Matches",
+      "Shoes",
+      "Toys"
+    ],
+    "food": [],
+    "medicine": [
+      "Bark infusion",
+      "Leaf infusion",
+      "Root preparations",
+      "Treatment of dysentery",
+      "Treatment of malaria",
+      "Treatment of filariasis",
+      "Treatment of intestinal worms",
+      "Tonic"
+    ],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [
+      "Fuelwood",
+      "Charcoal"
+    ],
+    "ornamental": [
+      "Landscape tree"
+    ],
+    "industrial": [
+      "Paper pulp",
+      "Cellulose"
+    ],
+    "other": []
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Terminal shoot insects"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Low temperatures"
+    ],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 25,
+      "maximum_dbh_cm": 80,
+      "wood_density_g_cm3": {
+        "minimum": 0.352,
+        "maximum": 0.55
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seeds_per_kg": {
+        "minimum": 2000,
+        "maximum": 4200
+      },
+      "germination_days": {
+        "minimum": 8,
+        "maximum": 40
+      },
+      "germination_percent": {
+        "minimum": 10,
+        "maximum": 92
+      }
+    },
+    "fruit_data": {
+      "fruit_length_cm": {
+        "minimum": 0.6,
+        "maximum": 1.0
+      }
+    },
+    "productivity": {
+      "annual_increment_m3_ha_year": {
+        "maximum": 18.75
+      },
+      "rotation_years": 40
+    },
+    "additional_measurements": {
+      "maximum_bole_length_m": 22.5,
+      "leaflet_pairs": "3–6 (up to 9)",
+      "inflorescence_length_cm": {
+        "minimum": 20,
+        "maximum": 30
+      },
+      "seed_length_cm": {
+        "minimum": 0.5,
+        "maximum": 0.8
+      },
+      "annual_rainfall_mm": {
+        "minimum": 760,
+        "maximum": 4000
+      },
+      "mean_temperature_c": {
+        "minimum": 20.5,
+        "maximum": 26.7
+      },
+      "absolute_minimum_temperature_c": 1.6,
+      "altitude_m": {
+        "minimum": 20,
+        "maximum": 1200
+      },
+      "germination_temperature_c": {
+        "minimum": 30,
+        "maximum": 35
+      },
+      "seed_viability_days": 165,
+      "seedling_height_transplant_cm": {
+        "minimum": 4,
+        "maximum": 6
+      },
+      "nursery_period_months": {
+        "minimum": 4,
+        "maximum": 5
+      },
+      "height_increment_m_year": 1.26,
+      "diameter_increment_cm_year": 1.5
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Moderate to high",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Amazonian forests",
+      "Atlantic Forest restoration",
+      "Mixed tropical plantations",
+      "Agroforestry systems"
+    ],
+    "recommended_restoration_goals": [
+      "Rapid canopy establishment",
+      "Native timber production",
+      "Carbon sequestration",
+      "Secondary forest recovery"
+    ],
+    "ideal_companion_species": [
+      "Dalbergia nigra"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Simarouba amara is a versatile, fast-growing native canopy tree with broad ecological amplitude, making it highly valuable for restoration, productive forestry and agroforestry across tropical America."
+  },
+  "research": {
+    "gaps": [
+      "Long-term silvicultural performance under different restoration systems.",
+      "Optimization of agroforestry management.",
+      "Further ecological studies on pollination syndrome."
+    ],
+    "scientific_uncertainties": [
+      "Pollination may involve both insects and wind.",
+      "Flowering and fruiting vary substantially among regions.",
+      "Seed longevity depends strongly on storage conditions."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "book_chapter",
+      "title": "Espécies Arbóreas Brasileiras – Volume 3",
+      "institution": "Embrapa Florestas",
+      "authors": [
+        "Paulo Ernani Ramalho Carvalho"
+      ],
+      "year": 2008,
+      "pages": "367–374"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

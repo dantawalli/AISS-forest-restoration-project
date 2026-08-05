@@ -1,0 +1,598 @@
+{
+  "species_profile": {
+    "scientific_name": "Oenocarpus bataua",
+    "authority": "Mart.",
+    "family": "Arecaceae",
+    "common_names": {
+      "english": [
+        "Patawa Palm",
+        "Seje Palm",
+        "Ungurahui Palm"
+      ],
+      "spanish": [
+        "Ungurahui",
+        "Milpesos",
+        "Seje"
+      ],
+      "portuguese": [
+        "Patauá",
+        "Batauá",
+        "Pacauá",
+        "Patoá",
+        "Patuá",
+        "Koanani",
+        "Segen"
+      ],
+      "french": [],
+      "local": [
+        "Ungurahui",
+        "Patauá"
+      ]
+    },
+    "life_form": "Canopy palm",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Liliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae",
+    "genus": "Oenocarpus",
+    "species": "Oenocarpus bataua"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Peru",
+      "Colombia",
+      "Ecuador",
+      "Bolivia",
+      "Venezuela",
+      "Guyana",
+      "Suriname",
+      "French Guiana",
+      "Panama",
+      "Costa Rica"
+    ],
+    "ecoregions": [
+      "Amazon Rainforest",
+      "Flooded Forests",
+      "Gallery Forests",
+      "Terra Firme Forests"
+    ],
+    "biomes": [
+      "Terra firme forest",
+      "Gallery forest",
+      "Várzea forest",
+      "Igapó forest",
+      "Floodplains",
+      "Humid tropical forest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "A widespread Amazonian canopy palm distributed throughout tropical South America and southern Central America, occurring in both terra firme and seasonally flooded forests."
+  },
+  "source_information": {
+    "document_type": "book_chapter",
+    "title": "Plantas para o Futuro – Região Norte",
+    "authors": [
+      "Maria do Socorro Padilha de Oliveira",
+      "Natália Padilha de Oliveira",
+      "Alessandra Ferraiolo Nogueira Domingues"
+    ],
+    "institution": "Embrapa Amazônia Oriental",
+    "year": 2018,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Amazon Basin"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Silviculture",
+      "Propagation",
+      "Agroforestry",
+      "Non-timber forest products"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "Very High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": true,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 1700,
+        "max": 4000
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 0,
+        "max": 900
+      }
+    },
+    "light": {
+      "shade_tolerance": "Shade tolerant during juvenile stages.",
+      "sun_requirement": "High light required for reproductive palms."
+    },
+    "soil": {
+      "preferred_types": [
+        "Sandy soils",
+        "Sandy-clay soils",
+        "Floodplain soils",
+        "Poor soils",
+        "Humid tropical soils"
+      ],
+      "texture": [
+        "Sand",
+        "Sandy clay"
+      ],
+      "drainage": "Humid to seasonally flooded environments.",
+      "fertility": "Performs well even on nutrient-poor soils.",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "High",
+      "waterlogging_tolerance": "High",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "Floodplains and humid lowlands",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "Low tolerance.",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late-successional",
+    "forest_layer": "Upper canopy",
+    "canopy_position": "Canopy palm",
+    "carbon_storage": "Long-lived canopy palm contributing substantially to forest biomass.",
+    "soil_improvement": "Suitable for restoration of nutrient-poor tropical soils.",
+    "erosion_control": "Stabilizes floodplain soils.",
+    "water_regulation": "Important structural component of floodplain ecosystems.",
+    "microclimate_regulation": "Provides canopy cover in mature Amazonian forests.",
+    "pollinator_support": "Supports specialized beetle pollinators.",
+    "wildlife_support": "Produces abundant fruits consumed by numerous mammals and birds."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Fruit",
+      "Edible oil",
+      "Medicinal oil",
+      "Palm heart",
+      "Construction material",
+      "Fiber"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Floodplain stabilization"
+    ],
+    "supporting": [
+      "Wildlife food",
+      "Pollinator habitat",
+      "Forest regeneration"
+    ],
+    "cultural": [
+      "Traditional Amazonian food systems",
+      "Indigenous livelihoods"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Agroforestry",
+      "Forest restoration",
+      "Floodplain restoration",
+      "Biodiversity restoration",
+      "Sustainable extractivism"
+    ],
+    "restoration_phase": [
+      "Late restoration"
+    ],
+    "recommended_land_types": [
+      "Floodplains",
+      "Terra firme forests",
+      "Gallery forests",
+      "Mixed tropical forests"
+    ],
+    "degradation_types": [
+      "Deforested Amazonian landscapes",
+      "Floodplain degradation"
+    ],
+    "restoration_objectives": [
+      "Biodiversity restoration",
+      "Sustainable livelihoods",
+      "Carbon sequestration",
+      "Forest enrichment"
+    ],
+    "recommended_species_mixtures": [
+      "Cupuaçu",
+      "Mixed tropical fruit systems",
+      "Amazonian agroforestry species"
+    ],
+    "restoration_notes": "One of the most valuable Amazonian palms for combining ecological restoration with sustainable fruit and oil production."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Amazonian agroforestry",
+      "Mixed tropical orchards",
+      "Sustainable extractivism"
+    ],
+    "compatible_crops": [
+      "Cupuaçu"
+    ],
+    "livestock_compatible": false,
+    "shade_crop": true,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Excellent upper-canopy palm for diversified Amazonian agroforestry systems focused on high-value fruit and oil production."
+  },
+  "silviculture": {
+    "growth_rate": "Slow",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "natural_populations": "8–15",
+      "plantations": "9–15"
+    },
+    "spacing": [
+      "7 × 7 m",
+      "14 × 14 m"
+    ],
+    "planting_methods": [
+      "Seedlings",
+      "Mixed agroforestry",
+      "Monoculture"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Maintain partial shade during establishment.",
+      "Avoid prolonged drought.",
+      "Harvest bunches without felling palms.",
+      "Select highly productive mother trees."
+    ],
+    "management_notes": "Management should prioritize sustainable fruit harvest while maintaining healthy reproductive palms."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Fresh seeds preferred. Warm water immersion (~40 minutes) before depulping accelerates germination.",
+      "germination_days": {
+        "minimum": 40,
+        "maximum": 88
+      },
+      "germination_rate_percent": {
+        "minimum": 90,
+        "maximum": 98
+      },
+      "storage": "Recalcitrant seeds."
+    },
+    "nursery": {
+      "transplant_age": "6–12 months",
+      "transplant_height": "",
+      "special_care": [
+        "Partial shade",
+        "Daily irrigation",
+        "Well-drained substrate",
+        "Mycorrhizal inoculation recommended"
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Year-round with peak flowering from December to February.",
+    "fruiting": "December–March and July–September, with highest production during rainy periods.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Harvest mature bunches from productive palms.",
+    "seed_dispersal": "Zoochory.",
+    "pollination": "Primarily beetles (Coleoptera); wind has a secondary role."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Baridinae spp.",
+      "Phyllotrox spp.",
+      "Anchylorhynchus spp.",
+      "Anchylorhynchus tricarinatus",
+      "Mystrops spp."
+    ],
+    "seed_dispersers": [
+      "Tapir",
+      "Deer",
+      "Monkeys",
+      "Paca",
+      "Agouti",
+      "Toucan",
+      "Parrots",
+      "Macaws",
+      "Humans"
+    ],
+    "companion_species": [],
+    "facilitates": [
+      "Frugivorous mammals",
+      "Bird communities",
+      "Forest regeneration"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Cupuaçu",
+      "Mixed tropical fruit systems",
+      "Amazonian agroforestry systems"
+    ],
+    "wildlife_interactions": [
+      "Supports numerous frugivorous mammals.",
+      "Supports numerous birds.",
+      "Seeds preyed upon by peccaries.",
+      "Larvae of Rhynchophorus palmarum develop in decomposing trunks and are traditionally consumed."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Construction poles",
+      "Landscape tree"
+    ],
+    "food": [
+      "Fresh pulp",
+      "Juices",
+      "Ice cream",
+      "Popsicles",
+      "Jams",
+      "Liqueurs",
+      "Nectar",
+      "Palm heart"
+    ],
+    "medicine": [
+      "Traditional medicinal oil"
+    ],
+    "fiber": [
+      "Roof thatching",
+      "Handicrafts"
+    ],
+    "oil": [
+      "Edible oil",
+      "Cosmetic oil",
+      "Medicinal oil",
+      "Olive oil substitute"
+    ],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "Animal feed",
+      "Animal salt supplement from dried inflorescences"
+    ],
+    "fuel": [],
+    "ornamental": [
+      "Landscape tree"
+    ],
+    "industrial": [
+      "Cosmetic oil"
+    ],
+    "other": [
+      "Biojewelry",
+      "Seeds for handicrafts"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [
+      "Habitat loss",
+      "Illegal deforestation"
+    ],
+    "human": [
+      "Predatory fruit harvesting",
+      "Destructive extractivism",
+      "Loss of genetic diversity"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 26,
+      "maximum_dbh_cm": 54
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seeds_per_kg": {
+        "minimum": 100,
+        "maximum": 227
+      },
+      "germination_days": {
+        "minimum": 40,
+        "maximum": 88
+      },
+      "germination_percent": {
+        "minimum": 90,
+        "maximum": 98
+      }
+    },
+    "fruit_data": {
+      "fruit_weight_g": {
+        "minimum": 10,
+        "maximum": 15
+      },
+      "fruit_length_cm": {
+        "minimum": 2.5,
+        "maximum": 4.7
+      },
+      "fruit_diameter_cm": {
+        "minimum": 2.0,
+        "maximum": 2.5
+      },
+      "bunch_weight_kg": {
+        "minimum": 5,
+        "maximum": 40
+      },
+      "fruits_per_bunch": {
+        "minimum": 500,
+        "maximum": 4000
+      }
+    },
+    "productivity": {
+      "fruiting_age_years": {
+        "minimum": 8,
+        "maximum": 15
+      },
+      "first_harvest_after_planting_years": {
+        "minimum": 12,
+        "maximum": 15
+      },
+      "productivity_oligarchic_stands_t_ha_year": 11,
+      "experimental_productivity_t_ha": 5.1
+    },
+    "additional_measurements": {
+      "leaf_length_m": 10,
+      "leaves_per_tree": 20,
+      "rachillae_per_inflorescence": {
+        "minimum": 120,
+        "maximum": 370
+      },
+      "staminate_flowers": 94000,
+      "pistillate_flowers": 16000,
+      "adult_density_floodplain_per_ha": ">100",
+      "juvenile_density_floodplain_per_ha": 900,
+      "adult_density_terra_firme_per_ha": "1–20",
+      "pollination_by_beetles_percent": 97,
+      "bunches_per_tree": 3,
+      "average_fruits_per_bunch": 1000,
+      "oil_unsaturated_fatty_acids_percent": 82,
+      "oleic_acid_percent": {
+        "minimum": 73,
+        "maximum": 82
+      },
+      "protein_percent": {
+        "minimum": 3.3,
+        "maximum": 14.3
+      },
+      "lipids_percent": {
+        "minimum": 5.6,
+        "maximum": 14.4
+      },
+      "fiber_percent": {
+        "minimum": 25.6,
+        "maximum": 39.1
+      }
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "High",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Amazon terra firme",
+      "Floodplain forests",
+      "Gallery forests",
+      "Agroforestry landscapes"
+    ],
+    "recommended_restoration_goals": [
+      "Forest restoration",
+      "Biodiversity conservation",
+      "Sustainable extractivism",
+      "Community livelihoods",
+      "Carbon sequestration"
+    ],
+    "ideal_companion_species": [
+      "Cupuaçu",
+      "Other Amazonian fruit trees",
+      "Late-successional native palms"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Oenocarpus bataua is one of the highest-value Amazonian palms for ecological restoration because it combines exceptional biodiversity support, sustainable fruit and oil production, high carbon storage and strong agroforestry potential."
+  },
+  "research": {
+    "gaps": [
+      "Commercial cultivation protocols.",
+      "Domestication.",
+      "Genetic improvement.",
+      "Silvicultural management.",
+      "Long-term plantation productivity."
+    ],
+    "scientific_uncertainties": [
+      "Commercial cultivation systems remain poorly developed.",
+      "Agronomic knowledge remains limited."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "book_chapter",
+      "title": "Plantas para o Futuro – Região Norte",
+      "institution": "Embrapa Amazônia Oriental",
+      "authors": [
+        "Maria do Socorro Padilha de Oliveira",
+        "Natália Padilha de Oliveira",
+        "Alessandra Ferraiolo Nogueira Domingues"
+      ],
+      "year": 2018,
+      "pages": "379–392"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

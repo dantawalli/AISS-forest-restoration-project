@@ -1,0 +1,469 @@
+{
+  "species_profile": {
+    "scientific_name": "Pourouma cecropiifolia",
+    "authority": "Mart.",
+    "family": "Urticaceae",
+    "common_names": {
+      "english": [
+        "Amazon grape",
+        "Uvilla"
+      ],
+      "spanish": [
+        "Uvilla",
+        "Uva amazónica"
+      ],
+      "portuguese": [
+        "Uva-da-amazônia"
+      ],
+      "french": [],
+      "local": [
+        "Uvilla"
+      ]
+    },
+    "life_form": "Medium-sized dioecious tree",
+    "life_cycle": "Medium-lived",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Rosales",
+    "family": "Urticaceae",
+    "genus": "Pourouma",
+    "species": "Pourouma cecropiifolia"
+  },
+  "distribution": {
+    "countries": [
+      "Peru"
+    ],
+    "ecoregions": [
+      "Western Amazon",
+      "Loreto"
+    ],
+    "biomes": [
+      "Humid tropical rainforest"
+    ],
+    "watersheds": [
+      "Nanay River Basin"
+    ],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native to the western Amazon Basin, particularly Loreto, Peru."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "Uvilla (Pourouma cecropiifolia): ecología, propagación, conservación y aprovechamiento",
+    "authors": [],
+    "institution": "Instituto de Investigaciones de la Amazonía Peruana (IIAP)",
+    "year": null,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Peru"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Propagation",
+      "Conservation",
+      "Utilization"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 20,
+        "max": 28
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 1599,
+        "max": 4000
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Low",
+      "sun_requirement": "Prefers full sunlight."
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained soils",
+        "Temporary floodplain soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Moderate",
+      "waterlogging_tolerance": "Moderate",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early- to mid-successional fruit tree.",
+    "forest_layer": "Subcanopy",
+    "canopy_position": "",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "Rapid canopy development contributes to restoration.",
+    "pollinator_support": "",
+    "wildlife_support": "Provides fruits for birds and wildlife."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Income generation"
+    ],
+    "regulating": [
+      "Forest restoration"
+    ],
+    "supporting": [
+      "Habitat for wildlife",
+      "Biodiversity conservation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Amazon restoration",
+      "Community agroforestry",
+      "Native fruit systems",
+      "Productive restoration",
+      "Secondary forest enrichment",
+      "Biodiversity restoration"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Secondary forest enrichment"
+    ],
+    "recommended_land_types": [
+      "Humid tropical forests",
+      "River basins",
+      "Secondary forests",
+      "Agroforestry systems"
+    ],
+    "degradation_types": [
+      "Degraded Amazon forests",
+      "Deforested landscapes"
+    ],
+    "restoration_objectives": [
+      "Food security",
+      "Income generation",
+      "Native forest restoration",
+      "Biodiversity conservation"
+    ],
+    "recommended_species_mixtures": [
+      "Macambo",
+      "Metohuayo",
+      "Copoazú",
+      "Brazil nut"
+    ],
+    "restoration_notes": "Native Amazon fruit tree with excellent potential for productive restoration. Fast-growing species suitable for community-based restoration projects. Produces valuable fruits for local food security and income generation. Integrates well into mixed agroforestry systems. Its rapid growth makes it valuable for accelerating restoration of degraded landscapes. IIAP maintains an important germplasm collection supporting future breeding and conservation. Recommended by FYNOS AI as a complementary native fruit species alongside macambo, metohuayo, copoazú and Brazil nut in diversified Amazon restoration systems."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Amazon agroforestry",
+      "Native fruit systems",
+      "Community agroforestry",
+      "Mixed agroforestry"
+    ],
+    "compatible_crops": [
+      "Leguminous cover crops"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": false,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Fast-growing native fruit tree suitable for diversified Amazonian agroforestry."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "minimum": 5,
+      "maximum": 6
+    },
+    "spacing": [],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "Organic matter incorporation is recommended.",
+    "maintenance": [
+      "Harvest fruits directly from trees.",
+      "Protect fruits from birds.",
+      "Maintain fertile soils.",
+      "Use both male and female trees due to dioecious reproduction."
+    ],
+    "management_notes": "Male and female trees are required for fruit production."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Fresh seeds should be sown immediately after pulp removal.",
+      "germination_days": "18–25",
+      "germination_rate_percent": 80,
+      "storage": "Fresh seed viability declines rapidly during storage."
+    },
+    "nursery": {
+      "transplant_age": "100 days after emergence",
+      "transplant_height": "50–60 cm",
+      "special_care": [
+        "Fresh seeds should be used immediately after harvest."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Dioecious species with separate male and female trees.",
+    "fruiting": "Fruits mature approximately 5–6 years after establishment under cultivation.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits directly from the tree for highest quality.",
+    "seed_dispersal": "Birds.",
+    "pollination": "",
+    "reproductive_system": "Dioecious"
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Birds"
+    ],
+    "companion_species": [
+      "Leguminous cover crops"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Leguminous cover crops"
+    ],
+    "wildlife_interactions": [
+      "Birds consume fruits and disperse seeds."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruit",
+      "Juice",
+      "Wine",
+      "Liqueur",
+      "Frozen pulp"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Value-added beverages"
+    ],
+    "other": [
+      "Agroforestry",
+      "Forest restoration"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Bird predation on fruits"
+      ],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": [
+      "Deforestation",
+      "Loss of wild populations",
+      "Low commercial cultivation",
+      "Loss of native genetic diversity"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {},
+    "wood_properties": {},
+    "seed_data": {
+      "seed_length_cm": 2,
+      "germination_start_days": 18,
+      "germination_peak_days": 25,
+      "germination_completion_days": 23,
+      "germination_percent": 80
+    },
+    "fruit_data": {
+      "fruit_length_cm": {
+        "minimum": 2,
+        "maximum": 4
+      },
+      "fruit_diameter_cm": {
+        "minimum": 1,
+        "maximum": 4
+      },
+      "fruit_weight_g": 15,
+      "fruit_production_kg_per_tree": 6.3,
+      "estimated_fruits_per_tree": 1000,
+      "fruit_ph": {
+        "green": 3.4,
+        "ripe": 4.4
+      },
+      "acidity_percent": {
+        "green": 0.45,
+        "ripe": 0.16
+      }
+    },
+    "productivity": {
+      "productive_age_years": {
+        "minimum": 5,
+        "maximum": 6
+      }
+    },
+    "additional_measurements": {
+      "carbohydrates_g_per_100g": 11.9,
+      "calcium_mg_per_100g": 16.7,
+      "phosphorus_mg_per_100g": 34,
+      "transplant_days": 100,
+      "seedling_height_cm": {
+        "minimum": 50,
+        "maximum": 60
+      },
+      "germplasm_populations": 16
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Amazon rainforest",
+      "Secondary forests",
+      "River basins",
+      "Community agroforestry systems"
+    ],
+    "recommended_restoration_goals": [
+      "Native forest restoration",
+      "Food security",
+      "Income generation",
+      "Biodiversity conservation"
+    ],
+    "ideal_companion_species": [
+      "Macambo",
+      "Metohuayo",
+      "Copoazú",
+      "Brazil nut",
+      "Leguminous cover crops"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Fast-growing native Amazon fruit tree with excellent potential for productive restoration. Particularly valuable for accelerating restoration while providing food and income. A strong complementary species for diversified Amazon restoration systems."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Carbon sequestration.",
+      "Climate resilience.",
+      "Genetic improvement.",
+      "Long-term restoration performance.",
+      "Wildlife interactions.",
+      "Pest and disease ecology."
+    ],
+    "scientific_uncertainties": [
+      "Pollinator species.",
+      "Carbon storage potential.",
+      "Climate adaptation.",
+      "Long-term productivity.",
+      "Wildlife seed dispersal.",
+      "Genetic variation across the Amazon."
+    ],
+    "potential_contradictions": [
+      "No direct scientific contradictions identified.",
+      "Commercial production is promising but still limited.",
+      "Fast growth contrasts with relatively late fruit production (5–6 years), reflecting normal species development rather than conflicting evidence."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "Uvilla (Pourouma cecropiifolia): ecología, propagación, conservación y aprovechamiento",
+      "institution": "Instituto de Investigaciones de la Amazonía Peruana (IIAP)",
+      "country": "Peru"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

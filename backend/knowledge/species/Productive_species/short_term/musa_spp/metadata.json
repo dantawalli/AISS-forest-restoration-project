@@ -1,0 +1,452 @@
+{
+  "species_profile": {
+    "scientific_name": "Musa spp.",
+    "authority": "L.",
+    "family": "Musaceae",
+    "common_names": {
+      "english": [
+        "Banana"
+      ],
+      "spanish": [
+        "Banano",
+        "Plátano"
+      ],
+      "portuguese": [
+        "Bananeira",
+        "Banana"
+      ],
+      "french": [
+        "Bananier"
+      ],
+      "local": []
+    },
+    "life_form": "Large perennial monocot herb",
+    "life_cycle": "Perennial",
+    "growth_form": "",
+    "native": false
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Monocots",
+    "order": "Zingiberales",
+    "family": "Musaceae",
+    "genus": "Musa",
+    "species": "Musa spp."
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "India",
+      "Philippines",
+      "China"
+    ],
+    "ecoregions": [],
+    "biomes": [
+      "Tropical forests",
+      "Humid tropical landscapes",
+      "Agricultural systems",
+      "Agroforestry systems"
+    ],
+    "watersheds": [],
+    "native": false,
+    "introduced_regions": [
+      "Brazil",
+      "Tropical regions worldwide"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to Asia and now cultivated throughout tropical regions worldwide."
+  },
+  "source_information": {
+    "document_type": "technical_bulletin",
+    "title": "Sistema Orgânico de Produção para Bananeira",
+    "authors": [
+      "A. L. Borges",
+      "M. Fancelli",
+      "Z. J. M. Cordeiro"
+    ],
+    "institution": "EMBRAPA Mandioca e Fruticultura",
+    "year": 2010,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Organic production",
+      "Crop management",
+      "Propagation",
+      "Disease management",
+      "Agroforestry"
+    ],
+    "evidence_level": "Technical production guide"
+  },
+  "fynos_classification": {
+    "priority_level": "Medium",
+    "restoration_value": "Medium",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "Medium",
+    "food_security_value": "Very High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": false
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Low",
+      "sun_requirement": "Full sun"
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained soils",
+        "Fertile soils",
+        "Organic matter-rich soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "High",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Low to moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Cultivated perennial crop commonly used during early agroforestry establishment.",
+    "forest_layer": "Understory",
+    "canopy_position": "Understory crop",
+    "carbon_storage": "Produces abundant biomass for rapid organic matter accumulation.",
+    "soil_improvement": "Generates large quantities of mulch and organic matter.",
+    "erosion_control": "Provides continuous soil cover and reduces erosion.",
+    "water_regulation": "",
+    "microclimate_regulation": "Provides shade and humidity during early restoration.",
+    "pollinator_support": "",
+    "wildlife_support": "Provides fruits and habitat within diversified agroforestry systems."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Employment generation"
+    ],
+    "regulating": [
+      "Soil conservation",
+      "Organic nutrient cycling"
+    ],
+    "supporting": [
+      "Mulch production",
+      "Agroforestry establishment"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Agroforestry",
+      "Food security",
+      "Farmer livelihoods",
+      "Organic farming",
+      "Early restoration support species"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Agroforestry establishment"
+    ],
+    "recommended_land_types": [
+      "Agricultural land",
+      "Agroforestry systems",
+      "Mixed restoration sites"
+    ],
+    "degradation_types": [
+      "Agricultural degradation",
+      "Degraded cropland"
+    ],
+    "restoration_objectives": [
+      "Rapid biomass production",
+      "Income generation",
+      "Food security",
+      "Microclimate improvement"
+    ],
+    "recommended_species_mixtures": [
+      "Native forest trees",
+      "Canavalia ensiformis"
+    ],
+    "restoration_notes": "Excellent crop for agroforestry restoration systems. Provides rapid biomass production for mulch, improves farmer income during early restoration years and should be combined with native tree species rather than planted as a monoculture."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Organic agroforestry",
+      "Mixed tropical agroforestry",
+      "Successional agroforestry"
+    ],
+    "compatible_crops": [
+      "Canavalia ensiformis"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": false,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Widely used as an early-yield crop providing food and biomass while native trees establish."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [
+      "4 × 2 × 2 m (double-row system)"
+    ],
+    "planting_methods": [
+      "Micropropagated seedlings",
+      "Rhizomes (suckers)"
+    ],
+    "pruning": "Leaf pruning, thinning, male bud removal and bunch thinning.",
+    "fertilization": "Organic compost, vermicompost, animal manure, green manure, natural phosphate, rock powders, wood ash and biofertilizers.",
+    "maintenance": [
+      "Manual weed control",
+      "Permanent mulch",
+      "Cover crops",
+      "Drainage management",
+      "Healthy planting material",
+      "Plastic recycling"
+    ],
+    "management_notes": "Organic management is recommended to reduce disease pressure and improve soil quality."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": "",
+      "germination_rate_percent": null,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Healthy micropropagated seedlings are preferred.",
+        "Conventional suckers should be disinfected in 55°C water for 20 minutes before planting."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Micropropagated seedlings",
+        "Rhizomes (suckers)"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "",
+    "fruiting": "",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Canavalia ensiformis"
+    ],
+    "facilitates": [
+      "Mulch production",
+      "Microclimate regulation"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Organic agroforestry",
+      "Mixed tropical agroforestry"
+    ],
+    "wildlife_interactions": []
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruit"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Organic biomass",
+      "Mulch",
+      "Soil cover"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Banana weevil (Cosmopolites sordidus)",
+        "Nematodes"
+      ],
+      "diseases": [
+        "Black Sigatoka",
+        "Yellow Sigatoka",
+        "Panama disease"
+      ]
+    },
+    "abiotic": [
+      "Poor drainage",
+      "Low soil fertility"
+    ],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {},
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {},
+    "productivity": {
+      "global_production_2008_tonnes": 90700000,
+      "india_production_tonnes": 23200000,
+      "philippines_production_tonnes": 8700000,
+      "china_production_tonnes": 8000000,
+      "brazil_production_tonnes": 7100000,
+      "brazil_cultivated_area_ha": 513000,
+      "domestic_consumption_percent": 97
+    },
+    "additional_measurements": {
+      "minimum_base_saturation_percent": 60,
+      "scarification_depth_cm": 30,
+      "waiting_after_liming_days": "15–20",
+      "recommended_spacing": "4 × 2 × 2 m",
+      "hot_water_temperature_c": 55,
+      "hot_water_duration_minutes": 20
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Medium to High",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Medium",
+    "recommended_landscape_types": [
+      "Agroforestry systems",
+      "Organic farming",
+      "Community restoration",
+      "Mixed tropical restoration"
+    ],
+    "recommended_restoration_goals": [
+      "Food security",
+      "Rapid biomass production",
+      "Farmer income",
+      "Microclimate improvement"
+    ],
+    "ideal_companion_species": [
+      "Native forest trees",
+      "Canavalia ensiformis"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Banana is an excellent early-support crop in productive restoration systems. Although not native to the Amazon, it provides rapid economic returns, abundant mulch and improved microclimatic conditions that facilitate the establishment of native tree species."
+  },
+  "research": {
+    "gaps": [
+      "Carbon sequestration potential.",
+      "Climate change resilience.",
+      "Restoration ecology applications.",
+      "Pollination ecology.",
+      "Wildlife interactions.",
+      "Long-term agroforestry performance.",
+      "Biodiversity benefits."
+    ],
+    "scientific_uncertainties": [
+      "No official statistics for organic banana production at the time of publication.",
+      "Performance of resistant cultivars depends on local pathogen populations.",
+      "Climate adaptation not evaluated.",
+      "Carbon storage not quantified.",
+      "Agroforestry performance not experimentally assessed."
+    ],
+    "potential_contradictions": [
+      "The publication is an agronomic technical guide rather than an ecological restoration manual."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_bulletin",
+      "title": "Sistema Orgânico de Produção para Bananeira",
+      "institution": "EMBRAPA Mandioca e Fruticultura",
+      "authors": [
+        "A. L. Borges",
+        "M. Fancelli",
+        "Z. J. M. Cordeiro"
+      ],
+      "year": 2010,
+      "country": "Brazil"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "High",
+    "silviculture": "Very High",
+    "restoration": "Medium",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

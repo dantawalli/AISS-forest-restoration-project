@@ -1,0 +1,434 @@
+{
+  "species_profile": {
+    "scientific_name": "Pouteria torta",
+    "authority": "(Mart.) Radlk.",
+    "family": "Sapotaceae",
+    "common_names": {
+      "english": [
+        "Abiu-do-cerrado"
+      ],
+      "spanish": [
+        "Abiú del Cerrado"
+      ],
+      "portuguese": [
+        "Curriola",
+        "Abiu-do-cerrado",
+        "Abiurana",
+        "Guapeva",
+        "Grão-de-galo",
+        "Cabo-de-machado",
+        "Mocotó-de-ema",
+        "Abiu-piloso",
+        "Açá",
+        "Guapeba",
+        "Pêssego-do-mato"
+      ],
+      "local": [
+        "Curriola",
+        "Guapeva",
+        "Abiurana"
+      ]
+    },
+    "life_form": "Tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Ericales",
+    "family": "Sapotaceae",
+    "genus": "Pouteria",
+    "species": "Pouteria torta"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil"
+    ],
+    "ecoregions": [
+      "Cerrado",
+      "Pantanal"
+    ],
+    "biomes": [
+      "Cerrado",
+      "Pantanal"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native to Brazil."
+  },
+  "source_information": {
+    "document_type": "technical_database",
+    "title": "WebAmbiente Embrapa - Pouteria torta",
+    "authors": [],
+    "institution": "EMBRAPA",
+    "year": null,
+    "language": "",
+    "geographic_scope": [
+      "Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "High",
+    "agroforestry_value": "High",
+    "carbon_value": "",
+    "biodiversity_value": "High",
+    "food_security_value": "High",
+    "income_generation_value": "Medium",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Shade tolerance during early establishment",
+      "sun_requirement": "Adaptable thereafter."
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained fertile soils",
+        "Forest soils",
+        "Cerrado soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "Fertile",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Moderate (riparian habitats)",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Tropical seasonal",
+      "Cerrado climate"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Generalist species adapted to multiple Cerrado vegetation types.",
+    "forest_layer": "",
+    "canopy_position": "",
+    "carbon_storage": "Carbon storage",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "",
+    "pollinator_support": "Pollinator resource",
+    "wildlife_support": "Wildlife food source"
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production"
+    ],
+    "regulating": [
+      "Carbon storage"
+    ],
+    "supporting": [
+      "Wildlife support",
+      "Pollinator support",
+      "Landscape restoration"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Cerrado restoration",
+      "Pantanal restoration",
+      "Native fruit systems",
+      "Pollinator restoration",
+      "Wildlife restoration",
+      "Forest enrichment"
+    ],
+    "restoration_phase": [],
+    "recommended_land_types": [
+      "Gallery forests",
+      "Riparian forests",
+      "Cerradão",
+      "Typical Cerrado",
+      "Rocky grasslands"
+    ],
+    "degradation_types": [
+      "Habitat fragmentation",
+      "Agricultural expansion"
+    ],
+    "restoration_objectives": [
+      "Wildlife restoration",
+      "Pollinator restoration",
+      "Forest enrichment"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Excellent native species for Cerrado and Pantanal restoration. Supports wildlife through fleshy fruits and zoochorous dispersal. Important melliferous species supporting bees and pollinator diversity. Suitable for heterogeneous restoration projects because of its ecological plasticity. Rapid nursery growth facilitates seedling production despite recalcitrant seeds. FYNOS AI should classify Pouteria torta as a priority native species for Cerrado restoration rather than Amazon restoration."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Native fruit systems",
+      "Forest enrichment"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Suitable for diverse restoration systems."
+  },
+  "silviculture": {
+    "growth_rate": "Fast (30–100 cm/year)",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "Recommended for fertile, well-drained forest soils.",
+    "maintenance": [
+      "Use direct sowing in individual containers.",
+      "Maintain 50% nursery shade.",
+      "Plant in diverse restoration systems."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Collect mature fruits from the tree or ground. Allow pulp to decompose partially before washing seeds in running water.",
+      "germination_days": "",
+      "germination_rate_percent": "50–80",
+      "storage": "Seeds are recalcitrant and cannot be stored for extended periods."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Direct sowing in individual containers.",
+        "Use well-drained fertile forest substrate (T3 Floresta).",
+        "Maintain approximately 50% shade.",
+        "Seeds are recalcitrant and cannot be stored for long periods."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "April–September",
+    "fruiting": "October–February",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "October–January",
+    "seed_dispersal": "Wildlife (zoochory)",
+    "pollination": "Bees and butterflies."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Bees",
+      "Butterflies"
+    ],
+    "seed_dispersers": [
+      "Wildlife (zoochory)"
+    ],
+    "companion_species": [],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": [
+      "Wildlife food source"
+    ]
+  },
+  "products": {
+    "timber": [
+      "Timber"
+    ],
+    "food": [
+      "Fresh fruits"
+    ],
+    "medicine": [
+      "Bioactive extracts with tyrosinase inhibitory activity",
+      "Traditional medicinal potential"
+    ],
+    "fiber": [],
+    "oil": [],
+    "resin": [
+      "Latex"
+    ],
+    "latex": [
+      "Latex"
+    ],
+    "fodder": [
+      "Forage"
+    ],
+    "fuel": [],
+    "ornamental": [
+      "Ornamental tree"
+    ],
+    "industrial": [],
+    "other": [
+      "Honey resource",
+      "Beekeeping",
+      "Forest restoration"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Fruit flies (Tephritidae)"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Short seed viability"
+    ],
+    "human": [
+      "Habitat loss",
+      "Conversion of Cerrado habitats",
+      "Habitat fragmentation",
+      "Agricultural expansion"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": ">3",
+      "nursery_growth_cm_per_year": {
+        "minimum": 30,
+        "maximum": 100
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germination_percent": {
+        "minimum": 50,
+        "maximum": 80
+      },
+      "seeds_per_kg": {
+        "minimum": 330,
+        "maximum": 660
+      }
+    },
+    "fruit_data": {},
+    "productivity": {},
+    "additional_measurements": {
+      "nursery_shade_percent": 50
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": null,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Cerrado",
+      "Pantanal",
+      "Gallery forests",
+      "Riparian forests"
+    ],
+    "recommended_restoration_goals": [
+      "Pollinator restoration",
+      "Wildlife restoration",
+      "Forest enrichment",
+      "Native fruit production"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "Priority native species for Cerrado and Pantanal restoration with high ecological plasticity and strong value for pollinators and wildlife."
+  },
+  "research": {
+    "gaps": [
+      "Carbon sequestration.",
+      "Climate resilience.",
+      "Restoration performance.",
+      "Seed physiology.",
+      "Genetic diversity across Cerrado populations."
+    ],
+    "scientific_uncertainties": [
+      "Long-term restoration performance.",
+      "Carbon accumulation.",
+      "Population genetics.",
+      "Climate adaptation."
+    ],
+    "potential_contradictions": [
+      "No major contradictions identified.",
+      "Although tolerant of different Cerrado environments, successful nursery production depends on fertile, well-drained substrates and fresh seeds."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_database",
+      "title": "WebAmbiente Embrapa - Pouteria torta",
+      "institution": "EMBRAPA",
+      "country": "Brazil"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

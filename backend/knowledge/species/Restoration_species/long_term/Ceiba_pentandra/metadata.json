@@ -1,0 +1,555 @@
+{
+  "species_profile": {
+    "scientific_name": "Ceiba pentandra",
+    "authority": "(L.) Gaertn.",
+    "family": "Malvaceae",
+    "common_names": {
+      "english": [
+        "Kapok tree",
+        "Silk cotton tree",
+        "Cotton tree",
+        "Corkwood"
+      ],
+      "spanish": [
+        "Ceiba",
+        "Ceiba de lana",
+        "Ceiba de garsón",
+        "Ceiba de bruja",
+        "Cibonga",
+        "Cartagenera",
+        "Palosanto",
+        "Lana bongo",
+        "Yague",
+        "Ceiba yuca",
+        "Ceibo"
+      ],
+      "portuguese": [
+        "Sumaúma",
+        "Sumaúma-da-várzea",
+        "Sumaumeira",
+        "Árvore-da-seda",
+        "Árvore-da-lã",
+        "Paina-lisa",
+        "Sumaúma-verdadeira",
+        "Samaúma"
+      ],
+      "french": [],
+      "local": [
+        "Kumaka",
+        "Kankantri"
+      ]
+    },
+    "life_form": "Large emergent deciduous tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae",
+    "genus": "Ceiba",
+    "species": "Ceiba pentandra"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Bolivia",
+      "Colombia",
+      "Venezuela",
+      "Guyana",
+      "Suriname",
+      "Panama",
+      "Nicaragua",
+      "Mexico"
+    ],
+    "ecoregions": [
+      "Amazon Basin",
+      "Amazon floodplain forests",
+      "Amazon terra firme forests",
+      "Central America",
+      "South America"
+    ],
+    "biomes": [
+      "Amazon floodplain forests",
+      "Amazon terra firme forests",
+      "Primary tropical rainforest",
+      "Secondary forests",
+      "Flooded forests"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Philippines",
+      "Thailand",
+      "India",
+      "Equatorial Africa"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Widely distributed throughout the tropical Americas and extensively introduced across tropical Africa and Asia."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "Ceiba pentandra (L.) Gaertn.",
+    "authors": [
+      "José Edmar Urano de Carvalho"
+    ],
+    "institution": "Embrapa Amazônia Oriental",
+    "year": 2005,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Amazon Basin"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Silviculture",
+      "Propagation",
+      "Forest restoration",
+      "Commercial forestry"
+    ],
+    "evidence_level": "Technical manual"
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "High",
+    "agroforestry_value": "High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "High",
+    "food_security_value": "Low",
+    "income_generation_value": "High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": 20,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 0,
+        "max": 450
+      }
+    },
+    "light": {
+      "shade_tolerance": "Very low",
+      "sun_requirement": "Full sun"
+    },
+    "soil": {
+      "preferred_types": [
+        "Floodplain soils",
+        "Clay soils",
+        "Rocky terra firme soils",
+        "Fertile tropical soils"
+      ],
+      "texture": [
+        "Clay",
+        "Rocky"
+      ],
+      "drainage": "Well adapted to seasonally flooded environments.",
+      "fertility": "Requires fertile soils for optimal growth.",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "High",
+      "waterlogging_tolerance": "High",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "Wind-dispersed seeds.",
+      "cold": "Poor tolerance.",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Pioneer",
+    "forest_layer": "Emergent",
+    "canopy_position": "Emergent tree",
+    "carbon_storage": "Very high biomass accumulation.",
+    "soil_improvement": "Rapid litter decomposition contributes to nutrient cycling.",
+    "erosion_control": "Stabilizes soils in floodplain environments.",
+    "water_regulation": "Characteristic species of Amazonian floodplains.",
+    "microclimate_regulation": "Provides extensive canopy cover in mature forests.",
+    "pollinator_support": "",
+    "wildlife_support": "Produces abundant wind-dispersed seeds."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Timber",
+      "Kapok fiber",
+      "Oil",
+      "Medicinal products"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Nutrient cycling",
+      "Floodplain stabilization"
+    ],
+    "supporting": [
+      "Forest succession",
+      "Habitat formation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Rapid establishment in degraded areas",
+      "Commercial reforestation",
+      "Mixed plantations",
+      "Agroforestry systems",
+      "Recovery of degraded Amazonian landscapes"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Medium-term restoration"
+    ],
+    "recommended_land_types": [
+      "Floodplains",
+      "Secondary forests",
+      "Previously altered lands"
+    ],
+    "degradation_types": [
+      "Deforested areas",
+      "Floodplain degradation",
+      "Secondary forests"
+    ],
+    "restoration_objectives": [
+      "Rapid biomass accumulation",
+      "Carbon sequestration",
+      "Native timber production"
+    ],
+    "recommended_species_mixtures": [
+      "Mixed native Amazonian species"
+    ],
+    "restoration_notes": "Excellent fast-growing emergent tree for productive restoration and reforestation in humid tropical regions."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Agroforestry systems",
+      "Mixed plantations",
+      "Floodplain agroforestry"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Functions as an upper-canopy species providing structural diversity."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": 15,
+    "harvest_age_years": 15,
+    "spacing": [
+      "2 × 2 m",
+      "3 × 3 m",
+      "3 × 4 m"
+    ],
+    "planting_methods": [
+      "Plant at the beginning of the rainy season.",
+      "Use vigorous seedlings.",
+      "Plant in altered lands or secondary vegetation.",
+      "Avoid clearing primary forest."
+    ],
+    "pruning": "",
+    "fertilization": "Recommended after soil analysis.",
+    "maintenance": [
+      "Daily irrigation during establishment.",
+      "Gradually reduce irrigation.",
+      "Maintain weed control.",
+      "Replace dead seedlings above 5% mortality.",
+      "Maintain reserve seedlings.",
+      "Selective thinning after approximately four years."
+    ],
+    "management_notes": "Performs best on fertile soils with intensive weed management during establishment."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "No pre-treatment required.",
+      "germination_days": "5–10",
+      "germination_rate_percent": "90–95",
+      "storage": "Recalcitrant seeds with short viability."
+    },
+    "nursery": {
+      "transplant_age": "3–4 months",
+      "transplant_height": "15–30 cm",
+      "special_care": [
+        "Remove kapok fibers.",
+        "Maintain partial shade for 45 days.",
+        "Gradually expose seedlings to full sunlight.",
+        "Daily irrigation.",
+        "Use healthy seedlings."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Stem cuttings"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "June to September while nearly leafless.",
+    "fruiting": "September to November.",
+    "leaf_flush": "",
+    "leaf_fall": "Deciduous before flowering.",
+    "seed_collection": "Collect fruits when capsules begin opening.",
+    "seed_dispersal": "Wind dispersal aided by kapok fibers.",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Wind"
+    ],
+    "companion_species": [],
+    "facilitates": [
+      "Rapid canopy development",
+      "Forest succession"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Mixed plantations",
+      "Agroforestry systems"
+    ],
+    "wildlife_interactions": [
+      "Kapok fibers enable long-distance wind dispersal."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Plywood",
+      "Rotary veneer",
+      "Boats",
+      "Boxes",
+      "Barrels",
+      "General carpentry"
+    ],
+    "food": [],
+    "medicine": [
+      "Astringent",
+      "Diuretic",
+      "Traditional malaria treatment",
+      "Sap for conjunctivitis"
+    ],
+    "fiber": [
+      "Kapok fiber",
+      "Life jackets",
+      "Buoys",
+      "Mattresses",
+      "Pillows",
+      "Thermal insulation"
+    ],
+    "oil": [
+      "Edible oil",
+      "Soap",
+      "Lubricants",
+      "Lamp oil"
+    ],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Industrial fiber"
+    ],
+    "other": [
+      "Water from exposed roots"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Leaf-cutting ants",
+        "Stem borers",
+        "Defoliating caterpillars"
+      ],
+      "diseases": [
+        "Damping-off",
+        "Root rot"
+      ]
+    },
+    "abiotic": [
+      "Low temperatures",
+      "Semi-arid climates",
+      "Poor soils",
+      "Competition with weeds",
+      "Strong winds"
+    ],
+    "human": [
+      "Timber overexploitation",
+      "Forest conversion",
+      "Unsustainable logging"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 50,
+      "maximum_dbh_cm": 200,
+      "wood_density_g_cm3": {
+        "minimum": 0.32,
+        "maximum": 0.34
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seeds_per_kg": 7500,
+      "germination_days": {
+        "minimum": 5,
+        "maximum": 10
+      },
+      "germination_percent": {
+        "minimum": 90,
+        "maximum": 95
+      }
+    },
+    "fruit_data": {
+      "fruit_length_cm": {
+        "minimum": 8,
+        "maximum": 16
+      },
+      "fruit_diameter_cm": {
+        "minimum": 5,
+        "maximum": 7
+      },
+      "seeds_per_fruit": {
+        "minimum": 120,
+        "maximum": 175
+      }
+    },
+    "productivity": {
+      "annual_increment_m3_ha_year": {
+        "good_site": {
+          "minimum": 20,
+          "maximum": 25
+        },
+        "poor_site": null
+      },
+      "fruiting_age_years": {
+        "minimum": 4,
+        "maximum": 5
+      }
+    },
+    "additional_measurements": {
+      "rotation_years": 15,
+      "seedlings_ready_months": {
+        "minimum": 3,
+        "maximum": 4
+      },
+      "field_height_after_2_years_m": 5,
+      "nursery_shade_days": 45,
+      "planting_height_cm": {
+        "minimum": 15,
+        "maximum": 30
+      },
+      "replacement_threshold_percent": 5,
+      "reserve_seedlings_percent": 20
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "High",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Floodplains",
+      "Amazon restoration",
+      "Mixed plantations",
+      "Commercial reforestation"
+    ],
+    "recommended_restoration_goals": [
+      "Rapid biomass production",
+      "Carbon sequestration",
+      "Native timber production",
+      "Forest recovery"
+    ],
+    "ideal_companion_species": [
+      "Native Amazonian timber species"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Ceiba pentandra is a flagship emergent Amazonian tree combining rapid growth, high biomass accumulation and multiple economic products. It is especially suitable for medium-term restoration and productive reforestation projects."
+  },
+  "research": {
+    "gaps": [
+      "Selection of superior genetic material.",
+      "Long-term plantation productivity.",
+      "Vegetative propagation.",
+      "Performance in agroforestry.",
+      "Resistance to pests and diseases.",
+      "Wood quality improvement."
+    ],
+    "scientific_uncertainties": [
+      "Growth varies according to site quality.",
+      "Vegetative propagation requires further optimization."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "Ceiba pentandra (L.) Gaertn.",
+      "institution": "Embrapa Amazônia Oriental",
+      "authors": [
+        "José Edmar Urano de Carvalho"
+      ],
+      "year": 2005,
+      "pages": "1–24"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "Very High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

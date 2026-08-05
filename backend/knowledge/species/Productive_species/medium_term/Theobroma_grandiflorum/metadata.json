@@ -1,0 +1,485 @@
+{
+  "species_profile": {
+    "scientific_name": "Theobroma grandiflorum",
+    "authority": "(Willd. ex Spreng.) K. Schum.",
+    "family": "Malvaceae",
+    "common_names": {
+      "english": [
+        "Cupuaçu",
+        "Cupuassu"
+      ],
+      "spanish": [
+        "Copoazú",
+        "Cupuazú"
+      ],
+      "portuguese": [
+        "Cupuaçu",
+        "Cupu",
+        "Cupuaçuzeiro"
+      ],
+      "french": [],
+      "local": [
+        "Copoazú (Peru)"
+      ]
+    },
+    "life_form": "Evergreen fruit tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae",
+    "genus": "Theobroma",
+    "species": "Theobroma grandiflorum"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Peru",
+      "Colombia",
+      "Bolivia",
+      "Venezuela"
+    ],
+    "ecoregions": [
+      "Eastern Amazon",
+      "Southern Amazon",
+      "Northeastern Amazon",
+      "Amazon Basin"
+    ],
+    "biomes": [
+      "Humid tropical forest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native throughout the Amazon Basin and widely cultivated in Amazonian agroforestry systems."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "Recomendações Básicas No. 1 – Cupuaçuzeiro",
+    "authors": [
+      "B.B.G. Calzavara"
+    ],
+    "institution": "EMBRAPA-CPATU",
+    "year": 1987,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazilian Amazon"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Cultivation",
+      "Propagation",
+      "Silviculture",
+      "Agroforestry",
+      "Fruit production"
+    ],
+    "evidence_level": "Technical recommendation manual"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "High",
+    "food_security_value": "Very High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 21.6,
+        "max": 27.5
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 1900,
+        "max": 3100
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": 77,
+        "max": 88
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "High when young",
+      "sun_requirement": "Partial shade during juvenile stage; increasing light as trees mature."
+    },
+    "soil": {
+      "preferred_types": [
+        "Deep terra firme soils",
+        "High fertility tropical soils",
+        "High water retention soils",
+        "High várzea soils without prolonged flooding"
+      ],
+      "texture": [
+        "Deep tropical soils"
+      ],
+      "drainage": "Well drained",
+      "fertility": "Medium to high",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Moderate",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "Not reported",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late secondary",
+    "forest_layer": "Lower canopy",
+    "canopy_position": "Subcanopy tree",
+    "carbon_storage": "Long-lived perennial fruit tree contributing to long-term carbon storage.",
+    "soil_improvement": "Provides permanent litter and organic matter.",
+    "erosion_control": "",
+    "water_regulation": "Adapted to humid tropical environments with high rainfall.",
+    "microclimate_regulation": "Provides permanent canopy cover in agroforestry systems.",
+    "pollinator_support": "",
+    "wildlife_support": "Large fleshy fruits provide food for wildlife."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Fruit production",
+      "Food security",
+      "Income generation"
+    ],
+    "regulating": [
+      "Carbon storage"
+    ],
+    "supporting": [
+      "Forest restoration",
+      "Secondary forest enrichment"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Agroforestry",
+      "Forest restoration",
+      "Secondary forest enrichment",
+      "Productive restoration",
+      "Community forestry"
+    ],
+    "restoration_phase": [
+      "Secondary restoration",
+      "Long-term productive restoration"
+    ],
+    "recommended_land_types": [
+      "Terra firme forest",
+      "Secondary forest",
+      "Agroforestry systems",
+      "High várzea forest"
+    ],
+    "degradation_types": [
+      "Secondary forests",
+      "Degraded agricultural land",
+      "Deforested Amazon landscapes"
+    ],
+    "restoration_objectives": [
+      "Food production",
+      "Income generation",
+      "Carbon storage",
+      "Forest enrichment"
+    ],
+    "recommended_species_mixtures": [
+      "Native forest trees"
+    ],
+    "restoration_notes": "Flagship Amazonian fruit tree for productive restoration. Combines long-term carbon storage with high-value fruit production and integrates exceptionally well into diversified agroforestry systems."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Agroforestry",
+      "Forest enrichment",
+      "Mixed tree plantations",
+      "Secondary forest restoration"
+    ],
+    "compatible_crops": [
+      "Native forest trees"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "One of the flagship Amazonian agroforestry fruit species."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "minimum": 2,
+      "maximum": 4
+    },
+    "spacing": [
+      "8 × 8 m",
+      "6 × 6 m (grafted)"
+    ],
+    "planting_methods": [
+      "Seedlings",
+      "Grafted seedlings"
+    ],
+    "pruning": "Formation and sanitary pruning.",
+    "fertilization": "Organic manure plus NPK according to tree age.",
+    "maintenance": [
+      "Maintain shade during juvenile phase.",
+      "Regular weed control.",
+      "Mulching.",
+      "Disease monitoring."
+    ],
+    "management_notes": "Young plants require shade and regular disease monitoring."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Clean seeds, dry approximately 24 hours and optionally apply copper fungicide.",
+      "germination_days": "8",
+      "germination_rate_percent": null,
+      "storage": "Recalcitrant; viable about 10 days inside fruits or stored in moist sawdust."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "80 cm",
+      "special_care": [
+        "Partial shade",
+        "Maintain constant moisture",
+        "Use forest soil substrate",
+        "Prevent witches' broom"
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Shield budding",
+        "Cleft grafting"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "November–March.",
+    "fruiting": "November–June.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits after natural fruit fall.",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Native forest trees"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Forest enrichment",
+      "Secondary forest restoration",
+      "Mixed tree plantations"
+    ],
+    "wildlife_interactions": [
+      "Large fruits provide food for wildlife."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruit",
+      "Frozen pulp",
+      "Juice",
+      "Jam",
+      "Compote",
+      "Candy",
+      "Ice cream",
+      "Liqueur"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [
+      "Seed fat (cupulate/chocolate substitute)"
+    ],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "White chocolate substitute"
+    ],
+    "other": [
+      "Agroforestry crop"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Costalimaita ferruginea"
+      ],
+      "diseases": [
+        "Crinipellis perniciosa (Witches' broom)"
+      ]
+    },
+    "abiotic": [
+      "Prolonged flooding"
+    ],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {},
+    "wood_properties": {},
+    "seed_data": {
+      "seeds_per_kg": 200,
+      "seed_storage_days": 10,
+      "germination_days": 8,
+      "seeds_per_fruit": {
+        "minimum": 15,
+        "maximum": 45
+      }
+    },
+    "fruit_data": {
+      "fruit_weight_kg": {
+        "minimum": 1.0,
+        "maximum": 4.0
+      },
+      "fruit_per_tree": {
+        "minimum": 12,
+        "maximum": 40
+      },
+      "pulp_recovery_percent": 30,
+      "seed_chocolate_yield_percent": 21
+    },
+    "productivity": {
+      "fruiting_age_years": {
+        "minimum": 2,
+        "maximum": 4
+      },
+      "productive_lifespan_years": 80
+    },
+    "additional_measurements": {
+      "average_temperature_c": {
+        "minimum": 21.6,
+        "maximum": 27.5
+      },
+      "annual_rainfall_mm": {
+        "minimum": 1900,
+        "maximum": 3100
+      },
+      "relative_humidity_percent": {
+        "minimum": 77,
+        "maximum": 88
+      },
+      "field_seedling_height_cm": 80,
+      "plant_density_seedlings_per_ha": 179,
+      "plant_density_grafted_per_ha": 319,
+      "recommended_spacing": [
+        "8 × 8 m",
+        "6 × 6 m"
+      ]
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Medium to High",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Amazon agroforestry",
+      "Secondary forests",
+      "Terra firme forests",
+      "Productive restoration landscapes"
+    ],
+    "recommended_restoration_goals": [
+      "Food security",
+      "Income generation",
+      "Carbon storage",
+      "Forest enrichment"
+    ],
+    "ideal_companion_species": [
+      "Native forest trees"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Cupuaçu is one of the highest-priority Amazonian fruit trees for productive restoration. It combines excellent agroforestry performance, long productive lifespan, strong market demand and high ecological compatibility with native Amazon forest restoration."
+  },
+  "research": {
+    "gaps": [
+      "Pollination ecology.",
+      "Seed dispersal mechanisms.",
+      "Mycorrhizal associations.",
+      "Long-term genetic improvement."
+    ],
+    "scientific_uncertainties": [
+      "Minimum rainfall thresholds.",
+      "Adaptation to low fertility soils.",
+      "Yield variation among production systems."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "Recomendações Básicas No. 1 – Cupuaçuzeiro",
+      "institution": "EMBRAPA-CPATU",
+      "authors": [
+        "B.B.G. Calzavara"
+      ],
+      "year": 1987
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

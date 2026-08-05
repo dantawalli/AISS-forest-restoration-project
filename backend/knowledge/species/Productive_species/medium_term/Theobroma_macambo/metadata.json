@@ -1,0 +1,458 @@
+{
+  "species_profile": {
+    "scientific_name": "Theobroma bicolor",
+    "authority": "(Humb. & Bonpl.)",
+    "family": "Malvaceae",
+    "common_names": {
+      "english": [
+        "White cacao",
+        "Jaguar cacao"
+      ],
+      "spanish": [
+        "Macambo",
+        "Bacao",
+        "Pataxte"
+      ],
+      "portuguese": [
+        "Macambo"
+      ],
+      "french": [],
+      "local": [
+        "Macambo",
+        "Bacao",
+        "Pataxte"
+      ]
+    },
+    "life_form": "Medium-sized perennial tree",
+    "life_cycle": "Long-lived",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Malvales",
+    "family": "Malvaceae",
+    "genus": "Theobroma",
+    "species": "Theobroma bicolor"
+  },
+  "distribution": {
+    "countries": [
+      "Peru"
+    ],
+    "ecoregions": [
+      "Loreto",
+      "Madre de Dios",
+      "San Martín",
+      "Amazon Basin",
+      "Western Amazon"
+    ],
+    "biomes": [
+      "Amazon rainforest",
+      "Humid tropical rainforest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native to the western Amazon and naturally distributed throughout the Amazon Basin."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "Theobroma bicolor (Macambo): Ecología, variabilidad genética, propagación, manejo y evaluación económica",
+    "authors": [],
+    "institution": "Instituto de Investigaciones de la Amazonía Peruana (IIAP)",
+    "year": null,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Peru"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Genetic variability",
+      "Propagation",
+      "Silviculture",
+      "Economic evaluation",
+      "Agroforestry"
+    ],
+    "evidence_level": "Technical manual"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 1900,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "High when young",
+      "sun_requirement": "Partial shade when young; full sun as mature tree."
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained tropical soils",
+        "Organic matter-rich soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Mid- to late-successional native canopy tree suitable for enrichment planting.",
+    "forest_layer": "Lower canopy",
+    "canopy_position": "Canopy tree",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "Provides permanent shade and structural diversity within agroforestry systems.",
+    "pollinator_support": "",
+    "wildlife_support": "Produces fruits consumed by birds and wild mammals."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Income generation"
+    ],
+    "regulating": [
+      "Forest enrichment"
+    ],
+    "supporting": [
+      "Habitat provision",
+      "Biodiversity conservation",
+      "Genetic resource conservation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Native agroforestry systems",
+      "Forest enrichment planting",
+      "Productive restoration",
+      "Community forestry",
+      "Biodiversity conservation",
+      "Amazon restoration"
+    ],
+    "restoration_phase": [
+      "Secondary restoration",
+      "Forest enrichment"
+    ],
+    "recommended_land_types": [
+      "Humid tropical forests",
+      "River basins",
+      "Agroforestry systems",
+      "Mixed plantations"
+    ],
+    "degradation_types": [
+      "Degraded Amazon forests",
+      "Secondary forests",
+      "Agricultural landscapes"
+    ],
+    "restoration_objectives": [
+      "Forest enrichment",
+      "Food production",
+      "Biodiversity recovery",
+      "Income generation"
+    ],
+    "recommended_species_mixtures": [
+      "Brazil nut",
+      "Cacao",
+      "Native timber species"
+    ],
+    "restoration_notes": "Native Amazonian tree with exceptional potential for productive restoration. Combines biodiversity conservation with sustainable livelihoods through edible fruits. Highly recommended for enrichment planting in degraded Amazon forests. Excellent candidate species for mixed agroforestry systems together with cacao, Brazil nut and timber species. The IIAP germplasm collection provides an important foundation for future restoration and breeding programs. Represents one of the flagship native fruit trees for FYNOS AI restoration strategies in the western Amazon."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Native agroforestry",
+      "Forest enrichment",
+      "Mixed tree plantations",
+      "Productive restoration"
+    ],
+    "compatible_crops": [
+      "Leguminous cover crops"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Well suited to diversified Amazonian agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [
+      "5 × 5 m (pure plantation)",
+      "12 × 6 m (agroforestry)"
+    ],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "Organic matter incorporated at planting.",
+    "maintenance": [
+      "Plant during October–November.",
+      "Control weeds during establishment.",
+      "Use leguminous cover crops.",
+      "Select superior mother trees."
+    ],
+    "management_notes": "Different spacing depends on production objective."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Seed propagation from elite mother trees is recommended.",
+      "germination_days": "",
+      "germination_rate_percent": null,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Plant at the beginning of the rainy season."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Flowers develop approximately 90–120 days before fruit maturity.",
+    "fruiting": "Fruit maturation occurs 90–120 days after flowering.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Seeds collected from selected superior mother trees.",
+    "seed_dispersal": "Birds and wild mammals.",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Birds",
+      "Wild mammals"
+    ],
+    "companion_species": [
+      "Leguminous cover crops"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Forest enrichment",
+      "Secondary forest restoration",
+      "Mixed tree plantations"
+    ],
+    "wildlife_interactions": [
+      "Birds and wild mammals disperse seeds."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh pulp",
+      "Juices",
+      "Nectar",
+      "Jam",
+      "Roasted seeds",
+      "Chocolate substitute",
+      "Candies",
+      "Nougat"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Agroforestry",
+      "Forest restoration",
+      "Value-added food processing"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": [
+      "Loss of Amazon forests",
+      "Genetic erosion",
+      "Limited cultivation and commercialization",
+      "Deforestation",
+      "Loss of native populations",
+      "Limited domestication"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 20
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germplasm_populations": 16
+    },
+    "fruit_data": {
+      "flower_to_fruit_days": {
+        "minimum": 90,
+        "maximum": 120
+      },
+      "first_year_production_fruits_per_tree": 7
+    },
+    "productivity": {
+      "internal_rate_return_percent": 54,
+      "net_present_value_pen": 1903
+    },
+    "additional_measurements": {
+      "annual_rainfall_mm": 1900,
+      "pure_spacing": "5 × 5 m",
+      "trees_per_ha": 400,
+      "agroforestry_spacing": "12 × 6 m",
+      "planting_hole_cm": "20 × 20 × 20",
+      "planting_season": "October–November"
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Medium",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Western Amazon",
+      "Secondary forests",
+      "Forest enrichment projects",
+      "Community agroforestry"
+    ],
+    "recommended_restoration_goals": [
+      "Forest enrichment",
+      "Food security",
+      "Biodiversity conservation",
+      "Income generation"
+    ],
+    "ideal_companion_species": [
+      "Brazil nut",
+      "Cacao",
+      "Native timber species"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Macambo is one of the flagship native Amazonian fruit trees for productive restoration. It combines strong ecological value with economic potential and contributes significantly to biodiversity conservation, forest enrichment and sustainable livelihoods."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Carbon sequestration.",
+      "Climate resilience.",
+      "Pest and disease ecology.",
+      "Mycorrhizal associations.",
+      "Long-term restoration performance.",
+      "Wildlife-mediated seed dispersal.",
+      "Genomic improvement."
+    ],
+    "scientific_uncertainties": [
+      "Long-term agroforestry productivity.",
+      "Climate change resilience.",
+      "Pollinator identity.",
+      "Wildlife seed dispersal effectiveness.",
+      "Carbon storage potential.",
+      "Pest and disease resistance."
+    ],
+    "potential_contradictions": [
+      "Different planting spacings correspond to different production objectives (pure plantation vs. agroforestry).",
+      "Economic profitability depends on production assumptions rather than being universally applicable."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "Theobroma bicolor (Macambo): Ecología, variabilidad genética, propagación, manejo y evaluación económica",
+      "institution": "Instituto de Investigaciones de la Amazonía Peruana (IIAP)",
+      "country": "Peru"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

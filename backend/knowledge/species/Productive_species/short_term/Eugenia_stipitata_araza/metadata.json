@@ -1,0 +1,470 @@
+{
+  "species_profile": {
+    "scientific_name": "Eugenia stipitata",
+    "authority": "McVaugh",
+    "family": "Myrtaceae",
+    "common_names": {
+      "english": [
+        "Araza"
+      ],
+      "spanish": [
+        "Arazá"
+      ],
+      "portuguese": [
+        "Araçá-boi"
+      ],
+      "french": [],
+      "local": [
+        "Arazá"
+      ]
+    },
+    "life_form": "Shrub or small tree",
+    "life_cycle": "Perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Myrtales",
+    "family": "Myrtaceae",
+    "genus": "Eugenia",
+    "species": "Eugenia stipitata"
+  },
+  "distribution": {
+    "countries": [
+      "Panama",
+      "Costa Rica"
+    ],
+    "ecoregions": [
+      "Western Amazon",
+      "Amazon Basin",
+      "Bocas del Toro",
+      "Talamanca"
+    ],
+    "biomes": [
+      "Humid tropical rainforest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Central America"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to the western Amazon and introduced into parts of Central America where it is cultivated in agroforestry systems."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "14 Árboles Frutales para Nuestras Fincas",
+    "authors": [
+      "Roberto Mack"
+    ],
+    "institution": "CATIE",
+    "year": 2005,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Central America"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Propagation",
+      "Agroforestry",
+      "Fruit production",
+      "Farm management"
+    ],
+    "evidence_level": "Technical manual"
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "High",
+    "food_security_value": "Very High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "High when young",
+      "sun_requirement": "Partial shade when young; tolerates full sun after establishment."
+    },
+    "soil": {
+      "preferred_types": [
+        "Deep fertile soils",
+        "Acid soils",
+        "Clay soils"
+      ],
+      "texture": [
+        "Clay"
+      ],
+      "drainage": "",
+      "fertility": "High",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "Clay hillsides",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early- to mid-successional shrub or small tree.",
+    "forest_layer": "Understory",
+    "canopy_position": "Understory",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "Contributes to multistrata agroforestry systems.",
+    "pollinator_support": "",
+    "wildlife_support": "Native fruit source for wildlife."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Income generation"
+    ],
+    "regulating": [],
+    "supporting": [
+      "Farm diversification",
+      "Biodiversity conservation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Amazon agroforestry",
+      "Productive restoration",
+      "Community food systems",
+      "Home gardens",
+      "Forest edge restoration",
+      "Mixed fruit systems"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Productive restoration"
+    ],
+    "recommended_land_types": [
+      "Forest edges",
+      "Home gardens",
+      "Agroforestry systems",
+      "Secondary forests"
+    ],
+    "degradation_types": [
+      "Degraded agricultural land",
+      "Forest edge degradation"
+    ],
+    "restoration_objectives": [
+      "Food security",
+      "Income generation",
+      "Farm diversification"
+    ],
+    "recommended_species_mixtures": [
+      "Cacao",
+      "Banana",
+      "Pigeon pea",
+      "Cassava"
+    ],
+    "restoration_notes": "Excellent native Amazon fruit species for productive restoration. Produces fruit early compared with many tropical tree species. Ideal companion species in cacao-based agroforestry systems. Provides diversified income through fresh fruit and processed products. Well suited for smallholder restoration because of its compact size. Performs well in diversified agroforestry landscapes with partial shade during establishment. Recommended by FYNOS AI as a key early-yield native fruit species for community-led Amazon restoration."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Amazon agroforestry",
+      "Mixed fruit systems",
+      "Home gardens",
+      "Cacao agroforestry"
+    ],
+    "compatible_crops": [
+      "Cacao",
+      "Banana",
+      "Pigeon pea (Cajanus cajan)",
+      "Cassava"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Compact fruit species particularly suitable for diversified smallholder agroforestry."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "minimum": 1.5,
+      "maximum": 5
+    },
+    "spacing": [
+      "2–3 m"
+    ],
+    "planting_methods": [
+      "Seeds",
+      "Wild seedlings"
+    ],
+    "pruning": "Prune early to develop 3–4 main stems.",
+    "fertilization": "",
+    "maintenance": [
+      "Protect seedlings from direct sun.",
+      "Maintain partial shade during early establishment.",
+      "Plant around homes, cacao plantations, bananas or fruit orchards.",
+      "Use live stakes to identify seedlings in open fields."
+    ],
+    "management_notes": "Young plants establish best under partial shade."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Seeds germinated directly in nursery bags under shade.",
+      "germination_days": "",
+      "germination_rate_percent": null,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Maintain seedlings under partial shade.",
+        "Protect from direct sunlight during early growth.",
+        "Wild seedlings may be transplanted during the rainy season.",
+        "Can be grown beneath pigeon pea or cassava during establishment."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Not reported.",
+    "fruiting": "Produces throughout the year with 3–4 production peaks annually.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits from healthy trees.",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Cacao",
+      "Banana",
+      "Pigeon pea (Cajanus cajan)",
+      "Cassava"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Cacao",
+      "Banana",
+      "Pigeon pea",
+      "Cassava"
+    ],
+    "wildlife_interactions": []
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Natural juices",
+      "Frozen pulp",
+      "Ice cream",
+      "Jelly",
+      "Dried fruit"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Food processing",
+      "Agroforestry",
+      "Productive restoration"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Fruit fly",
+        "Black bee (zañago)"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Habitat degradation"
+    ],
+    "human": [
+      "Habitat conversion",
+      "Loss of genetic diversity"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": {
+        "minimum": 2,
+        "maximum": 3
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {
+      "fruit_production_per_tree": {
+        "minimum": 30,
+        "maximum": 80,
+        "unit": "fruits/tree/year (>4 years)"
+      }
+    },
+    "productivity": {
+      "productive_age_years": {
+        "initial": 1.5,
+        "full_production": 5
+      },
+      "production_peaks_per_year": {
+        "minimum": 3,
+        "maximum": 4
+      }
+    },
+    "additional_measurements": {
+      "spacing_m": {
+        "minimum": 2,
+        "maximum": 3
+      },
+      "jelly_recipe": {
+        "pulp_g": 100,
+        "sugar_g": 90,
+        "pectin_g": 12
+      }
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Low to Medium",
+    "evergreen": true,
+    "detectable_from_satellite": false,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Amazon agroforestry",
+      "Forest edges",
+      "Home gardens",
+      "Community restoration"
+    ],
+    "recommended_restoration_goals": [
+      "Early food production",
+      "Income generation",
+      "Community restoration",
+      "Farm diversification"
+    ],
+    "ideal_companion_species": [
+      "Cacao",
+      "Banana",
+      "Pigeon pea",
+      "Cassava"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Arazá is an excellent early-producing native Amazon fruit species that fills an important niche in productive restoration. Its compact growth, rapid fruiting and compatibility with cacao-based agroforestry make it a priority species for community restoration projects."
+  },
+  "research": {
+    "gaps": [
+      "Pollination ecology.",
+      "Carbon sequestration.",
+      "Climate resilience.",
+      "Genetic improvement.",
+      "Long-term restoration performance.",
+      "Wildlife interactions."
+    ],
+    "scientific_uncertainties": [
+      "Pollination biology.",
+      "Natural seed dispersers.",
+      "Carbon storage.",
+      "Climate adaptation.",
+      "Long-term productivity under restoration."
+    ],
+    "potential_contradictions": [
+      "Although adapted to acidic forest soils and shade, highest production occurs on deep fertile soils."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "14 Árboles Frutales para Nuestras Fincas",
+      "institution": "CATIE",
+      "authors": [
+        "Roberto Mack"
+      ],
+      "year": 2005,
+      "species_chapter": "Arazá (Eugenia stipitata)"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "Very High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

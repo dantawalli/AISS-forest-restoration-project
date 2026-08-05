@@ -1,0 +1,582 @@
+{
+  "species_profile": {
+    "scientific_name": "Guazuma ulmifolia",
+    "authority": "Lam.",
+    "family": "Malvaceae",
+    "common_names": {
+      "english": [
+        "West Indian Elm"
+      ],
+      "spanish": [
+        "Guácimo",
+        "Guácimo blanco",
+        "Papayillo"
+      ],
+      "portuguese": [
+        "Mutamba",
+        "Mutamba-preta",
+        "Mutambo",
+        "Periquiteira",
+        "Guaxima-macho",
+        "Cabeça-de-negro"
+      ],
+      "french": [],
+      "local": [
+        "Papayillo (Peru)"
+      ]
+    },
+    "life_form": "Medium-sized pioneer hardwood tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae",
+    "genus": "Guazuma",
+    "species": "Guazuma ulmifolia"
+  },
+  "distribution": {
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Costa Rica",
+      "Cuba",
+      "Dominican Republic",
+      "Ecuador",
+      "Guatemala",
+      "Honduras",
+      "Jamaica",
+      "Mexico",
+      "Panama",
+      "Paraguay",
+      "Peru",
+      "Trinidad and Tobago"
+    ],
+    "ecoregions": [
+      "Amazon Rainforest",
+      "Atlantic Forest",
+      "Cerrado",
+      "Caatinga",
+      "Pantanal",
+      "Riparian forests"
+    ],
+    "biomes": [
+      "Secondary forest",
+      "Riparian forest",
+      "Floodplain forest",
+      "Gallery forest",
+      "Cerrado",
+      "Cerradão",
+      "Caatinga",
+      "Seasonal forest",
+      "Restinga",
+      "Pantanal",
+      "Disturbed areas"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Widely distributed throughout tropical America and highly adaptable to disturbed landscapes, riparian environments and seasonally dry forests."
+  },
+  "source_information": {
+    "document_type": "book_chapter",
+    "title": "Espécies Arbóreas Brasileiras – Volume 2",
+    "authors": [
+      "Paulo Ernani Ramalho Carvalho"
+    ],
+    "institution": "Embrapa Florestas",
+    "year": 2006,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Latin America"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Silviculture",
+      "Restoration",
+      "Agroforestry",
+      "Medicinal uses"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "Medium",
+    "income_generation_value": "High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 17.9,
+        "max": 26.7
+      },
+      "absolute_minimum_c": -2.2,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 800,
+        "max": 2500
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 15,
+        "max": 1740
+      }
+    },
+    "light": {
+      "shade_tolerance": "Light-demanding.",
+      "sun_requirement": "Full sunlight."
+    },
+    "soil": {
+      "preferred_types": [
+        "Mesotrophic soils",
+        "Calciphilous soils",
+        "Sandy soils",
+        "Riparian soils"
+      ],
+      "texture": [
+        "Sandy"
+      ],
+      "drainage": "Well-drained to seasonally flooded.",
+      "fertility": "Mesotrophic.",
+      "ph": {
+        "min": 5.5,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Tolerates temporary flooding but prolonged flooding causes dieback.",
+      "waterlogging_tolerance": "Moderate",
+      "drought_tolerance": "Tolerates seasonal drought."
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Humid tropical",
+      "Seasonally dry tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "Poor tolerance.",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Pioneer to early secondary",
+    "forest_layer": "Upper canopy",
+    "canopy_position": "Canopy tree",
+    "carbon_storage": "Fast-growing tree capable of rapid biomass accumulation.",
+    "soil_improvement": "Improves degraded soils through litter production and organic matter.",
+    "erosion_control": "Excellent for erosion control, gullies and riparian stabilization.",
+    "water_regulation": "Naturally occurs in riparian habitats and floodplains.",
+    "microclimate_regulation": "Rapid canopy development provides shade and microclimate regulation.",
+    "pollinator_support": "Important nectar source for bees.",
+    "wildlife_support": "Provides fruits for birds, mammals, primates, fish and livestock."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Timber",
+      "Fruit",
+      "Medicinal products",
+      "Fiber",
+      "Fuelwood"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Erosion control",
+      "Riparian stabilization"
+    ],
+    "supporting": [
+      "Wildlife habitat",
+      "Pollinator support",
+      "Forest succession"
+    ],
+    "cultural": [
+      "Traditional medicine",
+      "Urban landscaping"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Forest restoration",
+      "Riparian restoration",
+      "APP restoration",
+      "Erosion control",
+      "Gully stabilization",
+      "Recovery of degraded land"
+    ],
+    "restoration_phase": [
+      "Early restoration"
+    ],
+    "recommended_land_types": [
+      "Riparian corridors",
+      "Floodplains",
+      "Disturbed lands",
+      "Pastures",
+      "Secondary forests"
+    ],
+    "degradation_types": [
+      "Eroded land",
+      "Compacted pasture",
+      "Riparian degradation",
+      "Secondary vegetation"
+    ],
+    "restoration_objectives": [
+      "Rapid canopy establishment",
+      "Soil recovery",
+      "Wildlife attraction",
+      "Livestock integration"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Outstanding pioneer species for restoring degraded tropical landscapes, especially riparian zones and silvopastoral systems."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Silvopastoral systems",
+      "Agrosilvopastoral systems",
+      "Windbreaks",
+      "Mixed agroforestry"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": true,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Widely recognized as one of the best native silvopastoral trees because it provides fodder, shade, timber and improves pasture systems."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": 8,
+    "harvest_age_years": 8,
+    "spacing": [
+      "2 × 2 m",
+      "3–5 m (windbreaks)"
+    ],
+    "planting_methods": [
+      "Direct seeding",
+      "Nursery seedlings"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Control competing vegetation.",
+      "Avoid severe soil compaction.",
+      "Avoid prolonged flooding.",
+      "Maintain full sunlight."
+    ],
+    "management_notes": "Fast establishment makes it suitable for short-rotation restoration and silvopastoral systems."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Sulfuric acid scarification or hot-water treatment (80–90°C) followed by mucilage removal.",
+      "germination_days": {
+        "minimum": 6,
+        "maximum": 14
+      },
+      "germination_rate_percent": {
+        "maximum": 80
+      },
+      "storage": "Orthodox seeds remain viable for at least 6 months under cold storage and up to one year."
+    },
+    "nursery": {
+      "transplant_age": "Approximately 4 months",
+      "transplant_height": "",
+      "special_care": [
+        "Remove mucilage before sowing.",
+        "Grow under full sun or up to 40% shade.",
+        "Benefits strongly from arbuscular mycorrhiza."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Coppicing"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Variable by region and may occur throughout most of the year.",
+    "fruiting": "Mainly June–November depending on locality.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect brown to black fruits directly from trees or after natural fruit fall.",
+    "seed_dispersal": "Zoochory.",
+    "pollination": "Primarily bees and other small insects."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Bees",
+      "Small insects"
+    ],
+    "seed_dispersers": [
+      "Birds",
+      "Fish",
+      "Mammals",
+      "Cattle",
+      "Horses"
+    ],
+    "companion_species": [],
+    "facilitates": [
+      "Pollinator diversity",
+      "Silvopastoral productivity",
+      "Wildlife recovery"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Silvopastoral systems",
+      "Agrosilvopastoral systems",
+      "Windbreaks"
+    ],
+    "wildlife_interactions": [
+      "Fruits consumed by monkeys.",
+      "Leaves and fruits consumed by deer.",
+      "Fruits eaten by livestock.",
+      "Excellent nectar source for bees."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Construction",
+      "Furniture",
+      "Interior carpentry",
+      "Boxes",
+      "Tool handles",
+      "Posts",
+      "Musical instruments",
+      "Barrels"
+    ],
+    "food": [
+      "Fresh fruit",
+      "Traditional beverages"
+    ],
+    "medicine": [
+      "Leaves",
+      "Bark",
+      "Roots",
+      "Respiratory treatments",
+      "Digestive disorders",
+      "Liver disorders",
+      "Skin diseases",
+      "Malaria",
+      "Syphilis"
+    ],
+    "fiber": [
+      "Ropes",
+      "Textiles"
+    ],
+    "oil": [
+      "Traditional hair tonic"
+    ],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "Leaves",
+      "Fruits"
+    ],
+    "fuel": [
+      "Firewood",
+      "Charcoal"
+    ],
+    "ornamental": [
+      "Shade tree",
+      "Urban landscaping"
+    ],
+    "industrial": [
+      "Paper pulp"
+    ],
+    "other": [
+      "Honey production"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Oncideres spp.",
+        "Aphids"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Low temperatures",
+      "Heavy soil compaction",
+      "Extended flooding"
+    ],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 30,
+      "maximum_dbh_cm": 60,
+      "wood_density_g_cm3": {
+        "minimum": 0.5,
+        "maximum": 0.68
+      }
+    },
+    "wood_properties": {
+      "heating_value_kj_kg": 18400,
+      "ash_content_percent": 0.98
+    },
+    "seed_data": {
+      "seeds_per_kg": {
+        "minimum": 159000,
+        "maximum": 225000
+      },
+      "germination_days": {
+        "minimum": 6,
+        "maximum": 14
+      },
+      "maximum_germination_percent": 80
+    },
+    "fruit_data": {
+      "fruit_length_cm": {
+        "minimum": 1.5,
+        "maximum": 3.5
+      },
+      "average_seeds_per_fruit": 46.6
+    },
+    "productivity": {
+      "annual_increment_m3_ha_year": {
+        "maximum": 31
+      },
+      "fruiting_age_years": 5,
+      "rotation_years": 8
+    },
+    "additional_measurements": {
+      "maximum_bole_length_m": 12,
+      "leaf_length_cm": {
+        "minimum": 5,
+        "maximum": 18
+      },
+      "leaf_width_cm": {
+        "minimum": 2,
+        "maximum": 6
+      },
+      "seed_diameter_mm": {
+        "minimum": 3,
+        "maximum": 5
+      },
+      "annual_rainfall_mm": {
+        "minimum": 800,
+        "maximum": 2500
+      },
+      "mean_temperature_c": {
+        "minimum": 17.9,
+        "maximum": 26.7
+      },
+      "absolute_minimum_temperature_c": -2.2,
+      "altitude_m": {
+        "minimum": 15,
+        "maximum": 1740
+      },
+      "soil_ph_minimum": 5.5,
+      "germination_temperature_c": 30,
+      "germination_duration_days": 28,
+      "nursery_period_months": 4,
+      "leaf_crude_protein_percent": {
+        "minimum": 17,
+        "maximum": 28
+      },
+      "fruit_crude_protein_percent": 7
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Moderate",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Silvopastoral systems",
+      "Riparian restoration",
+      "Degraded pastures",
+      "Secondary forests",
+      "Tropical restoration landscapes"
+    ],
+    "recommended_restoration_goals": [
+      "Rapid canopy establishment",
+      "Livestock integration",
+      "Pollinator enhancement",
+      "Soil recovery",
+      "Carbon sequestration"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "Guazuma ulmifolia is one of the most versatile restoration trees in tropical America. Its rapid growth, excellent silvopastoral performance, wildlife value, medicinal importance and tolerance of degraded conditions make it a flagship species for productive ecological restoration."
+  },
+  "research": {
+    "gaps": [
+      "Validation of medicinal compounds.",
+      "Long-term silvicultural performance.",
+      "Genetic improvement.",
+      "Optimization of restoration mixtures."
+    ],
+    "scientific_uncertainties": [
+      "Successional classification varies among authors.",
+      "Most medicinal uses remain ethnobotanical and require validation.",
+      "Growth declines under severe soil compaction."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "book_chapter",
+      "title": "Espécies Arbóreas Brasileiras – Volume 2",
+      "institution": "Embrapa Florestas",
+      "authors": [
+        "Paulo Ernani Ramalho Carvalho"
+      ],
+      "year": 2006,
+      "pages": "389–397"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

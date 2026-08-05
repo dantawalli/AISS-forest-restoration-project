@@ -1,0 +1,475 @@
+{
+  "species_profile": {
+    "scientific_name": "Guadua spp.",
+    "authority": "Kunth",
+    "family": "Poaceae",
+    "common_names": {
+      "english": [
+        "Native bamboo",
+        "Guadua bamboo"
+      ],
+      "spanish": [
+        "Guadua",
+        "Bambú"
+      ],
+      "portuguese": [
+        "Bambu nativo",
+        "Taboca",
+        "Guadua"
+      ],
+      "french": [],
+      "local": [
+        "Tabocal"
+      ]
+    },
+    "life_form": "Woody clumping bamboo",
+    "life_cycle": "Perennial",
+    "growth_form": "Fast-growing woody bamboo",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Liliopsida",
+    "order": "Poales",
+    "family": "Poaceae",
+    "genus": "Guadua",
+    "species": "Guadua spp."
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Peru",
+      "Bolivia"
+    ],
+    "ecoregions": [
+      "Southwestern Amazon",
+      "Brazilian Amazon",
+      "Acre"
+    ],
+    "biomes": [
+      "Amazon rainforest",
+      "Open forests with bamboo",
+      "Bamboo-dominated forests",
+      "Floodplain forests",
+      "Secondary forests"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native bamboo genus naturally abundant throughout the southwestern Amazon, especially Acre (Brazil), Peru and Bolivia, where it forms extensive bamboo-dominated forests."
+  },
+  "source_information": {
+    "document_type": "peer_reviewed_article",
+    "title": "Bioeconomia do bambu nativo, Guadua spp. do Acre, Amazônia, Brasil",
+    "authors": [],
+    "institution": "Revista Gestão e Secretariado (GeSec)",
+    "year": 2023,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Acre",
+      "Brazilian Amazon",
+      "Southwestern Amazon"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Bioeconomy",
+      "Forest inventories",
+      "Bamboo ecology",
+      "Biomass",
+      "Forest restoration",
+      "Sustainable management",
+      "Economic valuation"
+    ],
+    "evidence_level": "Peer-reviewed regional assessment using forest inventories and economic analysis"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "High",
+    "food_security_value": "Medium",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Moderate",
+      "sun_requirement": "Full sun to partial shade"
+    },
+    "soil": {
+      "preferred_types": [
+        "Deep tropical soils",
+        "Floodplain soils",
+        "Well-drained forest soils"
+      ],
+      "texture": [],
+      "drainage": "",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Moderate",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": ""
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "Very High"
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "Good",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early to mid-successional",
+    "forest_layer": "Subcanopy and canopy",
+    "canopy_position": "Structural understory to canopy",
+    "carbon_storage": "Very high biomass accumulation and long-term carbon storage.",
+    "soil_improvement": "Extensive rhizome systems stabilize soils and contribute organic matter.",
+    "erosion_control": "Excellent erosion control through dense root and rhizome networks.",
+    "water_regulation": "Improves water infiltration and watershed stability.",
+    "microclimate_regulation": "Maintains humidity and moderates forest microclimate.",
+    "pollinator_support": "",
+    "wildlife_support": "Provides habitat, shelter and movement corridors for numerous Amazonian species."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Construction material",
+      "Renewable biomass",
+      "Bioenergy feedstock",
+      "Fiber"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Hydrological regulation",
+      "Temperature regulation",
+      "Erosion control"
+    ],
+    "supporting": [
+      "Habitat creation",
+      "Landscape restoration",
+      "Biodiversity support",
+      "Soil stabilization"
+    ],
+    "cultural": [
+      "Bioeconomy",
+      "Traditional forest resource"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Landscape restoration",
+      "Riparian stabilization",
+      "Slope stabilization",
+      "Carbon projects",
+      "Forest rehabilitation"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Intermediate restoration"
+    ],
+    "recommended_land_types": [
+      "Degraded forests",
+      "Riparian zones",
+      "Secondary forests",
+      "Eroded landscapes"
+    ],
+    "degradation_types": [
+      "Deforestation",
+      "Soil erosion",
+      "Forest degradation"
+    ],
+    "restoration_objectives": [
+      "Rapid biomass production",
+      "Soil stabilization",
+      "Carbon sequestration",
+      "Habitat recovery",
+      "Bioeconomy development"
+    ],
+    "recommended_species_mixtures": [
+      "Bertholletia excelsa",
+      "Theobroma cacao",
+      "Inga spp.",
+      "Cedrelinga cateniformis",
+      "Swietenia macrophylla",
+      "Native Amazon palms"
+    ],
+    "restoration_notes": "Guadua is one of the most important structural species of the southwestern Amazon and plays a major role in restoration, erosion control, carbon storage and sustainable forest economies."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Agroforestry",
+      "Forest enrichment",
+      "Bamboo-based production systems",
+      "Mixed perennial systems"
+    ],
+    "compatible_crops": [
+      "Theobroma cacao",
+      "Bertholletia excelsa",
+      "Inga spp."
+    ],
+    "livestock_compatible": false,
+    "shade_crop": true,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Provides renewable structural material while contributing to ecosystem stability and diversified Amazonian agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Very fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Rhizome propagation",
+      "Vegetative propagation"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Selective culm harvesting",
+      "Clump management"
+    ],
+    "management_notes": "Sustainable management depends on selective harvesting while maintaining clump integrity and regeneration."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": {
+        "min": null,
+        "max": null
+      },
+      "germination_rate_percent": {},
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Rhizome division",
+        "Culm cuttings",
+        "Clump division"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Irregular gregarious flowering depending on species.",
+    "fruiting": "",
+    "leaf_flush": "",
+    "leaf_fall": "Evergreen.",
+    "seed_collection": "",
+    "seed_dispersal": "",
+    "pollination": "Wind"
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Bertholletia excelsa",
+      "Theobroma cacao",
+      "Inga spp.",
+      "Cedrelinga cateniformis",
+      "Swietenia macrophylla",
+      "Native Amazon palms"
+    ],
+    "facilitates": [
+      "Habitat formation",
+      "Soil stabilization",
+      "Carbon accumulation",
+      "Landscape connectivity"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Amazon agroforestry systems",
+      "Bamboo-based production systems"
+    ],
+    "wildlife_interactions": [
+      "Provides habitat for birds.",
+      "Provides habitat for mammals.",
+      "Supports forest biodiversity."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Construction poles",
+      "Structural bamboo"
+    ],
+    "food": [
+      "Edible bamboo shoots"
+    ],
+    "medicine": [],
+    "fiber": [
+      "Fiber",
+      "Handicrafts"
+    ],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [
+      "Bioenergy",
+      "Biomass fuel"
+    ],
+    "ornamental": [],
+    "industrial": [
+      "Construction",
+      "Furniture",
+      "Engineered bamboo products"
+    ],
+    "other": [
+      "Renewable building material",
+      "Bioeconomy resource"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": [
+      "Unsustainable harvesting",
+      "Forest conversion"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": null,
+      "maximum_dbh_cm": null,
+      "wood_density_g_cm3": null
+    },
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {},
+    "productivity": {},
+    "additional_measurements": {}
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Very dense",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Southwestern Amazon",
+      "Bamboo forests",
+      "Restoration corridors",
+      "Carbon projects",
+      "Bioeconomy landscapes"
+    ],
+    "recommended_restoration_goals": [
+      "Carbon sequestration",
+      "Soil stabilization",
+      "Renewable biomass production",
+      "Habitat restoration",
+      "Bioeconomy development"
+    ],
+    "ideal_companion_species": [
+      "Bertholletia excelsa",
+      "Theobroma cacao",
+      "Inga spp.",
+      "Cedrelinga cateniformis",
+      "Swietenia macrophylla"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Guadua species are among the most valuable structural plants of the southwestern Amazon, combining exceptional biomass production, renewable construction materials, erosion control, carbon sequestration and bioeconomy potential, making them flagship species for sustainable Amazonian restoration."
+  },
+  "research": {
+    "gaps": [
+      "Species-level ecological differences within Guadua",
+      "Long-term sustainable harvesting",
+      "Carbon accounting",
+      "Regeneration dynamics",
+      "Climate resilience",
+      "Agroforestry integration",
+      "Remote sensing monitoring",
+      "AI-supported bamboo management"
+    ],
+    "scientific_uncertainties": [
+      "Ecological differences among Guadua species.",
+      "Long-term effects of intensive harvesting."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": [
+      "Species-specific management guidelines",
+      "Carbon quantification",
+      "Landscape-scale restoration modeling"
+    ]
+  },
+  "sources": [
+    {
+      "type": "peer_reviewed_article",
+      "title": "Bioeconomia do bambu nativo, Guadua spp. do Acre, Amazônia, Brasil",
+      "institution": "Revista Gestão e Secretariado (GeSec)",
+      "authors": [],
+      "year": 2023,
+      "pages": ""
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "Very High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

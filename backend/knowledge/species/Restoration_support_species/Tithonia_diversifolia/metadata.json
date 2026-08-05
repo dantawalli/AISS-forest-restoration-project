@@ -1,0 +1,455 @@
+{
+  "species_profile": {
+    "scientific_name": "Tithonia diversifolia",
+    "authority": "(Hemsl.) A.Gray",
+    "family": "Asteraceae",
+    "common_names": {
+      "english": [
+        "Mexican sunflower",
+        "Tree marigold"
+      ],
+      "spanish": [
+        "Botón de oro",
+        "Árnica de la tierra",
+        "Girasol mexicano"
+      ],
+      "portuguese": [
+        "Margaridão",
+        "Girassol-mexicano"
+      ],
+      "french": [],
+      "local": [
+        "Botón de oro"
+      ]
+    },
+    "life_form": "Perennial forage shrub",
+    "life_cycle": "Perennial",
+    "growth_form": "Fast-growing perennial shrub",
+    "native": false
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Asterales",
+    "family": "Asteraceae",
+    "genus": "Tithonia",
+    "species": "Tithonia diversifolia"
+  },
+  "distribution": {
+    "countries": [
+      "Mexico",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Costa Rica",
+      "Kenya",
+      "Uganda"
+    ],
+    "ecoregions": [
+      "Central America",
+      "Humid tropical lowlands",
+      "Tropical agricultural landscapes"
+    ],
+    "biomes": [
+      "Tropical pastures",
+      "Agroforestry systems",
+      "Secondary vegetation",
+      "Degraded lands",
+      "Roadsides"
+    ],
+    "watersheds": [],
+    "native": false,
+    "introduced_regions": [
+      "South America",
+      "Africa",
+      "Southeast Asia"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to Mexico and Central America and widely naturalized throughout the humid tropics where it is cultivated as a forage shrub, green manure and soil improvement species."
+  },
+  "source_information": {
+    "document_type": "conference_proceedings",
+    "title": "Tithonia diversifolia for ruminant nutrition",
+    "authors": [],
+    "institution": "Proceedings of the 22nd International Grassland Congress",
+    "year": 2013,
+    "language": "English",
+    "geographic_scope": [
+      "Brazil",
+      "Tropical livestock systems"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ruminant nutrition",
+      "Methane mitigation",
+      "Forage quality",
+      "In vitro fermentation",
+      "Livestock sustainability"
+    ],
+    "evidence_level": "Controlled experimental study (in vitro)"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "Medium",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Low",
+      "sun_requirement": "Full sun"
+    },
+    "soil": {
+      "preferred_types": [
+        "Degraded soils",
+        "Well-drained tropical soils",
+        "Agricultural soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "Adapted to low and moderate fertility soils",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "High"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Humid tropical",
+      "Subhumid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early successional",
+    "forest_layer": "Shrub layer",
+    "canopy_position": "Shrub canopy",
+    "carbon_storage": "Produces abundant aboveground biomass contributing to soil organic carbon.",
+    "soil_improvement": "Recycles nutrients efficiently and accumulates phosphorus through deep rooting.",
+    "erosion_control": "Protects exposed soils through rapid canopy development.",
+    "water_regulation": "Improves infiltration and reduces soil evaporation.",
+    "microclimate_regulation": "Provides shade and moderates temperatures in silvopastoral systems.",
+    "pollinator_support": "Produces abundant flowers that attract pollinating insects.",
+    "wildlife_support": "Provides habitat and floral resources for beneficial insects."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "High-protein forage",
+      "Green manure",
+      "Livestock feed"
+    ],
+    "regulating": [
+      "Methane mitigation",
+      "Nutrient cycling",
+      "Soil rehabilitation",
+      "Erosion control"
+    ],
+    "supporting": [
+      "Biomass production",
+      "Soil fertility improvement",
+      "Pasture diversification",
+      "Improved feed quality"
+    ],
+    "cultural": [
+      "Sustainable livestock production"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Forage shrub",
+      "Green manure",
+      "Pasture restoration",
+      "Soil rehabilitation",
+      "Silvopastoral restoration"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Intermediate restoration"
+    ],
+    "recommended_land_types": [
+      "Degraded pastures",
+      "Agricultural lands",
+      "Silvopastoral systems",
+      "Agroforestry systems"
+    ],
+    "degradation_types": [
+      "Soil degradation",
+      "Nutrient depletion",
+      "Pasture degradation"
+    ],
+    "restoration_objectives": [
+      "Biomass production",
+      "Nutrient cycling",
+      "Forage production",
+      "Livestock productivity"
+    ],
+    "recommended_species_mixtures": [
+      "Brachiaria brizantha cv. Marandu",
+      "Cynodon nlemfuensis",
+      "Inga spp.",
+      "Leucaena leucocephala",
+      "Gliricidia sepium"
+    ],
+    "restoration_notes": "An excellent forage shrub for restoring degraded tropical livestock systems through rapid biomass production, nutrient recycling and improved animal nutrition."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Silvopastoral systems",
+      "Agroforestry",
+      "Cut-and-carry forage systems",
+      "Integrated crop-livestock systems"
+    ],
+    "compatible_crops": [
+      "Brachiaria brizantha cv. Marandu",
+      "Cynodon nlemfuensis",
+      "Inga spp.",
+      "Leucaena leucocephala",
+      "Gliricidia sepium"
+    ],
+    "livestock_compatible": true,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Highly suitable as a perennial forage shrub within silvopastoral systems where repeated pruning provides high-quality livestock feed."
+  },
+  "silviculture": {
+    "growth_rate": "Very fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Stem cuttings",
+      "Seed"
+    ],
+    "pruning": "Highly tolerant of repeated pruning for cut-and-carry forage production.",
+    "fertilization": "",
+    "maintenance": [
+      "Regular pruning stimulates biomass production."
+    ],
+    "management_notes": "Managed primarily through repeated cutting to maximize forage yield and nutrient recycling."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": {
+        "min": null,
+        "max": null
+      },
+      "germination_rate_percent": {},
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Stem cuttings"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "",
+    "fruiting": "",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "",
+    "seed_dispersal": "",
+    "pollination": "Insects"
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Bees",
+      "Butterflies"
+    ],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Brachiaria brizantha cv. Marandu",
+      "Cynodon nlemfuensis",
+      "Inga spp.",
+      "Leucaena leucocephala",
+      "Gliricidia sepium"
+    ],
+    "facilitates": [
+      "Livestock productivity",
+      "Nutrient cycling",
+      "Pasture restoration",
+      "Soil fertility"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Silvopastoral systems",
+      "Cut-and-carry forage systems"
+    ],
+    "wildlife_interactions": [
+      "Supports beneficial insects through abundant flowering."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "High-protein livestock forage"
+    ],
+    "fuel": [],
+    "ornamental": [
+      "Ornamental flowering shrub"
+    ],
+    "industrial": [],
+    "other": [
+      "Green manure",
+      "Biomass production"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": [
+      "Can become invasive if unmanaged outside its native range."
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": null,
+      "maximum_dbh_cm": null,
+      "wood_density_g_cm3": null
+    },
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {},
+    "productivity": {},
+    "additional_measurements": {}
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Dense shrub canopy",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Silvopastoral systems",
+      "Tropical livestock landscapes",
+      "Agroforestry systems",
+      "Degraded tropical pastures"
+    ],
+    "recommended_restoration_goals": [
+      "Forage production",
+      "Nutrient cycling",
+      "Methane mitigation",
+      "Pasture rehabilitation",
+      "Livestock productivity"
+    ],
+    "ideal_companion_species": [
+      "Brachiaria brizantha cv. Marandu",
+      "Cynodon nlemfuensis",
+      "Leucaena leucocephala",
+      "Gliricidia sepium",
+      "Inga spp."
+    ],
+    "avoid_species": [],
+    "decision_notes": "Tithonia diversifolia is an outstanding multifunctional forage shrub for tropical silvopastoral systems, combining rapid biomass production, excellent forage quality, nutrient recycling and the potential to reduce enteric methane emissions while restoring degraded agricultural landscapes."
+  },
+  "research": {
+    "gaps": [
+      "Long-term field validation of methane reduction",
+      "Carbon sequestration potential",
+      "Large-scale silvopastoral performance",
+      "Climate resilience",
+      "Genetic improvement",
+      "Remote sensing monitoring",
+      "AI-assisted forage management"
+    ],
+    "scientific_uncertainties": [],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "conference_proceedings",
+      "title": "Tithonia diversifolia for ruminant nutrition",
+      "institution": "Proceedings of the 22nd International Grassland Congress",
+      "authors": [],
+      "year": 2013,
+      "pages": ""
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

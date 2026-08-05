@@ -1,0 +1,419 @@
+{
+  "species_profile": {
+    "scientific_name": "Cecropia pachystachya",
+    "authority": "Trécul",
+    "family": "Urticaceae",
+    "common_names": {
+      "english": [
+        "Trumpet tree"
+      ],
+      "spanish": [
+        "Yarumo",
+        "Cecropia"
+      ],
+      "portuguese": [
+        "Embaúba",
+        "Embaúva"
+      ],
+      "french": [],
+      "local": [
+        "Embaúba"
+      ]
+    },
+    "life_form": "Fast-growing pioneer tree",
+    "life_cycle": "Perennial",
+    "growth_form": "Heliophytic pioneer tree",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Urticaceae",
+    "genus": "Cecropia",
+    "species": "Cecropia pachystachya"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Bolivia",
+      "Paraguay",
+      "Argentina"
+    ],
+    "ecoregions": [
+      "Brazilian Cerrado",
+      "Atlantic Forest",
+      "Neotropical forests"
+    ],
+    "biomes": [
+      "Cerrado",
+      "Secondary forests",
+      "Forest edges",
+      "Riparian forests",
+      "Degraded lands",
+      "Open disturbed areas"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native pioneer tree widely distributed throughout tropical and subtropical South America, especially in disturbed forests and forest edges."
+  },
+  "source_information": {
+    "document_type": "peer_reviewed_article",
+    "title": "Germinação de sementes de Cecropia pachystachya Trécul (Cecropiaceae) em padrões anteriores e posteriores à passagem pelo trato digestório de aves dispersoras de sementes",
+    "authors": [],
+    "institution": "",
+    "year": 2008,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Campo Grande",
+      "Mato Grosso do Sul",
+      "Brazilian Cerrado"
+    ],
+    "study_period": "December 2005 – March 2006",
+    "study_focus": [
+      "Seed germination",
+      "Bird-mediated seed dispersal",
+      "Ecological succession",
+      "Forest restoration",
+      "Natural regeneration"
+    ],
+    "evidence_level": "Peer-reviewed ecological field experiment"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Medium",
+    "carbon_value": "High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "Low",
+    "income_generation_value": "Low",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Very low",
+      "sun_requirement": "Full sun"
+    },
+    "soil": {
+      "preferred_types": [
+        "Disturbed soils",
+        "Forest edge soils",
+        "Riparian soils",
+        "Degraded tropical soils"
+      ],
+      "texture": [],
+      "drainage": "",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Moderate",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": ""
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "Moderate"
+    },
+    "climate_zones": [
+      "Humid tropical",
+      "Subtropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early successional pioneer",
+    "forest_layer": "Canopy",
+    "canopy_position": "Canopy pioneer",
+    "carbon_storage": "Rapid biomass accumulation during early succession.",
+    "soil_improvement": "Accelerates natural regeneration through rapid canopy establishment.",
+    "erosion_control": "Stabilizes disturbed soils during early restoration.",
+    "water_regulation": "Contributes to riparian forest recovery.",
+    "microclimate_regulation": "Creates shade and favorable microclimates for late-successional species.",
+    "pollinator_support": "Supports diverse pollinating insects.",
+    "wildlife_support": "Important food source for birds, bats and other frugivorous mammals."
+  },
+  "ecosystem_services": {
+    "provisioning": [],
+    "regulating": [
+      "Natural regeneration",
+      "Carbon sequestration",
+      "Landscape connectivity"
+    ],
+    "supporting": [
+      "Bird-mediated seed dispersal",
+      "Habitat creation",
+      "Biodiversity recovery",
+      "Forest succession"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Forest restoration",
+      "Natural regeneration",
+      "Riparian restoration",
+      "Forest gap restoration",
+      "Successional facilitation"
+    ],
+    "restoration_phase": [
+      "Early restoration"
+    ],
+    "recommended_land_types": [
+      "Forest edges",
+      "Degraded lands",
+      "Open disturbed sites",
+      "Riparian forests"
+    ],
+    "degradation_types": [
+      "Deforestation",
+      "Disturbed forest",
+      "Open degraded land"
+    ],
+    "restoration_objectives": [
+      "Rapid canopy establishment",
+      "Faunal attraction",
+      "Natural succession",
+      "Habitat restoration"
+    ],
+    "recommended_species_mixtures": [
+      "Inga spp.",
+      "Trema micrantha",
+      "Schizolobium parahyba",
+      "Croton floribundus",
+      "Native late-successional trees"
+    ],
+    "restoration_notes": "One of the most important Neotropical pioneer trees for attracting seed-dispersing fauna and accelerating natural forest regeneration."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Mixed agroforestry",
+      "Biodiversity enrichment plantings"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": false,
+    "shade_crop": true,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Primarily valuable as a biodiversity-support species rather than a commercial agroforestry crop."
+  },
+  "silviculture": {
+    "growth_rate": "Very fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [],
+    "management_notes": "Naturally colonizes disturbed environments and establishes rapidly under full sunlight."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Scarification or passage through digestive tract improves germination.",
+      "germination_days": {
+        "min": null,
+        "max": null
+      },
+      "germination_rate_percent": {},
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": null,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "",
+    "fruiting": "",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "",
+    "seed_dispersal": "Zoochory by birds and bats.",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Birds",
+      "Bats"
+    ],
+    "companion_species": [
+      "Inga spp.",
+      "Trema micrantha",
+      "Schizolobium parahyba",
+      "Croton floribundus"
+    ],
+    "facilitates": [
+      "Natural regeneration",
+      "Seed dispersal",
+      "Late-successional tree establishment",
+      "Wildlife recolonization"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": [
+      "Provides fruits for birds.",
+      "Provides fruits for bats.",
+      "Associated with mutualistic ants."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Restoration species",
+      "Wildlife habitat"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 7,
+      "maximum_dbh_cm": 25,
+      "wood_density_g_cm3": null
+    },
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {},
+    "productivity": {},
+    "additional_measurements": {}
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Moderate",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Forest restoration",
+      "Riparian restoration",
+      "Secondary forests",
+      "Disturbed tropical landscapes",
+      "Biodiversity corridors"
+    ],
+    "recommended_restoration_goals": [
+      "Rapid ecological succession",
+      "Wildlife attraction",
+      "Natural regeneration",
+      "Forest connectivity"
+    ],
+    "ideal_companion_species": [
+      "Inga spp.",
+      "Trema micrantha",
+      "Schizolobium parahyba",
+      "Croton floribundus",
+      "Native late-successional trees"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Cecropia pachystachya is a flagship Neotropical pioneer species whose exceptional ecological value lies in attracting frugivorous fauna, restoring seed-dispersal networks and accelerating natural forest succession on degraded landscapes."
+  },
+  "research": {
+    "gaps": [
+      "Long-term restoration performance",
+      "Carbon sequestration",
+      "Landscape-scale regeneration dynamics",
+      "Remote sensing detection",
+      "Climate resilience",
+      "Genetic diversity across populations",
+      "Optimization for restoration projects",
+      "AI-based restoration planning"
+    ],
+    "scientific_uncertainties": [],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "peer_reviewed_article",
+      "title": "Germinação de sementes de Cecropia pachystachya Trécul (Cecropiaceae) em padrões anteriores e posteriores à passagem pelo trato digestório de aves dispersoras de sementes",
+      "institution": "Revista de Biologia e Ciências da Terra",
+      "authors": [],
+      "year": 2008,
+      "pages": ""
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "Very High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

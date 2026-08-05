@@ -1,0 +1,455 @@
+{
+  "species_profile": {
+    "scientific_name": "Gliricidia sepium",
+    "authority": "(Jacq.) Kunth ex Walp.",
+    "family": "Fabaceae",
+    "common_names": {
+      "english": [
+        "Gliricidia",
+        "Quickstick",
+        "Mother of Cocoa"
+      ],
+      "spanish": [
+        "Gliricidia",
+        "Madre de cacao",
+        "Madero negro"
+      ],
+      "portuguese": [
+        "Gliricídia"
+      ],
+      "french": [],
+      "local": [
+        "Gliricídia"
+      ]
+    },
+    "life_form": "Medium-sized nitrogen-fixing deciduous tree",
+    "life_cycle": "Perennial",
+    "growth_form": "Fast-growing deciduous tree",
+    "native": false
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Gliricidia",
+    "species": "Gliricidia sepium"
+  },
+  "distribution": {
+    "countries": [
+      "Mexico",
+      "Guatemala",
+      "Belize",
+      "Honduras",
+      "El Salvador",
+      "Nicaragua",
+      "Costa Rica",
+      "Panama",
+      "Brazil"
+    ],
+    "ecoregions": [
+      "Central American tropical dry forests",
+      "Humid tropical agricultural landscapes"
+    ],
+    "biomes": [
+      "Tropical agroforestry systems",
+      "Silvopastoral systems",
+      "Coffee agroforestry",
+      "Cacao agroforestry",
+      "Living fences",
+      "Degraded tropical lands"
+    ],
+    "watersheds": [],
+    "native": false,
+    "introduced_regions": [
+      "Brazil",
+      "South America",
+      "Africa",
+      "Asia",
+      "Pacific Islands"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to Mexico and Central America and widely introduced throughout tropical regions as one of the world's most important multipurpose agroforestry trees."
+  },
+  "source_information": {
+    "document_type": "technical_communication",
+    "title": "Cerca-viva de Gliricidia sepium",
+    "authors": [],
+    "institution": "Embrapa",
+    "year": null,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazilian Amazon",
+      "Tropical Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Living fences",
+      "Vegetative propagation",
+      "Agroforestry",
+      "Shade systems",
+      "Forage",
+      "Green manure",
+      "Soil restoration"
+    ],
+    "evidence_level": "Technical extension publication"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "High",
+    "food_security_value": "Medium",
+    "income_generation_value": "High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": true,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Moderate",
+      "sun_requirement": "Full sun to partial shade"
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained tropical soils",
+        "Degraded agricultural soils",
+        "Pasture soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "Adapted to low and moderate fertility soils",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Moderate to High"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Humid tropical",
+      "Seasonally dry tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "Good",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early to mid-successional",
+    "forest_layer": "Canopy",
+    "canopy_position": "Upper canopy",
+    "carbon_storage": "Produces substantial woody biomass and contributes to long-term carbon storage.",
+    "soil_improvement": "Excellent biological nitrogen fixation, litter production and soil fertility enhancement.",
+    "erosion_control": "Stabilizes soils and protects agricultural landscapes.",
+    "water_regulation": "Improves infiltration and reduces runoff.",
+    "microclimate_regulation": "Provides shade and moderates temperature for understory crops.",
+    "pollinator_support": "Flowers provide nectar resources for pollinating insects.",
+    "wildlife_support": "Provides habitat and resources for birds and beneficial fauna."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Fuelwood",
+      "Fence posts",
+      "Forage",
+      "Farm timber"
+    ],
+    "regulating": [
+      "Nitrogen fixation",
+      "Carbon sequestration",
+      "Wind protection",
+      "Erosion control"
+    ],
+    "supporting": [
+      "Soil fertility improvement",
+      "Organic matter production",
+      "Habitat creation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Living fences",
+      "Shade tree",
+      "Green manure",
+      "Windbreak",
+      "Pasture restoration",
+      "Agroforestry restoration"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Intermediate restoration"
+    ],
+    "recommended_land_types": [
+      "Degraded agricultural land",
+      "Pastures",
+      "Coffee systems",
+      "Cacao systems"
+    ],
+    "degradation_types": [
+      "Low fertility soils",
+      "Pasture degradation",
+      "Agricultural degradation"
+    ],
+    "restoration_objectives": [
+      "Nitrogen enrichment",
+      "Livestock integration",
+      "Soil rehabilitation",
+      "Carbon sequestration"
+    ],
+    "recommended_species_mixtures": [
+      "Theobroma cacao",
+      "Coffea spp.",
+      "Pasture grasses"
+    ],
+    "restoration_notes": "One of the world's most versatile agroforestry trees, combining nitrogen fixation, forage production, shade, fencing and soil restoration."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Coffee agroforestry",
+      "Cacao agroforestry",
+      "Silvopastoral systems",
+      "Living fences",
+      "Alley cropping"
+    ],
+    "compatible_crops": [
+      "Theobroma cacao",
+      "Coffea spp.",
+      "Pasture grasses"
+    ],
+    "livestock_compatible": true,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Globally recognized as one of the best multipurpose trees for tropical agroforestry and integrated crop-livestock systems."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Seed",
+      "Stem cuttings"
+    ],
+    "pruning": "Highly tolerant of repeated pruning and pollarding.",
+    "fertilization": "",
+    "maintenance": [
+      "Periodic pruning maintains shade and forage production."
+    ],
+    "management_notes": "Outstanding coppicing ability and easy vegetative propagation make it ideal for farm-scale management."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": {
+        "min": null,
+        "max": null
+      },
+      "germination_rate_percent": {},
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Stem cuttings",
+        "Large stakes"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "",
+    "fruiting": "",
+    "leaf_flush": "",
+    "leaf_fall": "Deciduous during dry season.",
+    "seed_collection": "",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Theobroma cacao",
+      "Coffea spp.",
+      "Pasture grasses"
+    ],
+    "facilitates": [
+      "Nitrogen enrichment",
+      "Crop productivity",
+      "Livestock production",
+      "Soil restoration"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Coffee agroforestry",
+      "Cacao agroforestry",
+      "Silvopastoral systems",
+      "Living fences"
+    ],
+    "wildlife_interactions": []
+  },
+  "products": {
+    "timber": [
+      "Fence posts",
+      "Farm timber"
+    ],
+    "food": [],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "High-protein forage"
+    ],
+    "fuel": [
+      "Fuelwood"
+    ],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Green manure",
+      "Living fence",
+      "Shade tree"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": null,
+      "maximum_dbh_cm": null,
+      "wood_density_g_cm3": null
+    },
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {},
+    "productivity": {},
+    "additional_measurements": {}
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Moderate",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Coffee agroforestry",
+      "Cacao agroforestry",
+      "Silvopastoral systems",
+      "Pasture restoration",
+      "Mixed tropical farms"
+    ],
+    "recommended_restoration_goals": [
+      "Nitrogen fixation",
+      "Shade production",
+      "Livestock integration",
+      "Soil restoration",
+      "Living fence establishment"
+    ],
+    "ideal_companion_species": [
+      "Theobroma cacao",
+      "Coffea spp.",
+      "Pasture grasses"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Gliricidia sepium is among the world's premier multifunctional agroforestry trees because it combines rapid growth, biological nitrogen fixation, high-quality forage, shade, living fences and exceptional coppicing ability within a single highly manageable species."
+  },
+  "research": {
+    "gaps": [
+      "Carbon sequestration quantification",
+      "Climate resilience assessment",
+      "Long-term restoration performance",
+      "Optimal pruning regimes",
+      "Remote sensing monitoring",
+      "AI-supported management",
+      "Pollinator interactions",
+      "Landscape-scale ecosystem services"
+    ],
+    "scientific_uncertainties": [],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_communication",
+      "title": "Cerca-viva de Gliricidia sepium",
+      "institution": "Embrapa",
+      "authors": [],
+      "year": null,
+      "pages": ""
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

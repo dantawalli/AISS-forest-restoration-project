@@ -1,0 +1,591 @@
+{
+  "species_profile": {
+    "scientific_name": "Leucaena leucocephala",
+    "authority": "(Lam.) de Wit",
+    "family": "Fabaceae",
+    "common_names": {
+      "english": [
+        "Leucaena",
+        "White leadtree"
+      ],
+      "spanish": [
+        "Leucaena"
+      ],
+      "portuguese": [
+        "Leucena"
+      ],
+      "french": [],
+      "local": []
+    },
+    "life_form": "Small nitrogen-fixing tree",
+    "life_cycle": "Medium-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Leucaena",
+    "species": "Leucaena leucocephala"
+  },
+  "distribution": {
+    "countries": [
+      "United States (Texas)",
+      "Mexico",
+      "Belize",
+      "Guatemala",
+      "Honduras",
+      "El Salvador",
+      "Nicaragua",
+      "Costa Rica",
+      "Panama",
+      "Ecuador",
+      "Brazil"
+    ],
+    "ecoregions": [
+      "Tropical dry forests",
+      "Semi-arid regions",
+      "Seasonally dry tropical forests"
+    ],
+    "biomes": [
+      "Seasonally dry tropical forest",
+      "Semi-arid ecosystems",
+      "Agroforestry systems",
+      "Pasture systems",
+      "Degraded lands"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Caribbean",
+      "Hawaii",
+      "Australia",
+      "India",
+      "Indonesia",
+      "Malaysia",
+      "Papua New Guinea",
+      "Africa",
+      "Brazil"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to Central America and southern North America but widely naturalized throughout tropical regions worldwide."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "Leucena (Leucaena leucocephala): leguminosa de uso múltiplo para o semiárido brasileiro",
+    "authors": [
+      "Marcos Antônio Drumond",
+      "Jorge Ribaski"
+    ],
+    "institution": "Embrapa Semiárido / Embrapa Florestas",
+    "year": 2010,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Semi-arid Brazil",
+      "Tropical regions"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Silvopastoral systems",
+      "Nitrogen fixation",
+      "Agroforestry",
+      "Mine rehabilitation",
+      "Restoration"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "Medium",
+    "food_security_value": "Very High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": true,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 10,
+        "max": 40
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 250,
+        "max": 1700
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 0,
+        "max": 1500
+      }
+    },
+    "light": {
+      "shade_tolerance": "Low.",
+      "sun_requirement": "Full sun."
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained soils",
+        "Calcareous soils",
+        "Moderately fertile soils"
+      ],
+      "texture": [
+        "Loam",
+        "Sandy loam"
+      ],
+      "drainage": "Well-drained.",
+      "fertility": "Moderate to high.",
+      "ph": {
+        "min": 5.5,
+        "max": 8.5
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Poor during establishment; tolerates short-term flooding after establishment.",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Excellent."
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Semi-arid tropical",
+      "Seasonally dry tropical"
+    ],
+    "tolerances": {
+      "fire": "Resprouts after cutting.",
+      "wind": "",
+      "cold": "Generally frost sensitive.",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Pioneer",
+    "forest_layer": "Canopy",
+    "canopy_position": "Small canopy tree",
+    "carbon_storage": "Rapid biomass accumulation from fast growth.",
+    "soil_improvement": "Excellent biological nitrogen fixation and phosphorus mobilization.",
+    "erosion_control": "Highly effective on degraded slopes and contour plantings.",
+    "water_regulation": "Deep roots improve infiltration in dry landscapes.",
+    "microclimate_regulation": "Provides shade in agroforestry and silvopastoral systems.",
+    "pollinator_support": "",
+    "wildlife_support": "Provides forage for livestock and associated fauna."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Animal forage",
+      "Fuelwood",
+      "Charcoal",
+      "Pulp"
+    ],
+    "regulating": [
+      "Nitrogen fixation",
+      "Carbon sequestration",
+      "Erosion control"
+    ],
+    "supporting": [
+      "Soil fertility",
+      "Agroecosystem productivity"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Nitrogen fixation",
+      "Soil restoration",
+      "Mine rehabilitation",
+      "Erosion control",
+      "Agroforestry",
+      "Green manure",
+      "Windbreaks"
+    ],
+    "restoration_phase": [
+      "Early restoration"
+    ],
+    "recommended_land_types": [
+      "Semi-arid lands",
+      "Mine spoils",
+      "Pastures",
+      "Degraded agricultural land"
+    ],
+    "degradation_types": [
+      "Mining",
+      "Eroded soils",
+      "Low fertility soils",
+      "Drylands"
+    ],
+    "restoration_objectives": [
+      "Nitrogen enrichment",
+      "Rapid biomass production",
+      "Forage production",
+      "Soil stabilization"
+    ],
+    "recommended_species_mixtures": [
+      "Panicum maximum",
+      "Setaria sphacelata",
+      "Digitaria decumbens",
+      "Cenchrus ciliaris",
+      "Maize",
+      "Beans"
+    ],
+    "restoration_notes": "Outstanding multipurpose legume for dryland restoration but should be carefully managed where invasiveness is a concern."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Silvopastoral systems",
+      "Protein banks",
+      "Green manure systems",
+      "Contour planting",
+      "Energy plantations"
+    ],
+    "compatible_crops": [
+      "Maize",
+      "Beans"
+    ],
+    "livestock_compatible": true,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Globally recognized as one of the most productive fodder trees because of exceptional nitrogen fixation and repeated coppicing."
+  },
+  "silviculture": {
+    "growth_rate": "Very fast",
+    "rotation_years": 4,
+    "harvest_age_years": 4,
+    "spacing": [
+      "2 × 3 m",
+      "2 × 2 m",
+      "1 × 2.5 m",
+      "0.5–1 m within rows",
+      "0.2 × 1 m"
+    ],
+    "planting_methods": [
+      "Nursery seedlings",
+      "Direct seeding"
+    ],
+    "pruning": "Frequent cutting tolerated through vigorous coppicing.",
+    "fertilization": "Responds to calcium, phosphorus, sulfur, zinc, boron and molybdenum.",
+    "maintenance": [
+      "Avoid poorly drained soils.",
+      "Use contour planting in drylands.",
+      "Inoculate with Rhizobium where absent.",
+      "Control invasiveness."
+    ],
+    "management_notes": "Highly tolerant of repeated pruning and coppicing, making it ideal for forage production."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Boiling water treatment for 2–3 minutes to break physical dormancy.",
+      "germination_days": {
+        "min": 3,
+        "max": 5
+      },
+      "germination_rate_percent": {
+        "min": 80,
+        "max": 80
+      },
+      "storage": "Dry orthodox seeds stored below 10% moisture at 0–4°C."
+    },
+    "nursery": {
+      "transplant_age": "60–80 days",
+      "transplant_height": "25–30 cm",
+      "special_care": [
+        "Rhizobium inoculation recommended.",
+        "Use large containers.",
+        "Plant at beginning of rainy season."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Coppicing",
+        "Natural resprouting"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Early flowering in Hawaiian-type varieties (4–6 months).",
+    "fruiting": "Produces abundant seed annually.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Harvest mature dry pods.",
+    "seed_dispersal": "Autochory.",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Panicum maximum",
+      "Setaria sphacelata",
+      "Digitaria decumbens",
+      "Cenchrus ciliaris",
+      "Maize",
+      "Beans"
+    ],
+    "facilitates": [
+      "Nitrogen enrichment",
+      "Forage production",
+      "Pasture productivity"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Silvopastoral systems",
+      "Protein banks",
+      "Green manure systems",
+      "Contour planting",
+      "Mine restoration"
+    ],
+    "wildlife_interactions": [
+      "Excellent forage for cattle.",
+      "Excellent forage for goats.",
+      "Excellent forage for sheep.",
+      "Excellent forage for pigs."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Fuelwood",
+      "Charcoal",
+      "Pulp",
+      "Particleboard"
+    ],
+    "food": [],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "Animal forage"
+    ],
+    "fuel": [
+      "Fuelwood",
+      "Charcoal"
+    ],
+    "ornamental": [
+      "Shade tree"
+    ],
+    "industrial": [
+      "Particleboard",
+      "Energy plantations"
+    ],
+    "other": [
+      "Green manure",
+      "Nitrogen fixation",
+      "Erosion control"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Heteropsylla cubana",
+        "Stiphra robusta",
+        "Ithome lassula",
+        "Termites",
+        "Araecerus levipennis"
+      ],
+      "diseases": [
+        "Aspergillus",
+        "Penicillium",
+        "Fusarium"
+      ]
+    },
+    "abiotic": [
+      "Poor drainage",
+      "High aluminum soils",
+      "Frost"
+    ],
+    "human": [
+      "Can become invasive if unmanaged."
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 20,
+      "maximum_dbh_cm": 30,
+      "wood_density_g_cm3": {
+        "min": 0.55,
+        "max": 0.7
+      }
+    },
+    "wood_properties": {
+      "heating_value_kcal_kg": {
+        "min": 4200,
+        "max": 4600
+      }
+    },
+    "seed_data": {
+      "seeds_per_kg": {
+        "min": 15000,
+        "max": 22000
+      },
+      "germination_days": {
+        "min": 3,
+        "max": 5
+      },
+      "germination_percent": 80
+    },
+    "fruit_data": {
+      "pod_length_cm": {
+        "min": 12,
+        "max": 18
+      },
+      "seeds_per_pod": {
+        "min": 15,
+        "max": 30
+      }
+    },
+    "productivity": {
+      "annual_increment_m3_ha_year": {
+        "maximum": 23
+      },
+      "fruiting_age_years": 0.5,
+      "rotation_years": 4,
+      "nitrogen_fixation_kg_ha_year": {
+        "min": 500,
+        "max": 600
+      }
+    },
+    "additional_measurements": {
+      "leaf_length_cm": {
+        "min": 15,
+        "max": 20
+      },
+      "flower_head_diameter_cm": {
+        "min": 1.5,
+        "max": 3
+      },
+      "water_deficit_tolerance_mm": 870,
+      "temperature_c": {
+        "min": 10,
+        "max": 40
+      },
+      "altitude_m": {
+        "min": 0,
+        "max": 1500
+      },
+      "soil_ph": {
+        "min": 5.5,
+        "max": 8.5
+      },
+      "leaf_crude_protein_percent": 20,
+      "young_foliage_protein_percent": 35,
+      "mimosine_percent_protein": {
+        "min": 3,
+        "max": 5
+      },
+      "mine_restoration_survival_percent": 100,
+      "height_after_8_months_m": 2.9,
+      "height_after_6_years_m": 10.4,
+      "dbh_after_6_years_cm": 9.3,
+      "nursery_period_days": {
+        "min": 60,
+        "max": 80
+      },
+      "seedling_height_cm": {
+        "min": 25,
+        "max": 30
+      }
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Moderate",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Semi-arid landscapes",
+      "Silvopastoral systems",
+      "Mine restoration",
+      "Dryland agroforestry"
+    ],
+    "recommended_restoration_goals": [
+      "Nitrogen enrichment",
+      "Forage production",
+      "Rapid biomass",
+      "Soil stabilization"
+    ],
+    "ideal_companion_species": [
+      "Panicum maximum",
+      "Setaria sphacelata",
+      "Digitaria decumbens",
+      "Cenchrus ciliaris",
+      "Maize",
+      "Beans"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Leucaena leucocephala is among the world's most productive multipurpose nitrogen-fixing trees. It is exceptionally valuable for agroforestry and dryland restoration but requires careful management due to invasive potential outside its native range."
+  },
+  "research": {
+    "gaps": [
+      "Breeding for psyllid resistance.",
+      "Long-term invasive management.",
+      "Improvement of drought-adapted cultivars.",
+      "Optimization of silvopastoral management."
+    ],
+    "scientific_uncertainties": [
+      "Frost tolerance varies among populations.",
+      "Invasiveness depends strongly on rainfall and seed production.",
+      "Mimosine toxicity varies according to rumen microbiota.",
+      "Biological control effectiveness varies by region."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "Leucena (Leucaena leucocephala): leguminosa de uso múltiplo para o semiárido brasileiro",
+      "institution": "Embrapa Semiárido / Embrapa Florestas",
+      "authors": [
+        "Marcos Antônio Drumond",
+        "Jorge Ribaski"
+      ],
+      "year": 2010,
+      "pages": "1–8"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

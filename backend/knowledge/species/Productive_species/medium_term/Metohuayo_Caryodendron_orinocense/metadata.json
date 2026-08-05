@@ -1,0 +1,448 @@
+{
+  "species_profile": {
+    "scientific_name": "Caryodendron orinocense",
+    "authority": "(Karst.)",
+    "family": "Euphorbiaceae",
+    "common_names": {
+      "english": [
+        "Cacay"
+      ],
+      "spanish": [
+        "Metohuayo",
+        "Cacay"
+      ],
+      "portuguese": [],
+      "french": [],
+      "local": [
+        "Metohuayo"
+      ]
+    },
+    "life_form": "Large evergreen tree",
+    "life_cycle": "Long-lived",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Malpighiales",
+    "family": "Euphorbiaceae",
+    "genus": "Caryodendron",
+    "species": "Caryodendron orinocense"
+  },
+  "distribution": {
+    "countries": [
+      "Peru"
+    ],
+    "ecoregions": [
+      "Western Amazon",
+      "Loreto",
+      "Amazonas",
+      "San Martín"
+    ],
+    "biomes": [
+      "Humid tropical rainforest"
+    ],
+    "watersheds": [
+      "Amazonas River",
+      "Nanay River",
+      "Itaya River"
+    ],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native to the western Amazon Basin, particularly in Peru."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "Metohuayo (Caryodendron orinocense): ecología, propagación, conservación y aprovechamiento",
+    "authors": [],
+    "institution": "Instituto de Investigaciones de la Amazonía Peruana (IIAP)",
+    "year": null,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Peru"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Propagation",
+      "Conservation",
+      "Utilization"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 22,
+        "max": 28
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 2000,
+        "max": 5000
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": 74,
+        "max": 87
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 200,
+        "max": 1100
+      }
+    },
+    "light": {
+      "shade_tolerance": "Low",
+      "sun_requirement": "High light demand; competes well in the forest canopy."
+    },
+    "soil": {
+      "preferred_types": [
+        "Fertile alluvial soils",
+        "Riverine soils",
+        "Well-drained tropical soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "High",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Moderate",
+      "waterlogging_tolerance": "Moderate",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late-successional canopy tree.",
+    "forest_layer": "Canopy",
+    "canopy_position": "Upper canopy",
+    "carbon_storage": "High biomass accumulation expected.",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "Contributes to long-term canopy formation.",
+    "pollinator_support": "",
+    "wildlife_support": "Provides habitat and food resources in mature forests."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Vegetable oil",
+      "Income generation"
+    ],
+    "regulating": [
+      "Forest restoration",
+      "Long-term canopy formation"
+    ],
+    "supporting": [
+      "Habitat creation",
+      "Biodiversity conservation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Amazon restoration",
+      "Productive restoration",
+      "Agroforestry systems",
+      "Community forestry",
+      "Native forest enrichment",
+      "Climate-smart agriculture"
+    ],
+    "restoration_phase": [
+      "Forest enrichment",
+      "Late restoration"
+    ],
+    "recommended_land_types": [
+      "Humid tropical forests",
+      "River basins",
+      "Alluvial soils",
+      "Mixed agroforestry systems"
+    ],
+    "degradation_types": [
+      "Deforested Amazon landscapes",
+      "Degraded forests"
+    ],
+    "restoration_objectives": [
+      "Forest restoration",
+      "Income generation",
+      "Biodiversity conservation",
+      "Long-term canopy recovery"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "One of the most promising native Amazonian nut trees for productive restoration. Produces high-value edible oil comparable to premium vegetable oils. Provides strong economic incentives for restoration projects. Excellent long-lived canopy species for mixed agroforestry systems. High germination and easy propagation make it suitable for community nurseries. The IIAP germplasm collection represents an important genetic resource for future breeding and restoration. Highly recommended by FYNOS AI as a flagship species for Amazon restoration landscapes integrating biodiversity conservation with sustainable livelihoods."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Amazon agroforestry",
+      "Native forest enrichment",
+      "Multi-strata agroforestry",
+      "Community forestry"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": false,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Excellent native canopy tree for productive Amazonian agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Seeds",
+      "Grafting"
+    ],
+    "pruning": "",
+    "fertilization": "Incorporate decomposed organic matter into planting holes.",
+    "maintenance": [
+      "Maintain weed control during establishment.",
+      "Plant at the beginning of the rainy season.",
+      "Use planting holes of 40 × 40 × 40 cm.",
+      "Transplant vigorous seedlings."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Fresh seeds germinate rapidly without complex pretreatment.",
+      "germination_days": "12",
+      "germination_rate_percent": 100,
+      "storage": "Seeds are highly perishable and rapidly lose viability if improperly stored."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "30–40 cm",
+      "special_care": [
+        "Plant at the beginning of the rainy season."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Grafting"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Monoecious species with separate male and female flowers.",
+    "fruiting": "Fruits mature approximately 2–3 months after flowering.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature capsules before natural opening.",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": []
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Roasted nuts",
+      "Toasted seeds",
+      "Seed flour",
+      "Turrón",
+      "Candies",
+      "Cooking oil",
+      "Mazamorra",
+      "Fried seeds"
+    ],
+    "medicine": [
+      "Traditional mild laxative"
+    ],
+    "fiber": [],
+    "oil": [
+      "Vegetable oil",
+      "Cosmetic oil"
+    ],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Cosmetics",
+      "Functional foods"
+    ],
+    "other": [
+      "Forest restoration",
+      "Agroforestry"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [
+      "Habitat degradation"
+    ],
+    "human": [
+      "Deforestation",
+      "Loss of genetic diversity",
+      "Limited domestication",
+      "Limited commercial cultivation"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 20
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germination_days": 12,
+      "germination_percent": 100,
+      "seeds_per_fruit": 25,
+      "seed_percentage": 80.3
+    },
+    "fruit_data": {
+      "fruit_width_cm": 4.8,
+      "fruit_weight_g": 56
+    },
+    "productivity": {
+      "oil_content_percent": 75,
+      "oleic_acid_percent": {
+        "minimum": 41,
+        "maximum": 59
+      },
+      "protein_percent": 19.7,
+      "carbohydrates_percent": 17.7
+    },
+    "additional_measurements": {
+      "transplant_height_cm": {
+        "minimum": 30,
+        "maximum": 40
+      },
+      "planting_hole_cm": "40 × 40 × 40",
+      "germplasm_populations": 16,
+      "irr_percent": 54,
+      "npv_pen": 1903
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Amazon rainforest",
+      "River basins",
+      "Alluvial forests",
+      "Amazon agroforestry systems"
+    ],
+    "recommended_restoration_goals": [
+      "Forest restoration",
+      "Native canopy recovery",
+      "Income generation",
+      "Food security",
+      "Biodiversity conservation"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "Flagship native Amazonian oilseed tree with exceptional potential for productive restoration. Combines biodiversity conservation, long-term canopy recovery and high-value non-timber forest products, making it one of the strongest candidates for FYNOS AI restoration landscapes."
+  },
+  "research": {
+    "gaps": [
+      "Pollination ecology.",
+      "Carbon sequestration potential.",
+      "Climate change resilience.",
+      "Long-term restoration performance.",
+      "Pest and disease ecology.",
+      "Genomic improvement.",
+      "Wildlife interactions.",
+      "Optimal agroforestry spacing."
+    ],
+    "scientific_uncertainties": [
+      "Pollinator identity.",
+      "Seed dispersal ecology.",
+      "Long-term plantation productivity.",
+      "Climate adaptation.",
+      "Carbon storage potential.",
+      "Disease resistance."
+    ],
+    "potential_contradictions": [
+      "No direct scientific contradictions were identified.",
+      "High commercial value is emphasized despite limited large-scale cultivation.",
+      "Economic projections depend on market assumptions and production conditions."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "Metohuayo (Caryodendron orinocense): ecología, propagación, conservación y aprovechamiento",
+      "institution": "Instituto de Investigaciones de la Amazonía Peruana (IIAP)",
+      "country": "Peru"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "species_profile": {
+    "scientific_name": "Bertholletia excelsa",
+    "authority": "Bonpl.",
+    "family": "Lecythidaceae",
+    "common_names": {
+      "english": [
+        "Brazil nut"
+      ],
+      "spanish": [
+        "Almendra del Beni",
+        "Castaño de Madre de Dios",
+        "Nuez del Brasil"
+      ],
+      "portuguese": [
+        "Anhaúba",
+        "Castanha",
+        "Castanha-do-Brasil",
+        "Castanha-do-Maranhão",
+        "Castanha-do-Pará",
+        "Castanheira",
+        "Castanheira-do-Brasil",
+        "Castanheiro"
+      ],
+      "french": [],
+      "local": [
+        "Erai",
+        "Iniá",
+        "Tocary"
+      ]
+    },
+    "life_form": "Large emergent rainforest tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Lecythidaceae",
+    "genus": "Bertholletia",
+    "species": "Bertholletia excelsa"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Peru",
+      "Suriname",
+      "Venezuela",
+      "Trinidad and Tobago"
+    ],
+    "ecoregions": [
+      "Amazon Basin",
+      "Amazon terra firme forests"
+    ],
+    "biomes": [
+      "Terra firme tropical rainforest",
+      "Amazon rainforest",
+      "Anthropized Amazonian areas"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Cultivated outside its natural distribution"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "One of the dominant emergent canopy trees of the Amazon Basin and among the most economically important native non-timber forest species."
+  },
+  "source_information": {
+    "document_type": "book chapter",
+    "title": "Plantas para o Futuro – Região Norte. Capítulo 5. Bertholletia excelsa",
+    "authors": [
+      "Walnice Maria Oliveira do Nascimento",
+      "José Edmar Urano de Carvalho"
+    ],
+    "institution": "Embrapa Amazônia Oriental",
+    "year": 2018,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Amazon Basin"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Silviculture",
+      "Restoration",
+      "Genetics",
+      "Commercial cultivation"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "High",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": true,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Young trees tolerate moderate shade but require increasing irradiance with age.",
+      "sun_requirement": "High light availability for reproductive trees."
+    },
+    "soil": {
+      "preferred_types": [],
+      "texture": [],
+      "drainage": "",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": ""
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late-successional",
+    "forest_layer": "Emergent",
+    "canopy_position": "Emergent canopy tree",
+    "carbon_storage": "One of the largest biomass-accumulating tree species in Amazon forests.",
+    "soil_improvement": "",
+    "erosion_control": "Contributes to long-term forest stability.",
+    "water_regulation": "Supports mature rainforest ecosystem processes.",
+    "microclimate_regulation": "Creates emergent canopy structure influencing forest microclimate.",
+    "pollinator_support": "Highly dependent on native large-bodied bees.",
+    "wildlife_support": "Provides fruits for mammals, especially agoutis, which perform secondary seed dispersal."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Brazil nuts",
+      "Edible oil",
+      "High-value timber",
+      "Animal feed"
+    ],
+    "regulating": [
+      "Long-term carbon storage",
+      "Forest conservation"
+    ],
+    "supporting": [
+      "Pollinator maintenance",
+      "Seed disperser support",
+      "Forest regeneration"
+    ],
+    "cultural": [
+      "Traditional Amazonian livelihood species"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Native Amazonian tree",
+      "High-value restoration species",
+      "Forest conservation",
+      "Non-timber forest production"
+    ],
+    "restoration_phase": [
+      "Late restoration",
+      "Long-term restoration"
+    ],
+    "recommended_land_types": [
+      "Amazon rainforest",
+      "Terra firme forests",
+      "Long-term restoration sites"
+    ],
+    "degradation_types": [
+      "Deforested Amazon",
+      "Fragmented forest landscapes"
+    ],
+    "restoration_objectives": [
+      "Carbon storage",
+      "Biodiversity recovery",
+      "Long-term income generation",
+      "Forest conservation"
+    ],
+    "recommended_species_mixtures": [
+      "Other mature Amazonian hardwoods"
+    ],
+    "restoration_notes": "One of the flagship long-term restoration species for the Amazon. Essential for combining biodiversity conservation with sustainable non-timber forest production."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Amazon agroforestry",
+      "Forest enrichment",
+      "Mixed native tree systems"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": false,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Suitable as the upper canopy component in mature agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "seed_origin": 12,
+      "grafted": {
+        "min": 4,
+        "max": 6
+      }
+    },
+    "spacing": [],
+    "planting_methods": [
+      "Seed propagation for timber plantations",
+      "Grafting for fruit production"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Maintain pollinator populations.",
+      "Use compatible clones.",
+      "Perform grafting on plants 1.5–2 years old.",
+      "Maintain high light availability.",
+      "Preserve natural seed dispersers."
+    ],
+    "management_notes": "Successful production depends on maintaining ecological interactions with native pollinators and seed dispersers."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Remove seed coat (tegument) before sowing.",
+      "germination_days": "30–100",
+      "germination_rate_percent": 80,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Seed coat removal improves germination.",
+        "Nursery costs may be reduced by approximately 50% using improved techniques."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Shield budding",
+        "Top cleft grafting"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Occurs during the driest period of the year; flowering is annual, synchronous and prolonged.",
+    "fruiting": "Fruit maturation requires 12–15 months. Fruits fall mainly between December and April.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits after natural fruit fall.",
+    "seed_dispersal": "Primary dispersal by gravity and rainfall; secondary dispersal mainly by agoutis.",
+    "pollination": "Pollinated by large native bees."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Xylocopa",
+      "Epicharis",
+      "Bombus",
+      "Centris",
+      "Eulaema"
+    ],
+    "seed_dispersers": [
+      "Dasyprocta spp. (Agoutis)"
+    ],
+    "companion_species": [],
+    "facilitates": [
+      "Forest regeneration",
+      "Wildlife conservation"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": [
+      "Agoutis bury seeds and promote germination.",
+      "Fruit production depends on native bee pollination."
+    ]
+  },
+  "products": {
+    "timber": [
+      "High-quality wood",
+      "Construction timber"
+    ],
+    "food": [
+      "Brazil nuts",
+      "Fresh kernels",
+      "Bakery products",
+      "Confectionery",
+      "Brazil nut milk"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [
+      "Edible oil",
+      "Cooking oil",
+      "Cosmetic oil"
+    ],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "Oil cake"
+    ],
+    "fuel": [
+      "Fuel from fruit shells"
+    ],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Handicrafts from fruit shells"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Aspergillus spp.",
+        "Fusarium spp.",
+        "Penicillium spp."
+      ],
+      "diseases": [
+        "Aflatoxin contamination"
+      ]
+    },
+    "abiotic": [
+      "Deforestation",
+      "Forest fires",
+      "Habitat fragmentation",
+      "Reduced natural regeneration"
+    ],
+    "human": [
+      "Road construction",
+      "Hydroelectric dams",
+      "Mining",
+      "Railway construction",
+      "Hydroways",
+      "Agricultural expansion",
+      "Cattle ranching",
+      "Illegal logging",
+      "Hunting of agoutis"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 60,
+      "maximum_dbh_cm": 180,
+      "wood_density_g_cm3": {
+        "minimum": 0.7,
+        "maximum": 0.75
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germination_days": {
+        "minimum": 30,
+        "maximum": 100
+      },
+      "germination_percent": 80
+    },
+    "fruit_data": {
+      "fruit_weight_g": {
+        "minimum": 500,
+        "maximum": 1500
+      },
+      "seeds_per_fruit": {
+        "minimum": 15,
+        "maximum": 24
+      },
+      "seed_length_cm": {
+        "minimum": 4,
+        "maximum": 7
+      }
+    },
+    "productivity": {
+      "fruiting_age_seed_years": 12,
+      "fruiting_age_grafted_years": {
+        "minimum": 4,
+        "maximum": 6
+      },
+      "grafting_success_percent": 90
+    },
+    "additional_measurements": {
+      "common_height_m": {
+        "minimum": 30,
+        "maximum": 50
+      },
+      "kernel_fraction_percent": 12.5,
+      "seed_fraction_percent": 25,
+      "kernel_per_kg_fruit_g": 125,
+      "fruit_maturation_months": {
+        "minimum": 12,
+        "maximum": 15
+      },
+      "evaluation_days": {
+        "minimum": 90,
+        "maximum": 100
+      },
+      "pollen_ovule_ratio": 26755.29,
+      "multilocus_outcrossing_rate": 0.849,
+      "fruit_dispersed_by_agoutis_percent": 4.1,
+      "evaluated_fruits": 6855,
+      "caloric_value_kcal_100g": 699,
+      "lipids_percent": {
+        "minimum": 63.9,
+        "maximum": 72.5
+      },
+      "protein_percent": {
+        "minimum": 14,
+        "maximum": 19.7
+      },
+      "carbohydrates_percent": {
+        "minimum": 5.8,
+        "maximum": 13
+      },
+      "fiber_percent": {
+        "minimum": 3.4,
+        "maximum": 3.8
+      },
+      "selenium_mg_100g": {
+        "minimum": 0.4,
+        "maximum": 12.6
+      }
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Very High",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Amazon rainforest",
+      "Long-term restoration",
+      "Forest enrichment",
+      "Protected areas"
+    ],
+    "recommended_restoration_goals": [
+      "Carbon sequestration",
+      "Forest conservation",
+      "Long-term income generation",
+      "Biodiversity recovery"
+    ],
+    "ideal_companion_species": [
+      "Late-successional Amazon canopy trees"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Bertholletia excelsa is one of the highest-priority species for Amazon restoration. It combines exceptional carbon storage, biodiversity value, and long-term sustainable income through Brazil nut production. Successful restoration requires conserving native bee pollinators and agouti populations."
+  },
+  "research": {
+    "gaps": [
+      "Expansion of genetic improvement programs.",
+      "Selection of highly productive clones.",
+      "Conservation of natural populations.",
+      "Expansion of grafted orchards.",
+      "Improvement of commercial cultivation systems.",
+      "Conservation of pollinator populations.",
+      "Conservation of seed dispersers."
+    ],
+    "scientific_uncertainties": [
+      "Long-term persistence depends on maintaining pollinator and seed disperser communities.",
+      "Commercial cultivation remains limited despite high silvicultural potential."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_reference",
+      "title": "Plantas para o Futuro – Região Norte. Capítulo 5. Bertholletia excelsa",
+      "institution": "Embrapa Amazônia Oriental",
+      "authors": [
+        "Walnice Maria Oliveira do Nascimento",
+        "José Edmar Urano de Carvalho"
+      ],
+      "year": 2018,
+      "pages": "201–214"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

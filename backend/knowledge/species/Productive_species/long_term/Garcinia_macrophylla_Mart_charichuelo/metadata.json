@@ -1,0 +1,446 @@
+{
+  "species_profile": {
+    "scientific_name": "Garcinia macrophylla",
+    "authority": "Mart.",
+    "family": "Clusiaceae",
+    "common_names": {
+      "english": [
+        "Wild mangosteen"
+      ],
+      "spanish": [
+        "Charichuelo",
+        "Madroño",
+        "Bacuriparí",
+        "Charichuelo liso"
+      ],
+      "portuguese": [
+        "Bacuripari"
+      ],
+      "local": [
+        "Charichuelo",
+        "Bacuriparí"
+      ]
+    },
+    "life_form": "Medium-sized evergreen tropical tree",
+    "life_cycle": "Perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Malpighiales",
+    "family": "Clusiaceae",
+    "genus": "Garcinia",
+    "species": "Garcinia macrophylla"
+  },
+  "distribution": {
+    "countries": [
+      "Peru",
+      "Brazil",
+      "Bolivia",
+      "Guyana"
+    ],
+    "ecoregions": [
+      "Loreto",
+      "Ucayali",
+      "Madre de Dios"
+    ],
+    "biomes": [
+      "Amazon Tropical Rainforest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native to the Amazon Basin."
+  },
+  "source_information": {
+    "document_type": "technical_monograph",
+    "title": "Charichuelo (Garcinia macrophylla Mart.): Potencial frutícola de la Amazonía Peruana",
+    "authors": [],
+    "institution": "IIAP & INIA",
+    "year": null,
+    "language": "",
+    "geographic_scope": [
+      "Peru"
+    ],
+    "study_period": "",
+    "study_focus": [],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Extremely High",
+    "carbon_value": "",
+    "biodiversity_value": "Very High",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Partial shade",
+      "sun_requirement": "Full sun after establishment"
+    },
+    "soil": {
+      "preferred_types": [
+        "Terra firme soils",
+        "Alluvial soils",
+        "Humid tropical soils",
+        "Floodplain soils"
+      ],
+      "texture": [],
+      "drainage": "",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Moderate to High",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late secondary to mature forest.",
+    "forest_layer": "",
+    "canopy_position": "",
+    "carbon_storage": "Carbon storage",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "",
+    "pollinator_support": "",
+    "wildlife_support": "Food resource"
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production"
+    ],
+    "regulating": [
+      "Carbon storage"
+    ],
+    "supporting": [
+      "Biodiversity conservation",
+      "Forest enrichment",
+      "Genetic conservation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Forest enrichment",
+      "Native fruit restoration",
+      "Community forestry",
+      "Riparian restoration",
+      "Biodiversity restoration"
+    ],
+    "restoration_phase": [],
+    "recommended_land_types": [],
+    "degradation_types": [],
+    "restoration_objectives": [
+      "Biodiversity conservation",
+      "Forest restoration",
+      "Income generation"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Excellent native Amazon fruit tree adapted to multiple forest types. Highly suitable for restoration of degraded Amazonian landscapes. Combines ecological restoration with income generation through fruit production. Its broad ecological adaptability makes it valuable for diversified agroforestry systems. FYNOS AI should prioritize this species as one of the flagship native fruit trees for restoration, biodiversity conservation and sustainable livelihoods."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Mixed agroforestry systems",
+      "Home gardens"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": null,
+    "silvopastoral": null,
+    "multistrata": null,
+    "agroforestry_notes": "Suitable for mixed-species agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Maintain adequate soil moisture during establishment.",
+      "Monitor insect herbivory in nurseries.",
+      "Suitable for mixed-species agroforestry systems.",
+      "Protect developing fruits from insect pests."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Fresh seeds are recommended for sowing due to relatively slow germination.",
+      "germination_days": "39–142",
+      "germination_rate_percent": "87.25",
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Germination begins after 39–62 days.",
+        "Germination completes within 67–142 days.",
+        "Average germination reaches approximately 87.25%.",
+        "Seedlings grow steadily during the first 13 months."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Not specifically reported.",
+    "fruiting": "August–November (peak September–November)",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature yellow fruits during the fruiting season.",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Likely birds",
+      "Likely mammals"
+    ],
+    "companion_species": [],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Mixed agroforestry systems"
+    ],
+    "wildlife_interactions": [
+      "Food resource"
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruit",
+      "Edible pulp",
+      "Fresh consumption",
+      "Juices",
+      "Desserts",
+      "Processed pulp",
+      "Processed fruit products",
+      "Seeds"
+    ],
+    "medicine": [
+      "Potential mineral-rich nutritional source"
+    ],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Agroforestry",
+      "Forest restoration",
+      "Native fruit domestication",
+      "Genetic conservation"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Chrysomelidae",
+        "Tortricidae",
+        "Stenomatidae",
+        "Gracillariidae",
+        "Acrididae",
+        "Leaf herbivory",
+        "Fruit-boring insects"
+      ],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": [
+      "Deforestation",
+      "Habitat fragmentation",
+      "Agricultural expansion",
+      "Loss of native Amazon forests",
+      "Limited domestication",
+      "Limited commercial cultivation"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 25,
+      "typical_height_m": "10–25",
+      "dbh_cm": "15–35",
+      "growth_rate": "Moderate"
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seeds_per_fruit": "1–4",
+      "germination_start_days": "39–62",
+      "germination_completion_days": "67–142",
+      "average_germination_percent": 87.25
+    },
+    "fruit_data": {
+      "fruit_length_cm": "4–9",
+      "fruit_diameter_cm": "4–6"
+    },
+    "productivity": {},
+    "additional_measurements": {
+      "provenances_evaluated": 12,
+      "herbarium_specimens": 72,
+      "germplasm_accessions": 12,
+      "leaf_length_cm": "15–40",
+      "leaf_width_cm": "5–13",
+      "seed_length_cm": 3.5,
+      "seed_diameter_cm": 1.7,
+      "nursery_monitoring_months": 13,
+      "initial_seedling_height_cm": 20.9,
+      "final_seedling_height_cm": 61.0,
+      "initial_stem_diameter_cm": 0.46,
+      "final_stem_diameter_cm": 1.3,
+      "main_fruiting_period": "August–November"
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": null,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Amazon agroforestry",
+      "Forest enrichment",
+      "Native fruit restoration",
+      "Community forestry",
+      "Riparian restoration",
+      "Biodiversity restoration"
+    ],
+    "recommended_restoration_goals": [
+      "Forest restoration",
+      "Biodiversity conservation",
+      "Income generation"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "Prioritize as a flagship native Amazon fruit tree for restoration, biodiversity conservation and sustainable livelihoods."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Seed dispersal ecology.",
+      "Population genetics.",
+      "Climate resilience.",
+      "Carbon sequestration.",
+      "Forest restoration performance.",
+      "Postharvest physiology.",
+      "Industrial processing.",
+      "Seed utilization.",
+      "Integrated pest management."
+    ],
+    "scientific_uncertainties": [
+      "Pollination biology.",
+      "Seed dispersal.",
+      "Population dynamics.",
+      "Climate resilience.",
+      "Carbon sequestration.",
+      "Commercial orchard management.",
+      "Postharvest physiology.",
+      "Industrial utilization."
+    ],
+    "potential_contradictions": [
+      "Historical use of Guttiferae versus Clusiaceae reflects taxonomic revision rather than conflicting evidence.",
+      "Broad natural distribution contrasts with very limited commercial cultivation.",
+      "High nutritional value of seeds contrasts with their minimal utilization.",
+      "Excellent germination percentage contrasts with prolonged germination time.",
+      "Strong restoration potential has not yet been validated through long-term restoration trials."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_monograph",
+      "title": "Charichuelo (Garcinia macrophylla Mart.): Potencial frutícola de la Amazonía Peruana",
+      "institution": "IIAP & INIA",
+      "country": "Peru"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

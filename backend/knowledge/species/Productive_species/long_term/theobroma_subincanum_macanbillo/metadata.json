@@ -1,0 +1,476 @@
+{
+  "species_profile": {
+    "scientific_name": "Theobroma subincanum",
+    "authority": "Mart.",
+    "family": "Malvaceae",
+    "common_names": {
+      "english": [
+        "Wild cacao"
+      ],
+      "spanish": [
+        "Macambillo",
+        "Sacha cacao",
+        "Cacahuillo",
+        "Cacao de monte"
+      ],
+      "portuguese": [
+        "Cupuí",
+        "Cupurana"
+      ],
+      "local": [
+        "Macambillo",
+        "Cupuí"
+      ]
+    },
+    "life_form": "Medium-sized evergreen tree",
+    "life_cycle": "Perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Malvales",
+    "family": "Malvaceae",
+    "genus": "Theobroma",
+    "species": "Theobroma subincanum"
+  },
+  "distribution": {
+    "countries": [
+      "Peru",
+      "Brazil",
+      "Colombia",
+      "Venezuela",
+      "Bolivia"
+    ],
+    "ecoregions": [
+      "Amazonas",
+      "Junín",
+      "Loreto",
+      "Madre de Dios",
+      "Pasco",
+      "San Martín",
+      "Ucayali"
+    ],
+    "biomes": [
+      "Amazon Tropical Rainforest"
+    ],
+    "watersheds": [
+      "Amazon Basin",
+      "Orinoco Basin"
+    ],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native to the Amazon and Orinoco basins."
+  },
+  "source_information": {
+    "document_type": "technical_monograph",
+    "title": "Macambillo (Theobroma subincanum Mart.): Potencial frutícola de la Amazonía Peruana",
+    "authors": [],
+    "institution": "IIAP & INIA",
+    "year": null,
+    "language": "",
+    "geographic_scope": [
+      "Peru"
+    ],
+    "study_period": "",
+    "study_focus": [],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Partial shade",
+      "sun_requirement": "Full sun after establishment."
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained upland soils",
+        "Humid forest soils",
+        "Alluvial soils near streams"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low to Moderate",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late secondary to mature forest.",
+    "forest_layer": "Subcanopy",
+    "canopy_position": "",
+    "carbon_storage": "Carbon storage",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "",
+    "pollinator_support": "Likely supports small insect pollinators",
+    "wildlife_support": "Food source for wildlife"
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production"
+    ],
+    "regulating": [
+      "Carbon storage"
+    ],
+    "supporting": [
+      "Biodiversity conservation",
+      "Genetic conservation",
+      "Agroforestry diversification"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Amazon agroforestry",
+      "Native fruit restoration",
+      "Forest enrichment",
+      "Biodiversity restoration",
+      "Community forestry",
+      "Genetic conservation"
+    ],
+    "restoration_phase": [],
+    "recommended_land_types": [
+      "Terra firme forests",
+      "Primary forests",
+      "Secondary forests",
+      "Riparian forests"
+    ],
+    "degradation_types": [
+      "Deforestation",
+      "Habitat degradation",
+      "Forest conversion"
+    ],
+    "restoration_objectives": [
+      "Forest enrichment",
+      "Food security",
+      "Genetic conservation",
+      "Biodiversity restoration"
+    ],
+    "recommended_species_mixtures": [
+      "Theobroma cacao"
+    ],
+    "restoration_notes": "Excellent native fruit tree for diversified Amazonian agroforestry systems. Provides an important wild genetic resource closely related to cultivated cacao. Highly suitable for enrichment planting in terra firme forests. Combines biodiversity conservation with food security and income generation. Should be prioritized by FYNOS AI as a flagship native Amazon fruit species with high restoration and breeding value."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Amazon agroforestry",
+      "Home gardens",
+      "Forest enrichment systems"
+    ],
+    "compatible_crops": [
+      "Theobroma cacao"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Highly suitable for diversified agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Seeds",
+      "Stem cuttings (experimental)"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Maintain adequate soil moisture.",
+      "Protect young plants from defoliating insects.",
+      "Suitable for diversified agroforestry systems.",
+      "Monitor pest infestations during nursery establishment."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Fresh seeds germinate rapidly without dormancy.",
+      "germination_days": "10–57",
+      "germination_rate_percent": "27–99",
+      "storage": "Fresh seeds recommended."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "23.6 cm after seven months",
+      "special_care": [
+        "Germination begins after 10–14 days.",
+        "Germination finishes within 20–57 days.",
+        "Germination varies according to provenance.",
+        "Protect seedlings from insect damage."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Stem cuttings (experimental)"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Not specifically reported.",
+    "fruiting": "February–April (Nanay), February–May (Itaya), November–March (Iquitos–Nauta), January–March (Ucayali).",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits during the local fruiting season.",
+    "seed_dispersal": "Likely mammals and birds.",
+    "pollination": "Likely small insects typical of Theobroma."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Unknown (likely small insects typical of Theobroma)"
+    ],
+    "seed_dispersers": [
+      "Likely mammals",
+      "Likely birds"
+    ],
+    "companion_species": [
+      "Theobroma cacao"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Theobroma cacao"
+    ],
+    "wildlife_interactions": [
+      "Food source for wildlife"
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh consumption",
+      "Juices",
+      "Desserts",
+      "Processed pulp",
+      "Edible seeds"
+    ],
+    "medicine": [
+      "Potential antioxidant applications"
+    ],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Agroforestry",
+      "Genetic resource for cacao improvement",
+      "Forest restoration"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Membracidae",
+        "Acrididae",
+        "Chrysomelidae",
+        "Shoot borers",
+        "Saturniidae caterpillars"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Habitat degradation"
+    ],
+    "human": [
+      "Deforestation",
+      "Forest conversion",
+      "Agricultural expansion",
+      "Limited commercial development"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 20,
+      "typical_height_m": "6–12",
+      "diameter_cm": "15–30",
+      "initial_seedling_height_cm": 14.9,
+      "final_seedling_height_cm": 23.6,
+      "initial_basal_diameter_cm": 0.48,
+      "final_basal_diameter_cm": 0.66
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germination_start_days": "10–14",
+      "germination_completion_days": "20–57",
+      "germination_percent": "27–99",
+      "average_seeds_per_fruit": 19
+    },
+    "fruit_data": {
+      "fruit_weight_g": "134–336",
+      "average_fruit_weight_g": 246.03,
+      "fruit_length_cm": "8.8–12.0",
+      "fruit_diameter_cm": "5.9–7.7",
+      "average_pulp_weight_g": 65.52,
+      "average_peel_weight_g": 138.14,
+      "average_seed_weight_g": 42.37,
+      "edible_fraction_percent": "40–50",
+      "soluble_solids_brix": 15.5
+    },
+    "productivity": {},
+    "additional_measurements": {
+      "provenances_evaluated": 12,
+      "herbarium_specimens": 72,
+      "germplasm_accessions": 12,
+      "pulp_moisture_percent": "80.42–85.43",
+      "pulp_protein_g_per_100g": "2.41–4.48",
+      "seed_protein_g_per_100g": "9.08–12.47",
+      "seed_lipids_g_per_100g": "8.38–16.72",
+      "maximum_potassium_pulp_mg_per_100g": 175.32,
+      "maximum_potassium_seed_mg_per_100g": 1074,
+      "callus_formation_days": 45
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Terra firme forests",
+      "Primary forests",
+      "Secondary forests",
+      "Amazon agroforestry systems"
+    ],
+    "recommended_restoration_goals": [
+      "Forest enrichment",
+      "Food security",
+      "Genetic conservation",
+      "Biodiversity restoration"
+    ],
+    "ideal_companion_species": [
+      "Theobroma cacao"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Flagship Amazon native fruit species and valuable wild relative of cacao, combining restoration potential with long-term genetic importance for cacao breeding."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Seed dispersal ecology.",
+      "Molecular genetics.",
+      "Climate resilience.",
+      "Carbon sequestration potential.",
+      "Large-scale restoration performance.",
+      "Commercial orchard management.",
+      "Rooting protocols for clonal propagation."
+    ],
+    "scientific_uncertainties": [
+      "Conservation status.",
+      "Population dynamics.",
+      "Pollination ecology.",
+      "Seed dispersal.",
+      "Molecular genetics.",
+      "Climate adaptation.",
+      "Carbon sequestration.",
+      "Commercial cultivation protocols."
+    ],
+    "potential_contradictions": [
+      "Historical placement in Sterculiaceae versus modern placement in Malvaceae reflects taxonomic revision rather than conflicting evidence.",
+      "High biological and commercial potential contrasts with limited domestication.",
+      "Excellent seed germination contrasts with unsuccessful clonal propagation.",
+      "Broad geographic distribution contrasts with low commercial cultivation."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_monograph",
+      "title": "Macambillo (Theobroma subincanum Mart.): Potencial frutícola de la Amazonía Peruana",
+      "institution": "IIAP & INIA",
+      "country": "Peru"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "species_profile": {
+    "scientific_name": "Quararibea cordata",
+    "authority": "(Bonpl.) Vischer",
+    "family": "Malvaceae",
+    "common_names": {
+      "english": [
+        "South American sapote",
+        "Chupa chupa"
+      ],
+      "spanish": [
+        "Zapote colombiano",
+        "Chupa chupa"
+      ],
+      "portuguese": [
+        "Chupa-chupa"
+      ],
+      "french": [],
+      "local": [
+        "Zapote colombiano"
+      ]
+    },
+    "life_form": "Large evergreen tree",
+    "life_cycle": "Long-lived",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Malvales",
+    "family": "Malvaceae",
+    "genus": "Quararibea",
+    "species": "Quararibea cordata"
+  },
+  "distribution": {
+    "countries": [
+      "Panama",
+      "Costa Rica"
+    ],
+    "ecoregions": [
+      "Western Amazon",
+      "Bocas del Toro",
+      "Talamanca"
+    ],
+    "biomes": [
+      "Humid tropical rainforest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Central America"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to the western Amazon Basin and cultivated in parts of Central America."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "14 Árboles Frutales para Nuestras Fincas",
+    "authors": [
+      "Roberto Mack"
+    ],
+    "institution": "CATIE",
+    "year": 2005,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Central America"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Zapote Colombiano (Quararibea cordata)"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Low",
+      "sun_requirement": "Full sun."
+    },
+    "soil": {
+      "preferred_types": [
+        "Deep fertile soils",
+        "Organic-rich soils",
+        "Floodplain soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained to seasonally flooded",
+      "fertility": "High",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Moderate to High",
+      "waterlogging_tolerance": "Moderate",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late-successional canopy tree.",
+    "forest_layer": "Upper canopy",
+    "canopy_position": "Canopy",
+    "carbon_storage": "High potential due to large mature size.",
+    "soil_improvement": "",
+    "erosion_control": "Suitable for riparian stabilization.",
+    "water_regulation": "Suitable for seasonally flooded environments.",
+    "microclimate_regulation": "Provides dense shade for agroforestry systems.",
+    "pollinator_support": "",
+    "wildlife_support": "Provides fruits and canopy habitat."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Fruit production",
+      "Fuelwood"
+    ],
+    "regulating": [
+      "Carbon storage",
+      "Shade for cacao"
+    ],
+    "supporting": [
+      "Habitat creation",
+      "Forest restoration"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Amazon restoration",
+      "Productive restoration",
+      "Cacao agroforestry",
+      "Riparian restoration",
+      "Community forestry",
+      "Native fruit systems"
+    ],
+    "restoration_phase": [
+      "Late restoration",
+      "Canopy formation"
+    ],
+    "recommended_land_types": [
+      "Amazon rainforest",
+      "River floodplains",
+      "Cacao agroforestry",
+      "Home gardens"
+    ],
+    "degradation_types": [
+      "Floodplain degradation",
+      "Deforested Amazon landscapes",
+      "Riparian degradation"
+    ],
+    "restoration_objectives": [
+      "Canopy recovery",
+      "Food production",
+      "Carbon storage",
+      "Income generation"
+    ],
+    "recommended_species_mixtures": [
+      "Cacao"
+    ],
+    "restoration_notes": "Excellent native canopy fruit tree for long-term restoration. Provides valuable shade for cacao plantations. Suitable for seasonally flooded agroforestry landscapes. Produces large, transport-resistant fruits with commercial potential. Can function as both a productive fruit tree and a structural canopy species. Its tolerance to occasional flooding makes it particularly valuable for restoration in Amazon floodplain landscapes. Recommended by FYNOS AI as a flagship upper-canopy fruit species for diversified Amazon agroforestry systems."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Cacao agroforestry",
+      "Native fruit systems",
+      "Riparian agroforestry",
+      "Community forestry"
+    ],
+    "compatible_crops": [
+      "Cacao"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Excellent long-lived shade tree for cacao-based agroforestry."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "minimum": 4,
+      "maximum": 6
+    },
+    "spacing": [
+      "8 × 8 m"
+    ],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "Prune the main stem early to promote lateral branching and improve harvesting.",
+    "fertilization": "Prefers soils rich in organic matter.",
+    "maintenance": [
+      "Grow in full sun.",
+      "Plant in cacao systems or field borders.",
+      "Avoid damaging roots during transplanting."
+    ],
+    "management_notes": "Regular pruning is recommended to maintain harvestable tree architecture."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Sow fresh seeds approximately 3 cm deep under shade.",
+      "germination_days": "15–25",
+      "germination_rate_percent": null,
+      "storage": "Seeds should be planted immediately after extraction from ripe fruits."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "30 cm",
+      "special_care": [
+        "Protect roots carefully during transplant."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Not reported.",
+    "fruiting": "Begins between 4 and 6 years after planting.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Seeds should be planted immediately after extraction from ripe fruits.",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Cacao"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Cacao"
+    ],
+    "wildlife_interactions": [
+      "Birds consume fruits."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Timber"
+    ],
+    "food": [
+      "Fresh pulp",
+      "Natural juices",
+      "Wine",
+      "Chicha"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [
+      "Fuelwood"
+    ],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Shade tree",
+      "Agroforestry"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Birds"
+      ],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": [
+      "Habitat conversion",
+      "Deforestation",
+      "Habitat loss",
+      "Limited commercial cultivation"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 40,
+      "leaf_length_cm": {
+        "minimum": 20,
+        "maximum": 50
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seed_depth_cm": 3,
+      "germination_days": {
+        "minimum": 15,
+        "maximum": 25
+      }
+    },
+    "fruit_data": {
+      "fruit_production": {
+        "minimum": 200,
+        "unit": "fruits/tree/year"
+      }
+    },
+    "productivity": {
+      "productive_age_years": {
+        "minimum": 4,
+        "maximum": 6
+      }
+    },
+    "additional_measurements": {
+      "transplant_height_cm": 30,
+      "spacing_m": 8
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "High",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Amazon floodplains",
+      "Riparian forests",
+      "Cacao agroforestry",
+      "Native restoration landscapes"
+    ],
+    "recommended_restoration_goals": [
+      "Upper-canopy recovery",
+      "Food production",
+      "Carbon storage",
+      "Riparian restoration"
+    ],
+    "ideal_companion_species": [
+      "Cacao"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Flagship native upper-canopy Amazon fruit tree combining high ecological value with productive potential. Particularly suitable for cacao agroforestry and floodplain restoration due to its canopy structure and tolerance of seasonal flooding."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Seed dispersal ecology.",
+      "Carbon sequestration potential.",
+      "Climate resilience.",
+      "Genetic diversity.",
+      "Long-term restoration performance."
+    ],
+    "scientific_uncertainties": [
+      "Pollination ecology.",
+      "Natural seed dispersers.",
+      "Carbon storage capacity.",
+      "Climate adaptation.",
+      "Long-term agroforestry productivity."
+    ],
+    "potential_contradictions": [
+      "No direct scientific contradictions identified.",
+      "Naturally reaches 40 m, but orchard management recommends heavy pruning to maintain harvestable architecture."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "14 Árboles Frutales para Nuestras Fincas",
+      "institution": "CATIE",
+      "author": "Roberto Mack",
+      "year": 2005,
+      "species_chapter": "Zapote Colombiano (Quararibea cordata)"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

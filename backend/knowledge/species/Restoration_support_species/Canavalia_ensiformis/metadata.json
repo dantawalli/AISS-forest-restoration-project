@@ -1,0 +1,440 @@
+{
+  "species_profile": {
+    "scientific_name": "Canavalia ensiformis",
+    "authority": "(L.) DC.",
+    "family": "Fabaceae",
+    "common_names": {
+      "english": [
+        "Jack bean"
+      ],
+      "spanish": [
+        "Frijol de puerco",
+        "Canavalia"
+      ],
+      "portuguese": [
+        "Feijão-de-porco"
+      ],
+      "french": [],
+      "local": [
+        "Feijão-de-porco"
+      ]
+    },
+    "life_form": "Annual herbaceous nitrogen-fixing legume",
+    "life_cycle": "Annual",
+    "growth_form": "Fast-growing climbing legume",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Canavalia",
+    "species": "Canavalia ensiformis"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Tropical America"
+    ],
+    "ecoregions": [
+      "Humid tropical agricultural landscapes",
+      "Amazon lowlands"
+    ],
+    "biomes": [
+      "Tropical agroforestry systems",
+      "Coconut plantations",
+      "Smallholder farming systems",
+      "Degraded agricultural lands",
+      "Low-fertility tropical soils"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Tropical Africa",
+      "Asia",
+      "Pacific Islands"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to Tropical America and widely cultivated throughout tropical regions as a cover crop, green manure and restoration legume."
+  },
+  "source_information": {
+    "document_type": "technical_communication",
+    "title": "A Importância do feijão de porco (Canavalia ensiformis DC.) como cultura intercalar em rotação com milho e feijão caupi em cultivo de coqueirais no Município de Ponta-de-Pedras/Marajó-PA",
+    "authors": [
+      "João Elias Lopes Fernandes Rodrigues",
+      "Raimundo Nonato Brabo Alves",
+      "Otávio Manoel Nunes Lopes",
+      "Raimundo Nonato Guimarães Teixeira",
+      "Elias Silva Rosa"
+    ],
+    "institution": "Embrapa Amazônia Oriental",
+    "year": 2004,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Marajó Island",
+      "Pará",
+      "Brazilian Amazon"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Green manure",
+      "Intercropping",
+      "Crop rotation",
+      "Coconut agroforestry",
+      "Soil fertility",
+      "Economic analysis",
+      "Nutrient cycling"
+    ],
+    "evidence_level": "Applied field research"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "High",
+    "food_security_value": "Medium",
+    "income_generation_value": "High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": true,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Moderate",
+      "sun_requirement": "Full sun"
+    },
+    "soil": {
+      "preferred_types": [
+        "Low fertility tropical soils",
+        "Acid soils",
+        "Agricultural soils"
+      ],
+      "texture": [],
+      "drainage": "",
+      "fertility": "Low fertility adapted",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": ""
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": "High"
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early successional",
+    "forest_layer": "Ground layer",
+    "canopy_position": "Ground cover",
+    "carbon_storage": "Rapid biomass production contributes to carbon accumulation.",
+    "soil_improvement": "Excellent nitrogen fixation, nutrient cycling and organic matter production.",
+    "erosion_control": "Dense ground cover protects soil against erosion.",
+    "water_regulation": "Improves water infiltration and moisture conservation.",
+    "microclimate_regulation": "Acts as living mulch reducing soil temperature.",
+    "pollinator_support": "Provides flowers for beneficial insects.",
+    "wildlife_support": "Supports soil biodiversity and beneficial organisms."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Green manure",
+      "Livestock forage"
+    ],
+    "regulating": [
+      "Nitrogen fixation",
+      "Carbon sequestration",
+      "Weed suppression",
+      "Erosion reduction"
+    ],
+    "supporting": [
+      "Organic matter accumulation",
+      "Nutrient cycling",
+      "Soil fertility improvement",
+      "Water infiltration"
+    ],
+    "cultural": [
+      "Sustainable agriculture"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Green manure",
+      "Cover crop",
+      "Soil restoration",
+      "Crop rotation",
+      "Living mulch",
+      "Pasture rehabilitation"
+    ],
+    "restoration_phase": [
+      "Early restoration"
+    ],
+    "recommended_land_types": [
+      "Degraded agricultural land",
+      "Coconut plantations",
+      "Smallholder farms",
+      "Low fertility soils"
+    ],
+    "degradation_types": [
+      "Low fertility",
+      "Soil degradation",
+      "Nutrient depletion"
+    ],
+    "restoration_objectives": [
+      "Nitrogen enrichment",
+      "Organic matter production",
+      "Soil protection",
+      "Improved fertility"
+    ],
+    "recommended_species_mixtures": [
+      "Cocos nucifera",
+      "Zea mays",
+      "Vigna unguiculata"
+    ],
+    "restoration_notes": "Highly valuable multifunctional cover crop that rapidly restores soil fertility while improving productivity of subsequent crops."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Coconut agroforestry",
+      "Intercropping",
+      "Crop rotation",
+      "Green manure systems"
+    ],
+    "compatible_crops": [
+      "Cocos nucifera",
+      "Zea mays",
+      "Vigna unguiculata"
+    ],
+    "livestock_compatible": true,
+    "shade_crop": false,
+    "silvopastoral": true,
+    "multistrata": false,
+    "agroforestry_notes": "Excellent companion species for tropical agroforestry because of rapid biomass production and soil fertility improvement."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Direct seeding"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [],
+    "management_notes": "Typically cultivated as an annual green manure and cover crop."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "",
+      "germination_days": {
+        "min": null,
+        "max": null
+      },
+      "germination_rate_percent": {},
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": []
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "",
+    "fruiting": "",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Cocos nucifera",
+      "Zea mays",
+      "Vigna unguiculata"
+    ],
+    "facilitates": [
+      "Nitrogen enrichment",
+      "Nutrient cycling",
+      "Weed suppression",
+      "Crop productivity"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Coconut plantations",
+      "Intercropping",
+      "Crop rotation"
+    ],
+    "wildlife_interactions": []
+  },
+  "products": {
+    "timber": [],
+    "food": [],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "Livestock forage"
+    ],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Green manure",
+      "Cover crop",
+      "Living mulch"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": null,
+      "maximum_dbh_cm": null,
+      "wood_density_g_cm3": null
+    },
+    "wood_properties": {},
+    "seed_data": {},
+    "fruit_data": {},
+    "productivity": {},
+    "additional_measurements": {}
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Dense ground cover",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Agroforestry systems",
+      "Coconut plantations",
+      "Degraded agricultural land",
+      "Low fertility tropical soils"
+    ],
+    "recommended_restoration_goals": [
+      "Nitrogen fixation",
+      "Organic matter production",
+      "Soil rehabilitation",
+      "Nutrient cycling",
+      "Weed suppression"
+    ],
+    "ideal_companion_species": [
+      "Cocos nucifera",
+      "Zea mays",
+      "Vigna unguiculata"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Canavalia ensiformis is one of the most effective tropical green manure legumes for restoring soil fertility, reducing fertilizer dependence and improving productivity in agroforestry and regenerative agricultural systems."
+  },
+  "research": {
+    "gaps": [
+      "Long-term carbon sequestration",
+      "Climate resilience",
+      "Landscape-scale restoration performance",
+      "Remote sensing monitoring",
+      "Pollinator interactions",
+      "Microbial symbiosis",
+      "Biodiversity impacts",
+      "AI-assisted management optimization"
+    ],
+    "scientific_uncertainties": [],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_communication",
+      "title": "A Importância do feijão de porco (Canavalia ensiformis DC.) como cultura intercalar em rotação com milho e feijão caupi em cultivo de coqueirais no Município de Ponta-de-Pedras/Marajó-PA",
+      "institution": "Embrapa Amazônia Oriental",
+      "authors": [
+        "João Elias Lopes Fernandes Rodrigues",
+        "Raimundo Nonato Brabo Alves",
+        "Otávio Manoel Nunes Lopes",
+        "Raimundo Nonato Guimarães Teixeira",
+        "Elias Silva Rosa"
+      ],
+      "year": 2004,
+      "pages": ""
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

@@ -40,8 +40,11 @@ class RecommendationEngine:
         }
 
         project["recommended_species"] = []
+        project["productive_species"] = []
+        project["restoration_species"] = []
 
-        for item in ranked_species[:5]:
+        for item in ranked_species:
+
             species = item["species"]
 
             species_output = species.copy()
@@ -50,6 +53,14 @@ class RecommendationEngine:
             species_output["score"] = item["score"]
 
             project["recommended_species"].append(species_output)
+
+            roles = species.get("roles", [])
+
+            if "productive" in roles:
+                project["productive_species"].append(species_output)
+
+            if "restoration" in roles:
+                project["restoration_species"].append(species_output)
 
         project["implementation"] = {
             "summary": (

@@ -1,0 +1,485 @@
+{
+  "species_profile": {
+    "scientific_name": "Copaifera reticulata",
+    "authority": "Ducke",
+    "family": "Fabaceae",
+    "common_names": {
+      "english": [
+        "Copaiba"
+      ],
+      "spanish": [
+        "Copaiba"
+      ],
+      "portuguese": [
+        "Copaíba",
+        "Bálsamo-de-copaíba",
+        "Copaíba-angelim",
+        "Copaíba-branca",
+        "Copaíba-do-iguapó",
+        "Copaíba-jacaré",
+        "Copaíba-jutaí",
+        "Copaíba-rosa",
+        "Copaíba-verdadeira",
+        "Capaibarana",
+        "Copaúba",
+        "Mari-mari",
+        "Óleo-vermelho",
+        "Pau-de-óleo"
+      ],
+      "french": [],
+      "local": []
+    },
+    "life_form": "Large emergent hardwood tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Copaifera",
+    "species": "Copaifera reticulata"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil"
+    ],
+    "ecoregions": [
+      "Amazon Rainforest"
+    ],
+    "biomes": [
+      "Terra firme rainforest",
+      "Dense ombrophilous forest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": true,
+    "global_distribution_notes": "Amazonian endemic tree naturally occurring in terra firme forests of Brazil."
+  },
+  "source_information": {
+    "document_type": "book_chapter",
+    "title": "Plantas para o Futuro – Região Norte",
+    "authors": [
+      "Osmar Alves Lameira",
+      "Elaine Cristina Pacheco de Oliveira",
+      "Márlia Coelho Ferreira",
+      "Iracema Maria Castro Coimbra Cordeiro"
+    ],
+    "institution": "Embrapa",
+    "year": 2018,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazilian Amazon"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Oleoresin production",
+      "Medicinal properties",
+      "Forest management",
+      "Restoration"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "High",
+    "food_security_value": "Low",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Young plants establish better under open conditions.",
+      "sun_requirement": "Full sun after establishment."
+    },
+    "soil": {
+      "preferred_types": [
+        "Terra firme soils",
+        "Sandy-clay soils"
+      ],
+      "texture": [
+        "Sandy clay"
+      ],
+      "drainage": "",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Not reported.",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": ""
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "",
+    "forest_layer": "Upper canopy",
+    "canopy_position": "Emergent canopy tree",
+    "carbon_storage": "Large long-lived hardwood with high biomass accumulation.",
+    "soil_improvement": "Native structural component of terra firme forests.",
+    "erosion_control": "Large root system contributes to long-term soil stabilization.",
+    "water_regulation": "",
+    "microclimate_regulation": "Provides mature forest canopy cover.",
+    "pollinator_support": "",
+    "wildlife_support": "Fruits are consumed and dispersed by wildlife."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Timber",
+      "Medicinal oleoresin",
+      "Industrial oleoresin",
+      "Fuelwood",
+      "Charcoal"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Forest maintenance"
+    ],
+    "supporting": [
+      "Wildlife food",
+      "Forest regeneration"
+    ],
+    "cultural": [
+      "Traditional Amazonian medicine"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Forest restoration",
+      "Agroforestry",
+      "Non-timber forest products",
+      "Native timber production"
+    ],
+    "restoration_phase": [
+      "Late restoration"
+    ],
+    "recommended_land_types": [
+      "Terra firme forests",
+      "Restoration plantations",
+      "Community forests"
+    ],
+    "degradation_types": [
+      "Deforested forests",
+      "Logged forests"
+    ],
+    "restoration_objectives": [
+      "Carbon sequestration",
+      "Forest enrichment",
+      "Sustainable oleoresin production",
+      "Native timber production"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Excellent flagship species for restoration projects integrating timber and non-timber forest products."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Agroforestry",
+      "Community forestry",
+      "Natural forest management"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": false,
+    "shade_crop": true,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Highly suitable as a high-value upper-canopy species producing medicinal oleoresin."
+  },
+  "silviculture": {
+    "growth_rate": "",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Seed propagation"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Harvest oleoresin through drilled trunks.",
+      "Use PVC extraction systems.",
+      "Prefer dry-season harvesting.",
+      "Repeat extraction after approximately 12-month intervals."
+    ],
+    "management_notes": "Proper tapping techniques allow repeated oleoresin harvesting without felling trees."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Remove aril before sowing.",
+      "germination_days": null,
+      "germination_rate_percent": null,
+      "storage": "No evidence of persistent seed bank."
+    },
+    "nursery": {
+      "transplant_age": "7–9 months",
+      "transplant_height": "",
+      "special_care": [
+        "Repicate seedlings 2–4 weeks after germination.",
+        "Maintain approximately 50% shade.",
+        "Use commercial substrate or mixtures containing soil, vermiculite or carbonized rice husk with organic compost."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "January–March.",
+    "fruiting": "March–August.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect fruits when capsules begin opening naturally.",
+    "seed_dispersal": "Zoochory.",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Wild animals"
+    ],
+    "companion_species": [],
+    "facilitates": [
+      "Forest regeneration"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": [
+      "Fruits are consumed and dispersed by wild animals."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Furniture",
+      "Plywood",
+      "Civil construction",
+      "Naval construction"
+    ],
+    "food": [],
+    "medicine": [
+      "Anti-inflammatory",
+      "Antibacterial",
+      "Antiseptic",
+      "Healing agent",
+      "Larvicidal",
+      "Antiprotozoal",
+      "Analgesic",
+      "Anxiolytic",
+      "Neuroprotective"
+    ],
+    "fiber": [],
+    "oil": [
+      "Medicinal oleoresin",
+      "Cosmetics",
+      "Perfumery",
+      "Industrial varnishes",
+      "Photography industry",
+      "Lighting fuel"
+    ],
+    "resin": [
+      "Oleoresin"
+    ],
+    "latex": [],
+    "fodder": [],
+    "fuel": [
+      "Fuelwood",
+      "Charcoal"
+    ],
+    "ornamental": [
+      "Ornamental tree"
+    ],
+    "industrial": [
+      "Industrial varnishes",
+      "Photography industry"
+    ],
+    "other": []
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [
+      "Habitat destruction",
+      "Genetic erosion"
+    ],
+    "human": [
+      "Lack of commercial cultivation",
+      "Habitat loss"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 40,
+      "maximum_dbh_cm": null
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seeds_per_kg": null
+    },
+    "fruit_data": {},
+    "productivity": {},
+    "additional_measurements": {
+      "leaflet_pairs": {
+        "minimum": 4,
+        "maximum": 6
+      },
+      "inflorescence_length_cm": {
+        "minimum": 6,
+        "maximum": 15
+      },
+      "style_length_mm": {
+        "minimum": 2,
+        "maximum": 3.3
+      },
+      "flowering_period": "January–March",
+      "fruiting_period": "March–August",
+      "population_density_trees_per_ha": {
+        "minimum": 0.07,
+        "maximum": 2
+      },
+      "nursery_shade_percent": 50,
+      "nursery_period_months": {
+        "minimum": 7,
+        "maximum": 9
+      },
+      "harvest_interval_months": 12,
+      "beta_caryophyllene_percent": 41.7,
+      "beta_bisabolene_percent": 18.6,
+      "experimental_dose_mg_per_kg_day": {
+        "minimum": 100,
+        "maximum": 200
+      },
+      "toxicology_dose_mg_per_kg": {
+        "minimum": 300,
+        "maximum": 2000
+      }
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "High",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Amazon terra firme forests",
+      "Community forest management",
+      "Restoration forests",
+      "Agroforestry systems"
+    ],
+    "recommended_restoration_goals": [
+      "Carbon sequestration",
+      "Forest restoration",
+      "Medicinal product production",
+      "Sustainable livelihoods",
+      "Native timber production"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "Copaifera reticulata is one of the Amazon's flagship non-timber forest product species. Its valuable medicinal oleoresin, high-quality timber and long lifespan make it an outstanding species for productive ecological restoration and sustainable community forestry."
+  },
+  "research": {
+    "gaps": [
+      "Long-term therapeutic safety.",
+      "Standardized quality control of oleoresin.",
+      "Management protocols for chemical consistency.",
+      "Optimization of cultivation systems."
+    ],
+    "scientific_uncertainties": [
+      "Therapeutic safety after repeated exposure remains uncertain.",
+      "Threat status has not been formally assessed.",
+      "Oleoresin chemistry varies considerably among individuals."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "book_chapter",
+      "title": "Plantas para o Futuro – Região Norte",
+      "institution": "Embrapa",
+      "authors": [
+        "Osmar Alves Lameira",
+        "Elaine Cristina Pacheco de Oliveira",
+        "Márlia Coelho Ferreira",
+        "Iracema Maria Castro Coimbra Cordeiro"
+      ],
+      "year": 2018,
+      "pages": "1028–1038"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "Medium",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

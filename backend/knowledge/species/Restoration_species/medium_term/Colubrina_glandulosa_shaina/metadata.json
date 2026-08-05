@@ -1,0 +1,560 @@
+{
+  "species_profile": {
+    "scientific_name": "Colubrina glandulosa var. reitzii",
+    "authority": "(M.C. Johnston) M.C. Johnston",
+    "family": "Rhamnaceae",
+    "common_names": {
+      "english": [
+        "Sobrasil"
+      ],
+      "spanish": [],
+      "portuguese": [
+        "Sobrasil",
+        "Sobrasil-amarelo",
+        "Sobrasil-vermelho",
+        "Brasilite",
+        "Caçoca",
+        "Falso-pau-brasil",
+        "Foguetião",
+        "Guaxumbo",
+        "Jucuruju",
+        "Jucuruxuva",
+        "Pau-brasil",
+        "Saguaraji",
+        "Saguaraji-amarelo",
+        "Saguaraji-vermelho",
+        "Saguraji",
+        "Saraguají",
+        "Sobraji",
+        "Sucurujava",
+        "Sucurujuba",
+        "Sucurujuva"
+      ],
+      "french": [],
+      "local": []
+    },
+    "life_form": "Medium-sized hardwood tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rhamnaceae",
+    "genus": "Colubrina",
+    "species": "Colubrina glandulosa var. reitzii"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Bolivia",
+      "Paraguay"
+    ],
+    "ecoregions": [
+      "Atlantic Forest",
+      "Seasonal Semideciduous Forest",
+      "Cerradão",
+      "Restinga",
+      "Northeastern Forest Enclaves"
+    ],
+    "biomes": [
+      "Atlantic Rainforest",
+      "Seasonal Semideciduous Forest",
+      "Secondary Forest",
+      "Forest Regrowth (Capoeira)",
+      "Cerradão",
+      "Restinga"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native tree distributed mainly in eastern and central South America, occurring across several Brazilian forest formations and seasonal ecosystems."
+  },
+  "source_information": {
+    "document_type": "book_chapter",
+    "title": "Espécies Arbóreas Brasileiras - Volume 1",
+    "authors": [
+      "Paulo Ernani Ramalho Carvalho"
+    ],
+    "institution": "Embrapa Florestas",
+    "year": 2003,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Silviculture",
+      "Restoration",
+      "Seed biology",
+      "Wood properties"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "High",
+    "carbon_value": "High",
+    "biodiversity_value": "High",
+    "food_security_value": "Low",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 18.9,
+        "max": 26.1
+      },
+      "absolute_minimum_c": -3.5,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 1100,
+        "max": 2500
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 0,
+        "max": 1100
+      }
+    },
+    "light": {
+      "shade_tolerance": "Shade tolerant during juvenile stage.",
+      "sun_requirement": "Full sun after establishment."
+    },
+    "soil": {
+      "preferred_types": [
+        "Fertile sandstone soils",
+        "Clay soils",
+        "Clay loam soils",
+        "Acid soils",
+        "Rocky soils",
+        "Well-drained soils"
+      ],
+      "texture": [
+        "Clay loam",
+        "Clay"
+      ],
+      "drainage": "Well-drained.",
+      "fertility": "Medium to high fertility.",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Not documented.",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Moderate."
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid subtropical",
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "Suitable as windbreak.",
+      "cold": "Sensitive to severe frost; establishment limited below -1°C.",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early secondary",
+    "forest_layer": "Canopy",
+    "canopy_position": "Canopy tree",
+    "carbon_storage": "Dense hardwood contributing to long-term carbon storage.",
+    "soil_improvement": "Useful for degraded land restoration and heterogeneous forest recovery.",
+    "erosion_control": "Contributes to stabilization of restored forest soils.",
+    "water_regulation": "Performs across a wide range of tropical environments.",
+    "microclimate_regulation": "Provides canopy cover during forest recovery.",
+    "pollinator_support": "Flowers provide pollen for bees and small insects.",
+    "wildlife_support": "Supports pollinators and provides food for brown howler monkeys."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Construction timber",
+      "Firewood",
+      "Utility poles"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Forest recovery",
+      "Wind protection"
+    ],
+    "supporting": [
+      "Pollinator support",
+      "Forest succession",
+      "Wildlife habitat"
+    ],
+    "cultural": [
+      "Urban landscaping"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Forest restoration",
+      "Degraded land recovery",
+      "Agroforestry",
+      "Windbreaks",
+      "Mixed native plantations",
+      "Permanent Preservation Areas"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Intermediate restoration"
+    ],
+    "recommended_land_types": [
+      "Secondary forests",
+      "Degraded agricultural land",
+      "Permanent Preservation Areas",
+      "Mixed restoration projects"
+    ],
+    "degradation_types": [
+      "Deforested land",
+      "Secondary forests",
+      "Agricultural degradation"
+    ],
+    "restoration_objectives": [
+      "Rapid canopy establishment",
+      "Timber production",
+      "Carbon storage",
+      "Landscape recovery"
+    ],
+    "recommended_species_mixtures": [
+      "Miconia cinnamomifolia",
+      "Hyeronima alchorneoides"
+    ],
+    "restoration_notes": "Excellent early-secondary hardwood suitable for mixed restoration plantings and degraded land recovery."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Mixed native agroforestry",
+      "Windbreak systems",
+      "Perennial crop systems"
+    ],
+    "compatible_crops": [
+      "Perennial crops"
+    ],
+    "livestock_compatible": true,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Suitable as a structural canopy tree and windbreak component in diversified agroforestry."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": {
+      "minimum": 35,
+      "maximum": 40
+    },
+    "harvest_age_years": {
+      "minimum": 35,
+      "maximum": 40
+    },
+    "spacing": [
+      "2 × 2 m",
+      "3 × 2 m",
+      "3 × 3 m",
+      "4 × 3 m",
+      "4 × 4 m"
+    ],
+    "planting_methods": [
+      "Pure plantation",
+      "Mixed plantation",
+      "Enrichment planting"
+    ],
+    "pruning": "Green pruning recommended.",
+    "fertilization": "Benefits from fertile substrates.",
+    "maintenance": [
+      "Scarify seeds before sowing.",
+      "Maintain partial shade during nursery stage.",
+      "Protect from severe frost.",
+      "Suitable for coppice management."
+    ],
+    "management_notes": "Produces quality timber under both mixed and pure plantation systems."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Sulfuric acid scarification (25 minutes to 2 hours). Hot water treatment is ineffective.",
+      "germination_days": {
+        "minimum": 12,
+        "maximum": 42
+      },
+      "germination_rate_percent": {
+        "treated": 90,
+        "untreated": 10
+      },
+      "storage": "Orthodox seeds suitable for long-term storage."
+    },
+    "nursery": {
+      "transplant_age": "Approximately 6 months",
+      "transplant_height": "",
+      "special_care": [
+        "30% nursery shade",
+        "Use fertile substrate",
+        "Avoid aluminum-rich substrates",
+        "Repicate seedlings 2–4 weeks after germination"
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Coppicing",
+        "Basal sprouting"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Generally November–May depending on region.",
+    "fruiting": "Generally April–October depending on region.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect fruits when capsules turn from green to dark brown.",
+    "seed_dispersal": "Autochory (explosive dehiscence) and barochory.",
+    "pollination": "Mainly by small insects."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Small insects",
+      "Bees"
+    ],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Miconia cinnamomifolia",
+      "Hyeronima alchorneoides"
+    ],
+    "facilitates": [
+      "Bee populations",
+      "Forest recovery"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Perennial crops",
+      "Windbreak systems"
+    ],
+    "wildlife_interactions": [
+      "Flowers provide pollen for bees.",
+      "Leaves, shoots, flowers and fruits are consumed by Alouatta fusca."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Construction timber",
+      "Bridges",
+      "Hydraulic works",
+      "Railway sleepers",
+      "Utility poles",
+      "Fence posts",
+      "Naval construction",
+      "Tool handles"
+    ],
+    "food": [],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [
+      "Firewood"
+    ],
+    "ornamental": [
+      "Urban landscaping"
+    ],
+    "industrial": [],
+    "other": [
+      "Environmental restoration",
+      "Windbreaks",
+      "Bee forage"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [
+      "Severe frost"
+    ],
+    "human": []
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 25,
+      "maximum_dbh_cm": 80,
+      "wood_density_g_cm3": {
+        "minimum": 0.8,
+        "maximum": 1.0
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seeds_per_kg": {
+        "minimum": 42000,
+        "maximum": 47600
+      },
+      "germination_days": {
+        "minimum": 12,
+        "maximum": 42
+      },
+      "germination_percent": {
+        "treated": 90,
+        "untreated": 10
+      }
+    },
+    "fruit_data": {
+      "fruit_length_mm": {
+        "minimum": 8,
+        "maximum": 12
+      },
+      "seeds_per_fruit": 3
+    },
+    "productivity": {
+      "annual_increment_m3_ha_year": {
+        "maximum": 12.9
+      },
+      "fruiting_age_years": 3,
+      "rotation_years": {
+        "minimum": 35,
+        "maximum": 40
+      }
+    },
+    "additional_measurements": {
+      "typical_height_m": {
+        "minimum": 5,
+        "maximum": 20
+      },
+      "typical_dbh_cm": {
+        "minimum": 30,
+        "maximum": 50
+      },
+      "bole_height_m": 15,
+      "leaf_length_cm": {
+        "minimum": 6,
+        "maximum": 16
+      },
+      "leaf_width_cm": {
+        "minimum": 2,
+        "maximum": 8.5
+      },
+      "flowers_per_inflorescence": 25,
+      "seed_length_mm": {
+        "minimum": 4,
+        "maximum": 5
+      },
+      "seed_width_mm": {
+        "minimum": 3,
+        "maximum": 4
+      },
+      "annual_rainfall_mm": {
+        "minimum": 1100,
+        "maximum": 2500
+      },
+      "annual_temperature_c": {
+        "minimum": 18.9,
+        "maximum": 26.1
+      },
+      "absolute_minimum_temperature_c": -3.5,
+      "establishment_temperature_limit_c": -1,
+      "recommended_nursery_shade_percent": 30,
+      "nursery_period_months": 6,
+      "seed_storage_germination_after_5_years_percent": 30.5,
+      "seed_storage_germination_after_20_years_percent": 0.5,
+      "dormant_buds_longevity_years": 20
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Moderate to high",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Atlantic Forest restoration",
+      "Mixed native plantations",
+      "Agroforestry systems",
+      "Secondary forest recovery"
+    ],
+    "recommended_restoration_goals": [
+      "Rapid canopy formation",
+      "Carbon sequestration",
+      "Timber production",
+      "Landscape restoration"
+    ],
+    "ideal_companion_species": [
+      "Miconia cinnamomifolia",
+      "Hyeronima alchorneoides"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Colubrina glandulosa var. reitzii is an excellent early-secondary restoration tree combining rapid establishment, dense hardwood production, strong coppicing ability and adaptability to diverse tropical landscapes."
+  },
+  "research": {
+    "gaps": [
+      "Optimization of dormancy-breaking methods.",
+      "Improved nursery substrate formulations.",
+      "Long-term silvicultural performance across Brazilian biomes."
+    ],
+    "scientific_uncertainties": [
+      "Several seed scarification protocols exist with no universally accepted method.",
+      "Taxonomic relationship with Colubrina glandulosa var. glandulosa and Colubrina cordifolia remains debated."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "book_chapter",
+      "title": "Espécies Arbóreas Brasileiras - Volume 1",
+      "institution": "Embrapa Florestas",
+      "authors": [
+        "Paulo Ernani Ramalho Carvalho"
+      ],
+      "year": 2003,
+      "pages": "835–842"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "species_profile": {
+    "scientific_name": "Carapa guianensis",
+    "authority": "Aubl.",
+    "family": "Meliaceae",
+    "common_names": {
+      "english": [
+        "Andiroba",
+        "Crabwood",
+        "Crabwood Mahogany"
+      ],
+      "spanish": [
+        "Andiroba",
+        "Cedro Bateo"
+      ],
+      "portuguese": [
+        "Andiroba",
+        "Andiroba-branca",
+        "Andiroba-de-igapó",
+        "Andiroba-lisa",
+        "Andiroba-vermelha",
+        "Carapá",
+        "Andirobeira",
+        "Andirova"
+      ],
+      "french": [],
+      "local": [
+        "Karapa",
+        "Krappa",
+        "Carape-blanc",
+        "Carape-rouge"
+      ]
+    },
+    "life_form": "Large emergent hardwood tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Meliaceae",
+    "genus": "Carapa",
+    "species": "Carapa guianensis"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Peru",
+      "Colombia",
+      "Venezuela",
+      "Suriname",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Panama",
+      "Caribbean countries"
+    ],
+    "ecoregions": [
+      "Amazon Rainforest"
+    ],
+    "biomes": [
+      "Terra firme forest",
+      "Várzea forest",
+      "Igapó forest",
+      "Flooded forest",
+      "Riparian forest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "A widespread Amazonian timber tree naturally occurring in both terra firme and seasonally flooded forests throughout northern South America."
+  },
+  "source_information": {
+    "document_type": "book_chapter",
+    "title": "Plantas para o Futuro – Região Norte",
+    "authors": [
+      "Osmar Alves Lameira",
+      "Ana Paula Ribeiro Medeiros",
+      "Márlia Coelho Ferreira",
+      "Maria Aparecida Corrêa dos Santos"
+    ],
+    "institution": "Embrapa Amazônia Oriental",
+    "year": 2018,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Amazon Basin"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Silviculture",
+      "Agroforestry",
+      "Medicinal oil",
+      "Restoration"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "Low",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Prefers partial shade during early development.",
+      "sun_requirement": "Full sun after establishment."
+    },
+    "soil": {
+      "preferred_types": [
+        "Floodplain soils",
+        "Terra firme soils",
+        "Well-drained tropical soils",
+        "Seasonally flooded soils"
+      ],
+      "texture": [
+        "Clay",
+        "Loam"
+      ],
+      "drainage": "Adapted to both well-drained and seasonally flooded environments.",
+      "fertility": "Moderate.",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "High",
+      "waterlogging_tolerance": "High",
+      "drought_tolerance": "Young plants tolerate drought for approximately 21 days before recovering after rehydration."
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Climax",
+    "forest_layer": "Upper canopy",
+    "canopy_position": "Emergent canopy tree",
+    "carbon_storage": "Large, long-lived hardwood with high biomass accumulation and carbon storage.",
+    "soil_improvement": "Suitable for enrichment planting and restoration of degraded forests.",
+    "erosion_control": "Large root system stabilizes riparian and floodplain soils.",
+    "water_regulation": "Adapted to seasonal flooding and contributes to floodplain ecosystem dynamics.",
+    "microclimate_regulation": "Provides mature canopy cover.",
+    "pollinator_support": "Supports native stingless bees and microlepidopterans.",
+    "wildlife_support": "Produces seeds and habitat for Amazonian wildlife."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Timber",
+      "Medicinal oil",
+      "Natural insecticide",
+      "Natural acaricide",
+      "Cosmetics"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Floodplain stabilization",
+      "Forest restoration"
+    ],
+    "supporting": [
+      "Wildlife habitat",
+      "Pollinator support",
+      "Forest succession"
+    ],
+    "cultural": [
+      "Traditional Amazonian medicine"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Forest restoration",
+      "Secondary forest enrichment",
+      "Agroforestry",
+      "Legal Reserve restoration",
+      "Permanent Preservation Area restoration"
+    ],
+    "restoration_phase": [
+      "Late restoration"
+    ],
+    "recommended_land_types": [
+      "Flooded forests",
+      "Riparian forests",
+      "Degraded forests",
+      "Legal Reserves",
+      "Permanent Preservation Areas"
+    ],
+    "degradation_types": [
+      "Deforested forests",
+      "Floodplain degradation"
+    ],
+    "restoration_objectives": [
+      "Carbon sequestration",
+      "Forest enrichment",
+      "Sustainable forest production",
+      "Biodiversity restoration"
+    ],
+    "recommended_species_mixtures": [
+      "Hevea brasiliensis",
+      "Virola spp.",
+      "Pentaclethra macroloba"
+    ],
+    "restoration_notes": "One of the flagship Amazonian restoration species due to its ecological resilience, medicinal value and sustainable seed-oil production."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Agroforestry systems",
+      "Community forestry",
+      "Forest enrichment"
+    ],
+    "compatible_crops": [
+      "Theobroma cacao"
+    ],
+    "livestock_compatible": false,
+    "shade_crop": true,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Excellent canopy tree for cacao-based agroforestry and diversified Amazonian production systems."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [
+      "4 × 4 m",
+      "5 × 5 m",
+      "10 × 10 m"
+    ],
+    "planting_methods": [
+      "Seedlings",
+      "Direct seeding"
+    ],
+    "pruning": "",
+    "fertilization": "Organic matter.",
+    "maintenance": [
+      "Collect seeds immediately after fruit fall.",
+      "Avoid prolonged seed storage.",
+      "Establish under partial shade.",
+      "Harvest seeds without felling trees."
+    ],
+    "management_notes": "Sustainable management should prioritize continuous seed harvest while maintaining mature seed trees."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Fresh seeds should be sown immediately after collection. Temporary storage in water or moist sand for up to 12 days.",
+      "germination_days": null,
+      "germination_rate_percent": null,
+      "storage": "Recalcitrant seeds with rapid loss of viability."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Partial shade",
+        "Immediate sowing",
+        "Organic fertilization",
+        "Natural regeneration seedlings may be transplanted"
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Cuttings (experimental)",
+        "Micropropagation (experimental)"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Highly variable by region; commonly August–October, December–March in Manaus, and may occur year-round.",
+    "fruiting": "Generally January–April; March–May in Manaus; may occur year-round depending on locality.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect freshly fallen fruits immediately after natural dispersal.",
+    "seed_dispersal": "Natural fruit fall (barochory).",
+    "pollination": "Primarily microlepidopterans and stingless bees (Meliponini)."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Microlepidopterans",
+      "Meliponini (stingless bees)"
+    ],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Hevea brasiliensis",
+      "Virola spp.",
+      "Pentaclethra macroloba",
+      "Jaboti"
+    ],
+    "facilitates": [
+      "Forest regeneration",
+      "Pollinator diversity"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Theobroma cacao"
+    ],
+    "wildlife_interactions": [
+      "Oil exhibits acaricidal activity against ticks.",
+      "Limonoids are active against Spodoptera frugiperda.",
+      "Limonoids control leaf-cutting ants.",
+      "Oil inhibits Musca domestica egg hatching."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Civil construction",
+      "Ship masts",
+      "Carpentry",
+      "Doors",
+      "Window frames",
+      "Furniture"
+    ],
+    "food": [],
+    "medicine": [
+      "Anti-inflammatory",
+      "Wound healing",
+      "Bruises",
+      "Rheumatism",
+      "Skin recovery",
+      "Throat infections",
+      "Fever",
+      "Diarrhea",
+      "Respiratory infections"
+    ],
+    "fiber": [],
+    "oil": [
+      "Medicinal oil",
+      "Cosmetics",
+      "Soap",
+      "Shampoo",
+      "Repellent candles",
+      "Mosquito repellent",
+      "Lamp fuel"
+    ],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Natural pesticide",
+      "Natural acaricide",
+      "Natural insecticide",
+      "Sunscreen formulations"
+    ],
+    "other": []
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [
+      "Deforestation",
+      "Habitat degradation"
+    ],
+    "human": [
+      "Timber extraction",
+      "Overharvesting for oil",
+      "Unsustainable extractivism"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 55,
+      "maximum_dbh_cm": 200
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "seed_storage_days": 12
+    },
+    "fruit_data": {
+      "fruit_diameter_cm": {
+        "minimum": 5,
+        "maximum": 11
+      },
+      "fruit_weight_g": {
+        "minimum": 90,
+        "maximum": 540
+      },
+      "seeds_per_fruit": {
+        "minimum": 1,
+        "maximum": 16
+      }
+    },
+    "productivity": {},
+    "additional_measurements": {
+      "common_height_m": {
+        "minimum": 25,
+        "maximum": 30
+      },
+      "anthers_per_flower": 8,
+      "locules_per_ovary": 4,
+      "ovules_per_locule": 6,
+      "oil_yield_pressed_l_per_40kg": {
+        "minimum": 10,
+        "maximum": 14
+      },
+      "oil_yield_traditional_l_per_40kg": "<6",
+      "historical_brazil_market_l_year": 30000,
+      "current_exports_l_year": 450000,
+      "producer_price_brl_l": {
+        "minimum": 20,
+        "maximum": 25
+      },
+      "retail_price_brl_l": 45,
+      "repellent_candle_duration_hours": 48,
+      "repellent_area_m2": 10,
+      "seed_cooking_hours": 1,
+      "seed_rest_period_days": 30,
+      "drought_tolerance_days": 21
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "High",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Amazonian forests",
+      "Floodplains",
+      "Riparian forests",
+      "Agroforestry systems",
+      "Forest enrichment"
+    ],
+    "recommended_restoration_goals": [
+      "Carbon sequestration",
+      "Forest restoration",
+      "Medicinal forest products",
+      "Community livelihoods",
+      "Biodiversity conservation"
+    ],
+    "ideal_companion_species": [
+      "Theobroma cacao",
+      "Hevea brasiliensis",
+      "Virola spp.",
+      "Pentaclethra macroloba"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Carapa guianensis is one of the flagship multipurpose Amazonian hardwoods. Its combination of high-value timber, medicinal seed oil, flood tolerance and restoration capacity makes it a cornerstone species for productive ecological restoration and community forestry."
+  },
+  "research": {
+    "gaps": [
+      "Improved oil storage methods.",
+      "Agronomic management.",
+      "Long-term cultivation systems.",
+      "Phytochemical research.",
+      "Pharmacological validation.",
+      "Sustainable production systems."
+    ],
+    "scientific_uncertainties": [
+      "Conservation status has not been officially assessed.",
+      "Optimal oil storage conditions require further study."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "book_chapter",
+      "title": "Plantas para o Futuro – Região Norte",
+      "institution": "Embrapa Amazônia Oriental",
+      "authors": [
+        "Osmar Alves Lameira",
+        "Ana Paula Ribeiro Medeiros",
+        "Márlia Coelho Ferreira",
+        "Maria Aparecida Corrêa dos Santos"
+      ],
+      "year": 2018,
+      "pages": "1002–1012"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "species_profile": {
+    "scientific_name": "Calycophyllum spruceanum",
+    "authority": "Benth.",
+    "family": "Rubiaceae",
+    "common_names": {
+      "english": [],
+      "spanish": [],
+      "portuguese": [
+        "Mulateiro",
+        "Pau-mulato"
+      ],
+      "french": [],
+      "local": []
+    },
+    "life_form": "Medium to large deciduous tree",
+    "life_cycle": "Perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Magnoliopsida",
+    "order": "Gentianales",
+    "family": "Rubiaceae",
+    "genus": "Calycophyllum",
+    "species": "Calycophyllum spruceanum"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil"
+    ],
+    "ecoregions": [
+      "Western Amazon",
+      "Acre"
+    ],
+    "biomes": [
+      "Riparian forests",
+      "River floodplains",
+      "River beaches",
+      "Igarapé margins",
+      "Secondary forests",
+      "Recently disturbed forests"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native Amazonian pioneer tree associated with floodplains and riverine environments, especially in western Amazonia."
+  },
+  "source_information": {
+    "document_type": "technical_report",
+    "title": "Estudo do Mulateiro, Calycophyllum spruceanum Benth., em condições de ocorrência natural e em plantios homogêneos",
+    "authors": [
+      "Marcus Vinicio Neves d'Oliveira",
+      "Irauadi Machado da Silva Mendes",
+      "Gilmar da Silva Silveira"
+    ],
+    "institution": "EMBRAPA-CPAF Acre",
+    "year": 1992,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Acre, Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Natural ecology",
+      "Silviculture",
+      "Seed biology",
+      "Plantation performance",
+      "Restoration"
+    ],
+    "evidence_level": "Technical research report"
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "High",
+    "carbon_value": "High",
+    "biodiversity_value": "High",
+    "food_security_value": "Low",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Seedlings tolerate partial shade but mature trees require full sunlight.",
+      "sun_requirement": "Full sun"
+    },
+    "soil": {
+      "preferred_types": [
+        "Alluvial soils",
+        "Floodplain deposits",
+        "Recently disturbed soils"
+      ],
+      "texture": [],
+      "drainage": "Seasonally flooded",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "High",
+      "waterlogging_tolerance": "Moderate to High",
+      "drought_tolerance": ""
+    },
+    "topography": {
+      "slope_preference": "Floodplains and river margins",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "Wind-dispersed seeds.",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Pioneer",
+    "forest_layer": "Canopy",
+    "canopy_position": "Canopy tree",
+    "carbon_storage": "Moderate to high biomass accumulation as a dense hardwood.",
+    "soil_improvement": "Rapidly colonizes newly disturbed alluvial soils.",
+    "erosion_control": "Stabilizes riparian environments and riverbanks.",
+    "water_regulation": "Adapted to seasonal flood dynamics.",
+    "microclimate_regulation": "Rapid canopy development in disturbed areas.",
+    "pollinator_support": "Provides floral resources for small insects.",
+    "wildlife_support": "Contributes structural habitat in regenerating riparian forests."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Construction timber",
+      "Fuelwood",
+      "Charcoal"
+    ],
+    "regulating": [
+      "Riparian stabilization",
+      "Forest regeneration"
+    ],
+    "supporting": [
+      "Natural succession",
+      "Colonization of disturbed environments"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Natural colonizer of disturbed areas",
+      "Riparian restoration",
+      "Restoration of anthropogenic clearings",
+      "Rapid occupation of open areas"
+    ],
+    "restoration_phase": [
+      "Early restoration"
+    ],
+    "recommended_land_types": [
+      "Riparian forests",
+      "Floodplains",
+      "River margins",
+      "Recently disturbed sites"
+    ],
+    "degradation_types": [
+      "Riparian degradation",
+      "Anthropogenic clearings",
+      "Floodplain disturbance"
+    ],
+    "restoration_objectives": [
+      "Rapid site occupation",
+      "Riparian recovery",
+      "Natural succession"
+    ],
+    "recommended_species_mixtures": [
+      "Cecropia spp.",
+      "Boehmeria spp."
+    ],
+    "restoration_notes": "Highly suitable for restoring disturbed riparian ecosystems because of its pioneer ecology, adaptation to flooding and rapid colonization of open environments."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Riparian agroforestry",
+      "Mixed native plantations"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": false,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Can serve as a fast-establishing native timber component in Amazonian agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate under natural conditions and faster under full sunlight.",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [
+      "2 × 2 m",
+      "3 × 2 m",
+      "4 × 3 m"
+    ],
+    "planting_methods": [
+      "Plant at the beginning of the rainy season.",
+      "Use vigorous nursery seedlings.",
+      "Prefer open environments."
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Maintain seedlings under full sunlight.",
+      "Monitor annual growth.",
+      "Select superior genetic material.",
+      "Adjust spacing according to objectives."
+    ],
+    "management_notes": "Best performance occurs under open conditions with adequate light availability."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Immerse seeds in water for 24 hours before sowing.",
+      "germination_days": "",
+      "germination_rate_percent": 5,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "25 cm",
+      "special_care": [
+        "Sow under full sunlight.",
+        "Collect only mature fruits.",
+        "Water immersion improves germination.",
+        "Plant at the beginning of the rainy season."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Natural coppicing"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Begins around April during the annual flood season.",
+    "fruiting": "Begins in June with fruit maturation during the dry season.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits immediately before capsule dehiscence.",
+    "seed_dispersal": "Wind dispersal after capsule opening.",
+    "pollination": "Pollinated by small insects."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Small insects"
+    ],
+    "seed_dispersers": [
+      "Wind"
+    ],
+    "companion_species": [
+      "Cecropia sp.",
+      "Boehmeria sp."
+    ],
+    "facilitates": [
+      "Natural succession",
+      "Riparian regeneration"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": [
+      "No significant wildlife interactions reported."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Construction timber",
+      "Carpentry",
+      "General-purpose lumber",
+      "Sawmilling"
+    ],
+    "food": [],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [
+      "Fuelwood",
+      "Charcoal"
+    ],
+    "ornamental": [],
+    "industrial": [],
+    "other": []
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [
+      "Loss of river dynamics",
+      "Competition with dense secondary vegetation",
+      "Extended flooding during establishment"
+    ],
+    "human": [
+      "Timber harvesting",
+      "Forest conversion",
+      "Riparian degradation",
+      "Unsustainable extraction"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "wood_density_g_cm3": 0.85,
+      "mean_diameter_increment_cm_year": 0.78,
+      "minimum_diameter_increment_cm_year": 0.09,
+      "maximum_diameter_increment_cm_year": 1.94
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germination_percent": 5
+    },
+    "fruit_data": {
+      "fruit_length_cm": 1
+    },
+    "productivity": {},
+    "additional_measurements": {
+      "adult_mortality_percent": 5,
+      "seedling_mortality_percent": 26,
+      "damaged_seedlings_percent": 13,
+      "seedling_density_per_100m2": 99,
+      "seedling_height_range_m": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "growth_after_canopy_reached_cm_year": {
+        "minimum": 1.0,
+        "maximum": 2.0
+      },
+      "water_immersion_hours": 24,
+      "heat_treatment_temperature_c": 70,
+      "heat_treatment_minutes": 30,
+      "heat_treatment_germination_percent": 0,
+      "nursery_height_cm": 25,
+      "first_growth_period_cm": 30,
+      "mean_plantation_height_cm": 88.3,
+      "best_block_height_cm": 101.7
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Medium",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Riparian forests",
+      "Floodplains",
+      "Disturbed river margins",
+      "Secondary forests"
+    ],
+    "recommended_restoration_goals": [
+      "Riparian restoration",
+      "Rapid colonization",
+      "Native timber production",
+      "Floodplain recovery"
+    ],
+    "ideal_companion_species": [
+      "Cecropia spp.",
+      "Boehmeria spp."
+    ],
+    "avoid_species": [],
+    "decision_notes": "Calycophyllum spruceanum is a highly valuable pioneer tree for Amazonian riparian restoration. Its adaptation to seasonal flooding, rapid establishment in disturbed environments and good timber quality make it an excellent medium-term restoration species."
+  },
+  "research": {
+    "gaps": [
+      "Optimal germination protocols.",
+      "Seed physiology.",
+      "Population genetics.",
+      "Selection of superior genotypes.",
+      "Long-term plantation performance.",
+      "Spacing optimization.",
+      "Commercial silviculture."
+    ],
+    "scientific_uncertainties": [
+      "Low germination may be related to immature seed collection.",
+      "Plantation results remain preliminary.",
+      "Growth differences may reflect genetic variability."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_report",
+      "title": "Estudo do Mulateiro, Calycophyllum spruceanum Benth., em condições de ocorrência natural e em plantios homogêneos",
+      "institution": "EMBRAPA-CPAF Acre",
+      "authors": [
+        "Marcus Vinicio Neves d'Oliveira",
+        "Irauadi Machado da Silva Mendes",
+        "Gilmar da Silva Silveira"
+      ],
+      "year": 1992,
+      "pages": "17"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "Medium",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

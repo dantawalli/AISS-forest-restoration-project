@@ -1,0 +1,434 @@
+{
+  "species_profile": {
+    "scientific_name": "Pouteria caimito",
+    "authority": "(Ruiz & Pav.) Radlk.",
+    "family": "Sapotaceae",
+    "common_names": {
+      "english": [
+        "Abiu"
+      ],
+      "spanish": [
+        "Abiu",
+        "Caimo",
+        "Caimito"
+      ],
+      "portuguese": [
+        "Abiú"
+      ],
+      "french": [],
+      "local": [
+        "Abiu",
+        "Caimo"
+      ]
+    },
+    "life_form": "Medium-sized evergreen tree",
+    "life_cycle": "Long-lived",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Asterids",
+    "order": "Ericales",
+    "family": "Sapotaceae",
+    "genus": "Pouteria",
+    "species": "Pouteria caimito"
+  },
+  "distribution": {
+    "countries": [
+      "Panama",
+      "Costa Rica"
+    ],
+    "ecoregions": [
+      "Western Amazon",
+      "Bocas del Toro",
+      "Talamanca"
+    ],
+    "biomes": [
+      "Humid tropical rainforest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Central America",
+      "Tropical America"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to the western Amazon Basin and cultivated throughout tropical America."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "14 Árboles Frutales para Nuestras Fincas",
+    "authors": [
+      "Roberto Mack"
+    ],
+    "institution": "CATIE",
+    "year": 2005,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Central America"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Abiu (Pouteria caimito)"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "High",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Partial shade",
+      "sun_requirement": "Full sun; tolerates partial shade."
+    },
+    "soil": {
+      "preferred_types": [
+        "Deep soils",
+        "Well-drained soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Mid-successional fruit tree.",
+    "forest_layer": "Subcanopy",
+    "canopy_position": "",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "Provides shade and canopy diversification in agroforestry systems.",
+    "pollinator_support": "",
+    "wildlife_support": "Provides fruits consumed by birds."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Income generation"
+    ],
+    "regulating": [
+      "Shade diversification"
+    ],
+    "supporting": [
+      "Agrobiodiversity"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Productive restoration",
+      "Agroforestry",
+      "Mixed fruit systems",
+      "Community forestry",
+      "Home gardens"
+    ],
+    "restoration_phase": [
+      "Productive restoration",
+      "Secondary forest enrichment"
+    ],
+    "recommended_land_types": [
+      "Agroforestry systems",
+      "Forest edges",
+      "Home gardens",
+      "Mixed tropical farms"
+    ],
+    "degradation_types": [
+      "Degraded agricultural land",
+      "Secondary forests"
+    ],
+    "restoration_objectives": [
+      "Food security",
+      "Income generation",
+      "Canopy diversification"
+    ],
+    "recommended_species_mixtures": [
+      "Cacao",
+      "Banana"
+    ],
+    "restoration_notes": "Suitable as a native fruit tree for diversified Amazon restoration. Compatible with cacao and banana agroforestry systems. Provides early food production while contributing to canopy diversification. Easy seed propagation makes it appropriate for community nurseries. Useful as an income-generating species in restoration projects."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Mixed fruit systems",
+      "Cacao agroforestry",
+      "Home gardens",
+      "Community agroforestry"
+    ],
+    "compatible_crops": [
+      "Cacao",
+      "Banana"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Performs well in diversified agroforestry systems with cacao and banana."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "minimum": 3,
+      "maximum": 3
+    },
+    "spacing": [
+      "7 m"
+    ],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "Prune young trees to develop low branches and facilitate harvesting.",
+    "fertilization": "",
+    "maintenance": [
+      "Plant in full sun or partial shade.",
+      "Avoid root damage during transplanting.",
+      "Use well-drained deep soils.",
+      "Collect and bury fallen fruits to reduce fruit fly populations."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Wash seeds and sow immediately; never allow them to dry.",
+      "germination_days": "21–49",
+      "germination_rate_percent": null,
+      "storage": "Store only in moist sawdust or damp newspaper; seeds rapidly lose viability if dried."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "30 cm",
+      "special_care": [
+        "Maintain nursery under shade and adequate moisture.",
+        "Sow seeds horizontally under light soil cover."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Not reported.",
+    "fruiting": "Begins around the third year after planting.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect seeds from ripe fruits and sow immediately.",
+    "seed_dispersal": "",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [],
+    "companion_species": [
+      "Cacao",
+      "Banana"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Cacao",
+      "Banana"
+    ],
+    "wildlife_interactions": [
+      "Birds consume ripe fruits."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruit"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Home gardens",
+      "Agroforestry"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Fruit fly"
+      ],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": [
+      "Deforestation",
+      "Habitat conversion",
+      "Habitat loss"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 8
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germination_weeks": {
+        "minimum": 3,
+        "maximum": 7
+      }
+    },
+    "fruit_data": {
+      "annual_fruit_production": {
+        "minimum": 200,
+        "maximum": 500,
+        "unit": "fruits/tree/year"
+      }
+    },
+    "productivity": {
+      "productive_age_years": 3
+    },
+    "additional_measurements": {
+      "transplant_height_cm": 30,
+      "spacing_m": 7
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Amazon agroforestry systems",
+      "Mixed fruit farms",
+      "Forest edges",
+      "Community restoration projects"
+    ],
+    "recommended_restoration_goals": [
+      "Food security",
+      "Income generation",
+      "Native canopy diversification"
+    ],
+    "ideal_companion_species": [
+      "Cacao",
+      "Banana"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Native Amazonian fruit tree with high value for productive restoration and agroforestry. Rapid establishment, early fruiting and compatibility with cacao and banana make it an excellent community restoration species."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Carbon sequestration.",
+      "Climate resilience.",
+      "Wildlife interactions.",
+      "Long-term agroforestry performance."
+    ],
+    "scientific_uncertainties": [
+      "Pollination ecology.",
+      "Natural seed dispersal.",
+      "Carbon storage.",
+      "Climate adaptation.",
+      "Long-term restoration performance."
+    ],
+    "potential_contradictions": [
+      "No significant scientific contradictions identified.",
+      "The species tolerates partial shade but achieves best growth under full sun."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "14 Árboles Frutales para Nuestras Fincas",
+      "institution": "CATIE",
+      "author": "Roberto Mack",
+      "year": 2005,
+      "species_chapter": "Abiu (Pouteria caimito)"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

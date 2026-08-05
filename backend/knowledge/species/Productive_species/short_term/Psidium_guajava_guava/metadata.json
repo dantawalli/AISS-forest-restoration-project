@@ -1,0 +1,443 @@
+{
+  "species_profile": {
+    "scientific_name": "Psidium guajava",
+    "authority": "L.",
+    "family": "Myrtaceae",
+    "common_names": {
+      "english": [
+        "Guava"
+      ],
+      "spanish": [
+        "Guayaba"
+      ],
+      "portuguese": [
+        "Goiaba"
+      ],
+      "french": [
+        "Goyavier"
+      ],
+      "local": []
+    },
+    "life_form": "Small evergreen tree",
+    "life_cycle": "Perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Myrtales",
+    "family": "Myrtaceae",
+    "genus": "Psidium",
+    "species": "Psidium guajava"
+  },
+  "distribution": {
+    "countries": [
+      "Costa Rica"
+    ],
+    "ecoregions": [
+      "Tropical America",
+      "Northern South America",
+      "Central America"
+    ],
+    "biomes": [
+      "Tropical rainforest",
+      "Seasonally dry tropical forest",
+      "Pastures",
+      "Silvopastoral systems",
+      "Secondary forests"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Asia",
+      "Africa",
+      "Oceania",
+      "Worldwide tropical regions"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to tropical America and widely naturalized throughout tropical and subtropical regions worldwide."
+  },
+  "source_information": {
+    "document_type": "journal_article",
+    "title": "Árboles de Guayaba (Psidium guajava L.) en Pastizales. II. Consumo de Fruta y Dispersión de Semillas",
+    "authors": [
+      "E. Somarriba"
+    ],
+    "institution": "Turrialba",
+    "year": 1985,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Costa Rica"
+    ],
+    "study_period": "10–15 October 1983",
+    "study_focus": [
+      "Seed dispersal",
+      "Silvopastoral systems",
+      "Natural regeneration",
+      "Livestock ecology"
+    ],
+    "evidence_level": "Peer-reviewed journal article"
+  },
+  "fynos_classification": {
+    "priority_level": "High",
+    "restoration_value": "High",
+    "agroforestry_value": "High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "High",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": 1100
+      }
+    },
+    "light": {
+      "shade_tolerance": "Low",
+      "sun_requirement": "Full sun"
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained soils",
+        "Disturbed soils",
+        "Pasture soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical",
+      "Subtropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Early-successional pioneer species",
+    "forest_layer": "Lower canopy",
+    "canopy_position": "Small canopy tree",
+    "carbon_storage": "",
+    "soil_improvement": "Establishes rapidly in disturbed soils and contributes organic matter.",
+    "erosion_control": "Helps stabilize degraded landscapes during natural regeneration.",
+    "water_regulation": "",
+    "microclimate_regulation": "Provides shade and structural complexity in recovering landscapes.",
+    "pollinator_support": "",
+    "wildlife_support": "Produces abundant fruits consumed by livestock, birds and wildlife."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Livestock forage"
+    ],
+    "regulating": [
+      "Landscape restoration",
+      "Natural regeneration"
+    ],
+    "supporting": [
+      "Seed dispersal",
+      "Habitat creation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Assisted Natural Regeneration",
+      "Silvopastoral restoration",
+      "Degraded pasture restoration",
+      "Wildlife food production",
+      "Early-successional restoration"
+    ],
+    "restoration_phase": [
+      "Early restoration",
+      "Natural regeneration"
+    ],
+    "recommended_land_types": [
+      "Pastures",
+      "Forest edges",
+      "Disturbed land",
+      "Abandoned agricultural fields",
+      "Silvopastoral landscapes"
+    ],
+    "degradation_types": [
+      "Degraded pastures",
+      "Abandoned farmland",
+      "Disturbed tropical landscapes"
+    ],
+    "restoration_objectives": [
+      "Natural regeneration",
+      "Landscape connectivity",
+      "Wildlife attraction",
+      "Food production"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Excellent pioneer species for degraded tropical landscapes. Natural seed dispersal by livestock can accelerate passive restoration. Produces abundant fruit for wildlife and local communities, but requires management where excessive colonization of pastures is undesirable."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Silvopastoral systems",
+      "Agroforestry",
+      "Mixed tropical farms"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": true,
+    "shade_crop": false,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Particularly valuable in silvopastoral systems where livestock naturally disperse seeds."
+  },
+  "silviculture": {
+    "growth_rate": "Fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Control tree density in managed pastures.",
+      "Use cultivars with reduced seed production where invasion is undesirable.",
+      "Monitor seed dispersal during fruiting season."
+    ],
+    "management_notes": "Requires active management where pasture productivity is prioritized."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "No treatment reported.",
+      "germination_days": "",
+      "germination_rate_percent": 81,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Wild populations exhibit high seed germination."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "",
+    "fruiting": "Peak fruiting season occurs during October.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Seeds dispersed naturally after fruit consumption by cattle.",
+    "seed_dispersal": "Endozoochory by livestock and birds.",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Domestic cattle (Bos taurus)",
+      "Birds"
+    ],
+    "companion_species": [
+      "Bos taurus"
+    ],
+    "facilitates": [
+      "Natural regeneration",
+      "Landscape connectivity"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Silvopastoral systems"
+    ],
+    "wildlife_interactions": [
+      "Fruits consumed by birds.",
+      "Fruits dispersed by cattle."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruit"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [
+      "Fallen fruits for livestock"
+    ],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Silvopastoral systems",
+      "Landscape restoration"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [
+      "Rapid colonization of disturbed land"
+    ],
+    "human": [
+      "Can become invasive in managed pastures through livestock-mediated seed dispersal."
+    ]
+  },
+  "quantitative_data": {
+    "growth": {},
+    "wood_properties": {},
+    "seed_data": {
+      "wild_seed_germination_percent": 81,
+      "commercial_seed_germination_percent": {
+        "minimum": 10,
+        "maximum": 50
+      }
+    },
+    "fruit_data": {
+      "fruit_consumption_kg_per_cow_per_day": 11
+    },
+    "productivity": {},
+    "additional_measurements": {
+      "study_elevation_m": 1100,
+      "dung_samples": 101,
+      "sampling_days": 5,
+      "sampling_period": "10–15 October 1983",
+      "seed_dispersal_per_cow_per_day": 49500,
+      "seed_density_per_g_dry_dung": 11,
+      "regression_r2": 0.9981,
+      "seed_count_cv_percent": 75,
+      "dry_dung_cv_percent": 14,
+      "drying_temperature_c": 70,
+      "drying_duration_days": 5
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Medium",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "High",
+    "recommended_landscape_types": [
+      "Silvopastoral systems",
+      "Degraded pastures",
+      "Forest edges",
+      "Natural regeneration landscapes"
+    ],
+    "recommended_restoration_goals": [
+      "Assisted natural regeneration",
+      "Landscape connectivity",
+      "Wildlife food production",
+      "Passive restoration"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "Psidium guajava is an excellent pioneer tree that naturally colonizes degraded landscapes and supports passive restoration through efficient seed dispersal. While highly valuable for restoration, management is necessary in productive pasture systems where excessive natural regeneration may reduce grazing capacity."
+  },
+  "research": {
+    "gaps": [
+      "Carbon sequestration potential.",
+      "Pollination biology.",
+      "Genetic diversity.",
+      "Climate change resilience.",
+      "Long-term restoration performance.",
+      "Native wildlife seed dispersers.",
+      "Controlled feeding experiments.",
+      "Whole-season seed dispersal dynamics."
+    ],
+    "scientific_uncertainties": [
+      "Fruit consumption estimated indirectly through regression.",
+      "Study conducted at a single location in Costa Rica.",
+      "Role of native wildlife dispersers remains poorly quantified.",
+      "Restoration applications were not directly evaluated.",
+      "Carbon storage and ecosystem services were not measured."
+    ],
+    "potential_contradictions": [
+      "The species can simultaneously be beneficial for restoration and problematic in managed pastures depending on management objectives."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "journal_article",
+      "title": "Árboles de Guayaba (Psidium guajava L.) en Pastizales. II. Consumo de Fruta y Dispersión de Semillas",
+      "institution": "Turrialba",
+      "authors": [
+        "E. Somarriba"
+      ],
+      "year": 1985,
+      "volume": 35,
+      "issue": 4,
+      "country": "Costa Rica"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "High",
+    "ecology": "Very High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

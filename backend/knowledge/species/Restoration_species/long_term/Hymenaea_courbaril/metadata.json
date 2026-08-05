@@ -1,0 +1,557 @@
+{
+  "species_profile": {
+    "scientific_name": "Hymenaea courbaril var. stilbocarpa",
+    "authority": "Y. T. Lee & Langenheim",
+    "family": "Fabaceae",
+    "common_names": {
+      "english": [
+        "Jatobá",
+        "West Indian Locust"
+      ],
+      "spanish": [
+        "Paquió"
+      ],
+      "portuguese": [
+        "Jatobá",
+        "Jatobá-da-mata",
+        "Jatobá-amarelo",
+        "Jatobá-de-anta",
+        "Jatobá-da-caatinga",
+        "Jatobá-do-sertão",
+        "Jataí",
+        "Jataíba",
+        "Jutaí"
+      ],
+      "french": [],
+      "local": [
+        "Jatay'va"
+      ]
+    },
+    "life_form": "Large emergent hardwood tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "subfamily": "Caesalpinioideae",
+    "genus": "Hymenaea",
+    "species": "Hymenaea courbaril var. stilbocarpa"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Argentina",
+      "Bolivia",
+      "Paraguay"
+    ],
+    "ecoregions": [
+      "Seasonal Semideciduous Forest",
+      "Dense Ombrophilous Forest",
+      "Seasonal Deciduous Forest",
+      "Cerradão",
+      "Riparian Forest"
+    ],
+    "biomes": [
+      "Atlantic Forest",
+      "Seasonal Semideciduous Forest",
+      "Seasonal Deciduous Forest",
+      "Cerradão",
+      "Gallery Forest",
+      "Riparian Forest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native hardwood tree widely distributed across southern and central South America, occurring in diverse forest formations and riparian environments."
+  },
+  "source_information": {
+    "document_type": "book_chapter",
+    "title": "Espécies Arbóreas Brasileiras - Volume 1",
+    "authors": [
+      "Paulo Ernani Ramalho Carvalho"
+    ],
+    "institution": "Embrapa Florestas",
+    "year": null,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Ecology",
+      "Silviculture",
+      "Wood properties",
+      "Restoration",
+      "Taxonomy"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "Medium",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 18.1,
+        "max": 26.2
+      },
+      "absolute_minimum_c": -2.2,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 1000,
+        "max": 2400
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 30,
+        "max": 1300
+      }
+    },
+    "light": {
+      "shade_tolerance": "Semi-heliophilous; tolerates partial shade.",
+      "sun_requirement": "Full sun for maximum growth."
+    },
+    "soil": {
+      "preferred_types": [
+        "Dry soils",
+        "Medium fertility soils",
+        "High fertility soils",
+        "Well-drained soils",
+        "Moderately drained soils"
+      ],
+      "texture": [
+        "Loam",
+        "Clay"
+      ],
+      "drainage": "Good to moderate.",
+      "fertility": "Best growth occurs on medium to fertile soils.",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Tolerates brief seasonal flooding.",
+      "waterlogging_tolerance": "Low to moderate.",
+      "drought_tolerance": "High; naturally occurs on dry sites."
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid subtropical",
+      "Humid tropical",
+      "Seasonally dry tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "Suitable for windbreaks.",
+      "cold": "Low tolerance.",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late secondary to light-demanding climax",
+    "forest_layer": "Upper canopy",
+    "canopy_position": "Dominant canopy tree",
+    "carbon_storage": "Very high long-term carbon storage due to dense hardwood and longevity.",
+    "soil_improvement": "",
+    "erosion_control": "Stabilizes soils in riparian restoration projects.",
+    "water_regulation": "Important component of riparian forests.",
+    "microclimate_regulation": "Provides dense upper canopy cover in mature forests.",
+    "pollinator_support": "Provides abundant nectar for bats, hummingbirds and insects.",
+    "wildlife_support": "Produces nutritious fruits consumed by large mammals that disperse seeds."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "High-value timber",
+      "Edible fruit pulp",
+      "Medicinal resin",
+      "Honey production",
+      "Tannin"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Riparian stabilization",
+      "Landscape restoration"
+    ],
+    "supporting": [
+      "Large mammal food resource",
+      "Pollinator support",
+      "Forest succession"
+    ],
+    "cultural": [
+      "Traditional indigenous medicine",
+      "Traditional cosmetics"
+    ]
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Riparian restoration",
+      "Heterogeneous native reforestation",
+      "Silvopastoral systems",
+      "Landscape restoration",
+      "Heavy-metal contaminated land revegetation"
+    ],
+    "restoration_phase": [
+      "Intermediate restoration",
+      "Late restoration"
+    ],
+    "recommended_land_types": [
+      "Riparian forests",
+      "Gallery forests",
+      "Degraded native forests",
+      "Mixed restoration sites"
+    ],
+    "degradation_types": [
+      "Deforested land",
+      "Riparian degradation",
+      "Mining areas"
+    ],
+    "restoration_objectives": [
+      "Long-term carbon storage",
+      "Native hardwood production",
+      "Wildlife restoration",
+      "Landscape recovery"
+    ],
+    "recommended_species_mixtures": [
+      "Centrolobium tomentosum",
+      "Other native late-successional hardwoods"
+    ],
+    "restoration_notes": "One of the flagship long-term restoration species in South America because it combines high ecological value, valuable timber, wildlife support and resilience."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Silvopastoral systems",
+      "Mixed native agroforestry",
+      "Forest enrichment"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": true,
+    "shade_crop": true,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Excellent long-lived canopy tree for diversified agroforestry and silvopastoral systems."
+  },
+  "silviculture": {
+    "growth_rate": "Slow to moderate",
+    "rotation_years": 30,
+    "harvest_age_years": null,
+    "spacing": [
+      "4–5 m (windbreaks)"
+    ],
+    "planting_methods": [
+      "Pure plantations",
+      "Mixed plantations",
+      "Enrichment planting"
+    ],
+    "pruning": "Periodic formative pruning.",
+    "fertilization": "",
+    "maintenance": [
+      "Plant under full sunlight.",
+      "Avoid prolonged shading.",
+      "Scarify seeds before sowing.",
+      "Carry out formative pruning."
+    ],
+    "management_notes": "A valuable hardwood requiring long-term management with attention to early establishment."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Mechanical or sulfuric acid scarification followed by soaking in water.",
+      "germination_days": "12–60",
+      "germination_rate_percent": {
+        "treated": 98,
+        "untreated": 30
+      },
+      "storage": "Orthodox seeds stored at 5–6°C."
+    },
+    "nursery": {
+      "transplant_age": "3 months",
+      "transplant_height": "",
+      "special_care": [
+        "Apply moderate water deficit to harden seedlings."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Coppicing after cutting"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "September to February depending on region.",
+    "fruiting": "June to December depending on region.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits from the ground.",
+    "seed_dispersal": "Gravity and large mammals (zoochory).",
+    "pollination": "Primarily bats and hummingbirds."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Bats",
+      "Hummingbirds",
+      "Bees"
+    ],
+    "seed_dispersers": [
+      "Tapirus terrestris",
+      "Cuniculus paca",
+      "Dasyprocta azarae",
+      "Sapajus/Cebus apella nigritus"
+    ],
+    "companion_species": [
+      "Centrolobium tomentosum"
+    ],
+    "facilitates": [
+      "Large mammal populations",
+      "Pollinator communities"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Silvopastoral systems",
+      "Mixed native plantations"
+    ],
+    "wildlife_interactions": [
+      "Fruits consumed by large mammals.",
+      "Flowers provide nectar for bees.",
+      "Natural regeneration depends on mammalian seed dispersers.",
+      "Roots do not nodulate with Rhizobium."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Construction timber",
+      "Flooring",
+      "Posts",
+      "Railway sleepers",
+      "Furniture",
+      "Decorative veneer",
+      "Agricultural tools",
+      "Hydraulic works",
+      "Barrels"
+    ],
+    "food": [
+      "Edible fruit pulp",
+      "Animal feed"
+    ],
+    "medicine": [
+      "Resin",
+      "Bark",
+      "Roots",
+      "Fruit pulp"
+    ],
+    "fiber": [],
+    "oil": [],
+    "resin": [
+      "Jutaicica resin"
+    ],
+    "latex": [],
+    "fodder": [
+      "Fruit for livestock and wildlife"
+    ],
+    "fuel": [],
+    "ornamental": [
+      "Landscape planting"
+    ],
+    "industrial": [
+      "Varnish",
+      "Tannin extraction"
+    ],
+    "other": [
+      "High-quality honey production",
+      "Traditional indigenous cosmetics"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Seed insects"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Forest fragmentation",
+      "Loss of seed dispersers",
+      "Low temperatures"
+    ],
+    "human": [
+      "Logging",
+      "Habitat destruction"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 35,
+      "maximum_dbh_cm": 120,
+      "wood_density_g_cm3": {
+        "minimum": 0.9,
+        "maximum": 1.1
+      }
+    },
+    "wood_properties": {
+      "basic_density_g_cm3": 0.75,
+      "calorific_value_kj_kg": 17191.5
+    },
+    "seed_data": {
+      "seeds_per_kg": {
+        "minimum": 250,
+        "maximum": 300
+      },
+      "germination_days": {
+        "minimum": 12,
+        "maximum": 60
+      },
+      "germination_percent": {
+        "treated": 98,
+        "untreated": 30
+      }
+    },
+    "fruit_data": {
+      "fruit_length_cm": {
+        "minimum": 9,
+        "maximum": 17
+      },
+      "fruit_width_cm": {
+        "minimum": 4,
+        "maximum": 5.5
+      },
+      "fruit_weight_g": {
+        "minimum": 42,
+        "maximum": 107
+      },
+      "seeds_per_fruit": {
+        "minimum": 2,
+        "maximum": 8
+      }
+    },
+    "productivity": {
+      "annual_increment_m3_ha_year": {
+        "good_site": 10,
+        "poor_site": null
+      },
+      "fruiting_age_years": 10,
+      "rotation_years": {
+        "minimum": 30,
+        "maximum": 60
+      }
+    },
+    "additional_measurements": {
+      "annual_rainfall_mm": {
+        "minimum": 1000,
+        "maximum": 2400
+      },
+      "annual_temperature_c": {
+        "minimum": 18.1,
+        "maximum": 26.2
+      },
+      "altitude_m": {
+        "minimum": 30,
+        "maximum": 1300
+      },
+      "trees_per_hectare": {
+        "minimum": 1,
+        "maximum": 6
+      }
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "High",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Riparian restoration",
+      "Mixed native forests",
+      "Silvopastoral landscapes",
+      "Long-term restoration projects"
+    ],
+    "recommended_restoration_goals": [
+      "Carbon sequestration",
+      "Native hardwood production",
+      "Wildlife conservation",
+      "Landscape restoration"
+    ],
+    "ideal_companion_species": [
+      "Centrolobium tomentosum",
+      "Late-successional Atlantic Forest hardwoods"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Hymenaea courbaril var. stilbocarpa is a flagship long-lived hardwood that combines exceptional timber value, wildlife support, restoration capacity and resilience. It is among the highest-priority native species for productive ecological restoration."
+  },
+  "research": {
+    "gaps": [
+      "Taxonomic status of H. stilbocarpa.",
+      "Growth variability among plantations.",
+      "Long-term conservation under fragmented landscapes."
+    ],
+    "scientific_uncertainties": [
+      "Taxonomic disagreement exists regarding recognition of H. stilbocarpa as a species or variety."
+    ],
+    "potential_contradictions": [
+      "Lee & Langenheim (1974) recognize H. stilbocarpa as a variety, whereas Rizzini & Mors (1976) recognize it as a distinct species."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "book_chapter",
+      "title": "Espécies Arbóreas Brasileiras - Volume 1",
+      "institution": "Embrapa Florestas",
+      "authors": [
+        "Paulo Ernani Ramalho Carvalho"
+      ],
+      "year": null,
+      "pages": "600–607"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "Very High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

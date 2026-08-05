@@ -1,0 +1,388 @@
+{
+  "species_profile": {
+    "scientific_name": "Manilkara bidentata subsp. surinamensis",
+    "authority": "(Miq.) T.D.Penn.",
+    "family": "Sapotaceae",
+    "common_names": {
+      "english": [
+        "Bulletwood",
+        "Balata"
+      ],
+      "spanish": [
+        "Massaranduba",
+        "Maparajuba"
+      ],
+      "portuguese": [
+        "Maçaranduba",
+        "Maparajuba"
+      ],
+      "local": [
+        "Maparajuba",
+        "Maçaranduba"
+      ]
+    },
+    "life_form": "Large evergreen tree",
+    "life_cycle": "Long-lived",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Ericales",
+    "family": "Sapotaceae",
+    "genus": "Manilkara",
+    "species": "Manilkara bidentata subsp. surinamensis"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil"
+    ],
+    "ecoregions": [
+      "Amazon"
+    ],
+    "biomes": [
+      "Amazon"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native to the Amazon Basin."
+  },
+  "source_information": {
+    "document_type": "technical_database",
+    "title": "WebAmbiente Embrapa - Manilkara bidentata subsp. surinamensis",
+    "authors": [],
+    "institution": "EMBRAPA",
+    "year": null,
+    "language": "",
+    "geographic_scope": [
+      "Brazil"
+    ],
+    "study_period": "",
+    "study_focus": [],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "",
+    "carbon_value": "Very High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": false,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Shade tolerant throughout its life cycle.",
+      "sun_requirement": ""
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained forest soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low",
+      "waterlogging_tolerance": "",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late-successional canopy tree.",
+    "forest_layer": "Canopy",
+    "canopy_position": "Canopy",
+    "carbon_storage": "Carbon storage",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "",
+    "pollinator_support": "Bees and hoverflies (Syrphidae)",
+    "wildlife_support": "Wildlife food source"
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "High-quality hardwood"
+    ],
+    "regulating": [
+      "Carbon storage",
+      "Forest structure maintenance"
+    ],
+    "supporting": [
+      "Habitat formation",
+      "Seed dispersal by fauna"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Native Amazon restoration",
+      "Forest enrichment",
+      "Carbon restoration",
+      "Biodiversity restoration",
+      "Timber restoration",
+      "Late-successional restoration"
+    ],
+    "restoration_phase": [],
+    "recommended_land_types": [],
+    "degradation_types": [],
+    "restoration_objectives": [],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Large native Amazon canopy tree ideal for long-term forest restoration. Excellent candidate for biodiversity restoration and structural forest recovery. Shade tolerance throughout its life cycle allows integration beneath existing forest canopies. Produces valuable hardwood while maintaining ecological integrity. Wildlife-mediated seed dispersal supports natural regeneration. Because seeds are recalcitrant, restoration nurseries should sow immediately after collection. FYNOS AI should classify Maçaranduba as a flagship late-successional species for restoring mature Amazon forest structure and long-term carbon storage."
+  },
+  "agroforestry": {
+    "recommended_systems": [],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": null,
+    "silvopastoral": null,
+    "multistrata": null,
+    "agroforestry_notes": ""
+  },
+  "silviculture": {
+    "growth_rate": "Fast in nursery (30–100 cm/year)",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "Field fertilization recommendations available for Amazonian soils.",
+    "maintenance": [
+      "Suitable for shaded restoration plantings.",
+      "Protect recalcitrant seeds from drying.",
+      "Use nursery shade during establishment."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Allow fruits to partially decompose in plastic bags before washing seeds. Sow indirectly in seedbeds.",
+      "germination_days": "",
+      "germination_rate_percent": "10–19",
+      "storage": "Seeds are recalcitrant and cannot be stored for long periods."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Use substrate composed of 3 parts topsoil, 1 part sawdust, and 1 part cattle manure or poultry litter.",
+        "Maintain approximately 50% shade in the nursery.",
+        "Seeds are recalcitrant and cannot be stored for long periods."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "June to September.",
+    "fruiting": "February to March.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits directly from the tree or immediately after they fall.",
+    "seed_dispersal": "Wildlife (zoochory)",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Bees",
+      "Hoverflies (Syrphidae)"
+    ],
+    "seed_dispersers": [
+      "Wildlife (zoochory)"
+    ],
+    "companion_species": [],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": [
+      "Wildlife food source"
+    ]
+  },
+  "products": {
+    "timber": [
+      "High-quality hardwood"
+    ],
+    "food": [],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Forest restoration",
+      "Native species plantations"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [
+      "Low seed germination",
+      "Short seed viability"
+    ],
+    "human": [
+      "Selective logging",
+      "Habitat conversion",
+      "Deforestation"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "nursery_growth_cm_per_year": {
+        "minimum": 30,
+        "maximum": 100
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germination_percent": {
+        "minimum": 10,
+        "maximum": 19
+      },
+      "seeds_per_kg": 2200
+    },
+    "fruit_data": {},
+    "productivity": {},
+    "additional_measurements": {
+      "seed_collection_period": "February–March",
+      "flowering_period": "June–September",
+      "nursery_shade_percent": 50
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": null,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Native Amazon restoration",
+      "Forest enrichment",
+      "Carbon restoration",
+      "Biodiversity restoration",
+      "Timber restoration",
+      "Late-successional restoration"
+    ],
+    "recommended_restoration_goals": [
+      "Long-term forest restoration",
+      "Carbon storage",
+      "Structural forest recovery",
+      "Biodiversity restoration"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "Classify Maçaranduba as a flagship late-successional species for restoring mature Amazon forest structure and long-term carbon storage."
+  },
+  "research": {
+    "gaps": [
+      "Carbon sequestration potential.",
+      "Climate resilience.",
+      "Long-term restoration performance.",
+      "Seed physiology.",
+      "Genetic diversity across Amazon populations."
+    ],
+    "scientific_uncertainties": [
+      "Carbon sequestration rates.",
+      "Long-term climate adaptation.",
+      "Genetic variation among populations.",
+      "Large-scale restoration performance."
+    ],
+    "potential_contradictions": [
+      "No direct scientific contradictions identified.",
+      "Despite low germination rates, seedlings exhibit relatively rapid nursery growth under proper management."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_database",
+      "title": "WebAmbiente Embrapa - Manilkara bidentata subsp. surinamensis",
+      "institution": "EMBRAPA",
+      "country": "Brazil"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

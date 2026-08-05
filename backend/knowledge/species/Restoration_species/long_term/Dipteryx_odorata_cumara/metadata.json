@@ -1,0 +1,513 @@
+{
+  "species_profile": {
+    "scientific_name": "Dipteryx odorata",
+    "authority": "(Aubl.) Willd.",
+    "family": "Fabaceae",
+    "common_names": {
+      "english": [
+        "Tonka bean",
+        "Tonka"
+      ],
+      "spanish": [
+        "Almendro",
+        "Almendrillo",
+        "Charapilla",
+        "Charapilla murciélago",
+        "Sarrapia"
+      ],
+      "portuguese": [
+        "Cumaru-ferro",
+        "Cumaru",
+        "Cumaru-do-amazonas",
+        "Cumaru-da-folha-grande",
+        "Cumaru-roxo",
+        "Cumaru-verdadeiro",
+        "Cumari",
+        "Cumbari",
+        "Cumbaru",
+        "Sarrapia"
+      ],
+      "french": [],
+      "local": [
+        "Koemaroe"
+      ]
+    },
+    "life_form": "Large emergent hardwood tree",
+    "life_cycle": "Long-lived perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Dipteryx",
+    "species": "Dipteryx odorata"
+  },
+  "distribution": {
+    "countries": [
+      "Brazil",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Honduras",
+      "Peru",
+      "Suriname",
+      "Venezuela"
+    ],
+    "ecoregions": [
+      "Amazon terra firme rainforest",
+      "Amazon high várzea",
+      "Dense Ombrophilous Forest",
+      "Atlantic Dense Rainforest"
+    ],
+    "biomes": [
+      "Primary tropical rainforest",
+      "Secondary forest",
+      "Amazon terra firme",
+      "High várzea forest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [],
+    "endemism": "",
+    "global_distribution_notes": "Native to northern South America and one of the most valuable hardwood species of the Amazon Basin."
+  },
+  "source_information": {
+    "document_type": "book_chapter",
+    "title": "Espécies Arbóreas Brasileiras - Volume 3: Cumaru-Ferro (Dipteryx odorata)",
+    "authors": [
+      "Paulo Ernani Ramalho Carvalho"
+    ],
+    "institution": "Embrapa Florestas",
+    "year": 2008,
+    "language": "Portuguese",
+    "geographic_scope": [
+      "Brazil",
+      "Amazon Basin"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Silviculture",
+      "Ecology",
+      "Wood properties",
+      "Restoration",
+      "Commercial forestry"
+    ],
+    "evidence_level": "Comprehensive technical reference"
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "High",
+    "carbon_value": "Very High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "Medium",
+    "income_generation_value": "Very High",
+    "ecosystem_engineer": true,
+    "nitrogen_fixer": true,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": 24.8,
+        "max": 26.7
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": 1200,
+        "max": 7000
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 20,
+        "max": 850
+      }
+    },
+    "light": {
+      "shade_tolerance": "Shade tolerant when young.",
+      "sun_requirement": "Full sunlight for optimal growth."
+    },
+    "soil": {
+      "preferred_types": [
+        "Well-drained sandy soils",
+        "Clay soils",
+        "Highly weathered tropical soils",
+        "Alluvial soils"
+      ],
+      "texture": [
+        "Sand",
+        "Clay"
+      ],
+      "drainage": "Well drained.",
+      "fertility": "Tolerates poor acidic soils as well as fertile soils.",
+      "ph": {
+        "min": 3.7,
+        "max": 5.5
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Moderate",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "Low tolerance",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late-successional / Climax",
+    "forest_layer": "Emergent canopy",
+    "canopy_position": "Emergent tree",
+    "carbon_storage": "Extremely high biomass accumulation due to dense hardwood.",
+    "soil_improvement": "Nitrogen-fixing legume contributing to long-term soil fertility.",
+    "erosion_control": "Deep-rooted canopy species stabilizing mature forests.",
+    "water_regulation": "Contributes to mature rainforest hydrological stability.",
+    "microclimate_regulation": "Provides upper canopy cover in mature forests.",
+    "pollinator_support": "Important floral resource for native bees.",
+    "wildlife_support": "Seeds consumed and dispersed by rodents and bats."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "High-value timber",
+      "Edible seeds",
+      "Essential oil",
+      "Medicinal products"
+    ],
+    "regulating": [
+      "Carbon sequestration",
+      "Forest stabilization"
+    ],
+    "supporting": [
+      "Pollinator support",
+      "Wildlife food",
+      "Nitrogen cycling"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Late-stage restoration",
+      "Forest enrichment",
+      "Mixed native plantations",
+      "Commercial native timber plantations",
+      "Agroforestry shade tree"
+    ],
+    "restoration_phase": [
+      "Late restoration"
+    ],
+    "recommended_land_types": [
+      "Primary forest restoration",
+      "Forest enrichment",
+      "Long-term restoration landscapes"
+    ],
+    "degradation_types": [
+      "Deforested mature forests",
+      "Selective logging areas"
+    ],
+    "restoration_objectives": [
+      "Carbon storage",
+      "Native hardwood production",
+      "Biodiversity recovery"
+    ],
+    "recommended_species_mixtures": [
+      "Late-successional Amazonian hardwoods"
+    ],
+    "restoration_notes": "Flagship long-term restoration species combining exceptional timber value, carbon storage and biodiversity importance."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Mixed native agroforestry",
+      "Forest enrichment systems",
+      "Shade-tree agroforestry"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": false,
+    "shade_crop": true,
+    "silvopastoral": false,
+    "multistrata": true,
+    "agroforestry_notes": "Suitable as an upper-canopy shade tree in long-term agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Slow",
+    "rotation_years": 30,
+    "harvest_age_years": 30,
+    "spacing": [],
+    "planting_methods": [
+      "Mixed native plantations",
+      "Forest enrichment"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Maintain adequate sunlight after establishment.",
+      "Avoid seed desiccation.",
+      "Use fresh seeds."
+    ],
+    "management_notes": "Long production cycle requiring permanent forest management."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "No pre-treatment required.",
+      "germination_days": "21–56",
+      "germination_rate_percent": {
+        "minimum": 36,
+        "maximum": 92
+      },
+      "storage": "Seeds remain viable for up to nine months under proper storage but are sensitive to desiccation."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Avoid drying of seeds.",
+        "Use freshly collected fruits.",
+        "Direct sowing with two seeds per container."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "August–October (Pará), September–October (Amazonas), December (Pernambuco).",
+    "fruiting": "April–July. First fruiting occurs after 4–5 years.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect fruits immediately after natural fall.",
+    "seed_dispersal": "Gravity followed by rodents and bats.",
+    "pollination": "Hermaphroditic flowers pollinated by native bees."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Native bees"
+    ],
+    "seed_dispersers": [
+      "Rodents",
+      "Bats",
+      "Gravity"
+    ],
+    "companion_species": [],
+    "facilitates": [
+      "Forest enrichment",
+      "Wildlife habitat"
+    ],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Mixed native plantations",
+      "Shade systems"
+    ],
+    "wildlife_interactions": [
+      "Seeds dispersed by rodents and bats."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Heavy construction",
+      "Flooring",
+      "Beams",
+      "Posts",
+      "Railroad sleepers",
+      "Boat construction",
+      "Furniture",
+      "Decorative veneers",
+      "Tool handles",
+      "Civil engineering"
+    ],
+    "food": [
+      "Edible seeds"
+    ],
+    "medicine": [
+      "Respiratory remedies",
+      "Cardiac tonic",
+      "Antihelmintic",
+      "Expectorant",
+      "Diaphoretic",
+      "Traditional cough syrup",
+      "Ear pain treatment",
+      "Scalp treatments"
+    ],
+    "fiber": [],
+    "oil": [
+      "Tonka bean oil",
+      "Coumarin extraction"
+    ],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Perfume fixative",
+      "Perfume industry",
+      "Cosmetic fragrances"
+    ],
+    "other": [
+      "Jewelry",
+      "Traditional handicrafts"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [],
+      "diseases": []
+    },
+    "abiotic": [
+      "Low temperatures",
+      "Prolonged flooding",
+      "Slow juvenile growth",
+      "Seed desiccation"
+    ],
+    "human": [
+      "Selective logging",
+      "Overexploitation",
+      "Seed harvesting",
+      "Deforestation"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 40,
+      "maximum_dbh_cm": 150,
+      "wood_density_g_cm3": {
+        "minimum": 0.95,
+        "maximum": 1.19
+      }
+    },
+    "wood_properties": {
+      "basic_density_g_cm3": {
+        "minimum": 0.75,
+        "maximum": 0.95
+      },
+      "green_density_g_cm3": 1.28
+    },
+    "seed_data": {
+      "seeds_per_kg": {
+        "minimum": 137,
+        "maximum": 500
+      },
+      "germination_percent": {
+        "minimum": 36,
+        "maximum": 92
+      },
+      "germination_weeks": {
+        "minimum": 3,
+        "maximum": 8
+      }
+    },
+    "fruit_data": {
+      "fruiting_age_years": {
+        "minimum": 4,
+        "maximum": 5
+      }
+    },
+    "productivity": {
+      "rotation_years": 30,
+      "maximum_volume_increment_m3_ha_year": 4.25
+    },
+    "additional_measurements": {
+      "railway_sleeper_durability_years": {
+        "minimum": 10,
+        "maximum": 22
+      }
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "Very High",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Long-term Amazon restoration",
+      "Forest enrichment",
+      "High-value timber landscapes"
+    ],
+    "recommended_restoration_goals": [
+      "Carbon sequestration",
+      "Native hardwood production",
+      "Biodiversity conservation",
+      "Long-term forest recovery"
+    ],
+    "ideal_companion_species": [
+      "Late-successional Amazonian canopy species"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Dipteryx odorata is one of the highest-value Amazonian hardwoods. Although slow-growing, it provides exceptional long-term ecological, economic and carbon benefits, making it a cornerstone species for mature forest restoration."
+  },
+  "research": {
+    "gaps": [
+      "Long-term plantation productivity.",
+      "Genetic improvement.",
+      "Improved silvicultural management.",
+      "Growth in agroforestry systems.",
+      "Taxonomic revision of Dipteryx.",
+      "Seed storage optimization."
+    ],
+    "scientific_uncertainties": [
+      "Few long-term plantation studies exist.",
+      "Taxonomic boundaries within Dipteryx require revision."
+    ],
+    "potential_contradictions": [],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "book_chapter",
+      "title": "Espécies Arbóreas Brasileiras - Volume 3: Cumaru-Ferro (Dipteryx odorata)",
+      "institution": "Embrapa Florestas",
+      "authors": [
+        "Paulo Ernani Ramalho Carvalho"
+      ],
+      "year": 2008
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

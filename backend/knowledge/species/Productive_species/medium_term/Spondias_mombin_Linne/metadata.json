@@ -1,0 +1,548 @@
+{
+  "species_profile": {
+    "scientific_name": "Spondias mombin",
+    "authority": "L.",
+    "family": "Anacardiaceae",
+    "common_names": {
+      "english": [
+        "Yellow Mombin",
+        "Hog Plum"
+      ],
+      "spanish": [
+        "Ubos",
+        "Uvos",
+        "Jobo",
+        "Jobo Colorado",
+        "Ciruela Amarilla",
+        "Ciruela de Monte",
+        "Jocote"
+      ],
+      "portuguese": [
+        "Taperebá",
+        "Cajá",
+        "Cajá-mirim"
+      ],
+      "french": [],
+      "local": [
+        "Shungu",
+        "Tobo de la Montaña"
+      ]
+    },
+    "life_form": "Large deciduous tropical tree",
+    "life_cycle": "Perennial",
+    "growth_form": "",
+    "native": true
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Magnoliophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Anacardiaceae",
+    "genus": "Spondias",
+    "species": "Spondias mombin"
+  },
+  "distribution": {
+    "countries": [
+      "Peru",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Venezuela",
+      "Guatemala",
+      "Mexico"
+    ],
+    "ecoregions": [
+      "Loreto",
+      "Ucayali",
+      "San Martín",
+      "Amazonas",
+      "Madre de Dios",
+      "Huánuco",
+      "Pasco",
+      "Junín",
+      "Cajamarca",
+      "Cusco",
+      "Apurímac"
+    ],
+    "biomes": [
+      "Amazon Tropical Rainforest"
+    ],
+    "watersheds": [],
+    "native": true,
+    "introduced_regions": [
+      "Tropical Africa",
+      "Tropical Asia"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native throughout the Amazon Basin and Tropical America, later introduced into tropical Africa and Asia."
+  },
+  "source_information": {
+    "document_type": "technical_monograph",
+    "title": "Ubos (Spondias mombin L.): Potencial frutícola de la Amazonía Peruana",
+    "authors": [],
+    "institution": "IIAP & INIA",
+    "year": null,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Peru"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Fruit production",
+      "Propagation",
+      "Ecology",
+      "Amazon restoration"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Very High",
+    "restoration_value": "Very High",
+    "agroforestry_value": "Very High",
+    "carbon_value": "High",
+    "biodiversity_value": "Very High",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": true,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": true,
+    "recommended_for_regeneration": true
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": 0,
+        "max": 500
+      }
+    },
+    "light": {
+      "shade_tolerance": "Partial shade",
+      "sun_requirement": "Full sun to partial shade"
+    },
+    "soil": {
+      "preferred_types": [
+        "Loamy soils",
+        "Ultisols",
+        "Oxisols",
+        "Sandy soils",
+        "Clay soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "High",
+      "waterlogging_tolerance": "Moderate",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Late secondary to mature forest",
+    "forest_layer": "Upper canopy",
+    "canopy_position": "Canopy",
+    "carbon_storage": "High",
+    "soil_improvement": "",
+    "erosion_control": "Suitable for riparian and degraded landscape restoration.",
+    "water_regulation": "Adapted to floodplain environments.",
+    "microclimate_regulation": "Provides canopy cover in agroforestry systems.",
+    "pollinator_support": "",
+    "wildlife_support": "Provides fruits for birds and mammals."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Timber",
+      "Medicinal resources"
+    ],
+    "regulating": [
+      "Carbon storage"
+    ],
+    "supporting": [
+      "Forest enrichment",
+      "Biodiversity conservation"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Amazon agroforestry",
+      "Forest enrichment",
+      "Riparian restoration",
+      "Native fruit restoration",
+      "Community forestry",
+      "Biodiversity restoration"
+    ],
+    "restoration_phase": [
+      "Secondary restoration",
+      "Canopy recovery"
+    ],
+    "recommended_land_types": [
+      "Lowland tropical forest",
+      "Floodplains",
+      "Well-drained forests",
+      "Agroforestry systems",
+      "Home gardens"
+    ],
+    "degradation_types": [
+      "Deforested landscapes",
+      "Floodplain degradation",
+      "Secondary forests"
+    ],
+    "restoration_objectives": [
+      "Forest recovery",
+      "Food production",
+      "Carbon storage",
+      "Livelihood improvement"
+    ],
+    "recommended_species_mixtures": [],
+    "restoration_notes": "Excellent native Amazonian fruit tree with broad ecological adaptability. Suitable for degraded landscape restoration and enrichment planting. Combines ecological restoration with food production and income generation. High genetic variability offers opportunities for selecting superior restoration material. FYNOS AI should prioritize Spondias mombin as one of the flagship native multipurpose species for Amazon restoration, agroforestry and sustainable livelihoods."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Amazon agroforestry",
+      "Mixed native fruit systems",
+      "Community forestry"
+    ],
+    "compatible_crops": [],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Well suited to mixed-species Amazon agroforestry systems."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate to Fast",
+    "rotation_years": null,
+    "harvest_age_years": null,
+    "spacing": [],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Monitor insect herbivory.",
+      "Use well-drained nursery substrates.",
+      "Suitable for mixed-species agroforestry.",
+      "Protect young seedlings against defoliators."
+    ],
+    "management_notes": ""
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Fresh seeds are recommended. Significant differences exist among provenances.",
+      "germination_days": "12–64",
+      "germination_rate_percent": 44.5,
+      "storage": ""
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "",
+      "special_care": [
+        "Seedling development monitored for 13 months."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Not specifically reported.",
+    "fruiting": "Generally from September to April depending on locality.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature yellow fruits during the fruiting season.",
+    "seed_dispersal": "Likely birds and mammals.",
+    "pollination": "Likely insects."
+  },
+  "species_interactions": {
+    "pollinators": [
+      "Likely insects"
+    ],
+    "seed_dispersers": [
+      "Likely birds",
+      "Likely mammals"
+    ],
+    "companion_species": [],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [],
+    "wildlife_interactions": [
+      "Provides fruits for birds and mammals."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Timber"
+    ],
+    "food": [
+      "Fresh fruit",
+      "Juices",
+      "Pulp",
+      "Nectars",
+      "Processed products"
+    ],
+    "medicine": [
+      "Bark",
+      "Leaves",
+      "Branches"
+    ],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Carpentry",
+      "Agroforestry",
+      "Forest restoration",
+      "Genetic conservation"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Chrysomelidae",
+        "Tortricidae",
+        "Aleurotrixus sp.",
+        "Lepidoptera defoliators"
+      ],
+      "diseases": []
+    },
+    "abiotic": [],
+    "human": [
+      "Deforestation",
+      "Habitat fragmentation",
+      "Agricultural expansion",
+      "Limited domestication",
+      "Loss of native forests"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": 35,
+      "typical_height_m": {
+        "minimum": 20,
+        "maximum": 35
+      },
+      "diameter_m": {
+        "minimum": 0.5,
+        "maximum": 2.0
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germination_start_days": {
+        "minimum": 12,
+        "maximum": 20
+      },
+      "germination_completion_days": {
+        "minimum": 34,
+        "maximum": 64
+      },
+      "average_germination_percent": 44.5,
+      "germination_range_percent": {
+        "minimum": 9.4,
+        "maximum": 68.8
+      }
+    },
+    "fruit_data": {
+      "fruit_length_cm": {
+        "minimum": 3,
+        "maximum": 4
+      },
+      "fruit_diameter_cm": {
+        "minimum": 2.5,
+        "maximum": 3.0
+      },
+      "fruit_weight_g": {
+        "minimum": 2.18,
+        "maximum": 24.33
+      },
+      "seeds_per_fruit": {
+        "minimum": 3,
+        "maximum": 10
+      },
+      "pulp_percent": {
+        "minimum": 10,
+        "maximum": 53
+      },
+      "peel_percent": {
+        "minimum": 8.3,
+        "maximum": 53.5
+      },
+      "seed_percent": {
+        "minimum": 36.1,
+        "maximum": 53.8
+      },
+      "moisture_percent": 88,
+      "soluble_solids_brix": 10
+    },
+    "productivity": {},
+    "additional_measurements": {
+      "leaf_length_cm": {
+        "minimum": 30,
+        "maximum": 70
+      },
+      "leaflet_pairs": {
+        "minimum": 3,
+        "maximum": 17
+      },
+      "leaflet_length_cm": {
+        "minimum": 5,
+        "maximum": 14
+      },
+      "leaflet_width_cm": {
+        "minimum": 2,
+        "maximum": 6.5
+      },
+      "inflorescence_length_cm": {
+        "minimum": 30,
+        "maximum": 40
+      },
+      "flower_diameter_cm": {
+        "minimum": 0.5,
+        "maximum": 0.7
+      },
+      "stamens_per_flower": {
+        "minimum": 8,
+        "maximum": 10
+      },
+      "provenances_evaluated": 12,
+      "herbarium_specimens": 72,
+      "germplasm_accessions": 12,
+      "nursery_monitoring_months": 13,
+      "fruiting_period": "September–April"
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "High",
+    "evergreen": false,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Very High",
+    "recommended_landscape_types": [
+      "Amazon floodplains",
+      "Terra firme forests",
+      "Riparian forests",
+      "Community agroforestry"
+    ],
+    "recommended_restoration_goals": [
+      "Forest enrichment",
+      "Food security",
+      "Carbon storage",
+      "Biodiversity recovery"
+    ],
+    "ideal_companion_species": [],
+    "avoid_species": [],
+    "decision_notes": "Flagship native Amazonian multipurpose tree combining ecological resilience, food production and restoration value. Particularly suitable for riparian restoration, secondary forest enrichment and diversified agroforestry systems."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology",
+      "Seed dispersal ecology",
+      "Population genetics",
+      "Climate resilience",
+      "Carbon sequestration",
+      "Forest restoration performance",
+      "Commercial orchard management",
+      "Postharvest physiology",
+      "Integrated pest management",
+      "Wildlife interactions"
+    ],
+    "scientific_uncertainties": [
+      "Pollination biology",
+      "Seed dispersal",
+      "Population genetics",
+      "Climate resilience",
+      "Carbon sequestration",
+      "Commercial orchard management",
+      "Restoration performance",
+      "Postharvest physiology",
+      "Wildlife interactions"
+    ],
+    "potential_contradictions": [
+      "Native Amazonian origin versus pantropical distribution reflects later introductions outside the Americas.",
+      "Floodplain occurrence versus preference for well-drained soils reflects ecological plasticity.",
+      "Large canopy tree is still well suited to agroforestry systems.",
+      "High commercial potential contrasts with limited domestication.",
+      "High fruit variability reflects genetic diversity rather than taxonomic inconsistency.",
+      "Moderate average germination coexists with excellent-performing provenances.",
+      "Strong restoration potential has not yet been validated through long-term restoration trials."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_monograph",
+      "title": "Ubos (Spondias mombin L.): Potencial frutícola de la Amazonía Peruana",
+      "institution": "IIAP & INIA",
+      "country": "Peru"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "Very High",
+    "silviculture": "High",
+    "restoration": "Very High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

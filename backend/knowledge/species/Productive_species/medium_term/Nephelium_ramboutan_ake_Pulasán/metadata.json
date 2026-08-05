@@ -1,0 +1,435 @@
+{
+  "species_profile": {
+    "scientific_name": "Nephelium ramboutan-ake",
+    "authority": "(Labill.) Leenh.",
+    "family": "Sapindaceae",
+    "common_names": {
+      "english": [
+        "Pulasan"
+      ],
+      "spanish": [
+        "Pulasán"
+      ],
+      "portuguese": [
+        "Pulasã"
+      ],
+      "french": [
+        "Poulasan"
+      ],
+      "local": [
+        "Pulasán"
+      ]
+    },
+    "life_form": "Medium-sized evergreen tree",
+    "life_cycle": "Long-lived",
+    "growth_form": "",
+    "native": false
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Sapindales",
+    "family": "Sapindaceae",
+    "genus": "Nephelium",
+    "species": "Nephelium ramboutan-ake"
+  },
+  "distribution": {
+    "countries": [
+      "Malaysia",
+      "Costa Rica",
+      "Panama"
+    ],
+    "ecoregions": [
+      "Bocas del Toro",
+      "Talamanca"
+    ],
+    "biomes": [
+      "Humid tropical forest"
+    ],
+    "watersheds": [],
+    "native": false,
+    "introduced_regions": [
+      "Central America",
+      "Tropical America"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to Southeast Asia, especially Malaysia, and cultivated in tropical America."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "14 Árboles Frutales para Nuestras Fincas",
+    "authors": [
+      "Roberto Mack"
+    ],
+    "institution": "CATIE",
+    "year": null,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Central America"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Pulasán (Nephelium ramboutan-ake)"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Medium",
+    "restoration_value": "Medium",
+    "agroforestry_value": "High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "Medium",
+    "food_security_value": "High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": false
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Partial shade",
+      "sun_requirement": "Full sun to partial shade."
+    },
+    "soil": {
+      "preferred_types": [
+        "Deep soils",
+        "Well-drained soils",
+        "Moist fertile soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "High",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Low",
+      "waterlogging_tolerance": "Low",
+      "drought_tolerance": "Low"
+    },
+    "topography": {
+      "slope_preference": "",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Mid- to late-successional fruit tree.",
+    "forest_layer": "Subcanopy",
+    "canopy_position": "",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "Provides shade for cacao agroforestry systems.",
+    "pollinator_support": "",
+    "wildlife_support": "Provides fruits for birds and monkeys."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Income generation"
+    ],
+    "regulating": [
+      "Shade"
+    ],
+    "supporting": [
+      "Agroforestry diversification"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Productive agroforestry",
+      "Cacao agroforestry",
+      "Mixed fruit orchards",
+      "Farm diversification",
+      "Community forestry"
+    ],
+    "restoration_phase": [
+      "Productive restoration"
+    ],
+    "recommended_land_types": [
+      "Cacao agroforestry systems",
+      "Farm boundaries",
+      "Mixed tropical farms",
+      "Home gardens"
+    ],
+    "degradation_types": [
+      "Agricultural landscapes"
+    ],
+    "restoration_objectives": [
+      "Food security",
+      "Income generation",
+      "Farm diversification"
+    ],
+    "recommended_species_mixtures": [
+      "Cacao"
+    ],
+    "restoration_notes": "High-value tropical fruit closely related to rambutan with excellent market potential. Its more open canopy makes it compatible with cacao agroforestry systems. Deep, well-drained soils and careful transplanting are essential for successful establishment. Only elite female trees should be propagated through grafting for commercial production. Provides diversified income while maintaining agroforestry canopy structure. Within FYNOS AI, pulasan is recommended as a complementary productive species rather than a primary native Amazon restoration tree."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Cacao agroforestry",
+      "Mixed fruit orchards",
+      "Productive agroforestry"
+    ],
+    "compatible_crops": [
+      "Cacao"
+    ],
+    "livestock_compatible": null,
+    "shade_crop": true,
+    "silvopastoral": null,
+    "multistrata": true,
+    "agroforestry_notes": "Well suited for diversified tropical agroforestry systems, especially with cacao."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "minimum": 5,
+      "maximum": 10
+    },
+    "spacing": [
+      "8 × 8 m"
+    ],
+    "planting_methods": [
+      "Seeds",
+      "Grafting"
+    ],
+    "pruning": "",
+    "fertilization": "",
+    "maintenance": [
+      "Plant during the rainy season.",
+      "Suitable for cacao agroforestry systems.",
+      "Can be planted along farm boundaries.",
+      "Protect roots during transplanting.",
+      "Prefer deep, moist but well-drained soils."
+    ],
+    "management_notes": "Commercial orchards should use grafted elite female trees."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Place seeds horizontally in nursery bags, cover with approximately 1 cm of soil, maintain under shade and constant moisture.",
+      "germination_days": "25",
+      "germination_rate_percent": null,
+      "storage": "Sow immediately after collection."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "30 cm",
+      "special_care": [
+        "Maintain seedlings under shade.",
+        "Remove nursery bags carefully to avoid root damage."
+      ]
+    },
+    "vegetative": {
+      "supported": true,
+      "methods": [
+        "Grafting"
+      ]
+    }
+  },
+  "phenology": {
+    "flowering": "Male and female trees occur separately; male trees do not produce fruit.",
+    "fruiting": "Female trees begin producing between 5 and 10 years after planting.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature fruits and sow seeds immediately.",
+    "seed_dispersal": "Humans, birds and monkeys.",
+    "pollination": "",
+    "reproductive_system": "Dioecious"
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Humans",
+      "Birds",
+      "Monkeys"
+    ],
+    "companion_species": [
+      "Cacao"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Cacao"
+    ],
+    "wildlife_interactions": [
+      "Birds and monkeys consume fruits."
+    ]
+  },
+  "products": {
+    "timber": [],
+    "food": [
+      "Fresh fruit",
+      "Roasted seeds"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [],
+    "fodder": [],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [],
+    "other": [
+      "Commercial fruit production",
+      "Agroforestry"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Birds",
+        "Monkeys"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Poor seedling selection"
+    ],
+    "human": [
+      "Habitat conversion"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {},
+    "wood_properties": {},
+    "seed_data": {
+      "seed_cover_depth_cm": 1,
+      "germination_days": 25
+    },
+    "fruit_data": {
+      "fruit_diameter_cm": 5,
+      "annual_fruit_production": {
+        "minimum": 100,
+        "maximum": 400,
+        "unit": "fruits/tree/year"
+      }
+    },
+    "productivity": {
+      "productive_age_years": {
+        "minimum": 5,
+        "maximum": 10
+      }
+    },
+    "additional_measurements": {
+      "transplant_height_cm": 30,
+      "recommended_spacing_m": 8
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Medium",
+    "recommended_landscape_types": [
+      "Cacao agroforestry systems",
+      "Mixed tropical orchards",
+      "Farm diversification"
+    ],
+    "recommended_restoration_goals": [
+      "Food security",
+      "Income generation",
+      "Agroforestry diversification"
+    ],
+    "ideal_companion_species": [
+      "Cacao"
+    ],
+    "avoid_species": [],
+    "decision_notes": "High-value exotic fruit tree suitable as a complementary agroforestry species. Grafted elite female trees are strongly preferred because seed-grown trees frequently produce unproductive male individuals. Not recommended as a primary native restoration species."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Carbon sequestration potential.",
+      "Climate resilience.",
+      "Long-term agroforestry performance.",
+      "Genetic improvement."
+    ],
+    "scientific_uncertainties": [
+      "Pollination ecology.",
+      "Carbon storage potential.",
+      "Climate adaptation.",
+      "Long-term productivity under agroforestry.",
+      "Genetic diversity outside Southeast Asia."
+    ],
+    "potential_contradictions": [
+      "No direct scientific contradictions identified.",
+      "Although seed propagation is straightforward, grafting superior female trees is recommended because seed-grown trees may be male and unproductive."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "14 Árboles Frutales para Nuestras Fincas",
+      "institution": "CATIE",
+      "author": "Roberto Mack",
+      "species_chapter": "Pulasán (Nephelium ramboutan-ake)"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "High",
+    "distribution": "High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}

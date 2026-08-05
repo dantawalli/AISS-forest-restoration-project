@@ -1,0 +1,457 @@
+{
+  "species_profile": {
+    "scientific_name": "Artocarpus heterophyllus",
+    "authority": "Lam.",
+    "family": "Moraceae",
+    "common_names": {
+      "english": [
+        "Jackfruit"
+      ],
+      "spanish": [
+        "Jackfruit",
+        "Jaca"
+      ],
+      "portuguese": [
+        "Jaca"
+      ],
+      "french": [
+        "Jacquier"
+      ],
+      "local": [
+        "Jackfruit"
+      ]
+    },
+    "life_form": "Large evergreen tree",
+    "life_cycle": "Long-lived",
+    "growth_form": "",
+    "native": false
+  },
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "division": "Angiosperms",
+    "class": "Eudicots",
+    "order": "Rosales",
+    "family": "Moraceae",
+    "genus": "Artocarpus",
+    "species": "Artocarpus heterophyllus"
+  },
+  "distribution": {
+    "countries": [
+      "Costa Rica",
+      "Panama"
+    ],
+    "ecoregions": [
+      "Bocas del Toro",
+      "Talamanca"
+    ],
+    "biomes": [
+      "Humid tropical forest"
+    ],
+    "watersheds": [],
+    "native": false,
+    "introduced_regions": [
+      "Central America",
+      "South America",
+      "Southeast Asia",
+      "Africa",
+      "Tropical regions worldwide"
+    ],
+    "endemism": "",
+    "global_distribution_notes": "Native to India and South Asia and widely cultivated throughout tropical regions worldwide."
+  },
+  "source_information": {
+    "document_type": "technical_manual",
+    "title": "14 Árboles Frutales para Nuestras Fincas",
+    "authors": [
+      "Roberto Mack"
+    ],
+    "institution": "CATIE",
+    "year": null,
+    "language": "Spanish",
+    "geographic_scope": [
+      "Central America"
+    ],
+    "study_period": "",
+    "study_focus": [
+      "Jackfruit (Artocarpus heterophyllus)"
+    ],
+    "evidence_level": ""
+  },
+  "fynos_classification": {
+    "priority_level": "Medium",
+    "restoration_value": "Medium",
+    "agroforestry_value": "Very High",
+    "carbon_value": "Medium",
+    "biodiversity_value": "Medium",
+    "food_security_value": "Very High",
+    "income_generation_value": "High",
+    "ecosystem_engineer": false,
+    "nitrogen_fixer": false,
+    "keystone_species": false,
+    "foundation_species": false,
+    "recommended_for_restoration": true,
+    "recommended_for_agroforestry": true,
+    "recommended_for_reforestation": false,
+    "recommended_for_regeneration": false
+  },
+  "ecological_requirements": {
+    "temperature": {
+      "annual_mean_c": {
+        "min": null,
+        "max": null
+      },
+      "absolute_minimum_c": null,
+      "absolute_maximum_c": null
+    },
+    "rainfall": {
+      "annual_mm": {
+        "min": null,
+        "max": null
+      }
+    },
+    "humidity": {
+      "relative_humidity_percent": {
+        "min": null,
+        "max": null
+      }
+    },
+    "altitude": {
+      "meters": {
+        "min": null,
+        "max": null
+      }
+    },
+    "light": {
+      "shade_tolerance": "Light shade",
+      "sun_requirement": "Full sun to light shade."
+    },
+    "soil": {
+      "preferred_types": [
+        "Deep soils",
+        "Well-drained soils"
+      ],
+      "texture": [],
+      "drainage": "Well-drained",
+      "fertility": "High",
+      "ph": {
+        "min": null,
+        "max": null
+      }
+    },
+    "hydrology": {
+      "flood_tolerance": "Very Low",
+      "waterlogging_tolerance": "Very Low",
+      "drought_tolerance": "Moderate"
+    },
+    "topography": {
+      "slope_preference": "Well-drained slopes",
+      "erosion_tolerance": ""
+    },
+    "climate_zones": [
+      "Humid tropical"
+    ],
+    "tolerances": {
+      "fire": "",
+      "wind": "",
+      "cold": "",
+      "salinity": ""
+    }
+  },
+  "ecological_functions": {
+    "successional_stage": "Mid- to late-successional perennial tree.",
+    "forest_layer": "Canopy",
+    "canopy_position": "Upper canopy",
+    "carbon_storage": "",
+    "soil_improvement": "",
+    "erosion_control": "",
+    "water_regulation": "",
+    "microclimate_regulation": "Provides shade in agroforestry systems.",
+    "pollinator_support": "",
+    "wildlife_support": "Provides fruits for wildlife."
+  },
+  "ecosystem_services": {
+    "provisioning": [
+      "Food production",
+      "Livestock feed",
+      "Timber production"
+    ],
+    "regulating": [
+      "Shade"
+    ],
+    "supporting": [
+      "Farm diversification"
+    ],
+    "cultural": []
+  },
+  "restoration": {
+    "recommended_roles": [
+      "Productive agroforestry",
+      "Mixed fruit orchards",
+      "Farm diversification",
+      "Boundary plantings",
+      "Food security systems"
+    ],
+    "restoration_phase": [
+      "Productive restoration"
+    ],
+    "recommended_land_types": [
+      "Agroforestry systems",
+      "Farm boundaries",
+      "Mixed tropical farms"
+    ],
+    "degradation_types": [
+      "Agricultural landscapes"
+    ],
+    "restoration_objectives": [
+      "Food security",
+      "Income generation",
+      "Farm diversification"
+    ],
+    "recommended_species_mixtures": [
+      "Cacao"
+    ],
+    "restoration_notes": "Highly productive multipurpose fruit tree suitable for tropical agroforestry. Provides food, timber, livestock fodder and multiple non-timber products. Can be integrated with cacao production systems on well-drained sites. Its very large fruits offer substantial food production for rural communities. Not recommended for poorly drained restoration sites due to sensitivity to waterlogging. Best suited as a complementary productive species rather than a primary native restoration species within FYNOS AI restoration landscapes."
+  },
+  "agroforestry": {
+    "recommended_systems": [
+      "Productive agroforestry",
+      "Mixed fruit orchards",
+      "Cacao agroforestry"
+    ],
+    "compatible_crops": [
+      "Cacao"
+    ],
+    "livestock_compatible": true,
+    "shade_crop": false,
+    "silvopastoral": true,
+    "multistrata": true,
+    "agroforestry_notes": "Large multipurpose tree providing shade, food, fodder and timber."
+  },
+  "silviculture": {
+    "growth_rate": "Moderate to fast",
+    "rotation_years": null,
+    "harvest_age_years": {
+      "minimum": 4,
+      "maximum": 8
+    },
+    "spacing": [
+      "8 × 8 m"
+    ],
+    "planting_methods": [
+      "Seeds"
+    ],
+    "pruning": "",
+    "fertilization": "Prefers fertile deep soils.",
+    "maintenance": [
+      "Avoid waterlogged soils.",
+      "Plant on slopes or well-drained terrain.",
+      "Can be planted with cacao or along farm boundaries.",
+      "Protect roots during transplanting."
+    ],
+    "management_notes": "Avoid damaging the taproot during nursery and field establishment."
+  },
+  "propagation": {
+    "seed": {
+      "pre_treatment": "Sow seeds approximately 4–5 cm deep in large nursery bags under shade.",
+      "germination_days": "7–35",
+      "germination_rate_percent": null,
+      "storage": "Sow immediately after collection."
+    },
+    "nursery": {
+      "transplant_age": "",
+      "transplant_height": "20 cm",
+      "special_care": [
+        "Avoid damaging the taproot.",
+        "Transplant seedlings before roots become restricted."
+      ]
+    },
+    "vegetative": {
+      "supported": false,
+      "methods": []
+    }
+  },
+  "phenology": {
+    "flowering": "Not described.",
+    "fruiting": "Trees begin producing between 4 and 8 years after planting. Fruits develop mainly on the trunk.",
+    "leaf_flush": "",
+    "leaf_fall": "",
+    "seed_collection": "Collect mature seeds and sow immediately.",
+    "seed_dispersal": "Humans and wild mammals.",
+    "pollination": ""
+  },
+  "species_interactions": {
+    "pollinators": [],
+    "seed_dispersers": [
+      "Humans",
+      "Wild mammals"
+    ],
+    "companion_species": [
+      "Cacao"
+    ],
+    "facilitates": [],
+    "competes_with": [],
+    "allelopathy": [],
+    "agroforestry_associations": [
+      "Cacao"
+    ],
+    "wildlife_interactions": [
+      "Fruits consumed by coatis and monkeys."
+    ]
+  },
+  "products": {
+    "timber": [
+      "Furniture timber"
+    ],
+    "food": [
+      "Fresh ripe fruit",
+      "Cooked immature fruit",
+      "Juices",
+      "Desserts",
+      "Salads",
+      "Seeds (boiled or roasted)",
+      "Seed flour",
+      "Leaves as cooked vegetables"
+    ],
+    "medicine": [],
+    "fiber": [],
+    "oil": [],
+    "resin": [],
+    "latex": [
+      "Natural adhesive"
+    ],
+    "fodder": [
+      "Leaves",
+      "Fruit"
+    ],
+    "fuel": [],
+    "ornamental": [],
+    "industrial": [
+      "Yellow dye from sawdust"
+    ],
+    "other": [
+      "Fresh fruit",
+      "Seeds",
+      "Latex"
+    ]
+  },
+  "threats": {
+    "biotic": {
+      "pests": [
+        "Coatis",
+        "Monkeys"
+      ],
+      "diseases": []
+    },
+    "abiotic": [
+      "Poor drainage",
+      "Waterlogging",
+      "Root damage during transplanting"
+    ],
+    "human": [
+      "Habitat conversion"
+    ]
+  },
+  "quantitative_data": {
+    "growth": {
+      "maximum_height_m": {
+        "minimum": 10,
+        "maximum": 25
+      }
+    },
+    "wood_properties": {},
+    "seed_data": {
+      "germination_time_weeks": {
+        "minimum": 1,
+        "maximum": 5
+      }
+    },
+    "fruit_data": {
+      "maximum_fruit_length_m": 1,
+      "maximum_fruit_weight_kg": 50,
+      "annual_fruit_production": {
+        "minimum": 50,
+        "maximum": 400,
+        "unit": "fruits/tree/year"
+      }
+    },
+    "productivity": {
+      "productive_age_years": {
+        "minimum": 4,
+        "maximum": 8
+      }
+    },
+    "additional_measurements": {
+      "transplant_height_cm": 20,
+      "recommended_spacing_m": 8
+    }
+  },
+  "remote_sensing_signatures": {
+    "expected_ndvi": {
+      "young": null,
+      "mature": null
+    },
+    "canopy_density": "",
+    "evergreen": true,
+    "detectable_from_satellite": true,
+    "recommended_monitoring_frequency": ""
+  },
+  "ai_reasoning": {
+    "selection_priority": "Medium",
+    "recommended_landscape_types": [
+      "Productive agroforestry systems",
+      "Mixed tropical farms",
+      "Farm boundaries"
+    ],
+    "recommended_restoration_goals": [
+      "Food security",
+      "Income generation",
+      "Farm diversification"
+    ],
+    "ideal_companion_species": [
+      "Cacao"
+    ],
+    "avoid_species": [],
+    "decision_notes": "Highly productive multipurpose tropical tree best used as a complementary agroforestry species on well-drained sites. Not recommended as a primary species in native forest restoration because it is introduced outside its native range."
+  },
+  "research": {
+    "gaps": [
+      "Pollination biology.",
+      "Carbon sequestration potential.",
+      "Climate resilience.",
+      "Long-term agroforestry performance.",
+      "Wildlife interactions in tropical agroforestry."
+    ],
+    "scientific_uncertainties": [
+      "Pollination ecology.",
+      "Carbon storage.",
+      "Climate adaptation.",
+      "Optimal management in Amazon restoration systems.",
+      "Long-term ecological interactions."
+    ],
+    "potential_contradictions": [
+      "No direct scientific contradictions identified.",
+      "Although tolerant of light shade, maximum productivity is achieved under full sun with good drainage."
+    ],
+    "future_research_priorities": []
+  },
+  "sources": [
+    {
+      "type": "technical_manual",
+      "title": "14 Árboles Frutales para Nuestras Fincas",
+      "institution": "CATIE",
+      "author": "Roberto Mack",
+      "species_chapter": "Jackfruit (Artocarpus heterophyllus)"
+    }
+  ],
+  "quality_assessment": {
+    "taxonomy": "Very High",
+    "distribution": "Very High",
+    "ecology": "High",
+    "silviculture": "High",
+    "restoration": "High",
+    "overall_quality": "Very High",
+    "last_reviewed": "",
+    "reviewed_by": "",
+    "version": "2.0"
+  }
+}
