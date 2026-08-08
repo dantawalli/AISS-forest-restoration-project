@@ -1341,6 +1341,7 @@ def handle_ndvi_area_options():
 
 @app.route('/api/ndvi-area', methods=['GET', 'POST', 'OPTIONS'])
 def ndvi_area():
+    print("API VERSION: August 2026")
 
 
     if request.method == 'OPTIONS':
@@ -1350,6 +1351,7 @@ def ndvi_area():
     initialize_gee()
 
     data = request.get_json()
+
     # TODO:
     # /api/ndvi-area currently accepts multiple request formats
     # (lat/lon and geometry). This endpoint should be refactored
@@ -1360,7 +1362,15 @@ def ndvi_area():
     region = data.get("region", "lowland")
 
     try:
-        geom = ee.Geometry(data["geometry"])
+        geometry = data.get("geometry")
+
+        if not geometry:
+            return jsonify({
+                "success": False,
+                "error": "Missing geometry"
+            }), 400
+
+        geom = ee.Geometry(geometry)
 
         collection = ee.ImageCollection("COPERNICUS/S2_SR") \
             .filterBounds(geom) \
@@ -1439,6 +1449,9 @@ def ndvi_area():
         ai_analysis = restoration_engine.analyze(
             site_conditions
         )
+        print("ABOUT TO CALL NEW RESTORATION ENGINE")
+        print("NEW ENGINE FINISHED")
+        print(ai_analysis.keys())
 
         slope_class = site_conditions["slope_class"]
 
