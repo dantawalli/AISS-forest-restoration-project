@@ -92,7 +92,6 @@ restoration_engine = None
 if openai_api_key:
     try:
         llm_engine = ForestRecommendationEngine(openai_api_key, df)
-        restoration_engine = RestorationEngine(openai_api_key)
 
         logger.info("AI engines initialized successfully")
 
