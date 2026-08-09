@@ -75,3 +75,41 @@ data/landmark_raw/
 
 package.json
 package-lock.json
+
+# ==========================================================
+# FYNOS AI - Research sources (do not track raw papers)
+# ==========================================================
+
+# Raw scientific papers
+**/*.pdf
+
+# Windows shortcuts
+**/*.lnk
+
+# HTML exports
+**/*.html
+
+# Generated AI contexts
+**/context.json
+**/reasoning_context.json
+
+# Knowledge sources (raw)
+backend/knowledge/sources/
+
+# Generated restoration projects
+backend/knowledge/restoration_projects/
+
+# Experimental ML projects
+backend/fynos-ai-ml-project/
+backend/Fynos-project/
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# nohup logs
+nohup.out
+
+backend/knowledge/species/master_metadata.json
